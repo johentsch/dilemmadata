@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.16.7
+#       jupytext_version: 1.17.1
 #   kernelspec:
 #     display_name: Python 3
 #     language: python
@@ -14,18 +14,20 @@
 # ---
 
 # %%
-import os
+# %load_ext autoreload
+# %autoreload 2
 
+import os
+import sys
 import ms3
 import pandas as pd
 
-# %%
-# %load_ext autoreload
-# %autoreload 2
+REPO_PATH = ms3.resolve_dir("../../corpora/AugmentedNet")
+sys.path.append(REPO_PATH)
 from AugmentedNet import utils
 
 # %%
-DATASET_PATH = ms3.resolve_dir("../events")
+DATASET_PATH = ms3.resolve_dir("../../pitch_arrays/AN")
 print(DATASET_PATH)
 
 # %%
