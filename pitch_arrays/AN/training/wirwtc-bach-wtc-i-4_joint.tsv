@@ -1,0 +1,759 @@
+onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measure	ks_fifths	ts_beats	ts_beat_type	measureNumberWithSuffix	onset_beat	s_note	s_midi	s_isOnset	s_step	s_alter	mn_onset	s_beat_float	is_downbeat	downbeat	s_part_id	s_voice_id	a_measure	a_duration	a_annotationNumber	a_romanNumeral	a_isOnset	a_pitchNames	a_bass	a_root	a_inversion	a_quality	a_pcset	a_localKey	a_tonicizedKey	a_degree1	a_degree2	a_simpleNumeral	valid_chord_label	note_degree
+0	1	0.0	0	0.5	1/2	1	4	6	4	1	0.0	G#4	68	True	G	1	0	1.0	True	1	P1-Staff2	6	1	5.0	0	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+0	12	0.0	0	6.0	6	1	4	6	4	1	0.0	C#3	49	True	C	1	0	1.0	True	1	P1-Staff2	6	1	5.0	0	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+1	1	0.5	1/2	0.5	1/2	1	4	6	4	1	0.16700000000000004	F#4	66	True	F	1	1/8	1.167	False	0	P1-Staff2	6	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	4
+2	1	1.0	1	0.5	1/2	1	4	6	4	1	0.33299999999999996	E4	64	True	E	0	1/4	1.333	False	0	P1-Staff2	6	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+3	1	1.5	3/2	0.5	1/2	1	4	6	4	1	0.5	D#4	63	True	D	1	3/8	1.5	False	0	P1-Staff2	6	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+4	1	2.0	2	0.5	1/2	1	4	6	4	1	0.667	E4	64	True	E	0	1/2	1.667	False	0	P1-Staff2	6	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+5	1	2.5	5/2	0.5	1/2	1	4	6	4	1	0.833	C#4	61	True	C	1	5/8	1.833	False	0	P1-Staff2	6	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+6	3	3.0	3	1.5	3/2	1	4	6	4	1	1.0	C#5	73	True	C	1	3/4	2.0	True	2	P1-Staff2	6	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+6	4	3.0	3	2.0	2	1	4	6	4	1	1.0	E4	64	True	E	0	3/4	2.0	True	2	P1-Staff2	1	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+6	4	3.0	3	2.0	2	1	4	6	4	1	1.0	G#4	68	True	G	1	3/4	2.0	True	2	P1-Staff2	1	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+9	1	4.5	9/2	0.5	1/2	1	4	6	4	1	1.5	B4	71	True	B	0	9/8	2.5	False	0	P1-Staff2	6	1	5.0	0	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	7
+10	2	5.0	5	1.0	1	1	4	6	4	1	1.6669999999999998	A4	69	True	A	0	5/4	2.667	False	0	P1-Staff2	6	1	1.0	1	iv	True	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+10	2	5.0	5	1.0	1	1	4	6	4	1	1.6669999999999998	F#4	66	True	F	1	5/4	2.667	False	0	P1-Staff2	6	1	1.0	1	iv	True	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+12	6	6.0	6	3.0	3	2	4	6	4	2	2.0	G#4	68	True	G	1	0	1.0	True	1	P1-Staff2	6	2	5.0	2	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+12	6	6.0	6	3.0	3	2	4	6	4	2	2.0	E4	64	True	E	0	0	1.0	True	1	P1-Staff2	6	2	5.0	2	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+12	1	6.0	6	0.5	1/2	2	4	6	4	2	2.0	G#3	56	True	G	1	0	1.0	True	1	P1-Staff2	6	2	5.0	2	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+12	12	6.0	6	6.0	6	2	4	6	4	2	2.0	C#3	49	False	C	1	0	1.0	True	1	P1-Staff2	6	2	5.0	2	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+13	1	6.5	13/2	0.5	1/2	2	4	6	4	2	2.167	F#3	54	True	F	1	1/8	1.167	False	0	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	4
+14	1	7.0	7	0.5	1/2	2	4	6	4	2	2.333	E3	52	True	E	0	1/4	1.333	False	0	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+15	1	7.5	15/2	0.5	1/2	2	4	6	4	2	2.5	D#3	51	True	D	1	3/8	1.5	False	0	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+16	1	8.0	8	0.5	1/2	2	4	6	4	2	2.667	E3	52	True	E	0	1/2	1.667	False	0	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+17	1	8.5	17/2	0.5	1/2	2	4	6	4	2	2.833	C#3	49	True	C	1	5/8	1.833	False	0	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+18	4	9.0	9	2.0	2	2	4	6	4	2	3.0	G#4	68	False	G	1	3/4	2.0	True	2	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+18	4	9.0	9	2.0	2	2	4	6	4	2	3.0	E4	64	False	E	0	3/4	2.0	True	2	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+18	3	9.0	9	1.5	3/2	2	4	6	4	2	3.0	C#4	61	True	C	1	3/4	2.0	True	2	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+21	1	10.5	21/2	0.5	1/2	2	4	6	4	2	3.5	B3	59	True	B	0	9/8	2.5	False	0	P1-Staff2	6	2	5.0	2	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	7
+22	2	11.0	11	1.0	1	2	4	6	4	2	3.667	F#4	66	True	F	1	5/4	2.667	False	0	P1-Staff2	6	2	1.0	3	iv	True	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+22	2	11.0	11	1.0	1	2	4	6	4	2	3.667	F#4	66	True	F	1	5/4	2.667	False	0	P1-Staff2	6	2	1.0	3	iv	True	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+22	2	11.0	11	1.0	1	2	4	6	4	2	3.667	A3	57	True	A	0	5/4	2.667	False	0	P1-Staff2	6	2	1.0	3	iv	True	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+24	1	12.0	12	0.5	1/2	3	4	6	4	3	4.0	D#5	75	True	D	1	0	1.0	True	1	P1-Staff2	6	3	5.0	4	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+24	6	12.0	12	3.0	3	3	4	6	4	3	4.0	F#4	66	False	F	1	0	1.0	True	1	P1-Staff2	6	3	5.0	4	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+24	6	12.0	12	3.0	3	3	4	6	4	3	4.0	G#3	56	True	G	1	0	1.0	True	1	P1-Staff2	6	3	5.0	4	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+24	6	12.0	12	3.0	3	3	4	6	4	3	4.0	B#2	48	True	B	1	0	1.0	True	1	P1-Staff2	6	3	5.0	4	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+25	1	12.5	25/2	0.5	1/2	3	4	6	4	3	4.167	C#5	73	True	C	1	1/8	1.167	False	0	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+26	1	13.0	13	0.5	1/2	3	4	6	4	3	4.333	B#4	72	True	B	1	1/4	1.333	False	0	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+27	1	13.5	27/2	0.5	1/2	3	4	6	4	3	4.5	A#4	70	True	A	1	3/8	1.5	False	0	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+28	1	14.0	14	0.5	1/2	3	4	6	4	3	4.667	B#4	72	True	B	1	1/2	1.667	False	0	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+29	1	14.5	29/2	0.5	1/2	3	4	6	4	3	4.833	G#4	68	True	G	1	5/8	1.833	False	0	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+30	3	15.0	15	1.5	3/2	3	4	6	4	3	5.0	G#5	80	True	G	1	3/4	2.0	True	2	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+30	4	15.0	15	2.0	2	3	4	6	4	3	5.0	G#4	68	True	G	1	3/4	2.0	True	2	P1-Staff2	1	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+30	4	15.0	15	2.0	2	3	4	6	4	3	5.0	D#5	75	True	D	1	3/4	2.0	True	2	P1-Staff2	1	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+30	4	15.0	15	2.0	2	3	4	6	4	3	5.0	G#3	56	False	G	1	3/4	2.0	True	2	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+30	4	15.0	15	2.0	2	3	4	6	4	3	5.0	B#2	48	False	B	1	3/4	2.0	True	2	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+33	1	16.5	33/2	0.5	1/2	3	4	6	4	3	5.5	F#5	78	True	F	1	9/8	2.5	False	0	P1-Staff2	6	3	5.0	4	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+34	2	17.0	17	1.0	1	3	4	6	4	3	5.667	E5	76	True	E	0	5/4	2.667	False	0	P1-Staff2	6	3	1.0	5	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+34	2	17.0	17	1.0	1	3	4	6	4	3	5.667	G#4	68	True	G	1	5/4	2.667	False	0	P1-Staff2	1	3	1.0	5	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+34	2	17.0	17	1.0	1	3	4	6	4	3	5.667	C#5	73	True	C	1	5/4	2.667	False	0	P1-Staff2	1	3	1.0	5	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+34	2	17.0	17	1.0	1	3	4	6	4	3	5.667	C#4	61	True	C	1	5/4	2.667	False	0	P1-Staff2	6	3	1.0	5	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+34	2	17.0	17	1.0	1	3	4	6	4	3	5.667	C#3	49	True	C	1	5/4	2.667	False	0	P1-Staff2	6	3	1.0	5	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+36	6	18.0	18	3.0	3	4	4	6	4	4	6.0	D#5	75	True	D	1	0	1.0	True	1	P1-Staff2	6	4	6.0	6	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+36	6	18.0	18	3.0	3	4	4	6	4	4	6.0	G#4	68	True	G	1	0	1.0	True	1	P1-Staff2	1	4	6.0	6	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+36	6	18.0	18	3.0	3	4	4	6	4	4	6.0	B#4	72	True	B	1	0	1.0	True	1	P1-Staff2	1	4	6.0	6	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+36	1	18.0	18	0.5	1/2	4	4	6	4	4	6.0	D#4	63	True	D	1	0	1.0	True	1	P1-Staff2	6	4	6.0	6	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+36	12	18.0	18	6.0	6	4	4	6	4	4	6.0	G#3	56	True	G	1	0	1.0	True	1	P1-Staff2	6	4	6.0	6	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+37	1	18.5	37/2	0.5	1/2	4	4	6	4	4	6.167	C#4	61	True	C	1	1/8	1.167	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+38	1	19.0	19	0.5	1/2	4	4	6	4	4	6.333	B#3	60	True	B	1	1/4	1.333	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+39	1	19.5	39/2	0.5	1/2	4	4	6	4	4	6.5	A#3	58	True	A	1	3/8	1.5	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+40	1	20.0	20	0.5	1/2	4	4	6	4	4	6.667	B#3	60	True	B	1	1/2	1.667	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+41	1	20.5	41/2	0.5	1/2	4	4	6	4	4	6.833	G#3	56	True	G	1	5/8	1.833	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+42	4	21.0	21	2.0	2	4	4	6	4	4	7.0	D#5	75	False	D	1	3/4	2.0	True	2	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+42	4	21.0	21	2.0	2	4	4	6	4	4	7.0	G#4	68	False	G	1	3/4	2.0	True	2	P1-Staff2	1	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+42	4	21.0	21	2.0	2	4	4	6	4	4	7.0	B#4	72	False	B	1	3/4	2.0	True	2	P1-Staff2	1	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+42	3	21.0	21	1.5	3/2	4	4	6	4	4	7.0	F#4	66	True	F	1	3/4	2.0	True	2	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+45	1	22.5	45/2	0.5	1/2	4	4	6	4	4	7.5	E4	64	True	E	0	9/8	2.5	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+46	2	23.0	23	1.0	1	4	4	6	4	4	7.667	G#5	80	True	G	1	5/4	2.667	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+46	2	23.0	23	1.0	1	4	4	6	4	4	7.667	G#4	68	True	G	1	5/4	2.667	False	0	P1-Staff2	1	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+46	2	23.0	23	1.0	1	4	4	6	4	4	7.667	B#4	72	True	B	1	5/4	2.667	False	0	P1-Staff2	1	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+46	2	23.0	23	1.0	1	4	4	6	4	4	7.667	D#4	63	True	D	1	5/4	2.667	False	0	P1-Staff2	6	4	6.0	6	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+48	1	24.0	24	0.5	1/2	5	4	6	4	5	8.0	C#5	73	True	C	1	0	1.0	True	1	P1-Staff2	6	5	3.0	7	bVI7	True	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	1
+48	2	24.0	24	1.0	1	5	4	6	4	5	8.0	A4	69	True	A	0	0	1.0	True	1	P1-Staff2	6	5	3.0	7	bVI7	True	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	6
+48	6	24.0	24	3.0	3	5	4	6	4	5	8.0	E4	64	True	E	0	0	1.0	True	1	P1-Staff2	6	5	3.0	7	bVI7	True	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	3
+48	6	24.0	24	3.0	3	5	4	6	4	5	8.0	G#3	56	False	G	1	0	1.0	True	1	P1-Staff2	6	5	3.0	7	bVI7	True	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	5
+49	1	24.5	49/2	0.5	1/2	5	4	6	4	5	8.167	B#4	72	True	B	1	1/8	1.167	False	0	P1-Staff2	6	5	3.0	7	bVI7	False	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	#7
+50	1	25.0	25	0.5	1/2	5	4	6	4	5	8.333	C#5	73	True	C	1	1/4	1.333	False	0	P1-Staff2	6	5	3.0	7	bVI7	False	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	1
+51	1	25.5	51/2	0.5	1/2	5	4	6	4	5	8.5	E5	76	True	E	0	3/8	1.5	False	0	P1-Staff2	6	5	3.0	7	bVI7	False	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	3
+52	2	26.0	26	1.0	1	5	4	6	4	5	8.667	A5	81	True	A	0	1/2	1.667	False	0	P1-Staff2	6	5	3.0	7	bVI7	False	('G#', 'A', 'C#', 'E')	G#	A	3	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	6
+54	1	27.0	27	0.5	1/2	5	4	6	4	5	9.0	A5	81	False	A	0	3/4	2.0	True	2	P1-Staff2	6	5	3.0	8	viio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	4
+54	6	27.0	27	3.0	3	5	4	6	4	5	9.0	A4	69	True	A	0	3/4	2.0	True	2	P1-Staff2	6	5	3.0	8	viio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	4
+54	6	27.0	27	3.0	3	5	4	6	4	5	9.0	D#4	63	True	D	1	3/4	2.0	True	2	P1-Staff2	6	5	3.0	8	viio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	7
+54	6	27.0	27	3.0	3	5	4	6	4	5	9.0	F#3	54	True	F	1	3/4	2.0	True	2	P1-Staff2	6	5	3.0	8	viio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	2
+55	1	27.5	55/2	0.5	1/2	5	4	6	4	5	9.167	G#5	80	True	G	1	7/8	2.167	False	0	P1-Staff2	6	5	3.0	8	viio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	3
+56	1	28.0	28	0.5	1/2	5	4	6	4	5	9.333	F#5	78	True	F	1	1	2.333	False	0	P1-Staff2	6	5	3.0	8	viio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	2
+57	1	28.5	57/2	0.5	1/2	5	4	6	4	5	9.5	E5	76	True	E	0	9/8	2.5	False	0	P1-Staff2	6	5	3.0	8	viio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	1
+58	1	29.0	29	0.5	1/2	5	4	6	4	5	9.667	D#5	75	True	D	1	5/4	2.667	False	0	P1-Staff2	6	5	3.0	8	viio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	7
+59	1	29.5	59/2	0.5	1/2	5	4	6	4	5	9.833	C#5	73	True	C	1	11/8	2.833	False	0	P1-Staff2	6	5	3.0	8	viio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	E	E	7	None	viio	True	6
+60	1	30.0	30	0.5	1/2	6	4	6	4	6	10.0	B4	71	True	B	0	0	1.0	True	1	P1-Staff2	6	6	3.0	9	iii7	True	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	5
+60	2	30.0	30	1.0	1	6	4	6	4	6	10.0	G#4	68	True	G	1	0	1.0	True	1	P1-Staff2	6	6	3.0	9	iii7	True	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	3
+60	6	30.0	30	3.0	3	6	4	6	4	6	10.0	D#4	63	False	D	1	0	1.0	True	1	P1-Staff2	6	6	3.0	9	iii7	True	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	7
+60	6	30.0	30	3.0	3	6	4	6	4	6	10.0	F#3	54	False	F	1	0	1.0	True	1	P1-Staff2	6	6	3.0	9	iii7	True	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	2
+61	1	30.5	61/2	0.5	1/2	6	4	6	4	6	10.167	A4	69	True	A	0	1/8	1.167	False	0	P1-Staff2	6	6	3.0	9	iii7	False	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	4
+62	1	31.0	31	0.5	1/2	6	4	6	4	6	10.333	B4	71	True	B	0	1/4	1.333	False	0	P1-Staff2	6	6	3.0	9	iii7	False	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	5
+63	1	31.5	63/2	0.5	1/2	6	4	6	4	6	10.5	D#5	75	True	D	1	3/8	1.5	False	0	P1-Staff2	6	6	3.0	9	iii7	False	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	7
+64	2	32.0	32	1.0	1	6	4	6	4	6	10.667	G#5	80	True	G	1	1/2	1.667	False	0	P1-Staff2	6	6	3.0	9	iii7	False	('F#', 'G#', 'B', 'D#')	F#	G#	3	minor seventh chord	(3, 6, 8, 11)	E	E	3	None	iii7	True	3
+66	1	33.0	33	0.5	1/2	6	4	6	4	6	11.0	G#5	80	False	G	1	3/4	2.0	True	2	P1-Staff2	6	6	3.0	10	vi	True	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	3
+66	6	33.0	33	3.0	3	6	4	6	4	6	11.0	G#4	68	True	G	1	3/4	2.0	True	2	P1-Staff2	6	6	3.0	10	vi	True	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	3
+66	6	33.0	33	3.0	3	6	4	6	4	6	11.0	C#4	61	True	C	1	3/4	2.0	True	2	P1-Staff2	6	6	3.0	10	vi	True	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	6
+66	6	33.0	33	3.0	3	6	4	6	4	6	11.0	E3	52	True	E	0	3/4	2.0	True	2	P1-Staff2	6	6	3.0	10	vi	True	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	1
+67	1	33.5	67/2	0.5	1/2	6	4	6	4	6	11.167	F#5	78	True	F	1	7/8	2.167	False	0	P1-Staff2	6	6	3.0	10	vi	False	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	2
+68	1	34.0	34	0.5	1/2	6	4	6	4	6	11.333	E5	76	True	E	0	1	2.333	False	0	P1-Staff2	6	6	3.0	10	vi	False	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	1
+69	1	34.5	69/2	0.5	1/2	6	4	6	4	6	11.5	D#5	75	True	D	1	9/8	2.5	False	0	P1-Staff2	6	6	3.0	10	vi	False	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	7
+70	1	35.0	35	0.5	1/2	6	4	6	4	6	11.667	C#5	73	True	C	1	5/4	2.667	False	0	P1-Staff2	6	6	3.0	10	vi	False	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	6
+71	1	35.5	71/2	0.5	1/2	6	4	6	4	6	11.833	B4	71	True	B	0	11/8	2.833	False	0	P1-Staff2	6	6	3.0	10	vi	False	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	E	E	6	None	vi	True	5
+72	1	36.0	36	0.5	1/2	7	4	6	4	7	12.0	A4	69	True	A	0	0	1.0	True	1	P1-Staff2	6	7	3.0	11	ii7	True	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	4
+72	2	36.0	36	1.0	1	7	4	6	4	7	12.0	F#4	66	True	F	1	0	1.0	True	1	P1-Staff2	6	7	3.0	11	ii7	True	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	2
+72	6	36.0	36	3.0	3	7	4	6	4	7	12.0	C#4	61	False	C	1	0	1.0	True	1	P1-Staff2	6	7	3.0	11	ii7	True	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	6
+72	6	36.0	36	3.0	3	7	4	6	4	7	12.0	E3	52	False	E	0	0	1.0	True	1	P1-Staff2	6	7	3.0	11	ii7	True	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	1
+73	1	36.5	73/2	0.5	1/2	7	4	6	4	7	12.167	G#4	68	True	G	1	1/8	1.167	False	0	P1-Staff2	6	7	3.0	11	ii7	False	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	3
+74	1	37.0	37	0.5	1/2	7	4	6	4	7	12.333	A4	69	True	A	0	1/4	1.333	False	0	P1-Staff2	6	7	3.0	11	ii7	False	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	4
+75	1	37.5	75/2	0.5	1/2	7	4	6	4	7	12.5	C#5	73	True	C	1	3/8	1.5	False	0	P1-Staff2	6	7	3.0	11	ii7	False	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	6
+76	2	38.0	38	1.0	1	7	4	6	4	7	12.667	F#5	78	True	F	1	1/2	1.667	False	0	P1-Staff2	6	7	3.0	11	ii7	False	('E', 'F#', 'A', 'C#')	E	F#	3	minor seventh chord	(1, 4, 6, 9)	E	E	2	None	ii7	True	2
+78	1	39.0	39	0.5	1/2	7	4	6	4	7	13.0	F#5	78	False	F	1	3/4	2.0	True	2	P1-Staff2	6	7	3.0	12	V	True	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	2
+78	6	39.0	39	3.0	3	7	4	6	4	7	13.0	F#4	66	True	F	1	3/4	2.0	True	2	P1-Staff2	6	7	3.0	12	V	True	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	2
+78	6	39.0	39	3.0	3	7	4	6	4	7	13.0	B3	59	True	B	0	3/4	2.0	True	2	P1-Staff2	6	7	3.0	12	V	True	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	5
+78	6	39.0	39	3.0	3	7	4	6	4	7	13.0	D#3	51	True	D	1	3/4	2.0	True	2	P1-Staff2	6	7	3.0	12	V	True	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	7
+79	1	39.5	79/2	0.5	1/2	7	4	6	4	7	13.167	E5	76	True	E	0	7/8	2.167	False	0	P1-Staff2	6	7	3.0	12	V	False	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	1
+80	1	40.0	40	0.5	1/2	7	4	6	4	7	13.333	D#5	75	True	D	1	1	2.333	False	0	P1-Staff2	6	7	3.0	12	V	False	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	7
+81	1	40.5	81/2	0.5	1/2	7	4	6	4	7	13.5	C#5	73	True	C	1	9/8	2.5	False	0	P1-Staff2	6	7	3.0	12	V	False	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	6
+82	1	41.0	41	0.5	1/2	7	4	6	4	7	13.667	B4	71	True	B	0	5/4	2.667	False	0	P1-Staff2	6	7	3.0	12	V	False	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	5
+83	1	41.5	83/2	0.5	1/2	7	4	6	4	7	13.833	A4	69	True	A	0	11/8	2.833	False	0	P1-Staff2	6	7	3.0	12	V	False	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	E	E	5	None	V	True	4
+84	6	42.0	42	3.0	3	8	4	6	4	8	14.0	G#4	68	True	G	1	0	1.0	True	1	P1-Staff2	6	8	5.0	13	I	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	3
+84	6	42.0	42	3.0	3	8	4	6	4	8	14.0	E4	64	True	E	0	0	1.0	True	1	P1-Staff2	6	8	5.0	13	I	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
+84	1	42.0	42	0.5	1/2	8	4	6	4	8	14.0	B3	59	False	B	0	0	1.0	True	1	P1-Staff2	6	8	5.0	13	I	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	5
+84	12	42.0	42	6.0	6	8	4	6	4	8	14.0	E3	52	True	E	0	0	1.0	True	1	P1-Staff2	6	8	5.0	13	I	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
+85	1	42.5	85/2	0.5	1/2	8	4	6	4	8	14.167	A3	57	True	A	0	1/8	1.167	False	0	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	4
+86	1	43.0	43	0.5	1/2	8	4	6	4	8	14.333	G#3	56	True	G	1	1/4	1.333	False	0	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	3
+87	1	43.5	87/2	0.5	1/2	8	4	6	4	8	14.5	F#3	54	True	F	1	3/8	1.5	False	0	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	2
+88	1	44.0	44	0.5	1/2	8	4	6	4	8	14.667	G#3	56	True	G	1	1/2	1.667	False	0	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	3
+89	1	44.5	89/2	0.5	1/2	8	4	6	4	8	14.833	E3	52	True	E	0	5/8	1.833	False	0	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
+90	3	45.0	45	1.5	3/2	8	4	6	4	8	15.0	G#4	68	False	G	1	3/4	2.0	True	2	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	3
+90	3	45.0	45	1.5	3/2	8	4	6	4	8	15.0	E4	64	True	E	0	3/4	2.0	True	2	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
+93	1	46.5	93/2	0.5	1/2	8	4	6	4	8	15.5	F#4	66	True	F	1	9/8	2.5	False	0	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	2
+93	1	46.5	93/2	0.5	1/2	8	4	6	4	8	15.5	D#4	63	True	D	1	9/8	2.5	False	0	P1-Staff2	6	8	5.0	13	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	7
+94	2	47.0	47	1.0	1	8	4	6	4	8	15.667000000000002	A4	69	True	A	0	5/4	2.667	False	0	P1-Staff2	6	8	1.0	14	IV	True	('E', 'A', 'C#')	E	A	2	major triad	(1, 4, 9)	E	E	4	None	IV	True	4
+94	2	47.0	47	1.0	1	8	4	6	4	8	15.667000000000002	C#4	61	True	C	1	5/4	2.667	False	0	P1-Staff2	6	8	1.0	14	IV	True	('E', 'A', 'C#')	E	A	2	major triad	(1, 4, 9)	E	E	4	None	IV	True	6
+96	1	48.0	48	0.5	1/2	9	4	6	4	9	16.0	A4	69	False	A	0	0	1.0	True	1	P1-Staff2	6	9	6.0	15	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	6
+96	12	48.0	48	6.0	6	9	4	6	4	9	16.0	B#3	60	True	B	1	0	1.0	True	1	P1-Staff2	6	9	6.0	15	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+96	6	48.0	48	3.0	3	9	4	6	4	9	16.0	D#3	51	True	D	1	0	1.0	True	1	P1-Staff2	6	9	6.0	15	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+97	1	48.5	97/2	0.5	1/2	9	4	6	4	9	16.167	G#4	68	True	G	1	1/8	1.167	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+98	1	49.0	49	0.5	1/2	9	4	6	4	9	16.333	F#4	66	True	F	1	1/4	1.333	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+99	1	49.5	99/2	0.5	1/2	9	4	6	4	9	16.5	E4	64	True	E	0	3/8	1.5	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+100	1	50.0	50	0.5	1/2	9	4	6	4	9	16.667	F#4	66	True	F	1	1/2	1.667	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+101	1	50.5	101/2	0.5	1/2	9	4	6	4	9	16.833	D#4	63	True	D	1	5/8	1.833	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+102	1	51.0	51	0.5	1/2	9	4	6	4	9	17.0	D#5	75	True	D	1	3/4	2.0	True	2	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+102	3	51.0	51	1.5	3/2	9	4	6	4	9	17.0	G#3	56	True	G	1	3/4	2.0	True	2	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+103	1	51.5	103/2	0.5	1/2	9	4	6	4	9	17.167	C#5	73	True	C	1	7/8	2.167	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+104	1	52.0	52	0.5	1/2	9	4	6	4	9	17.333	B#4	72	True	B	1	1	2.333	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+105	1	52.5	105/2	0.5	1/2	9	4	6	4	9	17.5	A#4	70	True	A	1	9/8	2.5	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+105	1	52.5	105/2	0.5	1/2	9	4	6	4	9	17.5	F#3	54	True	F	1	9/8	2.5	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+106	1	53.0	53	0.5	1/2	9	4	6	4	9	17.667	B#4	72	True	B	1	5/4	2.667	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+106	2	53.0	53	1.0	1	9	4	6	4	9	17.667	G#3	56	True	G	1	5/4	2.667	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+107	1	53.5	107/2	0.5	1/2	9	4	6	4	9	17.833	G#4	68	True	G	1	11/8	2.833	False	0	P1-Staff2	6	9	6.0	15	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+108	1	54.0	54	0.5	1/2	10	4	6	4	10	18.0	A5	81	True	A	0	0	1.0	True	1	P1-Staff2	6	10	3.0	16	viio7	True	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	6
+108	3	54.0	54	1.5	3/2	10	4	6	4	10	18.0	B#3	60	False	B	1	0	1.0	True	1	P1-Staff2	6	10	3.0	16	viio7	True	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#7
+108	6	54.0	54	3.0	3	10	4	6	4	10	18.0	C#3	49	True	C	1	0	1.0	True	1	P1-Staff2	6	10	3.0	16	viio7	True	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+109	1	54.5	109/2	0.5	1/2	10	4	6	4	10	18.167	G#5	80	True	G	1	1/8	1.167	False	0	P1-Staff2	6	10	3.0	16	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	5
+110	1	55.0	55	0.5	1/2	10	4	6	4	10	18.333	F#5	78	True	F	1	1/4	1.333	False	0	P1-Staff2	6	10	3.0	16	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+111	1	55.5	111/2	0.5	1/2	10	4	6	4	10	18.5	E5	76	True	E	0	3/8	1.5	False	0	P1-Staff2	6	10	3.0	16	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	3
+111	1	55.5	111/2	0.5	1/2	10	4	6	4	10	18.5	C#4	61	True	C	1	3/8	1.5	False	0	P1-Staff2	6	10	3.0	16	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+112	1	56.0	56	0.5	1/2	10	4	6	4	10	18.667	F#5	78	True	F	1	1/2	1.667	False	0	P1-Staff2	6	10	3.0	16	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+112	2	56.0	56	1.0	1	10	4	6	4	10	18.667	D#4	63	True	D	1	1/2	1.667	False	0	P1-Staff2	6	10	3.0	16	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+113	1	56.5	113/2	0.5	1/2	10	4	6	4	10	18.833	D#5	75	True	D	1	5/8	1.833	False	0	P1-Staff2	6	10	3.0	16	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+114	6	57.0	57	3.0	3	10	4	6	4	10	19.0	E5	76	True	E	0	3/4	2.0	True	2	P1-Staff2	6	10	2.0	17	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+114	6	57.0	57	3.0	3	10	4	6	4	10	19.0	C#4	61	True	C	1	3/4	2.0	True	2	P1-Staff2	6	10	2.0	17	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+114	3	57.0	57	1.5	3/2	10	4	6	4	10	19.0	C#3	49	False	C	1	3/4	2.0	True	2	P1-Staff2	6	10	2.0	17	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+115	1	57.5	115/2	0.5	1/2	10	4	6	4	10	19.167	D#5	75	True	D	1	7/8	2.167	False	0	P1-Staff2	6	10	2.0	17	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+116	1	58.0	58	0.5	1/2	10	4	6	4	10	19.333	C#5	73	True	C	1	1	2.333	False	0	P1-Staff2	6	10	2.0	17	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+117	1	58.5	117/2	0.5	1/2	10	4	6	4	10	19.5	B4	71	True	B	0	9/8	2.5	False	0	P1-Staff2	6	10	2.0	17	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	7
+117	1	58.5	117/2	0.5	1/2	10	4	6	4	10	19.5	D#3	51	True	D	1	9/8	2.5	False	0	P1-Staff2	6	10	2.0	17	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+118	1	59.0	59	0.5	1/2	10	4	6	4	10	19.667	C#5	73	True	C	1	5/4	2.667	False	0	P1-Staff2	6	10	1.0	18	iio	True	('E', 'A#', 'C#')	E	A#	2	diminished triad	(1, 4, 10)	g#	g#	2	None	iio	True	4
+118	2	59.0	59	1.0	1	10	4	6	4	10	19.667	E3	52	True	E	0	5/4	2.667	False	0	P1-Staff2	6	10	1.0	18	iio	True	('E', 'A#', 'C#')	E	A#	2	diminished triad	(1, 4, 10)	g#	g#	2	None	iio	True	6
+119	1	59.5	119/2	0.5	1/2	10	4	6	4	10	19.833	A#4	70	True	A	1	11/8	2.833	False	0	P1-Staff2	6	10	1.0	18	iio	False	('E', 'A#', 'C#')	E	A#	2	diminished triad	(1, 4, 10)	g#	g#	2	None	iio	True	2
+120	3	60.0	60	1.5	3/2	11	4	6	4	11	20.0	E5	76	False	E	0	0	1.0	True	1	P1-Staff2	2	11	1.5	19	V74	True	('A#', 'D#', 'E', 'F##')	A#	D#	2	major-diminished tetrachord	(3, 4, 7, 10)	g#	g#	5	None	none	False	6
+120	3	60.0	60	1.5	3/2	11	4	6	4	11	20.0	F##4	67	True	F	2	0	1.0	True	1	P1-Staff2	2	11	1.5	19	V74	True	('A#', 'D#', 'E', 'F##')	A#	D#	2	major-diminished tetrachord	(3, 4, 7, 10)	g#	g#	5	None	none	False	#7
+120	1	60.0	60	0.5	1/2	11	4	6	4	11	20.0	A#2	46	True	A	1	0	1.0	True	1	P1-Staff2	2	11	1.5	19	V74	True	('A#', 'D#', 'E', 'F##')	A#	D#	2	major-diminished tetrachord	(3, 4, 7, 10)	g#	g#	5	None	none	False	2
+121	1	60.5	121/2	0.5	1/2	11	4	6	4	11	20.167	D#3	51	True	D	1	1/8	1.167	False	0	P1-Staff2	2	11	1.5	19	V74	False	('A#', 'D#', 'E', 'F##')	A#	D#	2	major-diminished tetrachord	(3, 4, 7, 10)	g#	g#	5	None	none	False	5
+122	1	61.0	61	0.5	1/2	11	4	6	4	11	20.333	C#3	49	True	C	1	1/4	1.333	False	0	P1-Staff2	2	11	1.5	19	V74	False	('A#', 'D#', 'E', 'F##')	A#	D#	2	major-diminished tetrachord	(3, 4, 7, 10)	g#	g#	5	None	none	False	4
+123	1	61.5	123/2	0.5	1/2	11	4	6	4	11	20.5	D#5	75	True	D	1	3/8	1.5	False	0	P1-Staff2	2	11	0.5	20	i	True	('B', 'D#', 'G#')	B	G#	1	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	5
+123	1	61.5	123/2	0.5	1/2	11	4	6	4	11	20.5	G#4	68	True	G	1	3/8	1.5	False	0	P1-Staff2	2	11	0.5	20	i	True	('B', 'D#', 'G#')	B	G#	1	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+123	1	61.5	123/2	0.5	1/2	11	4	6	4	11	20.5	B2	47	True	B	0	3/8	1.5	False	0	P1-Staff2	2	11	0.5	20	i	True	('B', 'D#', 'G#')	B	G#	1	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	3
+124	2	62.0	62	1.0	1	11	4	6	4	11	20.667	C#5	73	True	C	1	1/2	1.667	False	0	P1-Staff2	2	11	1.0	21	ii	True	('A#', 'C#', 'E#')	A#	A#	0	minor triad	(1, 5, 10)	g#	g#	2	None	ii	True	4
+124	2	62.0	62	1.0	1	11	4	6	4	11	20.667	A#4	70	True	A	1	1/2	1.667	False	0	P1-Staff2	2	11	1.0	21	ii	True	('A#', 'C#', 'E#')	A#	A#	0	minor triad	(1, 5, 10)	g#	g#	2	None	ii	True	2
+124	1	62.0	62	0.5	1/2	11	4	6	4	11	20.667	C#3	49	True	C	1	1/2	1.667	False	0	P1-Staff2	2	11	1.0	21	ii	True	('A#', 'C#', 'E#')	A#	A#	0	minor triad	(1, 5, 10)	g#	g#	2	None	ii	True	4
+125	1	62.5	125/2	0.5	1/2	11	4	6	4	11	20.833	A#2	46	True	A	1	5/8	1.833	False	0	P1-Staff2	2	11	1.0	21	ii	False	('A#', 'C#', 'E#')	A#	A#	0	minor triad	(1, 5, 10)	g#	g#	2	None	ii	True	2
+126	3	63.0	63	1.5	3/2	11	4	6	4	11	21.0	C#5	73	True	C	1	3/4	2.0	True	2	P1-Staff2	2	11	1.5	22	III+74	True	('F##', 'B', 'C#', 'D#')	F##	B	2	augmented seventh chord	(1, 3, 7, 11)	g#	g#	3	None	none	False	4
+126	3	63.0	63	1.5	3/2	11	4	6	4	11	21.0	D#4	63	True	D	1	3/4	2.0	True	2	P1-Staff2	2	11	1.5	22	III+74	True	('F##', 'B', 'C#', 'D#')	F##	B	2	augmented seventh chord	(1, 3, 7, 11)	g#	g#	3	None	none	False	5
+126	1	63.0	63	0.5	1/2	11	4	6	4	11	21.0	F##2	43	True	F	2	3/4	2.0	True	2	P1-Staff2	2	11	1.5	22	III+74	True	('F##', 'B', 'C#', 'D#')	F##	B	2	augmented seventh chord	(1, 3, 7, 11)	g#	g#	3	None	none	False	#7
+127	1	63.5	127/2	0.5	1/2	11	4	6	4	11	21.167	B2	47	True	B	0	7/8	2.167	False	0	P1-Staff2	2	11	1.5	22	III+74	False	('F##', 'B', 'C#', 'D#')	F##	B	2	augmented seventh chord	(1, 3, 7, 11)	g#	g#	3	None	none	False	3
+128	1	64.0	64	0.5	1/2	11	4	6	4	11	21.333	A#2	46	True	A	1	1	2.333	False	0	P1-Staff2	2	11	1.5	22	III+74	False	('F##', 'B', 'C#', 'D#')	F##	B	2	augmented seventh chord	(1, 3, 7, 11)	g#	g#	3	None	none	False	2
+129	1	64.5	129/2	0.5	1/2	11	4	6	4	11	21.5	B4	71	True	B	0	9/8	2.5	False	0	P1-Staff2	2	11	0.5	23	bviio/vii	True	('G#', 'B', 'E#')	G#	E#	1	diminished triad	(5, 8, 11)	g#	f##	7	#7	bviio	True	3
+129	1	64.5	129/2	0.5	1/2	11	4	6	4	11	21.5	E#4	65	True	E	1	9/8	2.5	False	0	P1-Staff2	2	11	0.5	23	bviio/vii	True	('G#', 'B', 'E#')	G#	E#	1	diminished triad	(5, 8, 11)	g#	f##	7	#7	bviio	True	#6
+129	1	64.5	129/2	0.5	1/2	11	4	6	4	11	21.5	G#2	44	True	G	1	9/8	2.5	False	0	P1-Staff2	2	11	0.5	23	bviio/vii	True	('G#', 'B', 'E#')	G#	E#	1	diminished triad	(5, 8, 11)	g#	f##	7	#7	bviio	True	1
+130	2	65.0	65	1.0	1	11	4	6	4	11	21.667	A#4	70	True	A	1	5/4	2.667	False	0	P1-Staff2	2	11	1.0	24	vii	True	('F##', 'A#', 'C##')	F##	F##	0	minor triad	(2, 7, 10)	g#	g#	#7	None	vii	True	2
+130	2	65.0	65	1.0	1	11	4	6	4	11	21.667	F##4	67	True	F	2	5/4	2.667	False	0	P1-Staff2	2	11	1.0	24	vii	True	('F##', 'A#', 'C##')	F##	F##	0	minor triad	(2, 7, 10)	g#	g#	#7	None	vii	True	#7
+130	1	65.0	65	0.5	1/2	11	4	6	4	11	21.667	A#2	46	True	A	1	5/4	2.667	False	0	P1-Staff2	2	11	1.0	24	vii	True	('F##', 'A#', 'C##')	F##	F##	0	minor triad	(2, 7, 10)	g#	g#	#7	None	vii	True	2
+131	1	65.5	131/2	0.5	1/2	11	4	6	4	11	21.833	F##2	43	True	F	2	11/8	2.833	False	0	P1-Staff2	2	11	1.0	24	vii	False	('F##', 'A#', 'C##')	F##	F##	0	minor triad	(2, 7, 10)	g#	g#	#7	None	vii	True	#7
+132	1	66.0	66	0.5	1/2	12	4	6	4	12	22.0	A#4	70	False	A	1	0	1.0	True	1	P1-Staff2	2	12	3.0	25	V7	True	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	2
+132	2	66.0	66	1.0	1	12	4	6	4	12	22.0	F##4	67	False	F	2	0	1.0	True	1	P1-Staff2	2	12	3.0	25	V7	True	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	#7
+132	6	66.0	66	3.0	3	12	4	6	4	12	22.0	C#2	37	True	C	1	0	1.0	True	1	P1-Staff2	2	12	3.0	25	V7	True	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	4
+133	1	66.5	133/2	0.5	1/2	12	4	6	4	12	22.167	G#4	68	True	G	1	1/8	1.167	False	0	P1-Staff2	2	12	3.0	25	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	1
+134	1	67.0	67	0.5	1/2	12	4	6	4	12	22.333	F##4	67	True	F	2	1/4	1.333	False	0	P1-Staff2	2	12	3.0	25	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	#7
+135	1	67.5	135/2	0.5	1/2	12	4	6	4	12	22.5	E#4	65	True	E	1	3/8	1.5	False	0	P1-Staff2	2	12	3.0	25	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	#6
+136	1	68.0	68	0.5	1/2	12	4	6	4	12	22.667	F##4	67	True	F	2	1/2	1.667	False	0	P1-Staff2	2	12	3.0	25	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	#7
+137	1	68.5	137/2	0.5	1/2	12	4	6	4	12	22.833	D#4	63	True	D	1	5/8	1.833	False	0	P1-Staff2	2	12	3.0	25	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	5
+138	6	69.0	69	3.0	3	12	4	6	4	12	23.0	D#5	75	True	D	1	3/4	2.0	True	2	P1-Staff2	2	12	2.0	26	V7	True	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	5
+138	4	69.0	69	2.0	2	12	4	6	4	12	23.0	F##4	67	True	F	2	3/4	2.0	True	2	P1-Staff2	1	12	2.0	26	V7	True	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	#7
+138	4	69.0	69	2.0	2	12	4	6	4	12	23.0	A#4	70	True	A	1	3/4	2.0	True	2	P1-Staff2	1	12	2.0	26	V7	True	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	2
+138	1	69.0	69	0.5	1/2	12	4	6	4	12	23.0	C#2	37	False	C	1	3/4	2.0	True	2	P1-Staff2	2	12	2.0	26	V7	True	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	4
+139	1	69.5	139/2	0.5	1/2	12	4	6	4	12	23.167	C#3	49	True	C	1	7/8	2.167	False	0	P1-Staff2	2	12	2.0	26	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	4
+140	1	70.0	70	0.5	1/2	12	4	6	4	12	23.333	B2	47	True	B	0	1	2.333	False	0	P1-Staff2	2	12	2.0	26	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	3
+141	1	70.5	141/2	0.5	1/2	12	4	6	4	12	23.5	A#2	46	True	A	1	9/8	2.5	False	0	P1-Staff2	2	12	2.0	26	V7	False	('C#', 'D#', 'F##', 'A#')	C#	D#	3	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	2
+142	2	71.0	71	1.0	1	12	4	6	4	12	23.667	G#4	68	True	G	1	5/4	2.667	False	0	P1-Staff2	2	12	1.0	27	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+142	1	71.0	71	0.5	1/2	12	4	6	4	12	23.667	B2	47	True	B	0	5/4	2.667	False	0	P1-Staff2	2	12	1.0	27	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	3
+143	1	71.5	143/2	0.5	1/2	12	4	6	4	12	23.833	G#2	44	True	G	1	11/8	2.833	False	0	P1-Staff2	2	12	1.0	27	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+144	1	72.0	72	0.5	1/2	13	4	6	4	13	24.0	D#5	75	False	D	1	0	1.0	True	1	P1-Staff2	6	13	2.0	28	I	True	('D#', 'G#', 'B#')	D#	G#	2	major triad	(0, 3, 8)	g#	g#	1	None	I	True	5
+144	6	72.0	72	3.0	3	13	4	6	4	13	24.0	G#4	68	False	G	1	0	1.0	True	1	P1-Staff2	6	13	2.0	28	I	True	('D#', 'G#', 'B#')	D#	G#	2	major triad	(0, 3, 8)	g#	g#	1	None	I	True	1
+144	3	72.0	72	1.5	3/2	13	4	6	4	13	24.0	E3	52	True	E	0	0	1.0	True	1	P1-Staff2	6	13	2.0	28	I	True	('D#', 'G#', 'B#')	D#	G#	2	major triad	(0, 3, 8)	g#	g#	1	None	I	True	6
+145	1	72.5	145/2	0.5	1/2	13	4	6	4	13	24.167	B#4	72	True	B	1	1/8	1.167	False	0	P1-Staff2	6	13	2.0	28	I	False	('D#', 'G#', 'B#')	D#	G#	2	major triad	(0, 3, 8)	g#	g#	1	None	I	True	#3
+146	1	73.0	73	0.5	1/2	13	4	6	4	13	24.333	C#5	73	True	C	1	1/4	1.333	False	0	P1-Staff2	6	13	2.0	28	I	False	('D#', 'G#', 'B#')	D#	G#	2	major triad	(0, 3, 8)	g#	g#	1	None	I	True	4
+147	1	73.5	147/2	0.5	1/2	13	4	6	4	13	24.5	D#5	75	True	D	1	3/8	1.5	False	0	P1-Staff2	6	13	2.0	28	I	False	('D#', 'G#', 'B#')	D#	G#	2	major triad	(0, 3, 8)	g#	g#	1	None	I	True	5
+147	1	73.5	147/2	0.5	1/2	13	4	6	4	13	24.5	D#3	51	True	D	1	3/8	1.5	False	0	P1-Staff2	6	13	2.0	28	I	False	('D#', 'G#', 'B#')	D#	G#	2	major triad	(0, 3, 8)	g#	g#	1	None	I	True	5
+148	1	74.0	74	0.5	1/2	13	4	6	4	13	24.667	E5	76	True	E	0	1/2	1.667	False	0	P1-Staff2	6	13	1.0	29	iv	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	g#	g#	4	None	iv	True	6
+148	2	74.0	74	1.0	1	13	4	6	4	13	24.667	C#3	49	True	C	1	1/2	1.667	False	0	P1-Staff2	6	13	1.0	29	iv	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	g#	g#	4	None	iv	True	4
+149	1	74.5	149/2	0.5	1/2	13	4	6	4	13	24.833	D#5	75	True	D	1	5/8	1.833	False	0	P1-Staff2	6	13	1.0	29	iv	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	g#	g#	4	None	iv	True	5
+150	3	75.0	75	1.5	3/2	13	4	6	4	13	25.0	B4	71	True	B	0	3/4	2.0	True	2	P1-Staff2	6	13	2.0	30	V	True	('D#', 'G#', 'B')	D#	D#	0	major triad	(3, 8, 11)	g#	g#	5	None	V	True	3
+150	4	75.0	75	2.0	2	13	4	6	4	13	25.0	G#4	68	False	G	1	3/4	2.0	True	2	P1-Staff2	6	13	2.0	30	V	True	('D#', 'G#', 'B')	D#	D#	0	major triad	(3, 8, 11)	g#	g#	5	None	V	True	1
+150	6	75.0	75	3.0	3	13	4	6	4	13	25.0	D#3	51	True	D	1	3/4	2.0	True	2	P1-Staff2	6	13	2.0	30	V	True	('D#', 'G#', 'B')	D#	D#	0	major triad	(3, 8, 11)	g#	g#	5	None	V	True	5
+150	4	75.0	75	2.0	2	13	4	6	4	13	25.0	D#3	51	True	D	1	3/4	2.0	True	2	P1-Staff2	6	13	2.0	30	V	True	('D#', 'G#', 'B')	D#	D#	0	major triad	(3, 8, 11)	g#	g#	5	None	V	True	5
+153	1	76.5	153/2	0.5	1/2	13	4	6	4	13	25.5	C#5	73	True	C	1	9/8	2.5	False	0	P1-Staff2	6	13	2.0	30	V	False	('D#', 'G#', 'B')	D#	D#	0	major triad	(3, 8, 11)	g#	g#	5	None	V	True	4
+154	2	77.0	77	1.0	1	13	4	6	4	13	25.667	A#4	70	True	A	1	5/4	2.667	False	0	P1-Staff2	6	13	1.0	31	V	True	('D#', 'F##', 'A#')	D#	D#	0	major triad	(3, 7, 10)	g#	g#	5	None	V	True	2
+154	2	77.0	77	1.0	1	13	4	6	4	13	25.667	F##4	67	True	F	2	5/4	2.667	False	0	P1-Staff2	6	13	1.0	31	V	True	('D#', 'F##', 'A#')	D#	D#	0	major triad	(3, 7, 10)	g#	g#	5	None	V	True	#7
+154	2	77.0	77	1.0	1	13	4	6	4	13	25.667	D#2	39	True	D	1	5/4	2.667	False	0	P1-Staff2	6	13	1.0	31	V	True	('D#', 'F##', 'A#')	D#	D#	0	major triad	(3, 7, 10)	g#	g#	5	None	V	True	5
+156	6	78.0	78	3.0	3	14	4	6	4	14	26.0	B3	59	True	B	0	0	1.0	True	1	P1-Staff2	1	14	3.0	32	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	3
+156	6	78.0	78	3.0	3	14	4	6	4	14	26.0	D#4	63	True	D	1	0	1.0	True	1	P1-Staff2	1	14	3.0	32	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	5
+156	6	78.0	78	3.0	3	14	4	6	4	14	26.0	G#4	68	True	G	1	0	1.0	True	1	P1-Staff2	1	14	3.0	32	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+156	1	78.0	78	0.5	1/2	14	4	6	4	14	26.0	D#3	51	False	D	1	0	1.0	True	1	P1-Staff2	6	14	3.0	32	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	5
+156	12	78.0	78	6.0	6	14	4	6	4	14	26.0	G#2	44	True	G	1	0	1.0	True	1	P1-Staff2	6	14	3.0	32	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+157	1	78.5	157/2	0.5	1/2	14	4	6	4	14	26.167	C#3	49	True	C	1	1/8	1.167	False	0	P1-Staff2	6	14	3.0	32	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	4
+158	1	79.0	79	0.5	1/2	14	4	6	4	14	26.333	B2	47	True	B	0	1/4	1.333	False	0	P1-Staff2	6	14	3.0	32	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	3
+159	1	79.5	159/2	0.5	1/2	14	4	6	4	14	26.5	A#2	46	True	A	1	3/8	1.5	False	0	P1-Staff2	6	14	3.0	32	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	2
+160	1	80.0	80	0.5	1/2	14	4	6	4	14	26.667	B2	47	True	B	0	1/2	1.667	False	0	P1-Staff2	6	14	3.0	32	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	3
+161	1	80.5	161/2	0.5	1/2	14	4	6	4	14	26.833	G#2	44	True	G	1	5/8	1.833	False	0	P1-Staff2	6	14	3.0	32	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+162	4	81.0	81	2.0	2	14	4	6	4	14	27.0	B3	59	False	B	0	3/4	2.0	True	2	P1-Staff2	1	14	2.0	33	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	3
+162	4	81.0	81	2.0	2	14	4	6	4	14	27.0	D#4	63	False	D	1	3/4	2.0	True	2	P1-Staff2	1	14	2.0	33	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	5
+162	4	81.0	81	2.0	2	14	4	6	4	14	27.0	G#4	68	False	G	1	3/4	2.0	True	2	P1-Staff2	1	14	2.0	33	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+162	1	81.0	81	0.5	1/2	14	4	6	4	14	27.0	B2	47	True	B	0	3/4	2.0	True	2	P1-Staff2	6	14	2.0	33	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	3
+163	1	81.5	163/2	0.5	1/2	14	4	6	4	14	27.167	D#3	51	True	D	1	7/8	2.167	False	0	P1-Staff2	6	14	2.0	33	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	5
+164	1	82.0	82	0.5	1/2	14	4	6	4	14	27.333	G#3	56	True	G	1	1	2.333	False	0	P1-Staff2	6	14	2.0	33	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	1
+165	1	82.5	165/2	0.5	1/2	14	4	6	4	14	27.5	E3	52	True	E	0	9/8	2.5	False	0	P1-Staff2	6	14	2.0	33	i	False	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	1	None	i	True	6
+166	2	83.0	83	1.0	1	14	4	6	4	14	27.667	B4	71	True	B	0	5/4	2.667	False	0	P1-Staff2	6	14	1.0	34	I	True	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	B	B	1	None	I	True	1
+166	1	83.0	83	0.5	1/2	14	4	6	4	14	27.667	F#3	54	True	F	1	5/4	2.667	False	0	P1-Staff2	6	14	1.0	34	I	True	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	B	B	1	None	I	True	5
+167	1	83.5	167/2	0.5	1/2	14	4	6	4	14	27.833	D#3	51	True	D	1	11/8	2.833	False	0	P1-Staff2	6	14	1.0	34	I	False	('D#', 'F#', 'B')	D#	B	1	major triad	(3, 6, 11)	B	B	1	None	I	True	3
+168	1	84.0	84	0.5	1/2	15	4	6	4	15	28.0	B4	71	False	B	0	0	1.0	True	1	P1-Staff2	6	15	6.0	35	V7	True	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	1
+168	6	84.0	84	3.0	3	15	4	6	4	15	28.0	E3	52	True	E	0	0	1.0	True	1	P1-Staff2	6	15	6.0	35	V7	True	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	4
+168	1	84.0	84	0.5	1/2	15	4	6	4	15	28.0	C#3	49	True	C	1	0	1.0	True	1	P1-Staff2	6	15	6.0	35	V7	True	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	2
+169	1	84.5	169/2	0.5	1/2	15	4	6	4	15	28.167	G#4	68	True	G	1	1/8	1.167	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	6
+169	1	84.5	169/2	0.5	1/2	15	4	6	4	15	28.167	D#3	51	True	D	1	1/8	1.167	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	3
+170	1	85.0	85	0.5	1/2	15	4	6	4	15	28.333	A#4	70	True	A	1	1/4	1.333	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	7
+170	1	85.0	85	0.5	1/2	15	4	6	4	15	28.333	C#3	49	True	C	1	1/4	1.333	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	2
+171	1	85.5	171/2	0.5	1/2	15	4	6	4	15	28.5	C#5	73	True	C	1	3/8	1.5	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	2
+171	1	85.5	171/2	0.5	1/2	15	4	6	4	15	28.5	B2	47	True	B	0	3/8	1.5	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	1
+172	2	86.0	86	1.0	1	15	4	6	4	15	28.667	E5	76	True	E	0	1/2	1.667	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	4
+172	1	86.0	86	0.5	1/2	15	4	6	4	15	28.667	C#3	49	True	C	1	1/2	1.667	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	2
+173	1	86.5	173/2	0.5	1/2	15	4	6	4	15	28.833	A#2	46	True	A	1	5/8	1.833	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	7
+174	1	87.0	87	0.5	1/2	15	4	6	4	15	29.0	E5	76	False	E	0	3/4	2.0	True	2	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	4
+174	3	87.0	87	1.5	3/2	15	4	6	4	15	29.0	F#3	54	True	F	1	3/4	2.0	True	2	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	5
+174	6	87.0	87	3.0	3	15	4	6	4	15	29.0	A#2	46	False	A	1	3/4	2.0	True	2	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	7
+175	1	87.5	175/2	0.5	1/2	15	4	6	4	15	29.167	D#5	75	True	D	1	7/8	2.167	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	3
+176	1	88.0	88	0.5	1/2	15	4	6	4	15	29.333	E5	76	True	E	0	1	2.333	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	4
+177	1	88.5	177/2	0.5	1/2	15	4	6	4	15	29.5	G#5	80	True	G	1	9/8	2.5	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	6
+177	1	88.5	177/2	0.5	1/2	15	4	6	4	15	29.5	G#3	56	True	G	1	9/8	2.5	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	6
+178	2	89.0	89	1.0	1	15	4	6	4	15	29.667	F#5	78	True	F	1	5/4	2.667	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	5
+178	2	89.0	89	1.0	1	15	4	6	4	15	29.667	A#3	58	True	A	1	5/4	2.667	False	0	P1-Staff2	6	15	6.0	35	V7	False	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	B	B	5	None	V7	True	7
+180	4	90.0	90	2.0	2	16	4	6	4	16	30.0	D#5	75	True	D	1	0	1.0	True	1	P1-Staff2	2	16	3.0	36	I	True	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	3
+180	6	90.0	90	3.0	3	16	4	6	4	16	30.0	B3	59	True	B	0	0	1.0	True	1	P1-Staff2	2	16	3.0	36	I	True	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	1
+181	1	90.5	181/2	0.5	1/2	16	4	6	4	16	30.167	C#5	73	True	C	1	1/8	1.167	False	0	P1-Staff2	2	16	3.0	36	I	False	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	2
+182	1	91.0	91	0.5	1/2	16	4	6	4	16	30.333	B4	71	True	B	0	1/4	1.333	False	0	P1-Staff2	2	16	3.0	36	I	False	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	1
+183	1	91.5	183/2	0.5	1/2	16	4	6	4	16	30.5	A#4	70	True	A	1	3/8	1.5	False	0	P1-Staff2	2	16	3.0	36	I	False	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	7
+184	2	92.0	92	1.0	1	16	4	6	4	16	30.667	B4	71	True	B	0	1/2	1.667	False	0	P1-Staff2	1	16	3.0	36	I	False	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	1
+184	2	92.0	92	1.0	1	16	4	6	4	16	30.667	D#5	75	False	D	1	1/2	1.667	False	0	P1-Staff2	1	16	3.0	36	I	False	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	3
+184	1	92.0	92	0.5	1/2	16	4	6	4	16	30.667	B4	71	True	B	0	1/2	1.667	False	0	P1-Staff2	2	16	3.0	36	I	False	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	1
+185	1	92.5	185/2	0.5	1/2	16	4	6	4	16	30.833	F#4	66	True	F	1	5/8	1.833	False	0	P1-Staff2	2	16	3.0	36	I	False	('B', 'D#', 'F#')	B	B	0	major triad	(3, 6, 11)	B	B	1	None	I	True	5
+186	4	93.0	93	2.0	2	16	4	6	4	16	31.0	B4	71	False	B	0	3/4	2.0	True	2	P1-Staff2	1	16	2.0	37	vi7	True	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	1
+186	4	93.0	93	2.0	2	16	4	6	4	16	31.0	D#5	75	False	D	1	3/4	2.0	True	2	P1-Staff2	1	16	2.0	37	vi7	True	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	3
+186	6	93.0	93	3.0	3	16	4	6	4	16	31.0	D#4	63	True	D	1	3/4	2.0	True	2	P1-Staff2	1	16	2.0	37	vi7	True	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	3
+186	6	93.0	93	3.0	3	16	4	6	4	16	31.0	F#4	66	False	F	1	3/4	2.0	True	2	P1-Staff2	1	16	2.0	37	vi7	True	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	5
+186	1	93.0	93	0.5	1/2	16	4	6	4	16	31.0	B3	59	False	B	0	3/4	2.0	True	2	P1-Staff2	2	16	2.0	37	vi7	True	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	1
+187	1	93.5	187/2	0.5	1/2	16	4	6	4	16	31.167	B3	59	True	B	0	7/8	2.167	False	0	P1-Staff2	2	16	2.0	37	vi7	False	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	1
+188	1	94.0	94	0.5	1/2	16	4	6	4	16	31.333	A3	57	True	A	0	1	2.333	False	0	P1-Staff2	2	16	2.0	37	vi7	False	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	b7
+189	1	94.5	189/2	0.5	1/2	16	4	6	4	16	31.5	G#3	56	True	G	1	9/8	2.5	False	0	P1-Staff2	2	16	2.0	37	vi7	False	('G#', 'B', 'D#', 'F#')	G#	G#	0	minor seventh chord	(3, 6, 8, 11)	B	B	6	None	vi7	True	6
+190	2	95.0	95	1.0	1	16	4	6	4	16	31.667	C#5	73	True	C	1	5/4	2.667	False	0	P1-Staff2	2	16	1.0	38	v	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	B	B	5	None	v	True	2
+190	1	95.0	95	0.5	1/2	16	4	6	4	16	31.667	A3	57	True	A	0	5/4	2.667	False	0	P1-Staff2	2	16	1.0	38	v	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	B	B	5	None	v	True	b7
+191	1	95.5	191/2	0.5	1/2	16	4	6	4	16	31.833	F#3	54	True	F	1	11/8	2.833	False	0	P1-Staff2	2	16	1.0	38	v	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	B	B	5	None	v	True	5
+192	1	96.0	96	0.5	1/2	17	4	6	4	17	32.0	C#5	73	False	C	1	0	1.0	True	1	P1-Staff2	6	17	6.0	39	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+192	2	96.0	96	1.0	1	17	4	6	4	17	32.0	F#4	66	False	F	1	0	1.0	True	1	P1-Staff2	6	17	6.0	39	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+192	1	96.0	96	0.5	1/2	17	4	6	4	17	32.0	D#3	51	True	D	1	0	1.0	True	1	P1-Staff2	6	17	6.0	39	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+193	1	96.5	193/2	0.5	1/2	17	4	6	4	17	32.167	A#4	70	True	A	1	1/8	1.167	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+193	1	96.5	193/2	0.5	1/2	17	4	6	4	17	32.167	E3	52	True	E	0	1/8	1.167	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+194	1	97.0	97	0.5	1/2	17	4	6	4	17	32.333	B#4	72	True	B	1	1/4	1.333	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+194	1	97.0	97	0.5	1/2	17	4	6	4	17	32.333	D#3	51	True	D	1	1/4	1.333	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+195	1	97.5	195/2	0.5	1/2	17	4	6	4	17	32.5	D#5	75	True	D	1	3/8	1.5	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+195	1	97.5	195/2	0.5	1/2	17	4	6	4	17	32.5	C#3	49	True	C	1	3/8	1.5	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+196	1	98.0	98	0.5	1/2	17	4	6	4	17	32.667	F#5	78	True	F	1	1/2	1.667	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+196	2	98.0	98	1.0	1	17	4	6	4	17	32.667	D#3	51	True	D	1	1/2	1.667	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+196	1	98.0	98	0.5	1/2	17	4	6	4	17	32.667	D#3	51	True	D	1	1/2	1.667	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+197	1	98.5	197/2	0.5	1/2	17	4	6	4	17	32.833	G#5	80	True	G	1	5/8	1.833	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+197	1	98.5	197/2	0.5	1/2	17	4	6	4	17	32.833	B#2	48	True	B	1	5/8	1.833	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+198	1	99.0	99	0.5	1/2	17	4	6	4	17	33.0	A5	81	True	A	0	3/4	2.0	True	2	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	6
+198	6	99.0	99	3.0	3	17	4	6	4	17	33.0	D#3	51	False	D	1	3/4	2.0	True	2	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+198	3	99.0	99	1.5	3/2	17	4	6	4	17	33.0	G#2	44	True	G	1	3/4	2.0	True	2	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+199	1	99.5	199/2	0.5	1/2	17	4	6	4	17	33.167	G#5	80	True	G	1	7/8	2.167	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+200	1	100.0	100	0.5	1/2	17	4	6	4	17	33.333	F#5	78	True	F	1	1	2.333	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+201	1	100.5	201/2	0.5	1/2	17	4	6	4	17	33.5	E5	76	True	E	0	9/8	2.5	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+201	1	100.5	201/2	0.5	1/2	17	4	6	4	17	33.5	A#2	46	True	A	1	9/8	2.5	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+202	1	101.0	101	0.5	1/2	17	4	6	4	17	33.667	F#5	78	True	F	1	5/4	2.667	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+202	2	101.0	101	1.0	1	17	4	6	4	17	33.667	B#2	48	True	B	1	5/4	2.667	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+203	1	101.5	203/2	0.5	1/2	17	4	6	4	17	33.833	D#5	75	True	D	1	11/8	2.833	False	0	P1-Staff2	6	17	6.0	39	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+204	4	102.0	102	2.0	2	18	4	6	4	18	34.0	E5	76	True	E	0	0	1.0	True	1	P1-Staff2	2	18	6.0	40	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+204	6	102.0	102	3.0	3	18	4	6	4	18	34.0	C#3	49	True	C	1	0	1.0	True	1	P1-Staff2	2	18	6.0	40	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+205	1	102.5	205/2	0.5	1/2	18	4	6	4	18	34.167	D#5	75	True	D	1	1/8	1.167	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+206	1	103.0	103	0.5	1/2	18	4	6	4	18	34.333	C#5	73	True	C	1	1/4	1.333	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+207	1	103.5	207/2	0.5	1/2	18	4	6	4	18	34.5	B#4	72	True	B	1	3/8	1.5	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	#7
+208	2	104.0	104	1.0	1	18	4	6	4	18	34.667	C#5	73	True	C	1	1/2	1.667	False	0	P1-Staff2	1	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+208	2	104.0	104	1.0	1	18	4	6	4	18	34.667	E5	76	False	E	0	1/2	1.667	False	0	P1-Staff2	1	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+208	1	104.0	104	0.5	1/2	18	4	6	4	18	34.667	C#5	73	True	C	1	1/2	1.667	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+209	1	104.5	209/2	0.5	1/2	18	4	6	4	18	34.833	G#4	68	True	G	1	5/8	1.833	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+210	6	105.0	105	3.0	3	18	4	6	4	18	35.0	C#5	73	False	C	1	3/4	2.0	True	2	P1-Staff2	1	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+210	6	105.0	105	3.0	3	18	4	6	4	18	35.0	E5	76	False	E	0	3/4	2.0	True	2	P1-Staff2	1	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+210	6	105.0	105	3.0	3	18	4	6	4	18	35.0	E4	64	True	E	0	3/4	2.0	True	2	P1-Staff2	1	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+210	6	105.0	105	3.0	3	18	4	6	4	18	35.0	G#4	68	False	G	1	3/4	2.0	True	2	P1-Staff2	1	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+210	1	105.0	105	0.5	1/2	18	4	6	4	18	35.0	C#3	49	False	C	1	3/4	2.0	True	2	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+211	1	105.5	211/2	0.5	1/2	18	4	6	4	18	35.167	D#3	51	True	D	1	7/8	2.167	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+212	1	106.0	106	0.5	1/2	18	4	6	4	18	35.333	E3	52	True	E	0	1	2.333	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+213	1	106.5	213/2	0.5	1/2	18	4	6	4	18	35.5	F#3	54	True	F	1	9/8	2.5	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	4
+214	1	107.0	107	0.5	1/2	18	4	6	4	18	35.667	G#3	56	True	G	1	5/4	2.667	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+215	1	107.5	215/2	0.5	1/2	18	4	6	4	18	35.833	A3	57	True	A	0	11/8	2.833	False	0	P1-Staff2	2	18	6.0	40	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	6
+216	1	108.0	108	0.5	1/2	19	4	6	4	19	36.0	E5	76	False	E	0	0	1.0	True	1	P1-Staff2	6	19	6.0	41	viio7	True	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	7
+216	4	108.0	108	2.0	2	19	4	6	4	19	36.0	B3	59	True	B	0	0	1.0	True	1	P1-Staff2	6	19	6.0	41	viio7	True	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	4
+217	1	108.5	217/2	0.5	1/2	19	4	6	4	19	36.167	D5	74	True	D	0	1/8	1.167	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	6
+218	1	109.0	109	0.5	1/2	19	4	6	4	19	36.333	E#5	77	True	E	1	1/4	1.333	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	#7
+219	1	109.5	219/2	0.5	1/2	19	4	6	4	19	36.5	G#5	80	True	G	1	3/8	1.5	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	2
+219	1	109.5	219/2	0.5	1/2	19	4	6	4	19	36.5	C#4	61	True	C	1	3/8	1.5	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	5
+220	2	110.0	110	1.0	1	19	4	6	4	19	36.667	B5	83	True	B	0	1/2	1.667	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	4
+220	2	110.0	110	1.0	1	19	4	6	4	19	36.667	D4	62	True	D	0	1/2	1.667	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	6
+220	1	110.0	110	0.5	1/2	19	4	6	4	19	36.667	B3	59	False	B	0	1/2	1.667	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	4
+221	1	110.5	221/2	0.5	1/2	19	4	6	4	19	36.833	B3	59	True	B	0	5/8	1.833	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	4
+222	1	111.0	111	0.5	1/2	19	4	6	4	19	37.0	B5	83	False	B	0	3/4	2.0	True	2	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	4
+222	2	111.0	111	1.0	1	19	4	6	4	19	37.0	D4	62	False	D	0	3/4	2.0	True	2	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	6
+222	6	111.0	111	3.0	3	19	4	6	4	19	37.0	E#3	53	True	E	1	3/4	2.0	True	2	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	#7
+223	1	111.5	223/2	0.5	1/2	19	4	6	4	19	37.167	D5	74	True	D	0	7/8	2.167	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	6
+224	1	112.0	112	0.5	1/2	19	4	6	4	19	37.333	C#5	73	True	C	1	1	2.333	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	5
+224	2	112.0	112	1.0	1	19	4	6	4	19	37.333	G#3	56	True	G	1	1	2.333	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	2
+225	1	112.5	225/2	0.5	1/2	19	4	6	4	19	37.5	B4	71	True	B	0	9/8	2.5	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	4
+226	1	113.0	113	0.5	1/2	19	4	6	4	19	37.667	A4	69	True	A	0	5/4	2.667	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	3
+226	2	113.0	113	1.0	1	19	4	6	4	19	37.667	C#4	61	True	C	1	5/4	2.667	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	5
+227	1	113.5	227/2	0.5	1/2	19	4	6	4	19	37.833	G#4	68	True	G	1	11/8	2.833	False	0	P1-Staff2	6	19	6.0	41	viio7	False	('E#', 'G#', 'B', 'D')	E#	E#	0	diminished seventh chord	(2, 5, 8, 11)	f#	f#	#7	None	viio7	True	2
+228	6	114.0	114	3.0	3	20	4	6	4	20	38.0	A4	69	True	A	0	0	1.0	True	1	P1-Staff2	6	20	6.0	42	i	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	3
+228	1	114.0	114	0.5	1/2	20	4	6	4	20	38.0	C#4	61	False	C	1	0	1.0	True	1	P1-Staff2	6	20	6.0	42	i	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	5
+228	12	114.0	114	6.0	6	20	4	6	4	20	38.0	F#3	54	True	F	1	0	1.0	True	1	P1-Staff2	6	20	6.0	42	i	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	1
+229	1	114.5	229/2	0.5	1/2	20	4	6	4	20	38.167	B3	59	True	B	0	1/8	1.167	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	4
+230	1	115.0	115	0.5	1/2	20	4	6	4	20	38.333	A3	57	True	A	0	1/4	1.333	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	3
+231	1	115.5	231/2	0.5	1/2	20	4	6	4	20	38.5	G#3	56	True	G	1	3/8	1.5	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	2
+232	1	116.0	116	0.5	1/2	20	4	6	4	20	38.667	A3	57	True	A	0	1/2	1.667	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	3
+233	1	116.5	233/2	0.5	1/2	20	4	6	4	20	38.833	F#3	54	True	F	1	5/8	1.833	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	1
+234	1	117.0	117	0.5	1/2	20	4	6	4	20	39.0	A4	69	False	A	0	3/4	2.0	True	2	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	3
+234	3	117.0	117	1.5	3/2	20	4	6	4	20	39.0	F#4	66	True	F	1	3/4	2.0	True	2	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	1
+235	1	117.5	235/2	0.5	1/2	20	4	6	4	20	39.167	G#4	68	True	G	1	7/8	2.167	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	2
+236	1	118.0	118	0.5	1/2	20	4	6	4	20	39.333	A4	69	True	A	0	1	2.333	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	3
+237	1	118.5	237/2	0.5	1/2	20	4	6	4	20	39.5	C#5	73	True	C	1	9/8	2.5	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	5
+237	1	118.5	237/2	0.5	1/2	20	4	6	4	20	39.5	E4	64	True	E	0	9/8	2.5	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	7
+238	2	119.0	119	1.0	1	20	4	6	4	20	39.667	F#5	78	True	F	1	5/4	2.667	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	1
+238	1	119.0	119	0.5	1/2	20	4	6	4	20	39.667	D#4	63	True	D	1	5/4	2.667	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	#6
+239	1	119.5	239/2	0.5	1/2	20	4	6	4	20	39.833	C#4	61	True	C	1	11/8	2.833	False	0	P1-Staff2	6	20	6.0	42	i	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	f#	f#	1	None	i	True	5
+240	1	120.0	120	0.5	1/2	21	4	6	4	21	40.0	F#5	78	False	F	1	0	1.0	True	1	P1-Staff2	6	21	1.5	43	V	True	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	A	A	5	None	V	True	6
+240	3	120.0	120	1.5	3/2	21	4	6	4	21	40.0	B3	59	True	B	0	0	1.0	True	1	P1-Staff2	6	21	1.5	43	V	True	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	A	A	5	None	V	True	2
+240	3	120.0	120	1.5	3/2	21	4	6	4	21	40.0	G#3	56	True	G	1	0	1.0	True	1	P1-Staff2	6	21	1.5	43	V	True	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	A	A	5	None	V	True	7
+241	1	120.5	241/2	0.5	1/2	21	4	6	4	21	40.167	E5	76	True	E	0	1/8	1.167	False	0	P1-Staff2	6	21	1.5	43	V	False	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	A	A	5	None	V	True	5
+242	1	121.0	121	0.5	1/2	21	4	6	4	21	40.333	D#5	75	True	D	1	1/4	1.333	False	0	P1-Staff2	6	21	1.5	43	V	False	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	A	A	5	None	V	True	#4
+243	1	121.5	243/2	0.5	1/2	21	4	6	4	21	40.5	C#5	73	True	C	1	3/8	1.5	False	0	P1-Staff2	6	21	0.5	44	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	3
+243	1	121.5	243/2	0.5	1/2	21	4	6	4	21	40.5	C#4	61	True	C	1	3/8	1.5	False	0	P1-Staff2	6	21	0.5	44	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	3
+243	1	121.5	243/2	0.5	1/2	21	4	6	4	21	40.5	A3	57	True	A	0	3/8	1.5	False	0	P1-Staff2	6	21	0.5	44	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	1
+244	1	122.0	122	0.5	1/2	21	4	6	4	21	40.667	B4	71	True	B	0	1/2	1.667	False	0	P1-Staff2	6	21	1.0	45	V7/V	True	('B', 'D#', 'A')	B	B	0	incomplete dominant-seventh chord	(3, 9, 11)	A	E	5	5	V7	True	2
+244	2	122.0	122	1.0	1	21	4	6	4	21	40.667	D#4	63	True	D	1	1/2	1.667	False	0	P1-Staff2	6	21	1.0	45	V7/V	True	('B', 'D#', 'A')	B	B	0	incomplete dominant-seventh chord	(3, 9, 11)	A	E	5	5	V7	True	#4
+244	2	122.0	122	1.0	1	21	4	6	4	21	40.667	B3	59	True	B	0	1/2	1.667	False	0	P1-Staff2	6	21	1.0	45	V7/V	True	('B', 'D#', 'A')	B	B	0	incomplete dominant-seventh chord	(3, 9, 11)	A	E	5	5	V7	True	2
+245	1	122.5	245/2	0.5	1/2	21	4	6	4	21	40.833	A4	69	True	A	0	5/8	1.833	False	0	P1-Staff2	6	21	1.0	45	V7/V	False	('B', 'D#', 'A')	B	B	0	incomplete dominant-seventh chord	(3, 9, 11)	A	E	5	5	V7	True	1
+246	1	123.0	123	0.5	1/2	21	4	6	4	21	41.0	G#4	68	True	G	1	3/4	2.0	True	2	P1-Staff2	6	21	3.0	46	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	7
+246	3	123.0	123	1.5	3/2	21	4	6	4	21	41.0	D#4	63	False	D	1	3/4	2.0	True	2	P1-Staff2	6	21	3.0	46	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	#4
+246	6	123.0	123	3.0	3	21	4	6	4	21	41.0	E3	52	True	E	0	3/4	2.0	True	2	P1-Staff2	6	21	3.0	46	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	5
+247	1	123.5	247/2	0.5	1/2	21	4	6	4	21	41.167	F#4	66	True	F	1	7/8	2.167	False	0	P1-Staff2	6	21	3.0	46	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	6
+248	1	124.0	124	0.5	1/2	21	4	6	4	21	41.333	G#4	68	True	G	1	1	2.333	False	0	P1-Staff2	6	21	3.0	46	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	7
+249	1	124.5	249/2	0.5	1/2	21	4	6	4	21	41.5	B4	71	True	B	0	9/8	2.5	False	0	P1-Staff2	6	21	3.0	46	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	2
+249	1	124.5	249/2	0.5	1/2	21	4	6	4	21	41.5	G#3	56	True	G	1	9/8	2.5	False	0	P1-Staff2	6	21	3.0	46	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	7
+250	2	125.0	125	1.0	1	21	4	6	4	21	41.667	E5	76	True	E	0	5/4	2.667	False	0	P1-Staff2	6	21	3.0	46	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	5
+250	1	125.0	125	0.5	1/2	21	4	6	4	21	41.667	C#4	61	True	C	1	5/4	2.667	False	0	P1-Staff2	6	21	3.0	46	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	3
+251	1	125.5	251/2	0.5	1/2	21	4	6	4	21	41.833	B#3	60	True	B	1	11/8	2.833	False	0	P1-Staff2	6	21	3.0	46	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	#2
+252	1	126.0	126	0.5	1/2	22	4	6	4	22	42.0	E5	76	False	E	0	0	1.0	True	1	P1-Staff2	6	22	3.0	47	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+252	6	126.0	126	3.0	3	22	4	6	4	22	42.0	C#4	61	True	C	1	0	1.0	True	1	P1-Staff2	6	22	3.0	47	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+252	3	126.0	126	1.5	3/2	22	4	6	4	22	42.0	E3	52	False	E	0	0	1.0	True	1	P1-Staff2	6	22	3.0	47	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+253	1	126.5	253/2	0.5	1/2	22	4	6	4	22	42.167	D#5	75	True	D	1	1/8	1.167	False	0	P1-Staff2	6	22	3.0	47	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+254	1	127.0	127	0.5	1/2	22	4	6	4	22	42.333	C#5	73	True	C	1	1/4	1.333	False	0	P1-Staff2	6	22	3.0	47	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+255	1	127.5	255/2	0.5	1/2	22	4	6	4	22	42.5	B4	71	True	B	0	3/8	1.5	False	0	P1-Staff2	6	22	3.0	47	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	7
+255	1	127.5	255/2	0.5	1/2	22	4	6	4	22	42.5	D#3	51	True	D	1	3/8	1.5	False	0	P1-Staff2	6	22	3.0	47	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+256	1	128.0	128	0.5	1/2	22	4	6	4	22	42.667	A4	69	True	A	0	1/2	1.667	False	0	P1-Staff2	6	22	3.0	47	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	6
+256	2	128.0	128	1.0	1	22	4	6	4	22	42.667	C#3	49	True	C	1	1/2	1.667	False	0	P1-Staff2	6	22	3.0	47	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+257	1	128.5	257/2	0.5	1/2	22	4	6	4	22	42.833	G#4	68	True	G	1	5/8	1.833	False	0	P1-Staff2	6	22	3.0	47	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+258	1	129.0	129	0.5	1/2	22	4	6	4	22	43.0	F#4	66	True	F	1	3/4	2.0	True	2	P1-Staff2	6	22	3.0	48	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+258	3	129.0	129	1.5	3/2	22	4	6	4	22	43.0	C#4	61	False	C	1	3/4	2.0	True	2	P1-Staff2	6	22	3.0	48	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+258	6	129.0	129	3.0	3	22	4	6	4	22	43.0	D#3	51	True	D	1	3/4	2.0	True	2	P1-Staff2	6	22	3.0	48	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+259	1	129.5	259/2	0.5	1/2	22	4	6	4	22	43.167	E4	64	True	E	0	7/8	2.167	False	0	P1-Staff2	6	22	3.0	48	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	3
+260	1	130.0	130	0.5	1/2	22	4	6	4	22	43.333	F#4	66	True	F	1	1	2.333	False	0	P1-Staff2	6	22	3.0	48	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+261	1	130.5	261/2	0.5	1/2	22	4	6	4	22	43.5	A4	69	True	A	0	9/8	2.5	False	0	P1-Staff2	6	22	3.0	48	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	6
+261	1	130.5	261/2	0.5	1/2	22	4	6	4	22	43.5	B#3	60	True	B	1	9/8	2.5	False	0	P1-Staff2	6	22	3.0	48	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#7
+262	2	131.0	131	1.0	1	22	4	6	4	22	43.667	D#5	75	True	D	1	5/4	2.667	False	0	P1-Staff2	6	22	3.0	48	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+262	1	131.0	131	0.5	1/2	22	4	6	4	22	43.667	C#4	61	True	C	1	5/4	2.667	False	0	P1-Staff2	6	22	3.0	48	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+263	1	131.5	263/2	0.5	1/2	22	4	6	4	22	43.833	A#3	58	True	A	1	11/8	2.833	False	0	P1-Staff2	6	22	3.0	48	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#6
+264	1	132.0	132	0.5	1/2	23	4	6	4	23	44.0	D#5	75	False	D	1	0	1.0	True	1	P1-Staff2	6	23	3.0	49	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+264	3	132.0	132	1.5	3/2	23	4	6	4	23	44.0	B#3	60	True	B	1	0	1.0	True	1	P1-Staff2	6	23	3.0	49	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+264	3	132.0	132	1.5	3/2	23	4	6	4	23	44.0	G#3	56	True	G	1	0	1.0	True	1	P1-Staff2	6	23	3.0	49	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+265	1	132.5	265/2	0.5	1/2	23	4	6	4	23	44.167	C#5	73	True	C	1	1/8	1.167	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+266	1	133.0	133	0.5	1/2	23	4	6	4	23	44.333	B#4	72	True	B	1	1/4	1.333	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+267	1	133.5	267/2	0.5	1/2	23	4	6	4	23	44.5	A#4	70	True	A	1	3/8	1.5	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+267	1	133.5	267/2	0.5	1/2	23	4	6	4	23	44.5	C#4	61	True	C	1	3/8	1.5	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+267	1	133.5	267/2	0.5	1/2	23	4	6	4	23	44.5	A#3	58	True	A	1	3/8	1.5	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+268	1	134.0	134	0.5	1/2	23	4	6	4	23	44.667	G#4	68	True	G	1	1/2	1.667	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+268	2	134.0	134	1.0	1	23	4	6	4	23	44.667	D#4	63	True	D	1	1/2	1.667	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+268	2	134.0	134	1.0	1	23	4	6	4	23	44.667	B#3	60	True	B	1	1/2	1.667	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+269	1	134.5	269/2	0.5	1/2	23	4	6	4	23	44.833	F#4	66	True	F	1	5/8	1.833	False	0	P1-Staff2	6	23	3.0	49	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+270	1	135.0	135	0.5	1/2	23	4	6	4	23	45.0	E4	64	True	E	0	3/4	2.0	True	2	P1-Staff2	6	23	3.0	50	i	True	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+270	6	135.0	135	3.0	3	23	4	6	4	23	45.0	C#4	61	True	C	1	3/4	2.0	True	2	P1-Staff2	6	23	3.0	50	i	True	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+270	3	135.0	135	1.5	3/2	23	4	6	4	23	45.0	C#4	61	True	C	1	3/4	2.0	True	2	P1-Staff2	6	23	3.0	50	i	True	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+271	1	135.5	271/2	0.5	1/2	23	4	6	4	23	45.167	D#4	63	True	D	1	7/8	2.167	False	0	P1-Staff2	6	23	3.0	50	i	False	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+272	1	136.0	136	0.5	1/2	23	4	6	4	23	45.333	E4	64	True	E	0	1	2.333	False	0	P1-Staff2	6	23	3.0	50	i	False	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+273	1	136.5	273/2	0.5	1/2	23	4	6	4	23	45.5	G#4	68	True	G	1	9/8	2.5	False	0	P1-Staff2	6	23	3.0	50	i	False	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+273	1	136.5	273/2	0.5	1/2	23	4	6	4	23	45.5	B3	59	True	B	0	9/8	2.5	False	0	P1-Staff2	6	23	3.0	50	i	False	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	7
+274	2	137.0	137	1.0	1	23	4	6	4	23	45.667	C#5	73	True	C	1	5/4	2.667	False	0	P1-Staff2	6	23	3.0	50	i	False	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+274	1	137.0	137	0.5	1/2	23	4	6	4	23	45.667	A3	57	True	A	0	5/4	2.667	False	0	P1-Staff2	6	23	3.0	50	i	False	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	6
+275	1	137.5	275/2	0.5	1/2	23	4	6	4	23	45.833	G#3	56	True	G	1	11/8	2.833	False	0	P1-Staff2	6	23	3.0	50	i	False	('G#', 'C#', 'E')	G#	C#	2	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+276	1	138.0	138	0.5	1/2	24	4	6	4	24	46.0	C#5	73	False	C	1	0	1.0	True	1	P1-Staff2	6	24	3.0	51	iv	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	1
+276	3	138.0	138	1.5	3/2	24	4	6	4	24	46.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	24	3.0	51	iv	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+276	6	138.0	138	3.0	3	24	4	6	4	24	46.0	F#3	54	True	F	1	0	1.0	True	1	P1-Staff2	6	24	3.0	51	iv	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+277	1	138.5	277/2	0.5	1/2	24	4	6	4	24	46.167	B4	71	True	B	0	1/8	1.167	False	0	P1-Staff2	6	24	3.0	51	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	7
+278	1	139.0	139	0.5	1/2	24	4	6	4	24	46.333	A4	69	True	A	0	1/4	1.333	False	0	P1-Staff2	6	24	3.0	51	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+279	1	139.5	279/2	0.5	1/2	24	4	6	4	24	46.5	G#4	68	True	G	1	3/8	1.5	False	0	P1-Staff2	6	24	3.0	51	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	5
+279	1	139.5	279/2	0.5	1/2	24	4	6	4	24	46.5	B3	59	True	B	0	3/8	1.5	False	0	P1-Staff2	6	24	3.0	51	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	7
+280	1	140.0	140	0.5	1/2	24	4	6	4	24	46.667	A4	69	True	A	0	1/2	1.667	False	0	P1-Staff2	6	24	3.0	51	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+280	2	140.0	140	1.0	1	24	4	6	4	24	46.667	C#4	61	True	C	1	1/2	1.667	False	0	P1-Staff2	6	24	3.0	51	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	1
+281	1	140.5	281/2	0.5	1/2	24	4	6	4	24	46.833	F#4	66	True	F	1	5/8	1.833	False	0	P1-Staff2	6	24	3.0	51	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+282	1	141.0	141	0.5	1/2	24	4	6	4	24	47.0	F#5	78	True	F	1	3/4	2.0	True	2	P1-Staff2	6	24	3.0	52	N	True	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	4
+282	6	141.0	141	3.0	3	24	4	6	4	24	47.0	D4	62	True	D	0	3/4	2.0	True	2	P1-Staff2	6	24	3.0	52	N	True	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	b2
+282	3	141.0	141	1.5	3/2	24	4	6	4	24	47.0	F#3	54	False	F	1	3/4	2.0	True	2	P1-Staff2	6	24	3.0	52	N	True	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	4
+283	1	141.5	283/2	0.5	1/2	24	4	6	4	24	47.167	E5	76	True	E	0	7/8	2.167	False	0	P1-Staff2	6	24	3.0	52	N	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	3
+284	1	142.0	142	0.5	1/2	24	4	6	4	24	47.333	D5	74	True	D	0	1	2.333	False	0	P1-Staff2	6	24	3.0	52	N	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	b2
+285	1	142.5	285/2	0.5	1/2	24	4	6	4	24	47.5	C#5	73	True	C	1	9/8	2.5	False	0	P1-Staff2	6	24	3.0	52	N	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	1
+285	1	142.5	285/2	0.5	1/2	24	4	6	4	24	47.5	E3	52	True	E	0	9/8	2.5	False	0	P1-Staff2	6	24	3.0	52	N	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	3
+286	1	143.0	143	0.5	1/2	24	4	6	4	24	47.667	D5	74	True	D	0	5/4	2.667	False	0	P1-Staff2	6	24	3.0	52	N	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	b2
+286	2	143.0	143	1.0	1	24	4	6	4	24	47.667	F#3	54	True	F	1	5/4	2.667	False	0	P1-Staff2	6	24	3.0	52	N	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	4
+287	1	143.5	287/2	0.5	1/2	24	4	6	4	24	47.833	A4	69	True	A	0	11/8	2.833	False	0	P1-Staff2	6	24	3.0	52	N	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	c#	c#	-2	None	N	True	6
+288	1	144.0	144	0.5	1/2	25	4	6	4	25	48.0	A5	81	True	A	0	0	1.0	True	1	P1-Staff2	6	25	3.0	53	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	6
+288	6	144.0	144	3.0	3	25	4	6	4	25	48.0	B#3	60	True	B	1	0	1.0	True	1	P1-Staff2	6	25	3.0	53	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#7
+288	3	144.0	144	1.5	3/2	25	4	6	4	25	48.0	D#3	51	True	D	1	0	1.0	True	1	P1-Staff2	6	25	3.0	53	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+289	1	144.5	289/2	0.5	1/2	25	4	6	4	25	48.167	G#5	80	True	G	1	1/8	1.167	False	0	P1-Staff2	6	25	3.0	53	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	5
+290	1	145.0	145	0.5	1/2	25	4	6	4	25	48.333	F#5	78	True	F	1	1/4	1.333	False	0	P1-Staff2	6	25	3.0	53	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+291	1	145.5	291/2	0.5	1/2	25	4	6	4	25	48.5	E5	76	True	E	0	3/8	1.5	False	0	P1-Staff2	6	25	3.0	53	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	3
+291	1	145.5	291/2	0.5	1/2	25	4	6	4	25	48.5	F#3	54	True	F	1	3/8	1.5	False	0	P1-Staff2	6	25	3.0	53	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+292	1	146.0	146	0.5	1/2	25	4	6	4	25	48.667	F#5	78	True	F	1	1/2	1.667	False	0	P1-Staff2	6	25	3.0	53	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+292	2	146.0	146	1.0	1	25	4	6	4	25	48.667	A3	57	True	A	0	1/2	1.667	False	0	P1-Staff2	6	25	3.0	53	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	6
+293	1	146.5	293/2	0.5	1/2	25	4	6	4	25	48.833	D#5	75	True	D	1	5/8	1.833	False	0	P1-Staff2	6	25	3.0	53	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+294	4	147.0	147	2.0	2	25	4	6	4	25	49.0	B#5	84	True	B	1	3/4	2.0	True	2	P1-Staff2	6	25	3.0	54	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+294	6	147.0	147	3.0	3	25	4	6	4	25	49.0	D#5	75	False	D	1	3/4	2.0	True	2	P1-Staff2	6	25	3.0	54	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+294	2	147.0	147	1.0	1	25	4	6	4	25	49.0	F#4	66	True	F	1	3/4	2.0	True	2	P1-Staff2	6	25	3.0	54	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+294	1	147.0	147	0.5	1/2	25	4	6	4	25	49.0	A3	57	False	A	0	3/4	2.0	True	2	P1-Staff2	6	25	3.0	54	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	6
+295	1	147.5	295/2	0.5	1/2	25	4	6	4	25	49.167	G#3	56	True	G	1	7/8	2.167	False	0	P1-Staff2	6	25	3.0	54	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+296	1	148.0	148	0.5	1/2	25	4	6	4	25	49.333	F#3	54	True	F	1	1	2.333	False	0	P1-Staff2	6	25	3.0	54	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+297	1	148.5	297/2	0.5	1/2	25	4	6	4	25	49.5	E3	52	True	E	0	9/8	2.5	False	0	P1-Staff2	6	25	3.0	54	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+298	2	149.0	149	1.0	1	25	4	6	4	25	49.667	G#5	80	True	G	1	5/4	2.667	False	0	P1-Staff2	6	25	3.0	54	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+298	1	149.0	149	0.5	1/2	25	4	6	4	25	49.667	F#3	54	True	F	1	5/4	2.667	False	0	P1-Staff2	6	25	3.0	54	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+299	1	149.5	299/2	0.5	1/2	25	4	6	4	25	49.833	D#3	51	True	D	1	11/8	2.833	False	0	P1-Staff2	6	25	3.0	54	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+300	6	150.0	150	3.0	3	26	4	6	4	26	50.0	G#5	80	True	G	1	0	1.0	True	1	P1-Staff2	2	26	6.0	55	bVI7	True	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	5
+300	3	150.0	150	1.5	3/2	26	4	6	4	26	50.0	D#5	75	False	D	1	0	1.0	True	1	P1-Staff2	2	26	6.0	55	bVI7	True	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	2
+300	1	150.0	150	0.5	1/2	26	4	6	4	26	50.0	E3	52	True	E	0	0	1.0	True	1	P1-Staff2	2	26	6.0	55	bVI7	True	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	3
+301	1	150.5	301/2	0.5	1/2	26	4	6	4	26	50.167	D#3	51	True	D	1	1/8	1.167	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	2
+302	1	151.0	151	0.5	1/2	26	4	6	4	26	50.333	C#3	49	True	C	1	1/4	1.333	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	1
+303	1	151.5	303/2	0.5	1/2	26	4	6	4	26	50.5	E5	76	True	E	0	3/8	1.5	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	3
+303	1	151.5	303/2	0.5	1/2	26	4	6	4	26	50.5	B2	47	True	B	0	3/8	1.5	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	7
+304	2	152.0	152	1.0	1	26	4	6	4	26	50.667	B#4	72	True	B	1	1/2	1.667	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	#7
+304	1	152.0	152	0.5	1/2	26	4	6	4	26	50.667	C#3	49	True	C	1	1/2	1.667	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	1
+305	1	152.5	305/2	0.5	1/2	26	4	6	4	26	50.833	A2	45	True	A	0	5/8	1.833	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	6
+306	1	153.0	153	0.5	1/2	26	4	6	4	26	51.0	G#5	80	False	G	1	3/4	2.0	True	2	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	5
+306	6	153.0	153	3.0	3	26	4	6	4	26	51.0	C#5	73	True	C	1	3/4	2.0	True	2	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	1
+306	6	153.0	153	3.0	3	26	4	6	4	26	51.0	A3	57	True	A	0	3/4	2.0	True	2	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	6
+307	1	153.5	307/2	0.5	1/2	26	4	6	4	26	51.167	F#5	78	True	F	1	7/8	2.167	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	4
+308	1	154.0	154	0.5	1/2	26	4	6	4	26	51.333	E5	76	True	E	0	1	2.333	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	3
+309	1	154.5	309/2	0.5	1/2	26	4	6	4	26	51.5	D#5	75	True	D	1	9/8	2.5	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	2
+310	1	155.0	155	0.5	1/2	26	4	6	4	26	51.667	E5	76	True	E	0	5/4	2.667	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	3
+311	1	155.5	311/2	0.5	1/2	26	4	6	4	26	51.833	C#5	73	True	C	1	11/8	2.833	False	0	P1-Staff2	2	26	6.0	55	bVI7	False	('A', 'C#', 'E', 'G#')	A	A	0	major seventh chord	(1, 4, 8, 9)	c#	c#	6	None	bVI7	True	1
+312	6	156.0	156	3.0	3	27	4	6	4	27	52.0	F#5	78	True	F	1	0	1.0	True	1	P1-Staff2	2	27	3.0	56	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+312	3	156.0	156	1.5	3/2	27	4	6	4	27	52.0	C#5	73	False	C	1	0	1.0	True	1	P1-Staff2	2	27	3.0	56	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+312	1	156.0	156	0.5	1/2	27	4	6	4	27	52.0	A3	57	False	A	0	0	1.0	True	1	P1-Staff2	2	27	3.0	56	viio7	True	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	6
+313	1	156.5	313/2	0.5	1/2	27	4	6	4	27	52.167	G#3	56	True	G	1	1/8	1.167	False	0	P1-Staff2	2	27	3.0	56	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	5
+314	1	157.0	157	0.5	1/2	27	4	6	4	27	52.333	F#3	54	True	F	1	1/4	1.333	False	0	P1-Staff2	2	27	3.0	56	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+315	1	157.5	315/2	0.5	1/2	27	4	6	4	27	52.5	B#4	72	True	B	1	3/8	1.5	False	0	P1-Staff2	2	27	3.0	56	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#7
+315	1	157.5	315/2	0.5	1/2	27	4	6	4	27	52.5	E3	52	True	E	0	3/8	1.5	False	0	P1-Staff2	2	27	3.0	56	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	3
+316	2	158.0	158	1.0	1	27	4	6	4	27	52.667	D#5	75	True	D	1	1/2	1.667	False	0	P1-Staff2	2	27	3.0	56	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+316	1	158.0	158	0.5	1/2	27	4	6	4	27	52.667	F#3	54	True	F	1	1/2	1.667	False	0	P1-Staff2	2	27	3.0	56	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+317	1	158.5	317/2	0.5	1/2	27	4	6	4	27	52.833	D#3	51	True	D	1	5/8	1.833	False	0	P1-Staff2	2	27	3.0	56	viio7	False	('D#', 'F#', 'A', 'B#')	D#	B#	1	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+318	1	159.0	159	0.5	1/2	27	4	6	4	27	53.0	F#5	78	False	F	1	3/4	2.0	True	2	P1-Staff2	2	27	3.0	57	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+318	6	159.0	159	3.0	3	27	4	6	4	27	53.0	G#4	68	True	G	1	3/4	2.0	True	2	P1-Staff2	2	27	3.0	57	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+318	6	159.0	159	3.0	3	27	4	6	4	27	53.0	B#3	60	True	B	1	3/4	2.0	True	2	P1-Staff2	2	27	3.0	57	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+319	1	159.5	319/2	0.5	1/2	27	4	6	4	27	53.167	E5	76	True	E	0	7/8	2.167	False	0	P1-Staff2	2	27	3.0	57	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+320	1	160.0	160	0.5	1/2	27	4	6	4	27	53.333	D#5	75	True	D	1	1	2.333	False	0	P1-Staff2	2	27	3.0	57	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+321	1	160.5	321/2	0.5	1/2	27	4	6	4	27	53.5	C#5	73	True	C	1	9/8	2.5	False	0	P1-Staff2	2	27	3.0	57	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+322	1	161.0	161	0.5	1/2	27	4	6	4	27	53.667	D#5	75	True	D	1	5/4	2.667	False	0	P1-Staff2	2	27	3.0	57	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+323	1	161.5	323/2	0.5	1/2	27	4	6	4	27	53.833	G#4	68	True	G	1	11/8	2.833	False	0	P1-Staff2	2	27	3.0	57	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+324	6	162.0	162	3.0	3	28	4	6	4	28	54.0	E5	76	True	E	0	0	1.0	True	1	P1-Staff2	2	28	2.0	58	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+324	3	162.0	162	1.5	3/2	28	4	6	4	28	54.0	G#4	68	False	G	1	0	1.0	True	1	P1-Staff2	2	28	2.0	58	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+324	1	162.0	162	0.5	1/2	28	4	6	4	28	54.0	C#4	61	True	C	1	0	1.0	True	1	P1-Staff2	2	28	2.0	58	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+325	1	162.5	325/2	0.5	1/2	28	4	6	4	28	54.167	B3	59	True	B	0	1/8	1.167	False	0	P1-Staff2	2	28	2.0	58	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	7
+326	1	163.0	163	0.5	1/2	28	4	6	4	28	54.333	A3	57	True	A	0	1/4	1.333	False	0	P1-Staff2	2	28	2.0	58	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	6
+327	1	163.5	327/2	0.5	1/2	28	4	6	4	28	54.5	C#5	73	True	C	1	3/8	1.5	False	0	P1-Staff2	2	28	2.0	58	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+327	1	163.5	327/2	0.5	1/2	28	4	6	4	28	54.5	G#3	56	True	G	1	3/8	1.5	False	0	P1-Staff2	2	28	2.0	58	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+328	1	164.0	164	0.5	1/2	28	4	6	4	28	54.667	F#4	66	True	F	1	1/2	1.667	False	0	P1-Staff2	2	28	1.0	59	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	4
+328	1	164.0	164	0.5	1/2	28	4	6	4	28	54.667	A3	57	True	A	0	1/2	1.667	False	0	P1-Staff2	2	28	1.0	59	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	6
+329	1	164.5	329/2	0.5	1/2	28	4	6	4	28	54.833	G#4	68	True	G	1	5/8	1.833	False	0	P1-Staff2	2	28	1.0	59	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	5
+329	1	164.5	329/2	0.5	1/2	28	4	6	4	28	54.833	F#3	54	True	F	1	5/8	1.833	False	0	P1-Staff2	2	28	1.0	59	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	4
+330	1	165.0	165	0.5	1/2	28	4	6	4	28	55.0	E5	76	False	E	0	3/4	2.0	True	2	P1-Staff2	2	28	3.0	60	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	3
+330	6	165.0	165	3.0	3	28	4	6	4	28	55.0	A4	69	True	A	0	3/4	2.0	True	2	P1-Staff2	2	28	3.0	60	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	6
+330	6	165.0	165	3.0	3	28	4	6	4	28	55.0	F#4	66	True	F	1	3/4	2.0	True	2	P1-Staff2	2	28	3.0	60	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	4
+331	1	165.5	331/2	0.5	1/2	28	4	6	4	28	55.167	D#5	75	True	D	1	7/8	2.167	False	0	P1-Staff2	2	28	3.0	60	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	2
+332	1	166.0	166	0.5	1/2	28	4	6	4	28	55.333	E5	76	True	E	0	1	2.333	False	0	P1-Staff2	2	28	3.0	60	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	3
+333	1	166.5	333/2	0.5	1/2	28	4	6	4	28	55.5	F#5	78	True	F	1	9/8	2.5	False	0	P1-Staff2	2	28	3.0	60	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	4
+334	1	167.0	167	0.5	1/2	28	4	6	4	28	55.667	G#5	80	True	G	1	5/4	2.667	False	0	P1-Staff2	2	28	3.0	60	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	5
+335	1	167.5	335/2	0.5	1/2	28	4	6	4	28	55.833	A5	81	True	A	0	11/8	2.833	False	0	P1-Staff2	2	28	3.0	60	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	6
+336	3	168.0	168	1.5	3/2	29	4	6	4	29	56.0	B#4	72	True	B	1	0	1.0	True	1	P1-Staff2	2	29	3.0	61	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+336	6	168.0	168	3.0	3	29	4	6	4	29	56.0	G#4	68	True	G	1	0	1.0	True	1	P1-Staff2	2	29	3.0	61	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+336	1	168.0	168	0.5	1/2	29	4	6	4	29	56.0	F#4	66	False	F	1	0	1.0	True	1	P1-Staff2	2	29	3.0	61	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+337	1	168.5	337/2	0.5	1/2	29	4	6	4	29	56.167	E4	64	True	E	0	1/8	1.167	False	0	P1-Staff2	2	29	3.0	61	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+338	1	169.0	169	0.5	1/2	29	4	6	4	29	56.333	D#4	63	True	D	1	1/4	1.333	False	0	P1-Staff2	2	29	3.0	61	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+339	1	169.5	339/2	0.5	1/2	29	4	6	4	29	56.5	C#5	73	True	C	1	3/8	1.5	False	0	P1-Staff2	2	29	3.0	61	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+339	1	169.5	339/2	0.5	1/2	29	4	6	4	29	56.5	C#4	61	True	C	1	3/8	1.5	False	0	P1-Staff2	2	29	3.0	61	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+340	2	170.0	170	1.0	1	29	4	6	4	29	56.667	D#5	75	True	D	1	1/2	1.667	False	0	P1-Staff2	2	29	3.0	61	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+340	1	170.0	170	0.5	1/2	29	4	6	4	29	56.667	B#3	60	True	B	1	1/2	1.667	False	0	P1-Staff2	2	29	3.0	61	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+341	1	170.5	341/2	0.5	1/2	29	4	6	4	29	56.833	A#3	58	True	A	1	5/8	1.833	False	0	P1-Staff2	2	29	3.0	61	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+342	6	171.0	171	3.0	3	29	4	6	4	29	57.0	F#4	66	True	F	1	3/4	2.0	True	2	P1-Staff2	2	29	3.0	62	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+342	6	171.0	171	3.0	3	29	4	6	4	29	57.0	B#3	60	True	B	1	3/4	2.0	True	2	P1-Staff2	1	29	3.0	62	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+342	6	171.0	171	3.0	3	29	4	6	4	29	57.0	D#4	63	True	D	1	3/4	2.0	True	2	P1-Staff2	1	29	3.0	62	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+342	1	171.0	171	0.5	1/2	29	4	6	4	29	57.0	G#3	56	True	G	1	3/4	2.0	True	2	P1-Staff2	2	29	3.0	62	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+343	1	171.5	343/2	0.5	1/2	29	4	6	4	29	57.167	F#3	54	True	F	1	7/8	2.167	False	0	P1-Staff2	2	29	3.0	62	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+344	1	172.0	172	0.5	1/2	29	4	6	4	29	57.333	E3	52	True	E	0	1	2.333	False	0	P1-Staff2	2	29	3.0	62	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+345	1	172.5	345/2	0.5	1/2	29	4	6	4	29	57.5	D#3	51	True	D	1	9/8	2.5	False	0	P1-Staff2	2	29	3.0	62	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+346	1	173.0	173	0.5	1/2	29	4	6	4	29	57.667	C#3	49	True	C	1	5/4	2.667	False	0	P1-Staff2	2	29	3.0	62	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+347	1	173.5	347/2	0.5	1/2	29	4	6	4	29	57.833	B2	47	True	B	0	11/8	2.833	False	0	P1-Staff2	2	29	3.0	62	V7	False	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	7
+348	1	174.0	174	0.5	1/2	30	4	6	4	30	58.0	F#4	66	False	F	1	0	1.0	True	1	P1-Staff2	2	30	2.0	63	iio	True	('A', 'D#', 'F#')	A	D#	2	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	4
+348	3	174.0	174	1.5	3/2	30	4	6	4	30	58.0	A2	45	True	A	0	0	1.0	True	1	P1-Staff2	2	30	2.0	63	iio	True	('A', 'D#', 'F#')	A	D#	2	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	6
+349	1	174.5	349/2	0.5	1/2	30	4	6	4	30	58.167	E4	64	True	E	0	1/8	1.167	False	0	P1-Staff2	2	30	2.0	63	iio	False	('A', 'D#', 'F#')	A	D#	2	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	3
+350	1	175.0	175	0.5	1/2	30	4	6	4	30	58.333	D#4	63	True	D	1	1/4	1.333	False	0	P1-Staff2	2	30	2.0	63	iio	False	('A', 'D#', 'F#')	A	D#	2	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	2
+351	1	175.5	351/2	0.5	1/2	30	4	6	4	30	58.5	C#4	61	True	C	1	3/8	1.5	False	0	P1-Staff2	2	30	2.0	63	iio	False	('A', 'D#', 'F#')	A	D#	2	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	1
+351	1	175.5	351/2	0.5	1/2	30	4	6	4	30	58.5	B2	47	True	B	0	3/8	1.5	False	0	P1-Staff2	2	30	2.0	63	iio	False	('A', 'D#', 'F#')	A	D#	2	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	7
+352	1	176.0	176	0.5	1/2	30	4	6	4	30	58.667	D#4	63	True	D	1	1/2	1.667	False	0	P1-Staff2	2	30	1.0	64	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	2
+352	2	176.0	176	1.0	1	30	4	6	4	30	58.667	G#2	44	True	G	1	1/2	1.667	False	0	P1-Staff2	2	30	1.0	64	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	5
+353	1	176.5	353/2	0.5	1/2	30	4	6	4	30	58.833	B#3	60	True	B	1	5/8	1.833	False	0	P1-Staff2	2	30	1.0	64	V	False	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	#7
+354	1	177.0	177	0.5	1/2	30	4	6	4	30	59.0	A4	69	True	A	0	3/4	2.0	True	2	P1-Staff2	2	30	3.0	65	iio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	6
+354	3	177.0	177	1.5	3/2	30	4	6	4	30	59.0	F#2	42	True	F	1	3/4	2.0	True	2	P1-Staff2	2	30	3.0	65	iio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	4
+355	1	177.5	355/2	0.5	1/2	30	4	6	4	30	59.167	G#4	68	True	G	1	7/8	2.167	False	0	P1-Staff2	2	30	3.0	65	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	5
+356	1	178.0	178	0.5	1/2	30	4	6	4	30	59.333	F#4	66	True	F	1	1	2.333	False	0	P1-Staff2	2	30	3.0	65	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	4
+357	1	178.5	357/2	0.5	1/2	30	4	6	4	30	59.5	E4	64	True	E	0	9/8	2.5	False	0	P1-Staff2	2	30	3.0	65	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	3
+357	1	178.5	357/2	0.5	1/2	30	4	6	4	30	59.5	G#2	44	True	G	1	9/8	2.5	False	0	P1-Staff2	2	30	3.0	65	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	5
+358	1	179.0	179	0.5	1/2	30	4	6	4	30	59.667	F#4	66	True	F	1	5/4	2.667	False	0	P1-Staff2	2	30	3.0	65	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	4
+358	2	179.0	179	1.0	1	30	4	6	4	30	59.667	E2	40	True	E	0	5/4	2.667	False	0	P1-Staff2	2	30	3.0	65	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	3
+359	1	179.5	359/2	0.5	1/2	30	4	6	4	30	59.833	D#4	63	True	D	1	11/8	2.833	False	0	P1-Staff2	2	30	3.0	65	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	2
+360	1	180.0	180	0.5	1/2	31	4	6	4	31	60.0	B#4	72	True	B	1	0	1.0	True	1	P1-Staff2	2	31	3.0	66	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+360	3	180.0	180	1.5	3/2	31	4	6	4	31	60.0	D#2	39	True	D	1	0	1.0	True	1	P1-Staff2	2	31	3.0	66	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+361	1	180.5	361/2	0.5	1/2	31	4	6	4	31	60.167	A4	69	True	A	0	1/8	1.167	False	0	P1-Staff2	2	31	3.0	66	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	6
+362	1	181.0	181	0.5	1/2	31	4	6	4	31	60.333	G#4	68	True	G	1	1/4	1.333	False	0	P1-Staff2	2	31	3.0	66	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+363	1	181.5	363/2	0.5	1/2	31	4	6	4	31	60.5	F#4	66	True	F	1	3/8	1.5	False	0	P1-Staff2	2	31	3.0	66	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+363	1	181.5	363/2	0.5	1/2	31	4	6	4	31	60.5	E2	40	True	E	0	3/8	1.5	False	0	P1-Staff2	2	31	3.0	66	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	3
+364	1	182.0	182	0.5	1/2	31	4	6	4	31	60.667	G#4	68	True	G	1	1/2	1.667	False	0	P1-Staff2	2	31	3.0	66	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+364	2	182.0	182	1.0	1	31	4	6	4	31	60.667	F#2	42	True	F	1	1/2	1.667	False	0	P1-Staff2	2	31	3.0	66	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+365	1	182.5	365/2	0.5	1/2	31	4	6	4	31	60.833	D#4	63	True	D	1	5/8	1.833	False	0	P1-Staff2	2	31	3.0	66	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+366	1	183.0	183	0.5	1/2	31	4	6	4	31	61.0	D#5	75	True	D	1	3/4	2.0	True	2	P1-Staff2	2	31	3.0	67	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+366	3	183.0	183	1.5	3/2	31	4	6	4	31	61.0	B#1	36	True	B	1	3/4	2.0	True	2	P1-Staff2	2	31	3.0	67	V7	True	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+367	1	183.5	367/2	0.5	1/2	31	4	6	4	31	61.167	C#5	73	True	C	1	7/8	2.167	False	0	P1-Staff2	2	31	3.0	67	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	1
+368	1	184.0	184	0.5	1/2	31	4	6	4	31	61.333	B#4	72	True	B	1	1	2.333	False	0	P1-Staff2	2	31	3.0	67	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+369	1	184.5	369/2	0.5	1/2	31	4	6	4	31	61.5	A#4	70	True	A	1	9/8	2.5	False	0	P1-Staff2	2	31	3.0	67	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#6
+369	1	184.5	369/2	0.5	1/2	31	4	6	4	31	61.5	D#2	39	True	D	1	9/8	2.5	False	0	P1-Staff2	2	31	3.0	67	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+370	1	185.0	185	0.5	1/2	31	4	6	4	31	61.667	B#4	72	True	B	1	5/4	2.667	False	0	P1-Staff2	2	31	3.0	67	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+370	2	185.0	185	1.0	1	31	4	6	4	31	61.667	F#2	42	True	F	1	5/4	2.667	False	0	P1-Staff2	2	31	3.0	67	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+371	1	185.5	371/2	0.5	1/2	31	4	6	4	31	61.833	G#4	68	True	G	1	11/8	2.833	False	0	P1-Staff2	2	31	3.0	67	V7	False	('B#', 'D#', 'F#', 'G#')	B#	G#	1	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+372	2	186.0	186	1.0	1	32	4	6	4	32	62.0	G#5	80	True	G	1	0	1.0	True	1	P1-Staff2	2	32	2.0	68	III	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	c#	c#	3	None	III	True	5
+372	1	186.0	186	0.5	1/2	32	4	6	4	32	62.0	E2	40	True	E	0	0	1.0	True	1	P1-Staff2	2	32	2.0	68	III	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	c#	c#	3	None	III	True	3
+373	1	186.5	373/2	0.5	1/2	32	4	6	4	32	62.167	E3	52	True	E	0	1/8	1.167	False	0	P1-Staff2	2	32	2.0	68	III	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	c#	c#	3	None	III	True	3
+374	1	187.0	187	0.5	1/2	32	4	6	4	32	62.333	F#5	78	True	F	1	1/4	1.333	False	0	P1-Staff2	2	32	2.0	68	III	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	c#	c#	3	None	III	True	4
+374	1	187.0	187	0.5	1/2	32	4	6	4	32	62.333	F#3	54	True	F	1	1/4	1.333	False	0	P1-Staff2	2	32	2.0	68	III	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	c#	c#	3	None	III	True	4
+375	1	187.5	375/2	0.5	1/2	32	4	6	4	32	62.5	E5	76	True	E	0	3/8	1.5	False	0	P1-Staff2	2	32	2.0	68	III	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	c#	c#	3	None	III	True	3
+375	1	187.5	375/2	0.5	1/2	32	4	6	4	32	62.5	G#3	56	True	G	1	3/8	1.5	False	0	P1-Staff2	2	32	2.0	68	III	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	c#	c#	3	None	III	True	5
+376	1	188.0	188	0.5	1/2	32	4	6	4	32	62.667	D#5	75	True	D	1	1/2	1.667	False	0	P1-Staff2	2	32	1.0	69	iio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	2
+376	1	188.0	188	0.5	1/2	32	4	6	4	32	62.667	A3	57	True	A	0	1/2	1.667	False	0	P1-Staff2	2	32	1.0	69	iio	True	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	6
+377	1	188.5	377/2	0.5	1/2	32	4	6	4	32	62.833	C#5	73	True	C	1	5/8	1.833	False	0	P1-Staff2	2	32	1.0	69	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	1
+377	1	188.5	377/2	0.5	1/2	32	4	6	4	32	62.833	F#3	54	True	F	1	5/8	1.833	False	0	P1-Staff2	2	32	1.0	69	iio	False	('F#', 'A', 'D#')	F#	D#	1	diminished triad	(3, 6, 9)	c#	c#	2	None	iio	True	4
+378	1	189.0	189	0.5	1/2	32	4	6	4	32	63.0	B#4	72	True	B	1	3/4	2.0	True	2	P1-Staff2	2	32	3.0	70	viio7	True	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#7
+378	1	189.0	189	0.5	1/2	32	4	6	4	32	63.0	D#3	51	True	D	1	3/4	2.0	True	2	P1-Staff2	2	32	3.0	70	viio7	True	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+379	1	189.5	379/2	0.5	1/2	32	4	6	4	32	63.167	C#5	73	True	C	1	7/8	2.167	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+379	1	189.5	379/2	0.5	1/2	32	4	6	4	32	63.167	E3	52	True	E	0	7/8	2.167	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	3
+380	1	190.0	190	0.5	1/2	32	4	6	4	32	63.333	D#5	75	True	D	1	1	2.333	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+380	1	190.0	190	0.5	1/2	32	4	6	4	32	63.333	F#3	54	True	F	1	1	2.333	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+381	1	190.5	381/2	0.5	1/2	32	4	6	4	32	63.5	F#5	78	True	F	1	9/8	2.5	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+381	1	190.5	381/2	0.5	1/2	32	4	6	4	32	63.5	D#3	51	True	D	1	9/8	2.5	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+382	2	191.0	191	1.0	1	32	4	6	4	32	63.667	A4	69	True	A	0	5/4	2.667	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	6
+382	1	191.0	191	0.5	1/2	32	4	6	4	32	63.667	B#2	48	True	B	1	5/4	2.667	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#7
+383	1	191.5	383/2	0.5	1/2	32	4	6	4	32	63.833	C#3	49	True	C	1	11/8	2.833	False	0	P1-Staff2	2	32	3.0	70	viio7	False	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+384	1	192.0	192	0.5	1/2	33	4	6	4	33	64.0	A4	69	False	A	0	0	1.0	True	1	P1-Staff2	2	33	6.0	71	V9	True	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	6
+384	1	192.0	192	0.5	1/2	33	4	6	4	33	64.0	D#3	51	True	D	1	0	1.0	True	1	P1-Staff2	2	33	6.0	71	V9	True	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	2
+385	1	192.5	385/2	0.5	1/2	33	4	6	4	33	64.167	G#4	68	True	G	1	1/8	1.167	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	5
+385	1	192.5	385/2	0.5	1/2	33	4	6	4	33	64.167	B#2	48	True	B	1	1/8	1.167	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	#7
+386	1	193.0	193	0.5	1/2	33	4	6	4	33	64.333	A4	69	True	A	0	1/4	1.333	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	6
+386	1	193.0	193	0.5	1/2	33	4	6	4	33	64.333	G#2	44	True	G	1	1/4	1.333	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	5
+387	1	193.5	387/2	0.5	1/2	33	4	6	4	33	64.5	F#4	66	True	F	1	3/8	1.5	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	4
+387	1	193.5	387/2	0.5	1/2	33	4	6	4	33	64.5	A#2	46	True	A	1	3/8	1.5	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	#6
+388	2	194.0	194	1.0	1	33	4	6	4	33	64.667	A5	81	True	A	0	1/2	1.667	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	6
+388	1	194.0	194	0.5	1/2	33	4	6	4	33	64.667	B#2	48	True	B	1	1/2	1.667	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	#7
+389	1	194.5	389/2	0.5	1/2	33	4	6	4	33	64.833	C#3	49	True	C	1	5/8	1.833	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	1
+390	2	195.0	195	1.0	1	33	4	6	4	33	65.0	A5	81	False	A	0	3/4	2.0	True	2	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	6
+390	1	195.0	195	0.5	1/2	33	4	6	4	33	65.0	D#3	51	True	D	1	3/4	2.0	True	2	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	2
+391	1	195.5	391/2	0.5	1/2	33	4	6	4	33	65.167	E3	52	True	E	0	7/8	2.167	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	3
+392	1	196.0	196	0.5	1/2	33	4	6	4	33	65.333	G#5	80	True	G	1	1	2.333	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	5
+392	1	196.0	196	0.5	1/2	33	4	6	4	33	65.333	F#3	54	True	F	1	1	2.333	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	4
+393	1	196.5	393/2	0.5	1/2	33	4	6	4	33	65.5	F#5	78	True	F	1	9/8	2.5	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	4
+393	1	196.5	393/2	0.5	1/2	33	4	6	4	33	65.5	G#3	56	True	G	1	9/8	2.5	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	5
+394	1	197.0	197	0.5	1/2	33	4	6	4	33	65.667	E5	76	True	E	0	5/4	2.667	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	3
+394	1	197.0	197	0.5	1/2	33	4	6	4	33	65.667	A#3	58	True	A	1	5/4	2.667	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	#6
+395	1	197.5	395/2	0.5	1/2	33	4	6	4	33	65.833	D#5	75	True	D	1	11/8	2.833	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	2
+395	1	197.5	395/2	0.5	1/2	33	4	6	4	33	65.833	B#3	60	True	B	1	11/8	2.833	False	0	P1-Staff2	2	33	6.0	71	V9	False	('G#', 'B#', 'D#', 'F#', 'A')	G#	G#	0	flat-ninth pentachord	(0, 3, 6, 8, 9)	c#	c#	5	None	V9	True	#7
+396	4	198.0	198	2.0	2	34	4	6	4	34	66.0	E5	76	True	E	0	0	1.0	True	1	P1-Staff2	6	34	2.0	72	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+396	1	198.0	198	0.5	1/2	34	4	6	4	34	66.0	C#4	61	True	C	1	0	1.0	True	1	P1-Staff2	6	34	2.0	72	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+397	1	198.5	397/2	0.5	1/2	34	4	6	4	34	66.167	D#5	75	True	D	1	1/8	1.167	False	0	P1-Staff2	6	34	2.0	72	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+397	1	198.5	397/2	0.5	1/2	34	4	6	4	34	66.167	B3	59	True	B	0	1/8	1.167	False	0	P1-Staff2	6	34	2.0	72	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	7
+398	1	199.0	199	0.5	1/2	34	4	6	4	34	66.333	C#5	73	True	C	1	1/4	1.333	False	0	P1-Staff2	6	34	2.0	72	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+398	1	199.0	199	0.5	1/2	34	4	6	4	34	66.333	A3	57	True	A	0	1/4	1.333	False	0	P1-Staff2	6	34	2.0	72	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	6
+399	1	199.5	399/2	0.5	1/2	34	4	6	4	34	66.5	B#4	72	True	B	1	3/8	1.5	False	0	P1-Staff2	6	34	2.0	72	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	#7
+399	1	199.5	399/2	0.5	1/2	34	4	6	4	34	66.5	G#3	56	True	G	1	3/8	1.5	False	0	P1-Staff2	6	34	2.0	72	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+400	1	200.0	200	0.5	1/2	34	4	6	4	34	66.667	E5	76	False	E	0	1/2	1.667	False	0	P1-Staff2	6	34	1.0	73	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	3
+400	2	200.0	200	1.0	1	34	4	6	4	34	66.667	C#5	73	True	C	1	1/2	1.667	False	0	P1-Staff2	6	34	1.0	73	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	1
+400	1	200.0	200	0.5	1/2	34	4	6	4	34	66.667	A3	57	True	A	0	1/2	1.667	False	0	P1-Staff2	6	34	1.0	73	iv7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	6
+401	1	200.5	401/2	0.5	1/2	34	4	6	4	34	66.833	A5	81	True	A	0	5/8	1.833	False	0	P1-Staff2	6	34	1.0	73	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	6
+401	1	200.5	401/2	0.5	1/2	34	4	6	4	34	66.833	F#3	54	True	F	1	5/8	1.833	False	0	P1-Staff2	6	34	1.0	73	iv7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	c#	c#	4	None	iv7	True	4
+402	3	201.0	201	1.5	3/2	34	4	6	4	34	67.0	E5	76	True	E	0	3/4	2.0	True	2	P1-Staff2	6	34	2.0	74	V	True	('G#', 'C#', 'E')	G#	G#	0	major triad	(1, 4, 8)	c#	c#	5	None	V	True	3
+402	4	201.0	201	2.0	2	34	4	6	4	34	67.0	C#5	73	True	C	1	3/4	2.0	True	2	P1-Staff2	6	34	2.0	74	V	True	('G#', 'C#', 'E')	G#	G#	0	major triad	(1, 4, 8)	c#	c#	5	None	V	True	1
+402	6	201.0	201	3.0	3	34	4	6	4	34	67.0	G#3	56	True	G	1	3/4	2.0	True	2	P1-Staff2	6	34	2.0	74	V	True	('G#', 'C#', 'E')	G#	G#	0	major triad	(1, 4, 8)	c#	c#	5	None	V	True	5
+402	4	201.0	201	2.0	2	34	4	6	4	34	67.0	G#3	56	True	G	1	3/4	2.0	True	2	P1-Staff2	6	34	2.0	74	V	True	('G#', 'C#', 'E')	G#	G#	0	major triad	(1, 4, 8)	c#	c#	5	None	V	True	5
+405	1	202.5	405/2	0.5	1/2	34	4	6	4	34	67.5	F#5	78	True	F	1	9/8	2.5	False	0	P1-Staff2	6	34	2.0	74	V	False	('G#', 'C#', 'E')	G#	G#	0	major triad	(1, 4, 8)	c#	c#	5	None	V	True	4
+406	2	203.0	203	1.0	1	34	4	6	4	34	67.667	D#5	75	True	D	1	5/4	2.667	False	0	P1-Staff2	6	34	1.0	75	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	2
+406	2	203.0	203	1.0	1	34	4	6	4	34	67.667	B#4	72	True	B	1	5/4	2.667	False	0	P1-Staff2	6	34	1.0	75	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	#7
+406	2	203.0	203	1.0	1	34	4	6	4	34	67.667	G#2	44	True	G	1	5/4	2.667	False	0	P1-Staff2	6	34	1.0	75	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	5
+408	6	204.0	204	3.0	3	35	4	6	4	35	68.0	C#5	73	True	C	1	0	1.0	True	1	P1-Staff2	6	35	2.0	76	ii7	True	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	4
+408	1	204.0	204	0.5	1/2	35	4	6	4	35	68.0	G#3	56	False	G	1	0	1.0	True	1	P1-Staff2	6	35	2.0	76	ii7	True	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	1
+408	6	204.0	204	3.0	3	35	4	6	4	35	68.0	A#2	46	True	A	1	0	1.0	True	1	P1-Staff2	6	35	2.0	76	ii7	True	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	2
+409	1	204.5	409/2	0.5	1/2	35	4	6	4	35	68.167	B4	71	True	B	0	1/8	1.167	False	0	P1-Staff2	6	35	2.0	76	ii7	False	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	3
+409	1	204.5	409/2	0.5	1/2	35	4	6	4	35	68.167	G#3	56	True	G	1	1/8	1.167	False	0	P1-Staff2	6	35	2.0	76	ii7	False	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	1
+410	1	205.0	205	0.5	1/2	35	4	6	4	35	68.333	A#4	70	True	A	1	1/4	1.333	False	0	P1-Staff2	6	35	2.0	76	ii7	False	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	2
+410	1	205.0	205	0.5	1/2	35	4	6	4	35	68.333	F##3	55	True	F	2	1/4	1.333	False	0	P1-Staff2	6	35	2.0	76	ii7	False	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	#7
+411	1	205.5	411/2	0.5	1/2	35	4	6	4	35	68.5	G#4	68	True	G	1	3/8	1.5	False	0	P1-Staff2	6	35	2.0	76	ii7	False	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	1
+411	1	205.5	411/2	0.5	1/2	35	4	6	4	35	68.5	G#3	56	True	G	1	3/8	1.5	False	0	P1-Staff2	6	35	2.0	76	ii7	False	('A#', 'C#', 'E#', 'G#')	A#	A#	0	minor seventh chord	(1, 5, 8, 10)	g#	g#	2	None	ii7	True	1
+412	1	206.0	206	0.5	1/2	35	4	6	4	35	68.667	F##4	67	True	F	2	1/2	1.667	False	0	P1-Staff2	6	35	1.0	77	V7	True	('A#', 'C#', 'D#', 'F##')	A#	D#	2	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	#7
+412	1	206.0	206	0.5	1/2	35	4	6	4	35	68.667	A#3	58	True	A	1	1/2	1.667	False	0	P1-Staff2	6	35	1.0	77	V7	True	('A#', 'C#', 'D#', 'F##')	A#	D#	2	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	2
+413	1	206.5	413/2	0.5	1/2	35	4	6	4	35	68.833	G#4	68	True	G	1	5/8	1.833	False	0	P1-Staff2	6	35	1.0	77	V7	False	('A#', 'C#', 'D#', 'F##')	A#	D#	2	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	1
+413	1	206.5	413/2	0.5	1/2	35	4	6	4	35	68.833	D#3	51	True	D	1	5/8	1.833	False	0	P1-Staff2	6	35	1.0	77	V7	False	('A#', 'C#', 'D#', 'F##')	A#	D#	2	dominant seventh chord	(1, 3, 7, 10)	g#	g#	5	None	V7	True	5
+414	3	207.0	207	1.5	3/2	35	4	6	4	35	69.0	C#5	73	False	C	1	3/4	2.0	True	2	P1-Staff2	6	35	3.0	78	viio7	True	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	4
+414	6	207.0	207	3.0	3	35	4	6	4	35	69.0	F##4	67	True	F	2	3/4	2.0	True	2	P1-Staff2	6	35	3.0	78	viio7	True	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#7
+414	6	207.0	207	3.0	3	35	4	6	4	35	69.0	E3	52	True	E	0	3/4	2.0	True	2	P1-Staff2	6	35	3.0	78	viio7	True	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	6
+414	3	207.0	207	1.5	3/2	35	4	6	4	35	69.0	A#2	46	False	A	1	3/4	2.0	True	2	P1-Staff2	6	35	3.0	78	viio7	True	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	2
+417	1	208.5	417/2	0.5	1/2	35	4	6	4	35	69.5	E5	76	True	E	0	9/8	2.5	False	0	P1-Staff2	6	35	3.0	78	viio7	False	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	6
+417	1	208.5	417/2	0.5	1/2	35	4	6	4	35	69.5	B2	47	True	B	0	9/8	2.5	False	0	P1-Staff2	6	35	3.0	78	viio7	False	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	3
+418	2	209.0	209	1.0	1	35	4	6	4	35	69.667	D#5	75	True	D	1	5/4	2.667	False	0	P1-Staff2	6	35	3.0	78	viio7	False	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	5
+418	2	209.0	209	1.0	1	35	4	6	4	35	69.667	C#3	49	True	C	1	5/4	2.667	False	0	P1-Staff2	6	35	3.0	78	viio7	False	('A#', 'C#', 'E', 'F##')	A#	F##	1	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	4
+420	6	210.0	210	3.0	3	36	4	6	4	36	70.0	E5	76	True	E	0	0	1.0	True	1	P1-Staff2	6	36	6.0	79	viio7	True	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	6
+420	1	210.0	210	0.5	1/2	36	4	6	4	36	70.0	F##4	67	False	F	2	0	1.0	True	1	P1-Staff2	6	36	6.0	79	viio7	True	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#7
+420	1	210.0	210	0.5	1/2	36	4	6	4	36	70.0	E3	52	False	E	0	0	1.0	True	1	P1-Staff2	6	36	6.0	79	viio7	True	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	6
+420	6	210.0	210	3.0	3	36	4	6	4	36	70.0	F##2	43	True	F	2	0	1.0	True	1	P1-Staff2	6	36	6.0	79	viio7	True	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#7
+421	1	210.5	421/2	0.5	1/2	36	4	6	4	36	70.167	G#4	68	True	G	1	1/8	1.167	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	1
+421	1	210.5	421/2	0.5	1/2	36	4	6	4	36	70.167	D#3	51	True	D	1	1/8	1.167	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	5
+422	1	211.0	211	0.5	1/2	36	4	6	4	36	70.333	A#4	70	True	A	1	1/4	1.333	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	2
+422	1	211.0	211	0.5	1/2	36	4	6	4	36	70.333	C#3	49	True	C	1	1/4	1.333	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	4
+423	1	211.5	423/2	0.5	1/2	36	4	6	4	36	70.5	G#4	68	True	G	1	3/8	1.5	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	1
+423	1	211.5	423/2	0.5	1/2	36	4	6	4	36	70.5	B2	47	True	B	0	3/8	1.5	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	3
+424	1	212.0	212	0.5	1/2	36	4	6	4	36	70.667	B4	71	True	B	0	1/2	1.667	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	3
+424	1	212.0	212	0.5	1/2	36	4	6	4	36	70.667	C#3	49	True	C	1	1/2	1.667	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	4
+425	1	212.5	425/2	0.5	1/2	36	4	6	4	36	70.833	A#4	70	True	A	1	5/8	1.833	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	2
+425	1	212.5	425/2	0.5	1/2	36	4	6	4	36	70.833	E3	52	True	E	0	5/8	1.833	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	6
+426	3	213.0	213	1.5	3/2	36	4	6	4	36	71.0	E5	76	False	E	0	3/4	2.0	True	2	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	6
+426	6	213.0	213	3.0	3	36	4	6	4	36	71.0	A#4	70	True	A	1	3/4	2.0	True	2	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	2
+426	6	213.0	213	3.0	3	36	4	6	4	36	71.0	F##3	55	True	F	2	3/4	2.0	True	2	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#7
+426	3	213.0	213	1.5	3/2	36	4	6	4	36	71.0	F##2	43	False	F	2	3/4	2.0	True	2	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#7
+429	1	214.5	429/2	0.5	1/2	36	4	6	4	36	71.5	B#4	72	True	B	1	9/8	2.5	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#3
+429	1	214.5	429/2	0.5	1/2	36	4	6	4	36	71.5	G#2	44	True	G	1	9/8	2.5	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	1
+430	2	215.0	215	1.0	1	36	4	6	4	36	71.667	C#5	73	True	C	1	5/4	2.667	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	4
+430	2	215.0	215	1.0	1	36	4	6	4	36	71.667	A#2	46	True	A	1	5/4	2.667	False	0	P1-Staff2	6	36	6.0	79	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	2
+432	1	216.0	216	0.5	1/2	37	4	6	4	37	72.0	C#5	73	False	C	1	0	1.0	True	1	P1-Staff2	5	37	3.0	80	V9	True	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	4
+432	1	216.0	216	0.5	1/2	37	4	6	4	37	72.0	A#4	70	False	A	1	0	1.0	True	1	P1-Staff2	5	37	3.0	80	V9	True	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	2
+432	6	216.0	216	3.0	3	37	4	6	4	37	72.0	F##5	79	True	F	2	0	1.0	True	1	P1-Staff2	5	37	3.0	80	V9	True	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	#7
+432	4	216.0	216	2.0	2	37	4	6	4	37	72.0	D#2	39	True	D	1	0	1.0	True	1	P1-Staff2	5	37	3.0	80	V9	True	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	5
+433	1	216.5	433/2	0.5	1/2	37	4	6	4	37	72.167	D#5	75	True	D	1	1/8	1.167	False	0	P1-Staff2	5	37	3.0	80	V9	False	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	5
+434	1	217.0	217	0.5	1/2	37	4	6	4	37	72.333	E5	76	True	E	0	1/4	1.333	False	0	P1-Staff2	5	37	3.0	80	V9	False	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	6
+435	1	217.5	435/2	0.5	1/2	37	4	6	4	37	72.5	D#5	75	True	D	1	3/8	1.5	False	0	P1-Staff2	5	37	3.0	80	V9	False	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	5
+436	1	218.0	218	0.5	1/2	37	4	6	4	37	72.667	C#5	73	True	C	1	1/2	1.667	False	0	P1-Staff2	5	37	3.0	80	V9	False	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	4
+437	1	218.5	437/2	0.5	1/2	37	4	6	4	37	72.833	B4	71	True	B	0	5/8	1.833	False	0	P1-Staff2	5	37	3.0	80	V9	False	('D#', 'F##', 'A#', 'C#', 'E')	D#	D#	0	flat-ninth pentachord	(1, 3, 4, 7, 10)	g#	g#	5	None	V9	True	3
+438	1	219.0	219	0.5	1/2	37	4	6	4	37	73.0	A#4	70	True	A	1	3/4	2.0	True	2	P1-Staff2	5	37	2.0	81	viio7	True	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	2
+438	4	219.0	219	2.0	2	37	4	6	4	37	73.0	F##5	79	False	F	2	3/4	2.0	True	2	P1-Staff2	5	37	2.0	81	viio7	True	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#7
+439	1	219.5	439/2	0.5	1/2	37	4	6	4	37	73.167	G#4	68	True	G	1	7/8	2.167	False	0	P1-Staff2	5	37	2.0	81	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	1
+440	1	220.0	220	0.5	1/2	37	4	6	4	37	73.333	F##4	67	True	F	2	1	2.333	False	0	P1-Staff2	5	37	2.0	81	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#7
+441	1	220.5	441/2	0.5	1/2	37	4	6	4	37	73.5	E#4	65	True	E	1	9/8	2.5	False	0	P1-Staff2	5	37	2.0	81	viio7	False	('F##', 'A#', 'C#', 'E')	F##	F##	0	diminished seventh chord	(1, 4, 7, 10)	g#	g#	#7	None	viio7	True	#6
+442	1	221.0	221	0.5	1/2	37	4	6	4	37	73.667	F#4	66	True	F	1	5/4	2.667	False	0	P1-Staff2	5	37	1.0	82	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	4
+442	2	221.0	221	1.0	1	37	4	6	4	37	73.667	B#4	72	True	B	1	5/4	2.667	False	0	P1-Staff2	1	37	1.0	82	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	#7
+442	2	221.0	221	1.0	1	37	4	6	4	37	73.667	G#5	80	True	G	1	5/4	2.667	False	0	P1-Staff2	1	37	1.0	82	V7	True	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	5
+443	1	221.5	443/2	0.5	1/2	37	4	6	4	37	73.833	D#4	63	True	D	1	11/8	2.833	False	0	P1-Staff2	5	37	1.0	82	V7	False	('D#', 'F#', 'G#', 'B#')	D#	G#	2	dominant seventh chord	(0, 3, 6, 8)	c#	c#	5	None	V7	True	2
+444	6	222.0	222	3.0	3	38	4	6	4	38	74.0	C#5	73	True	C	1	0	1.0	True	1	P1-Staff2	6	38	2.0	83	bVI	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	1
+444	1	222.0	222	0.5	1/2	38	4	6	4	38	74.0	E4	64	True	E	0	0	1.0	True	1	P1-Staff2	6	38	2.0	83	bVI	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	3
+445	1	222.5	445/2	0.5	1/2	38	4	6	4	38	74.167	B4	71	True	B	0	1/8	1.167	False	0	P1-Staff2	6	38	2.0	83	bVI	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	7
+445	1	222.5	445/2	0.5	1/2	38	4	6	4	38	74.167	D#4	63	True	D	1	1/8	1.167	False	0	P1-Staff2	6	38	2.0	83	bVI	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	2
+446	1	223.0	223	0.5	1/2	38	4	6	4	38	74.333	A4	69	True	A	0	1/4	1.333	False	0	P1-Staff2	6	38	2.0	83	bVI	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	6
+446	1	223.0	223	0.5	1/2	38	4	6	4	38	74.333	C#4	61	True	C	1	1/4	1.333	False	0	P1-Staff2	6	38	2.0	83	bVI	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	1
+447	1	223.5	447/2	0.5	1/2	38	4	6	4	38	74.5	G#4	68	True	G	1	3/8	1.5	False	0	P1-Staff2	6	38	2.0	83	bVI	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	5
+447	1	223.5	447/2	0.5	1/2	38	4	6	4	38	74.5	B3	59	True	B	0	3/8	1.5	False	0	P1-Staff2	6	38	2.0	83	bVI	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	c#	c#	6	None	bVI	True	7
+448	1	224.0	224	0.5	1/2	38	4	6	4	38	74.667	F#4	66	True	F	1	1/2	1.667	False	0	P1-Staff2	6	38	1.0	84	iv	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+448	1	224.0	224	0.5	1/2	38	4	6	4	38	74.667	A3	57	True	A	0	1/2	1.667	False	0	P1-Staff2	6	38	1.0	84	iv	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+449	1	224.5	449/2	0.5	1/2	38	4	6	4	38	74.833	A4	69	True	A	0	5/8	1.833	False	0	P1-Staff2	6	38	1.0	84	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+449	1	224.5	449/2	0.5	1/2	38	4	6	4	38	74.833	F#3	54	True	F	1	5/8	1.833	False	0	P1-Staff2	6	38	1.0	84	iv	False	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+450	3	225.0	225	1.5	3/2	38	4	6	4	38	75.0	C#5	73	False	C	1	3/4	2.0	True	2	P1-Staff2	6	38	2.0	85	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+450	3	225.0	225	1.5	3/2	38	4	6	4	38	75.0	E4	64	True	E	0	3/4	2.0	True	2	P1-Staff2	6	38	2.0	85	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+450	1	225.0	225	0.5	1/2	38	4	6	4	38	75.0	G#3	56	True	G	1	3/4	2.0	True	2	P1-Staff2	6	38	2.0	85	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	5
+451	1	225.5	451/2	0.5	1/2	38	4	6	4	38	75.167	D#3	51	True	D	1	7/8	2.167	False	0	P1-Staff2	6	38	2.0	85	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+452	1	226.0	226	0.5	1/2	38	4	6	4	38	75.333	E3	52	True	E	0	1	2.333	False	0	P1-Staff2	6	38	2.0	85	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	3
+453	1	226.5	453/2	0.5	1/2	38	4	6	4	38	75.5	D#5	75	True	D	1	9/8	2.5	False	0	P1-Staff2	6	38	2.0	85	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	2
+453	1	226.5	453/2	0.5	1/2	38	4	6	4	38	75.5	F#4	66	True	F	1	9/8	2.5	False	0	P1-Staff2	6	38	2.0	85	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	4
+453	1	226.5	453/2	0.5	1/2	38	4	6	4	38	75.5	C#3	49	True	C	1	9/8	2.5	False	0	P1-Staff2	6	38	2.0	85	i	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	i	True	1
+454	2	227.0	227	1.0	1	38	4	6	4	38	75.667	B#4	72	True	B	1	5/4	2.667	False	0	P1-Staff2	6	38	1.0	86	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	#7
+454	1	227.0	227	0.5	1/2	38	4	6	4	38	75.667	D#4	63	True	D	1	5/4	2.667	False	0	P1-Staff2	6	38	1.0	86	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	2
+454	2	227.0	227	1.0	1	38	4	6	4	38	75.667	D#4	63	True	D	1	5/4	2.667	False	0	P1-Staff2	6	38	1.0	86	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	2
+454	1	227.0	227	0.5	1/2	38	4	6	4	38	75.667	G#2	44	True	G	1	5/4	2.667	False	0	P1-Staff2	6	38	1.0	86	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	5
+454	2	227.0	227	1.0	1	38	4	6	4	38	75.667	G#2	44	True	G	1	5/4	2.667	False	0	P1-Staff2	6	38	1.0	86	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	5
+455	1	227.5	455/2	0.5	1/2	38	4	6	4	38	75.833	F#4	66	True	F	1	11/8	2.833	False	0	P1-Staff2	6	38	1.0	86	V	False	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	4
+455	1	227.5	455/2	0.5	1/2	38	4	6	4	38	75.833	G#3	56	True	G	1	11/8	2.833	False	0	P1-Staff2	6	38	1.0	86	V	False	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	c#	c#	5	None	V	True	5
+456	4	228.0	228	2.0	2	39	4	6	4	39	76.0	C#5	73	True	C	1	0	1.0	True	1	P1-Staff2	6	39	1.0	87	i5	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	none	False	1
+456	1	228.0	228	0.5	1/2	39	4	6	4	39	76.0	F#4	66	False	F	1	0	1.0	True	1	P1-Staff2	6	39	1.0	87	i5	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	none	False	4
+456	4	228.0	228	2.0	2	39	4	6	4	39	76.0	C#4	61	True	C	1	0	1.0	True	1	P1-Staff2	6	39	1.0	87	i5	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	none	False	1
+456	2	228.0	228	1.0	1	39	4	6	4	39	76.0	G#3	56	False	G	1	0	1.0	True	1	P1-Staff2	6	39	1.0	87	i5	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	none	False	5
+456	6	228.0	228	3.0	3	39	4	6	4	39	76.0	C#3	49	True	C	1	0	1.0	True	1	P1-Staff2	6	39	1.0	87	i5	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	none	False	1
+457	1	228.5	457/2	0.5	1/2	39	4	6	4	39	76.167	G#4	68	True	G	1	1/8	1.167	False	0	P1-Staff2	6	39	1.0	87	i5	False	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	c#	c#	1	None	none	False	5
+458	1	229.0	229	0.5	1/2	39	4	6	4	39	76.333	A4	69	True	A	0	1/4	1.333	False	0	P1-Staff2	6	39	1.0	88	iv	True	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	6
+458	2	229.0	229	1.0	1	39	4	6	4	39	76.333	F#3	54	True	F	1	1/4	1.333	False	0	P1-Staff2	6	39	1.0	88	iv	True	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+459	1	229.5	459/2	0.5	1/2	39	4	6	4	39	76.5	F#4	66	True	F	1	3/8	1.5	False	0	P1-Staff2	6	39	1.0	88	iv	False	('C#', 'F#', 'A')	C#	F#	2	minor triad	(1, 6, 9)	c#	c#	4	None	iv	True	4
+460	1	230.0	230	0.5	1/2	39	4	6	4	39	76.667	C#5	73	False	C	1	1/2	1.667	False	0	P1-Staff2	6	39	1.0	89	viio7	True	('A', 'B#', 'D#', 'F#')	A	B#	3	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	1
+460	2	230.0	230	1.0	1	39	4	6	4	39	76.667	F#4	66	False	F	1	1/2	1.667	False	0	P1-Staff2	6	39	1.0	89	viio7	True	('A', 'B#', 'D#', 'F#')	A	B#	3	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	4
+460	2	230.0	230	1.0	1	39	4	6	4	39	76.667	D#4	63	True	D	1	1/2	1.667	False	0	P1-Staff2	6	39	1.0	89	viio7	True	('A', 'B#', 'D#', 'F#')	A	B#	3	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	2
+460	2	230.0	230	1.0	1	39	4	6	4	39	76.667	A3	57	True	A	0	1/2	1.667	False	0	P1-Staff2	6	39	1.0	89	viio7	True	('A', 'B#', 'D#', 'F#')	A	B#	3	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	6
+461	1	230.5	461/2	0.5	1/2	39	4	6	4	39	76.833	B#4	72	True	B	1	5/8	1.833	False	0	P1-Staff2	6	39	1.0	89	viio7	False	('A', 'B#', 'D#', 'F#')	A	B#	3	diminished seventh chord	(0, 3, 6, 9)	c#	c#	#7	None	viio7	True	#7
+462	6	231.0	231	3.0	3	39	4	6	4	39	77.0	C#5	73	True	C	1	3/4	2.0	True	2	P1-Staff2	6	39	3.0	90	I	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	c#	c#	1	None	I	True	1
+462	6	231.0	231	3.0	3	39	4	6	4	39	77.0	G#4	68	True	G	1	3/4	2.0	True	2	P1-Staff2	6	39	3.0	90	I	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	c#	c#	1	None	I	True	5
+462	6	231.0	231	3.0	3	39	4	6	4	39	77.0	E#4	65	True	E	1	3/4	2.0	True	2	P1-Staff2	6	39	3.0	90	I	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	c#	c#	1	None	I	True	#3
+462	6	231.0	231	3.0	3	39	4	6	4	39	77.0	G#3	56	True	G	1	3/4	2.0	True	2	P1-Staff2	6	39	3.0	90	I	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	c#	c#	1	None	I	True	5
+462	6	231.0	231	3.0	3	39	4	6	4	39	77.0	C#3	49	False	C	1	3/4	2.0	True	2	P1-Staff2	6	39	3.0	90	I	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	c#	c#	1	None	I	True	1

@@ -1,0 +1,786 @@
+onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measure	ks_fifths	ts_beats	ts_beat_type	measureNumberWithSuffix	onset_beat	s_note	s_midi	s_isOnset	s_step	s_alter	mn_onset	s_beat_float	is_downbeat	downbeat	s_part_id	s_voice_id	a_measure	a_duration	a_annotationNumber	a_romanNumeral	a_isOnset	a_pitchNames	a_bass	a_root	a_inversion	a_quality	a_pcset	a_localKey	a_tonicizedKey	a_degree1	a_degree2	a_simpleNumeral	valid_chord_label	note_degree
+0	2	0.0	0	1.0	1	0	-2	3	4	0	0.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	0	1.0	0	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	5
+2	2	1.0	1	1.0	1	1	-2	3	4	1	1.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	1	1.0	1	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+2	2	1.0	1	1.0	1	1	-2	3	4	1	1.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	1	1.0	1	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+2	2	1.0	1	1.0	1	1	-2	3	4	1	1.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	1	1.0	1	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+4	2	2.0	2	1.0	1	1	-2	3	4	1	2.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	1	1.0	2	iio	True	('A', 'C', 'E-')	A	A	0	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	2
+4	2	2.0	2	1.0	1	1	-2	3	4	1	2.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	1	1.0	2	iio	True	('A', 'C', 'E-')	A	A	0	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	4
+4	2	2.0	2	1.0	1	1	-2	3	4	1	2.0	A3	57	True	A	0	1/4	2.0	True	2	spine_0	1	1	1.0	2	iio	True	('A', 'C', 'E-')	A	A	0	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	2
+6	2	3.0	3	1.0	1	1	-2	3	4	1	3.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	1	1.0	3	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+6	2	3.0	3	1.0	1	1	-2	3	4	1	3.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	1	1.0	3	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+6	2	3.0	3	1.0	1	1	-2	3	4	1	3.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	1	1.0	3	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+8	2	4.0	4	1.0	1	2	-2	3	4	2	4.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	2	2.0	4	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+8	4	4.0	4	2.0	2	2	-2	3	4	2	4.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	2	2.0	4	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	6
+8	4	4.0	4	2.0	2	2	-2	3	4	2	4.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	2	2.0	4	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	4
+10	2	5.0	5	1.0	1	2	-2	3	4	2	5.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	2	2.0	4	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+12	2	6.0	6	1.0	1	2	-2	3	4	2	6.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	2	1.0	5	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+12	2	6.0	6	1.0	1	2	-2	3	4	2	6.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	2	1.0	5	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+12	2	6.0	6	1.0	1	2	-2	3	4	2	6.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	2	1.0	5	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+12	2	6.0	6	1.0	1	2	-2	3	4	2	6.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	2	1.0	5	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+14	2	7.0	7	1.0	1	3	-2	3	4	3	7.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	3	2.0	6	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	4
+14	6	7.0	7	3.0	3	3	-2	3	4	3	7.0	F#4	66	True	F	1	0	1.0	True	1	spine_0	1	3	2.0	6	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	#7
+14	6	7.0	7	3.0	3	3	-2	3	4	3	7.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	3	2.0	6	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	4
+14	6	7.0	7	3.0	3	3	-2	3	4	3	7.0	A3	57	True	A	0	0	1.0	True	1	spine_0	1	3	2.0	6	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	2
+16	2	8.0	8	1.0	1	3	-2	3	4	3	8.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	3	2.0	6	viio	False	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	4
+18	2	9.0	9	1.0	1	3	-2	3	4	3	9.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	3	1.0	7	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	5
+20	4	10.0	10	2.0	2	4	-2	3	4	4	10.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	4	3.0	8	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	6
+20	6	10.0	10	3.0	3	4	-2	3	4	4	10.0	F#4	66	False	F	1	0	1.0	True	1	spine_0	1	4	3.0	8	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	#7
+20	6	10.0	10	3.0	3	4	-2	3	4	4	10.0	C4	60	False	C	0	0	1.0	True	1	spine_0	1	4	3.0	8	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	4
+20	6	10.0	10	3.0	3	4	-2	3	4	4	10.0	A3	57	False	A	0	0	1.0	True	1	spine_0	1	4	3.0	8	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	2
+24	2	12.0	12	1.0	1	4	-2	3	4	4	12.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	4	3.0	8	viio7	False	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	6
+26	2	13.0	13	1.0	1	5	-2	3	4	5	13.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	5	3.0	9	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	5
+26	2	13.0	13	1.0	1	5	-2	3	4	5	13.0	F#4	66	False	F	1	0	1.0	True	1	spine_0	1	5	3.0	9	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	#7
+26	2	13.0	13	1.0	1	5	-2	3	4	5	13.0	C4	60	False	C	0	0	1.0	True	1	spine_0	1	5	3.0	9	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	4
+26	2	13.0	13	1.0	1	5	-2	3	4	5	13.0	A3	57	False	A	0	0	1.0	True	1	spine_0	1	5	3.0	9	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
+30	2	15.0	15	1.0	1	5	-2	3	4	5	15.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	5	3.0	9	V7	False	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	5
+32	2	16.0	16	1.0	1	6	-2	3	4	6	16.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	6	1.0	10	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+32	2	16.0	16	1.0	1	6	-2	3	4	6	16.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	6	1.0	10	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+32	2	16.0	16	1.0	1	6	-2	3	4	6	16.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	6	1.0	10	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+34	2	17.0	17	1.0	1	6	-2	3	4	6	17.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	6	1.0	11	iio	True	('A', 'C', 'E-')	A	A	0	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	2
+34	2	17.0	17	1.0	1	6	-2	3	4	6	17.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	6	1.0	11	iio	True	('A', 'C', 'E-')	A	A	0	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	4
+34	2	17.0	17	1.0	1	6	-2	3	4	6	17.0	A3	57	True	A	0	1/4	2.0	True	2	spine_0	1	6	1.0	11	iio	True	('A', 'C', 'E-')	A	A	0	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	2
+36	2	18.0	18	1.0	1	6	-2	3	4	6	18.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	6	1.0	12	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+36	2	18.0	18	1.0	1	6	-2	3	4	6	18.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	6	1.0	12	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+36	2	18.0	18	1.0	1	6	-2	3	4	6	18.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	6	1.0	12	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+38	2	19.0	19	1.0	1	7	-2	3	4	7	19.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	7	2.0	13	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+38	6	19.0	19	3.0	3	7	-2	3	4	7	19.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	7	2.0	13	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	6
+38	4	19.0	19	2.0	2	7	-2	3	4	7	19.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	7	2.0	13	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	4
+40	2	20.0	20	1.0	1	7	-2	3	4	7	20.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	7	2.0	13	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+42	2	21.0	21	1.0	1	7	-2	3	4	7	21.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	7	1.0	14	VII	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	g	g	7	None	VII	True	2
+42	2	21.0	21	1.0	1	7	-2	3	4	7	21.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	7	1.0	14	VII	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	g	g	7	None	VII	True	4
+42	2	21.0	21	1.0	1	7	-2	3	4	7	21.0	F3	53	True	F	0	1/2	3.0	True	3	spine_0	1	7	1.0	14	VII	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	g	g	7	None	VII	True	7
+44	2	22.0	22	1.0	1	8	-2	3	4	8	22.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	8	1.0	15	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	3
+44	2	22.0	22	1.0	1	8	-2	3	4	8	22.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	8	1.0	15	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	5
+44	4	22.0	22	2.0	2	8	-2	3	4	8	22.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	8	1.0	15	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	5
+44	2	22.0	22	1.0	1	8	-2	3	4	8	22.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	8	1.0	15	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	3
+46	2	23.0	23	1.0	1	8	-2	3	4	8	23.0	D5	74	True	D	0	1/4	2.0	True	2	spine_0	1	8	1.0	16	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	5
+46	2	23.0	23	1.0	1	8	-2	3	4	8	23.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	8	1.0	16	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	7
+46	2	23.0	23	1.0	1	8	-2	3	4	8	23.0	A3	57	True	A	0	1/4	2.0	True	2	spine_0	1	8	1.0	16	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	2
+48	2	24.0	24	1.0	1	8	-2	3	4	8	24.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	8	1.0	17	viio7/ii	True	('G#', 'B', 'D', 'F')	G#	G#	0	diminished seventh chord	(2, 5, 8, 11)	g	a	#7	2	viio7	True	5
+48	2	24.0	24	1.0	1	8	-2	3	4	8	24.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	8	1.0	17	viio7/ii	True	('G#', 'B', 'D', 'F')	G#	G#	0	diminished seventh chord	(2, 5, 8, 11)	g	a	#7	2	viio7	True	7
+48	2	24.0	24	1.0	1	8	-2	3	4	8	24.0	B3	59	True	B	0	1/2	3.0	True	3	spine_0	1	8	1.0	17	viio7/ii	True	('G#', 'B', 'D', 'F')	G#	G#	0	diminished seventh chord	(2, 5, 8, 11)	g	a	#7	2	viio7	True	#3
+48	2	24.0	24	1.0	1	8	-2	3	4	8	24.0	G#3	56	True	G	1	1/2	3.0	True	3	spine_0	1	8	1.0	17	viio7/ii	True	('G#', 'B', 'D', 'F')	G#	G#	0	diminished seventh chord	(2, 5, 8, 11)	g	a	#7	2	viio7	True	#1
+50	4	25.0	25	2.0	2	9	-2	3	4	9	25.0	F5	77	True	F	0	0	1.0	True	1	spine_0	1	9	2.0	18	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	7
+50	4	25.0	25	2.0	2	9	-2	3	4	9	25.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	9	2.0	18	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	5
+50	4	25.0	25	2.0	2	9	-2	3	4	9	25.0	A3	57	True	A	0	0	1.0	True	1	spine_0	1	9	2.0	18	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	2
+50	6	25.0	25	3.0	3	9	-2	3	4	9	25.0	A3	57	True	A	0	0	1.0	True	1	spine_0	1	9	2.0	18	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	2
+54	2	27.0	27	1.0	1	9	-2	3	4	9	27.0	E5	76	True	E	0	1/2	3.0	True	3	spine_0	1	9	1.0	19	V7/V	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	g	D	5	5	V7	True	#6
+54	2	27.0	27	1.0	1	9	-2	3	4	9	27.0	C#5	73	True	C	1	1/2	3.0	True	3	spine_0	1	9	1.0	19	V7/V	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	g	D	5	5	V7	True	#4
+54	2	27.0	27	1.0	1	9	-2	3	4	9	27.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	9	1.0	19	V7/V	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	g	D	5	5	V7	True	1
+56	2	28.0	28	1.0	1	10	-2	3	4	10	28.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	10	3.0	20	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	5
+56	2	28.0	28	1.0	1	10	-2	3	4	10	28.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	10	3.0	20	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	5
+56	2	28.0	28	1.0	1	10	-2	3	4	10	28.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	10	3.0	20	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	7
+56	2	28.0	28	1.0	1	10	-2	3	4	10	28.0	D3	50	True	D	0	0	1.0	True	1	spine_0	1	10	3.0	20	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	5
+60	2	30.0	30	1.0	1	10	-2	3	4	10	30.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	10	3.0	20	v	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	5
+62	2	31.0	31	1.0	1	11	-2	3	4	11	31.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	11	1.0	21	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+62	2	31.0	31	1.0	1	11	-2	3	4	11	31.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	11	1.0	21	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+62	2	31.0	31	1.0	1	11	-2	3	4	11	31.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	11	1.0	21	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+64	2	32.0	32	1.0	1	11	-2	3	4	11	32.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	11	1.0	22	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	2
+64	2	32.0	32	1.0	1	11	-2	3	4	11	32.0	E-4	63	True	E	-1	1/4	2.0	True	2	spine_0	1	11	1.0	22	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	4
+64	2	32.0	32	1.0	1	11	-2	3	4	11	32.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	11	1.0	22	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	7
+64	2	32.0	32	1.0	1	11	-2	3	4	11	32.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	11	1.0	22	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	2
+66	2	33.0	33	1.0	1	11	-2	3	4	11	33.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	11	1.0	23	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+66	2	33.0	33	1.0	1	11	-2	3	4	11	33.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	11	1.0	23	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	5
+66	2	33.0	33	1.0	1	11	-2	3	4	11	33.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	11	1.0	23	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+66	2	33.0	33	1.0	1	11	-2	3	4	11	33.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	11	1.0	23	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+68	2	34.0	34	1.0	1	12	-2	3	4	12	34.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	12	2.0	24	IV	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	B-	B-	4	None	IV	True	1
+68	4	34.0	34	2.0	2	12	-2	3	4	12	34.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	12	2.0	24	IV	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	B-	B-	4	None	IV	True	6
+68	2	34.0	34	1.0	1	12	-2	3	4	12	34.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	12	2.0	24	IV	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	B-	B-	4	None	IV	True	6
+68	4	34.0	34	2.0	2	12	-2	3	4	12	34.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	12	2.0	24	IV	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	B-	B-	4	None	IV	True	4
+70	2	35.0	35	1.0	1	12	-2	3	4	12	35.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	12	2.0	24	IV	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	B-	B-	4	None	IV	True	1
+72	2	36.0	36	1.0	1	12	-2	3	4	12	36.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	12	1.0	25	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+72	2	36.0	36	1.0	1	12	-2	3	4	12	36.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	12	1.0	25	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	5
+72	2	36.0	36	1.0	1	12	-2	3	4	12	36.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	12	1.0	25	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+74	2	37.0	37	1.0	1	13	-2	3	4	13	37.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	13	1.0	26	ii	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
+74	2	37.0	37	1.0	1	13	-2	3	4	13	37.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	13	1.0	26	ii	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
+74	2	37.0	37	1.0	1	13	-2	3	4	13	37.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	13	1.0	26	ii	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	2
+76	2	38.0	38	1.0	1	13	-2	3	4	13	38.0	D5	74	True	D	0	1/4	2.0	True	2	spine_0	1	13	1.0	27	viio/ii	True	('D', 'F', 'B')	D	B	1	diminished triad	(2, 5, 11)	B-	c	#7	2	viio	True	3
+76	2	38.0	38	1.0	1	13	-2	3	4	13	38.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	13	1.0	27	viio/ii	True	('D', 'F', 'B')	D	B	1	diminished triad	(2, 5, 11)	B-	c	#7	2	viio	True	5
+76	2	38.0	38	1.0	1	13	-2	3	4	13	38.0	B4	71	True	B	0	1/4	2.0	True	2	spine_0	1	13	1.0	27	viio/ii	True	('D', 'F', 'B')	D	B	1	diminished triad	(2, 5, 11)	B-	c	#7	2	viio	True	#1
+76	2	38.0	38	1.0	1	13	-2	3	4	13	38.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	13	1.0	27	viio/ii	True	('D', 'F', 'B')	D	B	1	diminished triad	(2, 5, 11)	B-	c	#7	2	viio	True	3
+78	2	39.0	39	1.0	1	13	-2	3	4	13	39.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	13	1.0	28	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	2
+78	2	39.0	39	1.0	1	13	-2	3	4	13	39.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	13	1.0	28	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	6
+78	2	39.0	39	1.0	1	13	-2	3	4	13	39.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	13	1.0	28	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	2
+78	2	39.0	39	1.0	1	13	-2	3	4	13	39.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	13	1.0	28	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
+80	2	40.0	40	1.0	1	14	-2	3	4	14	40.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	14	2.0	29	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	2
+80	4	40.0	40	2.0	2	14	-2	3	4	14	40.0	A4	69	True	A	0	0	1.0	True	1	spine_0	1	14	2.0	29	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	7
+80	2	40.0	40	1.0	1	14	-2	3	4	14	40.0	A4	69	True	A	0	0	1.0	True	1	spine_0	1	14	2.0	29	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	7
+80	4	40.0	40	2.0	2	14	-2	3	4	14	40.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	14	2.0	29	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	5
+82	2	41.0	41	1.0	1	14	-2	3	4	14	41.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	14	2.0	29	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	2
+84	2	42.0	42	1.0	1	14	-2	3	4	14	42.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	14	1.0	30	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	2
+84	2	42.0	42	1.0	1	14	-2	3	4	14	42.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	14	1.0	30	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	6
+84	2	42.0	42	1.0	1	14	-2	3	4	14	42.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	14	1.0	30	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
+86	2	43.0	43	1.0	1	15	-2	3	4	15	43.0	F5	77	True	F	0	0	1.0	True	1	spine_0	1	15	1.0	31	iii	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	B-	B-	3	None	iii	True	5
+86	2	43.0	43	1.0	1	15	-2	3	4	15	43.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	15	1.0	31	iii	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	B-	B-	3	None	iii	True	5
+86	2	43.0	43	1.0	1	15	-2	3	4	15	43.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	15	1.0	31	iii	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	B-	B-	3	None	iii	True	3
+88	2	44.0	44	1.0	1	15	-2	3	4	15	44.0	E-5	75	True	E	-1	1/4	2.0	True	2	spine_0	1	15	1.0	32	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
+88	2	44.0	44	1.0	1	15	-2	3	4	15	44.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	15	1.0	32	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	6
+88	2	44.0	44	1.0	1	15	-2	3	4	15	44.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	15	1.0	32	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	2
+88	2	44.0	44	1.0	1	15	-2	3	4	15	44.0	E-4	63	True	E	-1	1/4	2.0	True	2	spine_0	1	15	1.0	32	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
+90	2	45.0	45	1.0	1	15	-2	3	4	15	45.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	15	1.0	33	iii	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	B-	B-	3	None	iii	True	3
+90	2	45.0	45	1.0	1	15	-2	3	4	15	45.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	15	1.0	33	iii	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	B-	B-	3	None	iii	True	7
+90	2	45.0	45	1.0	1	15	-2	3	4	15	45.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	15	1.0	33	iii	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	B-	B-	3	None	iii	True	3
+90	2	45.0	45	1.0	1	15	-2	3	4	15	45.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	15	1.0	33	iii	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	B-	B-	3	None	iii	True	5
+92	2	46.0	46	1.0	1	16	-2	3	4	16	46.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	16	2.0	34	vi	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	B-	B-	6	None	vi	True	3
+92	2	46.0	46	1.0	1	16	-2	3	4	16	46.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	16	2.0	34	vi	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	B-	B-	6	None	vi	True	1
+92	6	46.0	46	3.0	3	16	-2	3	4	16	46.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	16	2.0	34	vi	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	B-	B-	6	None	vi	True	1
+92	6	46.0	46	3.0	3	16	-2	3	4	16	46.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	16	2.0	34	vi	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	B-	B-	6	None	vi	True	6
+94	2	47.0	47	1.0	1	16	-2	3	4	16	47.0	D5	74	True	D	0	1/4	2.0	True	2	spine_0	1	16	2.0	34	vi	False	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	B-	B-	6	None	vi	True	3
+94	2	47.0	47	1.0	1	16	-2	3	4	16	47.0	D5	74	True	D	0	1/4	2.0	True	2	spine_0	1	16	2.0	34	vi	False	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	B-	B-	6	None	vi	True	3
+96	2	48.0	48	1.0	1	16	-2	3	4	16	48.0	E5	76	True	E	0	1/2	3.0	True	3	spine_0	1	16	1.0	35	V/V	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	B-	F	5	5	V	True	#4
+96	2	48.0	48	1.0	1	16	-2	3	4	16	48.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	16	1.0	35	V/V	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	B-	F	5	5	V	True	2
+98	6	49.0	49	3.0	3	17	-2	3	4	17	49.0	F5	77	True	F	0	0	1.0	True	1	spine_0	1	17	2.0	36	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	5
+98	2	49.0	49	1.0	1	17	-2	3	4	17	49.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	17	2.0	36	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	2
+98	2	49.0	49	1.0	1	17	-2	3	4	17	49.0	B-4	70	False	B	-1	0	1.0	True	1	spine_0	1	17	2.0	36	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+98	6	49.0	49	3.0	3	17	-2	3	4	17	49.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	17	2.0	36	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	5
+100	2	50.0	50	1.0	1	17	-2	3	4	17	50.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	17	2.0	36	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	2
+100	2	50.0	50	1.0	1	17	-2	3	4	17	50.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	17	2.0	36	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	7
+102	2	51.0	51	1.0	1	17	-2	3	4	17	51.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	17	1.0	37	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	B-	5	None	V	True	3
+102	2	51.0	51	1.0	1	17	-2	3	4	17	51.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	17	1.0	37	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	B-	5	None	V	True	1
+104	6	52.0	52	3.0	3	18	-2	3	4	18	52.0	F5	77	False	F	0	0	1.0	True	1	spine_0	1	18	2.0	38	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	5
+104	2	52.0	52	1.0	1	18	-2	3	4	18	52.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	18	2.0	38	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	4
+104	2	52.0	52	1.0	1	18	-2	3	4	18	52.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	18	2.0	38	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	2
+104	6	52.0	52	3.0	3	18	-2	3	4	18	52.0	F4	65	False	F	0	0	1.0	True	1	spine_0	1	18	2.0	38	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	5
+106	2	53.0	53	1.0	1	18	-2	3	4	18	53.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	18	2.0	38	V7	False	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	2
+106	2	53.0	53	1.0	1	18	-2	3	4	18	53.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	18	2.0	38	V7	False	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	7
+108	2	54.0	54	1.0	1	18	-2	3	4	18	54.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	18	1.0	39	I	True	('F', 'B-', 'D')	F	B-	2	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+108	2	54.0	54	1.0	1	18	-2	3	4	18	54.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	18	1.0	39	I	True	('F', 'B-', 'D')	F	B-	2	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+110	6	55.0	55	3.0	3	19	-2	3	4	19	55.0	G5	79	True	G	0	0	1.0	True	1	spine_0	1	19	3.0	40	viio7	True	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	6
+110	2	55.0	55	1.0	1	19	-2	3	4	19	55.0	D5	74	False	D	0	0	1.0	True	1	spine_0	1	19	3.0	40	viio7	True	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	3
+110	2	55.0	55	1.0	1	19	-2	3	4	19	55.0	B-4	70	False	B	-1	0	1.0	True	1	spine_0	1	19	3.0	40	viio7	True	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	1
+110	6	55.0	55	3.0	3	19	-2	3	4	19	55.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	19	3.0	40	viio7	True	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	4
+112	2	56.0	56	1.0	1	19	-2	3	4	19	56.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	19	3.0	40	viio7	False	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	2
+112	2	56.0	56	1.0	1	19	-2	3	4	19	56.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	19	3.0	40	viio7	False	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	7
+114	2	57.0	57	1.0	1	19	-2	3	4	19	57.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	19	3.0	40	viio7	False	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	2
+114	2	57.0	57	1.0	1	19	-2	3	4	19	57.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	19	3.0	40	viio7	False	('E-', 'G-', 'A', 'C')	E-	A	2	diminished seventh chord	(0, 3, 6, 9)	B-	B-	7	None	viio7	True	7
+116	2	58.0	58	1.0	1	20	-2	3	4	20	58.0	G5	79	False	G	0	0	1.0	True	1	spine_0	1	20	3.0	41	V7	True	('E-', 'F', 'A', 'C')	E-	F	3	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	6
+116	6	58.0	58	3.0	3	20	-2	3	4	20	58.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	20	3.0	41	V7	True	('E-', 'F', 'A', 'C')	E-	F	3	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	2
+116	6	58.0	58	3.0	3	20	-2	3	4	20	58.0	A4	69	True	A	0	0	1.0	True	1	spine_0	1	20	3.0	41	V7	True	('E-', 'F', 'A', 'C')	E-	F	3	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	7
+116	6	58.0	58	3.0	3	20	-2	3	4	20	58.0	E-4	63	False	E	-1	0	1.0	True	1	spine_0	1	20	3.0	41	V7	True	('E-', 'F', 'A', 'C')	E-	F	3	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	4
+118	2	59.0	59	1.0	1	20	-2	3	4	20	59.0	F5	77	True	F	0	1/4	2.0	True	2	spine_0	1	20	3.0	41	V7	False	('E-', 'F', 'A', 'C')	E-	F	3	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	5
+120	2	60.0	60	1.0	1	20	-2	3	4	20	60.0	F5	77	True	F	0	1/2	3.0	True	3	spine_0	1	20	3.0	41	V7	False	('E-', 'F', 'A', 'C')	E-	F	3	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	5
+122	2	61.0	61	1.0	1	21	-2	3	4	21	61.0	F5	77	True	F	0	0	1.0	True	1	spine_0	1	21	3.0	42	ii	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	5
+122	6	61.0	61	3.0	3	21	-2	3	4	21	61.0	C5	72	False	C	0	0	1.0	True	1	spine_0	1	21	3.0	42	ii	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	2
+122	2	61.0	61	1.0	1	21	-2	3	4	21	61.0	A4	69	False	A	0	0	1.0	True	1	spine_0	1	21	3.0	42	ii	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	7
+122	6	61.0	61	3.0	3	21	-2	3	4	21	61.0	E-4	63	False	E	-1	0	1.0	True	1	spine_0	1	21	3.0	42	ii	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
+124	2	62.0	62	1.0	1	21	-2	3	4	21	62.0	G5	79	True	G	0	1/4	2.0	True	2	spine_0	1	21	3.0	42	ii	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	6
+124	2	62.0	62	1.0	1	21	-2	3	4	21	62.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	21	3.0	42	ii	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	6
+126	2	63.0	63	1.0	1	21	-2	3	4	21	63.0	A5	81	True	A	0	1/2	3.0	True	3	spine_0	1	21	3.0	42	ii	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	7
+126	2	63.0	63	1.0	1	21	-2	3	4	21	63.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	21	3.0	42	ii	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	5
+128	2	64.0	64	1.0	1	22	-2	3	4	22	64.0	B-5	82	True	B	-1	0	1.0	True	1	spine_0	1	22	1.0	43	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+128	2	64.0	64	1.0	1	22	-2	3	4	22	64.0	F5	77	True	F	0	0	1.0	True	1	spine_0	1	22	1.0	43	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	5
+128	2	64.0	64	1.0	1	22	-2	3	4	22	64.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	22	1.0	43	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	5
+128	2	64.0	64	1.0	1	22	-2	3	4	22	64.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	22	1.0	43	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+130	2	65.0	65	1.0	1	22	-2	3	4	22	65.0	C6	84	True	C	0	1/4	2.0	True	2	spine_0	1	22	1.0	44	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	2
+130	2	65.0	65	1.0	1	22	-2	3	4	22	65.0	A5	81	True	A	0	1/4	2.0	True	2	spine_0	1	22	1.0	44	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	7
+130	2	65.0	65	1.0	1	22	-2	3	4	22	65.0	E-4	63	True	E	-1	1/4	2.0	True	2	spine_0	1	22	1.0	44	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	4
+130	2	65.0	65	1.0	1	22	-2	3	4	22	65.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	22	1.0	44	viio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	B-	B-	7	None	viio	True	2
+132	2	66.0	66	1.0	1	22	-2	3	4	22	66.0	D6	86	True	D	0	1/2	3.0	True	3	spine_0	1	22	1.0	45	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+132	2	66.0	66	1.0	1	22	-2	3	4	22	66.0	B-5	82	True	B	-1	1/2	3.0	True	3	spine_0	1	22	1.0	45	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+132	2	66.0	66	1.0	1	22	-2	3	4	22	66.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	22	1.0	45	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	3
+132	2	66.0	66	1.0	1	22	-2	3	4	22	66.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	22	1.0	45	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+134	4	67.0	67	2.0	2	23	-2	3	4	23	67.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	23	2.0	46	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	B-	5	None	V	True	3
+134	4	67.0	67	2.0	2	23	-2	3	4	23	67.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	23	2.0	46	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	B-	5	None	V	True	1
+134	4	67.0	67	2.0	2	23	-2	3	4	23	67.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	23	2.0	46	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	B-	5	None	V	True	5
+134	4	67.0	67	2.0	2	23	-2	3	4	23	67.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	23	2.0	46	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	B-	5	None	V	True	5
+138	2	69.0	69	1.0	1	23	-2	3	4	23	69.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	23	1.0	47	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	2
+138	2	69.0	69	1.0	1	23	-2	3	4	23	69.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	23	1.0	47	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	7
+138	2	69.0	69	1.0	1	23	-2	3	4	23	69.0	F3	53	True	F	0	1/2	3.0	True	3	spine_0	1	23	1.0	47	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	5
+138	2	69.0	69	1.0	1	23	-2	3	4	23	69.0	F3	53	True	F	0	1/2	3.0	True	3	spine_0	1	23	1.0	47	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	B-	5	None	V7	True	5
+140	6	70.0	70	3.0	3	24	-2	3	4	24	70.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	24	3.0	48	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+140	2	70.0	70	1.0	1	24	-2	3	4	24	70.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	24	3.0	48	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+140	2	70.0	70	1.0	1	24	-2	3	4	24	70.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	24	3.0	48	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+140	2	70.0	70	1.0	1	24	-2	3	4	24	70.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	24	3.0	48	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+144	2	72.0	72	1.0	1	24	-2	3	4	24	72.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	24	3.0	48	I	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	B-	1	None	I	True	1
+146	6	73.0	73	3.0	3	25	-2	3	4	25	73.0	B-4	70	False	B	-1	0	1.0	True	1	spine_0	1	25	3.0	49	IV/V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	F	4	5	IV	True	1
+146	2	73.0	73	1.0	1	25	-2	3	4	25	73.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	25	3.0	49	IV/V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	F	4	5	IV	True	1
+148	2	74.0	74	1.0	1	25	-2	3	4	25	74.0	A-4	68	True	A	-1	1/4	2.0	True	2	spine_0	1	25	3.0	49	IV/V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	F	4	5	IV	True	b7
+150	2	75.0	75	1.0	1	25	-2	3	4	25	75.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	25	3.0	49	IV/V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	F	4	5	IV	True	6
+150	2	75.0	75	1.0	1	25	-2	3	4	25	75.0	B-2	46	True	B	-1	1/2	3.0	True	3	spine_0	1	25	3.0	49	IV/V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	F	4	5	IV	True	1
+152	6	76.0	76	3.0	3	26	-2	3	4	26	76.0	B-4	70	False	B	-1	0	1.0	True	1	spine_0	1	26	3.0	50	V	True	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+152	2	76.0	76	1.0	1	26	-2	3	4	26	76.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	26	3.0	50	V	True	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+152	2	76.0	76	1.0	1	26	-2	3	4	26	76.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	26	3.0	50	V	True	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+154	2	77.0	77	1.0	1	26	-2	3	4	26	77.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	26	3.0	50	V	False	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	5
+154	2	77.0	77	1.0	1	26	-2	3	4	26	77.0	A-3	56	True	A	-1	1/4	2.0	True	2	spine_0	1	26	3.0	50	V	False	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	b7
+156	2	78.0	78	1.0	1	26	-2	3	4	26	78.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	26	3.0	50	V	False	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+156	2	78.0	78	1.0	1	26	-2	3	4	26	78.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	26	3.0	50	V	False	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+156	2	78.0	78	1.0	1	26	-2	3	4	26	78.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	26	3.0	50	V	False	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+158	6	79.0	79	3.0	3	27	-2	3	4	27	79.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	27	3.0	51	V	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+158	2	79.0	79	1.0	1	27	-2	3	4	27	79.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	27	3.0	51	V	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+158	2	79.0	79	1.0	1	27	-2	3	4	27	79.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	27	3.0	51	V	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+158	2	79.0	79	1.0	1	27	-2	3	4	27	79.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	27	3.0	51	V	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+160	2	80.0	80	1.0	1	27	-2	3	4	27	80.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	27	3.0	51	V	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	3
+160	2	80.0	80	1.0	1	27	-2	3	4	27	80.0	A-3	56	True	A	-1	1/4	2.0	True	2	spine_0	1	27	3.0	51	V	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	b7
+160	2	80.0	80	1.0	1	27	-2	3	4	27	80.0	F3	53	True	F	0	1/4	2.0	True	2	spine_0	1	27	3.0	51	V	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	5
+162	2	81.0	81	1.0	1	27	-2	3	4	27	81.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	27	3.0	51	V	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+162	2	81.0	81	1.0	1	27	-2	3	4	27	81.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	27	3.0	51	V	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+162	2	81.0	81	1.0	1	27	-2	3	4	27	81.0	E-3	51	True	E	-1	1/2	3.0	True	3	spine_0	1	27	3.0	51	V	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+164	2	82.0	82	1.0	1	28	-2	3	4	28	82.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	28	2.0	52	IV/V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	F	4	5	IV	True	1
+164	6	82.0	82	3.0	3	28	-2	3	4	28	82.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	28	2.0	52	IV/V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	F	4	5	IV	True	1
+164	4	82.0	82	2.0	2	28	-2	3	4	28	82.0	F3	53	True	F	0	0	1.0	True	1	spine_0	1	28	2.0	52	IV/V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	F	4	5	IV	True	5
+164	4	82.0	82	2.0	2	28	-2	3	4	28	82.0	D3	50	True	D	0	0	1.0	True	1	spine_0	1	28	2.0	52	IV/V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	F	4	5	IV	True	3
+166	2	83.0	83	1.0	1	28	-2	3	4	28	83.0	A-4	68	True	A	-1	1/4	2.0	True	2	spine_0	1	28	2.0	52	IV/V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	F	4	5	IV	True	b7
+168	2	84.0	84	1.0	1	28	-2	3	4	28	84.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	28	1.0	53	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+168	2	84.0	84	1.0	1	28	-2	3	4	28	84.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	28	1.0	53	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+168	2	84.0	84	1.0	1	28	-2	3	4	28	84.0	E-3	51	True	E	-1	1/2	3.0	True	3	spine_0	1	28	1.0	53	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+170	2	85.0	85	1.0	1	29	-2	3	4	29	85.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	29	3.0	54	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+170	6	85.0	85	3.0	3	29	-2	3	4	29	85.0	B-3	58	False	B	-1	0	1.0	True	1	spine_0	1	29	3.0	54	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+170	2	85.0	85	1.0	1	29	-2	3	4	29	85.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	29	3.0	54	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+170	6	85.0	85	3.0	3	29	-2	3	4	29	85.0	E-2	39	True	E	-1	0	1.0	True	1	spine_0	1	29	3.0	54	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+172	2	86.0	86	1.0	1	29	-2	3	4	29	86.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	29	3.0	54	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	5
+172	2	86.0	86	1.0	1	29	-2	3	4	29	86.0	A-3	56	True	A	-1	1/4	2.0	True	2	spine_0	1	29	3.0	54	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	b7
+174	2	87.0	87	1.0	1	29	-2	3	4	29	87.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	29	3.0	54	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+174	2	87.0	87	1.0	1	29	-2	3	4	29	87.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	29	3.0	54	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+176	2	88.0	88	1.0	1	30	-2	3	4	30	88.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	30	3.0	55	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+176	6	88.0	88	3.0	3	30	-2	3	4	30	88.0	B-3	58	False	B	-1	0	1.0	True	1	spine_0	1	30	3.0	55	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	1
+176	6	88.0	88	3.0	3	30	-2	3	4	30	88.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	30	3.0	55	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	6
+176	6	88.0	88	3.0	3	30	-2	3	4	30	88.0	E-2	39	False	E	-1	0	1.0	True	1	spine_0	1	30	3.0	55	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	4
+178	2	89.0	89	1.0	1	30	-2	3	4	30	89.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	30	3.0	55	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	3
+180	2	90.0	90	1.0	1	30	-2	3	4	30	90.0	C#4	61	True	C	1	1/2	3.0	True	3	spine_0	1	30	3.0	55	V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	B-	5	None	V	True	#2
+182	6	91.0	91	3.0	3	31	-2	3	4	31	91.0	C#4	61	True	C	1	0	1.0	True	1	spine_0	1	31	3.0	56	viio7/V/vi	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	B-	D	7	5	viio7	True	#2
+182	6	91.0	91	3.0	3	31	-2	3	4	31	91.0	B-3	58	False	B	-1	0	1.0	True	1	spine_0	1	31	3.0	56	viio7/V/vi	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	B-	D	7	5	viio7	True	1
+182	6	91.0	91	3.0	3	31	-2	3	4	31	91.0	G3	55	False	G	0	0	1.0	True	1	spine_0	1	31	3.0	56	viio7/V/vi	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	B-	D	7	5	viio7	True	6
+182	6	91.0	91	3.0	3	31	-2	3	4	31	91.0	D2	38	True	D	0	0	1.0	True	1	spine_0	1	31	3.0	56	viio7/V/vi	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	B-	D	7	5	viio7	True	3
+188	2	94.0	94	1.0	1	32	-2	3	4	32	94.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	32	3.0	57	V/vi	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	3
+188	2	94.0	94	1.0	1	32	-2	3	4	32	94.0	A3	57	True	A	0	0	1.0	True	1	spine_0	1	32	3.0	57	V/vi	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	7
+188	2	94.0	94	1.0	1	32	-2	3	4	32	94.0	F#3	54	True	F	1	0	1.0	True	1	spine_0	1	32	3.0	57	V/vi	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	#5
+188	2	94.0	94	1.0	1	32	-2	3	4	32	94.0	D2	38	False	D	0	0	1.0	True	1	spine_0	1	32	3.0	57	V/vi	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	3
+190	1	95.0	95	0.5	1/2	32	-2	3	4	32	95.0	E4	64	True	E	0	1/4	2.0	True	2	spine_0	1	32	3.0	57	V/vi	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	#4
+191	1	95.5	191/2	0.5	1/2	32	-2	3	4	32	95.5	F#4	66	True	F	1	3/8	2.5	False	0	spine_0	1	32	3.0	57	V/vi	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	#5
+192	1	96.0	96	0.5	1/2	32	-2	3	4	32	96.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	32	3.0	57	V/vi	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	6
+193	1	96.5	193/2	0.5	1/2	32	-2	3	4	32	96.5	A4	69	True	A	0	5/8	3.5	False	0	spine_0	1	32	3.0	57	V/vi	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	B-	g	5	6	V	True	7
+194	2	97.0	97	1.0	1	33	-2	3	4	33	97.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	33	1.0	58	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+194	2	97.0	97	1.0	1	33	-2	3	4	33	97.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	33	1.0	58	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+194	2	97.0	97	1.0	1	33	-2	3	4	33	97.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	33	1.0	58	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+196	2	98.0	98	1.0	1	33	-2	3	4	33	98.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	33	1.0	59	ii	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	g	g	2	None	ii	True	2
+196	2	98.0	98	1.0	1	33	-2	3	4	33	98.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	33	1.0	59	ii	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	g	g	2	None	ii	True	4
+196	2	98.0	98	1.0	1	33	-2	3	4	33	98.0	A3	57	True	A	0	1/4	2.0	True	2	spine_0	1	33	1.0	59	ii	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	g	g	2	None	ii	True	2
+198	2	99.0	99	1.0	1	33	-2	3	4	33	99.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	33	1.0	60	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+198	2	99.0	99	1.0	1	33	-2	3	4	33	99.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	33	1.0	60	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+198	2	99.0	99	1.0	1	33	-2	3	4	33	99.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	33	1.0	60	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+200	2	100.0	100	1.0	1	34	-2	3	4	34	100.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	34	2.0	61	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+200	4	100.0	100	2.0	2	34	-2	3	4	34	100.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	34	2.0	61	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	6
+200	4	100.0	100	2.0	2	34	-2	3	4	34	100.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	34	2.0	61	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	4
+202	2	101.0	101	1.0	1	34	-2	3	4	34	101.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	34	2.0	61	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+204	2	102.0	102	1.0	1	34	-2	3	4	34	102.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	34	1.0	62	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+204	2	102.0	102	1.0	1	34	-2	3	4	34	102.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	34	1.0	62	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+204	2	102.0	102	1.0	1	34	-2	3	4	34	102.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	34	1.0	62	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+204	2	102.0	102	1.0	1	34	-2	3	4	34	102.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	34	1.0	62	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+206	2	103.0	103	1.0	1	35	-2	3	4	35	103.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	35	2.0	63	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	4
+206	6	103.0	103	3.0	3	35	-2	3	4	35	103.0	F#4	66	True	F	1	0	1.0	True	1	spine_0	1	35	2.0	63	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	#7
+206	6	103.0	103	3.0	3	35	-2	3	4	35	103.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	35	2.0	63	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	4
+206	6	103.0	103	3.0	3	35	-2	3	4	35	103.0	A3	57	True	A	0	0	1.0	True	1	spine_0	1	35	2.0	63	viio	True	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	2
+208	2	104.0	104	1.0	1	35	-2	3	4	35	104.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	35	2.0	63	viio	False	('A', 'C', 'F#')	A	F#	1	diminished triad	(0, 6, 9)	g	g	#7	None	viio	True	4
+210	2	105.0	105	1.0	1	35	-2	3	4	35	105.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	35	1.0	64	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	5
+212	4	106.0	106	2.0	2	36	-2	3	4	36	106.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	36	3.0	65	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	6
+212	6	106.0	106	3.0	3	36	-2	3	4	36	106.0	F#4	66	False	F	1	0	1.0	True	1	spine_0	1	36	3.0	65	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	#7
+212	6	106.0	106	3.0	3	36	-2	3	4	36	106.0	C4	60	False	C	0	0	1.0	True	1	spine_0	1	36	3.0	65	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	4
+212	6	106.0	106	3.0	3	36	-2	3	4	36	106.0	A3	57	False	A	0	0	1.0	True	1	spine_0	1	36	3.0	65	viio7	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	2
+216	2	108.0	108	1.0	1	36	-2	3	4	36	108.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	36	3.0	65	viio7	False	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	6
+218	2	109.0	109	1.0	1	37	-2	3	4	37	109.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	37	3.0	66	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	5
+218	2	109.0	109	1.0	1	37	-2	3	4	37	109.0	F#4	66	False	F	1	0	1.0	True	1	spine_0	1	37	3.0	66	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	#7
+218	2	109.0	109	1.0	1	37	-2	3	4	37	109.0	C4	60	False	C	0	0	1.0	True	1	spine_0	1	37	3.0	66	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	4
+218	2	109.0	109	1.0	1	37	-2	3	4	37	109.0	A3	57	False	A	0	0	1.0	True	1	spine_0	1	37	3.0	66	V7	True	('A', 'C', 'D', 'F#')	A	D	2	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
+224	2	112.0	112	1.0	1	38	-2	3	4	38	112.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	38	3.0	67	iv	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	4
+226	2	113.0	113	1.0	1	38	-2	3	4	38	113.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	38	3.0	67	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	4
+228	2	114.0	114	1.0	1	38	-2	3	4	38	114.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	38	3.0	67	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	5
+230	4	115.0	115	2.0	2	39	-2	3	4	39	115.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	39	2.0	68	VII	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	g	g	7	None	VII	True	7
+234	2	117.0	117	1.0	1	39	-2	3	4	39	117.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	39	1.0	69	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	6
+234	2	117.0	117	1.0	1	39	-2	3	4	39	117.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	39	1.0	69	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	3
+234	2	117.0	117	1.0	1	39	-2	3	4	39	117.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	39	1.0	69	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
+236	2	118.0	118	1.0	1	40	-2	3	4	40	118.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	40	2.0	70	V7	True	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	5
+236	2	118.0	118	1.0	1	40	-2	3	4	40	118.0	A3	57	True	A	0	0	1.0	True	1	spine_0	1	40	2.0	70	V7	True	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
+236	4	118.0	118	2.0	2	40	-2	3	4	40	118.0	F#3	54	True	F	1	0	1.0	True	1	spine_0	1	40	2.0	70	V7	True	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	#7
+238	2	119.0	119	1.0	1	40	-2	3	4	40	119.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	40	2.0	70	V7	False	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	4
+238	2	119.0	119	1.0	1	40	-2	3	4	40	119.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	40	2.0	70	V7	False	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
+238	2	119.0	119	1.0	1	40	-2	3	4	40	119.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	40	2.0	70	V7	False	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	5
+240	2	120.0	120	1.0	1	40	-2	3	4	40	120.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	40	1.0	71	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
+240	2	120.0	120	1.0	1	40	-2	3	4	40	120.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	40	1.0	71	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+240	2	120.0	120	1.0	1	40	-2	3	4	40	120.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	40	1.0	71	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
+240	2	120.0	120	1.0	1	40	-2	3	4	40	120.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	40	1.0	71	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
+242	2	121.0	121	1.0	1	41	-2	3	4	41	121.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	41	3.0	72	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	3
+242	6	121.0	121	3.0	3	41	-2	3	4	41	121.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	41	3.0	72	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	6
+242	6	121.0	121	3.0	3	41	-2	3	4	41	121.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	41	3.0	72	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	6
+242	6	121.0	121	3.0	3	41	-2	3	4	41	121.0	C3	48	True	C	0	0	1.0	True	1	spine_0	1	41	3.0	72	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	4
+244	2	122.0	122	1.0	1	41	-2	3	4	41	122.0	A-4	68	True	A	-1	1/4	2.0	True	2	spine_0	1	41	3.0	72	N	False	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	b2
+246	2	123.0	123	1.0	1	41	-2	3	4	41	123.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	41	3.0	72	N	False	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	b2
+248	2	124.0	124	1.0	1	42	-2	3	4	42	124.0	A-4	68	True	A	-1	0	1.0	True	1	spine_0	1	42	1.0	73	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	b2
+248	2	124.0	124	1.0	1	42	-2	3	4	42	124.0	E-4	63	False	E	-1	0	1.0	True	1	spine_0	1	42	1.0	73	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	6
+248	2	124.0	124	1.0	1	42	-2	3	4	42	124.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	42	1.0	73	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	6
+248	2	124.0	124	1.0	1	42	-2	3	4	42	124.0	C3	48	False	C	0	0	1.0	True	1	spine_0	1	42	1.0	73	N	True	('C', 'E-', 'A-')	C	A-	1	major triad	(0, 3, 8)	g	g	-2	None	N	True	4
+250	2	125.0	125	1.0	1	42	-2	3	4	42	125.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	42	2.0	74	viio7/V	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	1
+250	2	125.0	125	1.0	1	42	-2	3	4	42	125.0	B-3	58	True	B	-1	1/4	2.0	True	2	spine_0	1	42	2.0	74	viio7/V	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	3
+250	2	125.0	125	1.0	1	42	-2	3	4	42	125.0	E4	64	True	E	0	1/4	2.0	True	2	spine_0	1	42	2.0	74	viio7/V	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	#6
+250	2	125.0	125	1.0	1	42	-2	3	4	42	125.0	C#3	49	True	C	1	1/4	2.0	True	2	spine_0	1	42	2.0	74	viio7/V	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	#4
+252	2	126.0	126	1.0	1	42	-2	3	4	42	126.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	42	2.0	74	viio7/V	False	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	1
+252	2	126.0	126	1.0	1	42	-2	3	4	42	126.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	42	2.0	74	viio7/V	False	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	3
+252	2	126.0	126	1.0	1	42	-2	3	4	42	126.0	E4	64	True	E	0	1/2	3.0	True	3	spine_0	1	42	2.0	74	viio7/V	False	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	#6
+252	2	126.0	126	1.0	1	42	-2	3	4	42	126.0	C#3	49	True	C	1	1/2	3.0	True	3	spine_0	1	42	2.0	74	viio7/V	False	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	g	D	7	5	viio7	True	#4
+254	4	127.0	127	2.0	2	43	-2	3	4	43	127.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	43	2.0	75	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
+254	4	127.0	127	2.0	2	43	-2	3	4	43	127.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	43	2.0	75	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
+254	6	127.0	127	3.0	3	43	-2	3	4	43	127.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	43	2.0	75	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
+254	6	127.0	127	3.0	3	43	-2	3	4	43	127.0	D3	50	True	D	0	0	1.0	True	1	spine_0	1	43	2.0	75	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
+258	1	129.0	129	0.5	1/2	43	-2	3	4	43	129.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	43	1.0	76	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
+258	1	129.0	129	0.5	1/2	43	-2	3	4	43	129.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	43	1.0	76	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	4
+259	1	129.5	259/2	0.5	1/2	43	-2	3	4	43	129.5	F#4	66	True	F	1	5/8	3.5	False	0	spine_0	1	43	1.0	76	V7	False	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	#7
+259	1	129.5	259/2	0.5	1/2	43	-2	3	4	43	129.5	A3	57	True	A	0	5/8	3.5	False	0	spine_0	1	43	1.0	76	V7	False	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
+260	2	130.0	130	1.0	1	44	-2	3	4	44	130.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	44	3.0	77	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+260	2	130.0	130	1.0	1	44	-2	3	4	44	130.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	44	3.0	77	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+260	2	130.0	130	1.0	1	44	-2	3	4	44	130.0	D4	62	False	D	0	0	1.0	True	1	spine_0	1	44	3.0	77	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	5
+260	6	130.0	130	3.0	3	44	-2	3	4	44	130.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	44	3.0	77	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+262	2	131.0	131	1.0	1	44	-2	3	4	44	131.0	B3	59	True	B	0	1/4	2.0	True	2	spine_0	1	44	3.0	77	V/iv	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	#3
+264	2	132.0	132	1.0	1	44	-2	3	4	44	132.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	44	3.0	77	V/iv	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+264	2	132.0	132	1.0	1	44	-2	3	4	44	132.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	44	3.0	77	V/iv	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+264	2	132.0	132	1.0	1	44	-2	3	4	44	132.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	44	3.0	77	V/iv	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+266	2	133.0	133	1.0	1	45	-2	3	4	45	133.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	45	3.0	78	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+266	2	133.0	133	1.0	1	45	-2	3	4	45	133.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	45	3.0	78	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	6
+266	6	133.0	133	3.0	3	45	-2	3	4	45	133.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	45	3.0	78	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+266	6	133.0	133	3.0	3	45	-2	3	4	45	133.0	G2	43	False	G	0	0	1.0	True	1	spine_0	1	45	3.0	78	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+268	2	134.0	134	1.0	1	45	-2	3	4	45	134.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	45	3.0	78	iv	False	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	7
+268	2	134.0	134	1.0	1	45	-2	3	4	45	134.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	45	3.0	78	iv	False	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	5
+270	2	135.0	135	1.0	1	45	-2	3	4	45	135.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	45	3.0	78	iv	False	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	6
+270	2	135.0	135	1.0	1	45	-2	3	4	45	135.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	45	3.0	78	iv	False	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	4
+272	2	136.0	136	1.0	1	46	-2	3	4	46	136.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	46	1.0	79	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	6
+272	2	136.0	136	1.0	1	46	-2	3	4	46	136.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	46	1.0	79	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	4
+272	2	136.0	136	1.0	1	46	-2	3	4	46	136.0	G3	55	False	G	0	0	1.0	True	1	spine_0	1	46	1.0	79	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+272	6	136.0	136	3.0	3	46	-2	3	4	46	136.0	G2	43	False	G	0	0	1.0	True	1	spine_0	1	46	1.0	79	iv	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
+274	2	137.0	137	1.0	1	46	-2	3	4	46	137.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	46	1.0	80	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	5
+274	2	137.0	137	1.0	1	46	-2	3	4	46	137.0	B3	59	True	B	0	1/4	2.0	True	2	spine_0	1	46	1.0	80	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	#3
+274	2	137.0	137	1.0	1	46	-2	3	4	46	137.0	G3	55	True	G	0	1/4	2.0	True	2	spine_0	1	46	1.0	80	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+276	2	138.0	138	1.0	1	46	-2	3	4	46	138.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	46	1.0	81	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	7
+276	2	138.0	138	1.0	1	46	-2	3	4	46	138.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	46	1.0	81	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	5
+276	2	138.0	138	1.0	1	46	-2	3	4	46	138.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	46	1.0	81	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+278	4	139.0	139	2.0	2	47	-2	3	4	47	139.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	47	2.0	82	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	7
+278	4	139.0	139	2.0	2	47	-2	3	4	47	139.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	47	2.0	82	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	5
+278	2	139.0	139	1.0	1	47	-2	3	4	47	139.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	47	2.0	82	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+278	2	139.0	139	1.0	1	47	-2	3	4	47	139.0	G2	43	False	G	0	0	1.0	True	1	spine_0	1	47	2.0	82	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+280	2	140.0	140	1.0	1	47	-2	3	4	47	140.0	F#2	42	True	F	1	1/4	2.0	True	2	spine_0	1	47	2.0	82	V7/iv	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	#7
+282	2	141.0	141	1.0	1	47	-2	3	4	47	141.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	47	1.0	83	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	6
+282	2	141.0	141	1.0	1	47	-2	3	4	47	141.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	47	1.0	83	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	4
+282	2	141.0	141	1.0	1	47	-2	3	4	47	141.0	F#2	42	True	F	1	1/2	3.0	True	3	spine_0	1	47	1.0	83	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	#7
+284	2	142.0	142	1.0	1	48	-2	3	4	48	142.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	48	1.0	84	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	5
+284	2	142.0	142	1.0	1	48	-2	3	4	48	142.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	48	1.0	84	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	#3
+284	6	142.0	142	3.0	3	48	-2	3	4	48	142.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	48	1.0	84	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+286	2	143.0	143	1.0	1	48	-2	3	4	48	143.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	48	1.0	85	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
+286	2	143.0	143	1.0	1	48	-2	3	4	48	143.0	E-4	63	True	E	-1	1/4	2.0	True	2	spine_0	1	48	1.0	85	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	6
+286	2	143.0	143	1.0	1	48	-2	3	4	48	143.0	G3	55	True	G	0	1/4	2.0	True	2	spine_0	1	48	1.0	85	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
+288	2	144.0	144	1.0	1	48	-2	3	4	48	144.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	48	1.0	86	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	7
+288	2	144.0	144	1.0	1	48	-2	3	4	48	144.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	48	1.0	86	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	5
+288	2	144.0	144	1.0	1	48	-2	3	4	48	144.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	48	1.0	86	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+290	4	145.0	145	2.0	2	49	-2	3	4	49	145.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	49	2.0	87	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	7
+290	4	145.0	145	2.0	2	49	-2	3	4	49	145.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	49	2.0	87	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	5
+290	2	145.0	145	1.0	1	49	-2	3	4	49	145.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	49	2.0	87	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+290	2	145.0	145	1.0	1	49	-2	3	4	49	145.0	G2	43	False	G	0	0	1.0	True	1	spine_0	1	49	2.0	87	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+292	2	146.0	146	1.0	1	49	-2	3	4	49	146.0	F#2	42	True	F	1	1/4	2.0	True	2	spine_0	1	49	2.0	87	V7/iv	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	#7
+294	2	147.0	147	1.0	1	49	-2	3	4	49	147.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	49	1.0	88	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	6
+294	2	147.0	147	1.0	1	49	-2	3	4	49	147.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	49	1.0	88	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	4
+294	2	147.0	147	1.0	1	49	-2	3	4	49	147.0	F#2	42	True	F	1	1/2	3.0	True	3	spine_0	1	49	1.0	88	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	#7
+296	2	148.0	148	1.0	1	50	-2	3	4	50	148.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	50	1.0	89	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	5
+296	2	148.0	148	1.0	1	50	-2	3	4	50	148.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	50	1.0	89	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	#3
+296	6	148.0	148	3.0	3	50	-2	3	4	50	148.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	50	1.0	89	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+298	2	149.0	149	1.0	1	50	-2	3	4	50	149.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	50	1.0	90	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
+298	2	149.0	149	1.0	1	50	-2	3	4	50	149.0	E-4	63	True	E	-1	1/4	2.0	True	2	spine_0	1	50	1.0	90	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	6
+298	2	149.0	149	1.0	1	50	-2	3	4	50	149.0	G3	55	True	G	0	1/4	2.0	True	2	spine_0	1	50	1.0	90	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
+300	2	150.0	150	1.0	1	50	-2	3	4	50	150.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	50	1.0	91	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	7
+300	2	150.0	150	1.0	1	50	-2	3	4	50	150.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	50	1.0	91	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	5
+300	2	150.0	150	1.0	1	50	-2	3	4	50	150.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	50	1.0	91	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+302	4	151.0	151	2.0	2	51	-2	3	4	51	151.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	51	2.0	92	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	7
+302	4	151.0	151	2.0	2	51	-2	3	4	51	151.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	51	2.0	92	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	5
+302	2	151.0	151	1.0	1	51	-2	3	4	51	151.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	51	2.0	92	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+302	2	151.0	151	1.0	1	51	-2	3	4	51	151.0	G2	43	False	G	0	0	1.0	True	1	spine_0	1	51	2.0	92	V7/iv	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	1
+304	2	152.0	152	1.0	1	51	-2	3	4	51	152.0	F#3	54	True	F	1	1/4	2.0	True	2	spine_0	1	51	2.0	92	V7/iv	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	#7
+304	2	152.0	152	1.0	1	51	-2	3	4	51	152.0	F#2	42	True	F	1	1/4	2.0	True	2	spine_0	1	51	2.0	92	V7/iv	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	g	c	5	4	V7	True	#7
+306	2	153.0	153	1.0	1	51	-2	3	4	51	153.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	51	1.0	93	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	6
+306	2	153.0	153	1.0	1	51	-2	3	4	51	153.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	51	1.0	93	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	4
+306	2	153.0	153	1.0	1	51	-2	3	4	51	153.0	F#3	54	True	F	1	1/2	3.0	True	3	spine_0	1	51	1.0	93	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	#7
+306	2	153.0	153	1.0	1	51	-2	3	4	51	153.0	F#2	42	True	F	1	1/2	3.0	True	3	spine_0	1	51	1.0	93	viio7	True	('F#', 'A', 'C', 'E-')	F#	F#	0	diminished seventh chord	(0, 3, 6, 9)	g	g	#7	None	viio7	True	#7
+308	2	154.0	154	1.0	1	52	-2	3	4	52	154.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	52	3.0	94	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	5
+308	2	154.0	154	1.0	1	52	-2	3	4	52	154.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	52	3.0	94	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	#3
+308	2	154.0	154	1.0	1	52	-2	3	4	52	154.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	52	3.0	94	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+308	2	154.0	154	1.0	1	52	-2	3	4	52	154.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	52	3.0	94	V/iv	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	1
+312	2	156.0	156	1.0	1	52	-2	3	4	52	156.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	52	3.0	94	V/iv	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	c	5	4	V	True	3
+314	1	157.0	157	0.5	1/2	53	-3	3	4	53	157.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	53	3.0	95	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+314	2	157.0	157	1.0	1	53	-3	3	4	53	157.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	53	3.0	95	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+314	2	157.0	157	1.0	1	53	-3	3	4	53	157.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	53	3.0	95	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+314	2	157.0	157	1.0	1	53	-3	3	4	53	157.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	53	3.0	95	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+314	2	157.0	157	1.0	1	53	-3	3	4	53	157.0	E-3	51	True	E	-1	0	1.0	True	1	spine_0	1	53	3.0	95	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+315	1	157.5	315/2	0.5	1/2	53	-3	3	4	53	157.5	B-3	58	True	B	-1	1/8	1.5	False	0	spine_0	1	53	3.0	95	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+316	1	158.0	158	0.5	1/2	53	-3	3	4	53	158.0	G3	55	True	G	0	1/4	2.0	True	2	spine_0	1	53	3.0	95	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+317	1	158.5	317/2	0.5	1/2	53	-3	3	4	53	158.5	B-3	58	True	B	-1	3/8	2.5	False	0	spine_0	1	53	3.0	95	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+318	1	159.0	159	0.5	1/2	53	-3	3	4	53	159.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	53	3.0	95	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+319	1	159.5	319/2	0.5	1/2	53	-3	3	4	53	159.5	B-3	58	True	B	-1	5/8	3.5	False	0	spine_0	1	53	3.0	95	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+320	1	160.0	160	0.5	1/2	54	-3	3	4	54	160.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	54	3.0	96	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+321	1	160.5	321/2	0.5	1/2	54	-3	3	4	54	160.5	E-4	63	True	E	-1	1/8	1.5	False	0	spine_0	1	54	3.0	96	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+322	1	161.0	161	0.5	1/2	54	-3	3	4	54	161.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	54	3.0	96	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+323	1	161.5	323/2	0.5	1/2	54	-3	3	4	54	161.5	G4	67	True	G	0	3/8	2.5	False	0	spine_0	1	54	3.0	96	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+324	1	162.0	162	0.5	1/2	54	-3	3	4	54	162.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	54	3.0	96	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+324	2	162.0	162	1.0	1	54	-3	3	4	54	162.0	E-3	51	True	E	-1	1/2	3.0	True	3	spine_0	1	54	3.0	96	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+325	1	162.5	325/2	0.5	1/2	54	-3	3	4	54	162.5	G4	67	True	G	0	5/8	3.5	False	0	spine_0	1	54	3.0	96	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+326	1	163.0	163	0.5	1/2	55	-3	3	4	55	163.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	55	1.0	97	ii	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	E-	2	None	ii	True	5
+326	2	163.0	163	1.0	1	55	-3	3	4	55	163.0	F3	53	True	F	0	0	1.0	True	1	spine_0	1	55	1.0	97	ii	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	E-	2	None	ii	True	2
+327	1	163.5	327/2	0.5	1/2	55	-3	3	4	55	163.5	A-4	68	True	A	-1	1/8	1.5	False	0	spine_0	1	55	1.0	97	ii	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	E-	2	None	ii	True	4
+328	1	164.0	164	0.5	1/2	55	-3	3	4	55	164.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	55	1.0	98	viio	True	('D', 'F', 'A-')	D	D	0	diminished triad	(2, 5, 8)	E-	E-	7	None	viio	True	2
+328	2	164.0	164	1.0	1	55	-3	3	4	55	164.0	D3	50	True	D	0	1/4	2.0	True	2	spine_0	1	55	1.0	98	viio	True	('D', 'F', 'A-')	D	D	0	diminished triad	(2, 5, 8)	E-	E-	7	None	viio	True	7
+329	1	164.5	329/2	0.5	1/2	55	-3	3	4	55	164.5	A-4	68	True	A	-1	3/8	2.5	False	0	spine_0	1	55	1.0	98	viio	False	('D', 'F', 'A-')	D	D	0	diminished triad	(2, 5, 8)	E-	E-	7	None	viio	True	4
+330	1	165.0	165	0.5	1/2	55	-3	3	4	55	165.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	55	1.0	99	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+330	2	165.0	165	1.0	1	55	-3	3	4	55	165.0	E-3	51	True	E	-1	1/2	3.0	True	3	spine_0	1	55	1.0	99	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+331	1	165.5	331/2	0.5	1/2	55	-3	3	4	55	165.5	E-4	63	True	E	-1	5/8	3.5	False	0	spine_0	1	55	1.0	99	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+332	1	166.0	166	0.5	1/2	56	-3	3	4	56	166.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	56	2.0	100	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+332	2	166.0	166	1.0	1	56	-3	3	4	56	166.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	56	2.0	100	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+333	1	166.5	333/2	0.5	1/2	56	-3	3	4	56	166.5	E-4	63	True	E	-1	1/8	1.5	False	0	spine_0	1	56	2.0	100	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	1
+334	1	167.0	167	0.5	1/2	56	-3	3	4	56	167.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	56	2.0	100	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+335	1	167.5	335/2	0.5	1/2	56	-3	3	4	56	167.5	D4	62	True	D	0	3/8	2.5	False	0	spine_0	1	56	2.0	100	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+336	1	168.0	168	0.5	1/2	56	-3	3	4	56	168.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	56	1.0	101	V7	True	('A-', 'B-', 'D', 'F')	A-	B-	3	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	5
+336	2	168.0	168	1.0	1	56	-3	3	4	56	168.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	56	1.0	101	V7	True	('A-', 'B-', 'D', 'F')	A-	B-	3	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	5
+336	2	168.0	168	1.0	1	56	-3	3	4	56	168.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	56	1.0	101	V7	True	('A-', 'B-', 'D', 'F')	A-	B-	3	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	2
+336	2	168.0	168	1.0	1	56	-3	3	4	56	168.0	A-3	56	True	A	-1	1/2	3.0	True	3	spine_0	1	56	1.0	101	V7	True	('A-', 'B-', 'D', 'F')	A-	B-	3	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	4
+337	1	168.5	337/2	0.5	1/2	56	-3	3	4	56	168.5	D4	62	True	D	0	5/8	3.5	False	0	spine_0	1	56	1.0	101	V7	False	('A-', 'B-', 'D', 'F')	A-	B-	3	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	7
+338	1	169.0	169	0.5	1/2	57	-3	3	4	57	169.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	57	3.0	102	I	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+338	4	169.0	169	2.0	2	57	-3	3	4	57	169.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	57	3.0	102	I	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+338	2	169.0	169	1.0	1	57	-3	3	4	57	169.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	57	3.0	102	I	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+338	2	169.0	169	1.0	1	57	-3	3	4	57	169.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	57	3.0	102	I	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+339	1	169.5	339/2	0.5	1/2	57	-3	3	4	57	169.5	B-3	58	True	B	-1	1/8	1.5	False	0	spine_0	1	57	3.0	102	I	False	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+340	1	170.0	170	0.5	1/2	57	-3	3	4	57	170.0	G3	55	True	G	0	1/4	2.0	True	2	spine_0	1	57	3.0	102	I	False	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+341	1	170.5	341/2	0.5	1/2	57	-3	3	4	57	170.5	B-3	58	True	B	-1	3/8	2.5	False	0	spine_0	1	57	3.0	102	I	False	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+342	1	171.0	171	0.5	1/2	57	-3	3	4	57	171.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	57	3.0	102	I	False	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+342	2	171.0	171	1.0	1	57	-3	3	4	57	171.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	57	3.0	102	I	False	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+343	1	171.5	343/2	0.5	1/2	57	-3	3	4	57	171.5	B-3	58	True	B	-1	5/8	3.5	False	0	spine_0	1	57	3.0	102	I	False	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+344	1	172.0	172	0.5	1/2	58	-3	3	4	58	172.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	58	3.0	103	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+344	6	172.0	172	3.0	3	58	-3	3	4	58	172.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	58	3.0	103	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+344	6	172.0	172	3.0	3	58	-3	3	4	58	172.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	58	3.0	103	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+344	2	172.0	172	1.0	1	58	-3	3	4	58	172.0	E-3	51	True	E	-1	0	1.0	True	1	spine_0	1	58	3.0	103	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+345	1	172.5	345/2	0.5	1/2	58	-3	3	4	58	172.5	E-4	63	True	E	-1	1/8	1.5	False	0	spine_0	1	58	3.0	103	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+346	1	173.0	173	0.5	1/2	58	-3	3	4	58	173.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	58	3.0	103	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+347	1	173.5	347/2	0.5	1/2	58	-3	3	4	58	173.5	G4	67	True	G	0	3/8	2.5	False	0	spine_0	1	58	3.0	103	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+348	1	174.0	174	0.5	1/2	58	-3	3	4	58	174.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	58	3.0	103	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+349	1	174.5	349/2	0.5	1/2	58	-3	3	4	58	174.5	G4	67	True	G	0	5/8	3.5	False	0	spine_0	1	58	3.0	103	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+350	1	175.0	175	0.5	1/2	59	-3	3	4	59	175.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	59	3.0	104	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+350	6	175.0	175	3.0	3	59	-3	3	4	59	175.0	B-4	70	False	B	-1	0	1.0	True	1	spine_0	1	59	3.0	104	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+350	4	175.0	175	2.0	2	59	-3	3	4	59	175.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	59	3.0	104	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+350	2	175.0	175	1.0	1	59	-3	3	4	59	175.0	D3	50	True	D	0	0	1.0	True	1	spine_0	1	59	3.0	104	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+351	1	175.5	351/2	0.5	1/2	59	-3	3	4	59	175.5	D4	62	True	D	0	1/8	1.5	False	0	spine_0	1	59	3.0	104	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+352	1	176.0	176	0.5	1/2	59	-3	3	4	59	176.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	59	3.0	104	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+353	1	176.5	353/2	0.5	1/2	59	-3	3	4	59	176.5	F4	65	True	F	0	3/8	2.5	False	0	spine_0	1	59	3.0	104	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+354	1	177.0	177	0.5	1/2	59	-3	3	4	59	177.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	59	3.0	104	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+354	2	177.0	177	1.0	1	59	-3	3	4	59	177.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	59	3.0	104	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+355	1	177.5	355/2	0.5	1/2	59	-3	3	4	59	177.5	F4	65	True	F	0	5/8	3.5	False	0	spine_0	1	59	3.0	104	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+356	1	178.0	178	0.5	1/2	60	-3	3	4	60	178.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	60	2.0	105	V7/V	True	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+356	6	178.0	178	3.0	3	60	-3	3	4	60	178.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	60	2.0	105	V7/V	True	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+356	2	178.0	178	1.0	1	60	-3	3	4	60	178.0	B-4	70	False	B	-1	0	1.0	True	1	spine_0	1	60	2.0	105	V7/V	True	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	5
+356	4	178.0	178	2.0	2	60	-3	3	4	60	178.0	C3	48	True	C	0	0	1.0	True	1	spine_0	1	60	2.0	105	V7/V	True	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+357	1	178.5	357/2	0.5	1/2	60	-3	3	4	60	178.5	E-4	63	True	E	-1	1/8	1.5	False	0	spine_0	1	60	2.0	105	V7/V	False	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+358	1	179.0	179	0.5	1/2	60	-3	3	4	60	179.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	60	2.0	105	V7/V	False	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	2
+358	2	179.0	179	1.0	1	60	-3	3	4	60	179.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	60	2.0	105	V7/V	False	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+359	1	179.5	359/2	0.5	1/2	60	-3	3	4	60	179.5	A4	69	True	A	0	3/8	2.5	False	0	spine_0	1	60	2.0	105	V7/V	False	('C', 'E-', 'F', 'A')	C	F	2	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+360	1	180.0	180	0.5	1/2	60	-3	3	4	60	180.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	60	1.0	106	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+360	2	180.0	180	1.0	1	60	-3	3	4	60	180.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	60	1.0	106	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+360	2	180.0	180	1.0	1	60	-3	3	4	60	180.0	F2	41	True	F	0	1/2	3.0	True	3	spine_0	1	60	1.0	106	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	2
+361	1	180.5	361/2	0.5	1/2	60	-3	3	4	60	180.5	E-5	75	True	E	-1	5/8	3.5	False	0	spine_0	1	60	1.0	106	V7/V	False	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+362	1	181.0	181	0.5	1/2	61	-3	3	4	61	181.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	61	3.0	107	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+362	2	181.0	181	1.0	1	61	-3	3	4	61	181.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	61	3.0	107	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+362	2	181.0	181	1.0	1	61	-3	3	4	61	181.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	61	3.0	107	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+362	2	181.0	181	1.0	1	61	-3	3	4	61	181.0	B-2	46	True	B	-1	0	1.0	True	1	spine_0	1	61	3.0	107	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+363	1	181.5	363/2	0.5	1/2	61	-3	3	4	61	181.5	B-4	70	True	B	-1	1/8	1.5	False	0	spine_0	1	61	3.0	107	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+364	1	182.0	182	0.5	1/2	61	-3	3	4	61	182.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	61	3.0	107	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	#4
+364	2	182.0	182	1.0	1	61	-3	3	4	61	182.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	61	3.0	107	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+365	1	182.5	365/2	0.5	1/2	61	-3	3	4	61	182.5	B-4	70	True	B	-1	3/8	2.5	False	0	spine_0	1	61	3.0	107	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+366	1	183.0	183	0.5	1/2	61	-3	3	4	61	183.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	61	3.0	107	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+366	2	183.0	183	1.0	1	61	-3	3	4	61	183.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	61	3.0	107	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+367	1	183.5	367/2	0.5	1/2	61	-3	3	4	61	183.5	B-4	70	True	B	-1	5/8	3.5	False	0	spine_0	1	61	3.0	107	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+368	1	184.0	184	0.5	1/2	62	-3	3	4	62	184.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	62	1.0	108	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+368	2	184.0	184	1.0	1	62	-3	3	4	62	184.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	62	1.0	108	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+369	1	184.5	369/2	0.5	1/2	62	-3	3	4	62	184.5	B-4	70	True	B	-1	1/8	1.5	False	0	spine_0	1	62	1.0	108	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+370	1	185.0	185	0.5	1/2	62	-3	3	4	62	185.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	62	1.0	109	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+370	2	185.0	185	1.0	1	62	-3	3	4	62	185.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	62	1.0	109	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+371	1	185.5	371/2	0.5	1/2	62	-3	3	4	62	185.5	B-4	70	True	B	-1	3/8	2.5	False	0	spine_0	1	62	1.0	109	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+372	1	186.0	186	0.5	1/2	62	-3	3	4	62	186.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	62	1.0	110	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+372	2	186.0	186	1.0	1	62	-3	3	4	62	186.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	62	1.0	110	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+372	2	186.0	186	1.0	1	62	-3	3	4	62	186.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	62	1.0	110	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+372	2	186.0	186	1.0	1	62	-3	3	4	62	186.0	F3	53	True	F	0	1/2	3.0	True	3	spine_0	1	62	1.0	110	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	2
+373	1	186.5	373/2	0.5	1/2	62	-3	3	4	62	186.5	E-5	75	True	E	-1	5/8	3.5	False	0	spine_0	1	62	1.0	110	V7/V	False	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+374	1	187.0	187	0.5	1/2	63	-3	3	4	63	187.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	63	3.0	111	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+374	2	187.0	187	1.0	1	63	-3	3	4	63	187.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	63	3.0	111	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+374	2	187.0	187	1.0	1	63	-3	3	4	63	187.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	63	3.0	111	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+374	4	187.0	187	2.0	2	63	-3	3	4	63	187.0	B-2	46	True	B	-1	0	1.0	True	1	spine_0	1	63	3.0	111	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+375	1	187.5	375/2	0.5	1/2	63	-3	3	4	63	187.5	B-4	70	True	B	-1	1/8	1.5	False	0	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+376	1	188.0	188	0.5	1/2	63	-3	3	4	63	188.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	#4
+376	2	188.0	188	1.0	1	63	-3	3	4	63	188.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+376	2	188.0	188	1.0	1	63	-3	3	4	63	188.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+377	1	188.5	377/2	0.5	1/2	63	-3	3	4	63	188.5	B-4	70	True	B	-1	3/8	2.5	False	0	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+378	1	189.0	189	0.5	1/2	63	-3	3	4	63	189.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+378	2	189.0	189	1.0	1	63	-3	3	4	63	189.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+379	1	189.5	379/2	0.5	1/2	63	-3	3	4	63	189.5	B-4	70	True	B	-1	5/8	3.5	False	0	spine_0	1	63	3.0	111	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+380	1	190.0	190	0.5	1/2	64	-3	3	4	64	190.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	64	1.0	112	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	3
+380	2	190.0	190	1.0	1	64	-3	3	4	64	190.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	64	1.0	112	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	1
+381	1	190.5	381/2	0.5	1/2	64	-3	3	4	64	190.5	B-4	70	True	B	-1	1/8	1.5	False	0	spine_0	1	64	1.0	112	I	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	E-	1	None	I	True	5
+382	1	191.0	191	0.5	1/2	64	-3	3	4	64	191.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	64	1.0	113	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+382	2	191.0	191	1.0	1	64	-3	3	4	64	191.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	64	1.0	113	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+383	1	191.5	383/2	0.5	1/2	64	-3	3	4	64	191.5	B-4	70	True	B	-1	3/8	2.5	False	0	spine_0	1	64	1.0	113	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+384	1	192.0	192	0.5	1/2	64	-3	3	4	64	192.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	64	1.0	114	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+384	2	192.0	192	1.0	1	64	-3	3	4	64	192.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	64	1.0	114	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+384	2	192.0	192	1.0	1	64	-3	3	4	64	192.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	64	1.0	114	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+384	2	192.0	192	1.0	1	64	-3	3	4	64	192.0	F3	53	True	F	0	1/2	3.0	True	3	spine_0	1	64	1.0	114	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	2
+385	1	192.5	385/2	0.5	1/2	64	-3	3	4	64	192.5	E-5	75	True	E	-1	5/8	3.5	False	0	spine_0	1	64	1.0	114	V7/V	False	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+386	1	193.0	193	0.5	1/2	65	-3	3	4	65	193.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	65	2.0	115	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+386	2	193.0	193	1.0	1	65	-3	3	4	65	193.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	65	2.0	115	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+386	2	193.0	193	1.0	1	65	-3	3	4	65	193.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	65	2.0	115	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+386	4	193.0	193	2.0	2	65	-3	3	4	65	193.0	B-2	46	True	B	-1	0	1.0	True	1	spine_0	1	65	2.0	115	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+387	1	193.5	387/2	0.5	1/2	65	-3	3	4	65	193.5	B-4	70	True	B	-1	1/8	1.5	False	0	spine_0	1	65	2.0	115	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+388	1	194.0	194	0.5	1/2	65	-3	3	4	65	194.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	65	2.0	115	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	#4
+388	2	194.0	194	1.0	1	65	-3	3	4	65	194.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	65	2.0	115	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+388	2	194.0	194	1.0	1	65	-3	3	4	65	194.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	65	2.0	115	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+389	1	194.5	389/2	0.5	1/2	65	-3	3	4	65	194.5	B-4	70	True	B	-1	3/8	2.5	False	0	spine_0	1	65	2.0	115	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+390	1	195.0	195	0.5	1/2	65	-3	3	4	65	195.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	65	1.0	116	V7	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	2
+390	2	195.0	195	1.0	1	65	-3	3	4	65	195.0	F5	77	True	F	0	1/2	3.0	True	3	spine_0	1	65	1.0	116	V7	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	2
+390	2	195.0	195	1.0	1	65	-3	3	4	65	195.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	65	1.0	116	V7	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	4
+390	2	195.0	195	1.0	1	65	-3	3	4	65	195.0	D3	50	True	D	0	1/2	3.0	True	3	spine_0	1	65	1.0	116	V7	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	7
+391	1	195.5	391/2	0.5	1/2	65	-3	3	4	65	195.5	A-4	68	True	A	-1	5/8	3.5	False	0	spine_0	1	65	1.0	116	V7	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	E-	E-	5	None	V7	True	4
+392	1	196.0	196	0.5	1/2	66	-3	3	4	66	196.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	66	1.0	117	I+	True	('E-', 'G', 'B')	E-	E-	0	augmented triad	(3, 7, 11)	E-	E-	1	None	I+	True	3
+392	2	196.0	196	1.0	1	66	-3	3	4	66	196.0	F5	77	False	F	0	0	1.0	True	1	spine_0	1	66	1.0	117	I+	True	('E-', 'G', 'B')	E-	E-	0	augmented triad	(3, 7, 11)	E-	E-	1	None	I+	True	2
+392	2	196.0	196	1.0	1	66	-3	3	4	66	196.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	66	1.0	117	I+	True	('E-', 'G', 'B')	E-	E-	0	augmented triad	(3, 7, 11)	E-	E-	1	None	I+	True	3
+392	4	196.0	196	2.0	2	66	-3	3	4	66	196.0	E-3	51	True	E	-1	0	1.0	True	1	spine_0	1	66	1.0	117	I+	True	('E-', 'G', 'B')	E-	E-	0	augmented triad	(3, 7, 11)	E-	E-	1	None	I+	True	1
+393	1	196.5	393/2	0.5	1/2	66	-3	3	4	66	196.5	B4	71	True	B	0	1/8	1.5	False	0	spine_0	1	66	1.0	117	I+	False	('E-', 'G', 'B')	E-	E-	0	augmented triad	(3, 7, 11)	E-	E-	1	None	I+	True	#5
+394	1	197.0	197	0.5	1/2	66	-3	3	4	66	197.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	66	1.0	118	vi	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	6
+394	2	197.0	197	1.0	1	66	-3	3	4	66	197.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	66	1.0	118	vi	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	3
+394	2	197.0	197	1.0	1	66	-3	3	4	66	197.0	E-5	75	True	E	-1	1/4	2.0	True	2	spine_0	1	66	1.0	118	vi	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	1
+395	1	197.5	395/2	0.5	1/2	66	-3	3	4	66	197.5	E-5	75	True	E	-1	3/8	2.5	False	0	spine_0	1	66	1.0	118	vi	False	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	1
+396	1	198.0	198	0.5	1/2	66	-3	3	4	66	198.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	66	1.0	119	vi	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	1
+396	2	198.0	198	1.0	1	66	-3	3	4	66	198.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	66	1.0	119	vi	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	1
+396	2	198.0	198	1.0	1	66	-3	3	4	66	198.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	66	1.0	119	vi	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	3
+396	2	198.0	198	1.0	1	66	-3	3	4	66	198.0	C3	48	True	C	0	1/2	3.0	True	3	spine_0	1	66	1.0	119	vi	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	6
+397	1	198.5	397/2	0.5	1/2	66	-3	3	4	66	198.5	G4	67	True	G	0	5/8	3.5	False	0	spine_0	1	66	1.0	119	vi	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	E-	E-	6	None	vi	True	3
+398	1	199.0	199	0.5	1/2	67	-3	3	4	67	199.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	67	2.0	120	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+398	2	199.0	199	1.0	1	67	-3	3	4	67	199.0	E-5	75	False	E	-1	0	1.0	True	1	spine_0	1	67	2.0	120	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	1
+398	2	199.0	199	1.0	1	67	-3	3	4	67	199.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	67	2.0	120	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+398	4	199.0	199	2.0	2	67	-3	3	4	67	199.0	D3	50	True	D	0	0	1.0	True	1	spine_0	1	67	2.0	120	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+399	1	199.5	399/2	0.5	1/2	67	-3	3	4	67	199.5	A4	69	True	A	0	1/8	1.5	False	0	spine_0	1	67	2.0	120	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	#4
+400	1	200.0	200	0.5	1/2	67	-3	3	4	67	200.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	67	2.0	120	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+400	2	200.0	200	1.0	1	67	-3	3	4	67	200.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	67	2.0	120	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+400	2	200.0	200	1.0	1	67	-3	3	4	67	200.0	D5	74	True	D	0	1/4	2.0	True	2	spine_0	1	67	2.0	120	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+401	1	200.5	401/2	0.5	1/2	67	-3	3	4	67	200.5	D5	74	True	D	0	3/8	2.5	False	0	spine_0	1	67	2.0	120	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+402	1	201.0	201	0.5	1/2	67	-3	3	4	67	201.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	67	1.0	121	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+402	2	201.0	201	1.0	1	67	-3	3	4	67	201.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	67	1.0	121	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+402	2	201.0	201	1.0	1	67	-3	3	4	67	201.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	67	1.0	121	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+402	2	201.0	201	1.0	1	67	-3	3	4	67	201.0	B-2	46	True	B	-1	1/2	3.0	True	3	spine_0	1	67	1.0	121	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+403	1	201.5	403/2	0.5	1/2	67	-3	3	4	67	201.5	D5	74	True	D	0	5/8	3.5	False	0	spine_0	1	67	1.0	121	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+404	1	202.0	202	0.5	1/2	68	-3	3	4	68	202.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	68	1.0	122	I7	True	('E-', 'G', 'B-', 'D')	E-	E-	0	major seventh chord	(2, 3, 7, 10)	E-	E-	1	None	I7	True	1
+404	2	202.0	202	1.0	1	68	-3	3	4	68	202.0	D5	74	False	D	0	0	1.0	True	1	spine_0	1	68	1.0	122	I7	True	('E-', 'G', 'B-', 'D')	E-	E-	0	major seventh chord	(2, 3, 7, 10)	E-	E-	1	None	I7	True	7
+404	6	202.0	202	3.0	3	68	-3	3	4	68	202.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	68	1.0	122	I7	True	('E-', 'G', 'B-', 'D')	E-	E-	0	major seventh chord	(2, 3, 7, 10)	E-	E-	1	None	I7	True	3
+404	2	202.0	202	1.0	1	68	-3	3	4	68	202.0	E-3	51	True	E	-1	0	1.0	True	1	spine_0	1	68	1.0	122	I7	True	('E-', 'G', 'B-', 'D')	E-	E-	0	major seventh chord	(2, 3, 7, 10)	E-	E-	1	None	I7	True	1
+405	1	202.5	405/2	0.5	1/2	68	-3	3	4	68	202.5	D5	74	True	D	0	1/8	1.5	False	0	spine_0	1	68	1.0	122	I7	False	('E-', 'G', 'B-', 'D')	E-	E-	0	major seventh chord	(2, 3, 7, 10)	E-	E-	1	None	I7	True	7
+406	1	203.0	203	0.5	1/2	68	-3	3	4	68	203.0	E4	64	True	E	0	1/4	2.0	True	2	spine_0	1	68	1.0	123	V/ii	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	E-	f	5	2	V	True	#1
+406	2	203.0	203	1.0	1	68	-3	3	4	68	203.0	C5	72	True	C	0	1/4	2.0	True	2	spine_0	1	68	1.0	123	V/ii	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	E-	f	5	2	V	True	6
+407	1	203.5	407/2	0.5	1/2	68	-3	3	4	68	203.5	C5	72	True	C	0	3/8	2.5	False	0	spine_0	1	68	1.0	123	V/ii	False	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	E-	f	5	2	V	True	6
+408	1	204.0	204	0.5	1/2	68	-3	3	4	68	204.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	68	1.0	124	V7/V/V	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	F	5	5	V7	True	3
+408	2	204.0	204	1.0	1	68	-3	3	4	68	204.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	68	1.0	124	V7/V/V	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	F	5	5	V7	True	5
+408	2	204.0	204	1.0	1	68	-3	3	4	68	204.0	E3	52	True	E	0	1/2	3.0	True	3	spine_0	1	68	1.0	124	V7/V/V	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	F	5	5	V7	True	#1
+409	1	204.5	409/2	0.5	1/2	68	-3	3	4	68	204.5	B-4	70	True	B	-1	5/8	3.5	False	0	spine_0	1	68	1.0	124	V7/V/V	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	F	5	5	V7	True	5
+410	1	205.0	205	0.5	1/2	69	-3	3	4	69	205.0	A4	69	True	A	0	0	1.0	True	1	spine_0	1	69	3.0	125	V/V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	#4
+410	4	205.0	205	2.0	2	69	-3	3	4	69	205.0	A4	69	True	A	0	0	1.0	True	1	spine_0	1	69	3.0	125	V/V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	#4
+410	2	205.0	205	1.0	1	69	-3	3	4	69	205.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	69	3.0	125	V/V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	6
+410	2	205.0	205	1.0	1	69	-3	3	4	69	205.0	F3	53	True	F	0	0	1.0	True	1	spine_0	1	69	3.0	125	V/V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	2
+411	1	205.5	411/2	0.5	1/2	69	-3	3	4	69	205.5	F4	65	True	F	0	1/8	1.5	False	0	spine_0	1	69	3.0	125	V/V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	2
+412	1	206.0	206	0.5	1/2	69	-3	3	4	69	206.0	E4	64	True	E	0	1/4	2.0	True	2	spine_0	1	69	3.0	125	V/V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	#1
+413	1	206.5	413/2	0.5	1/2	69	-3	3	4	69	206.5	F4	65	True	F	0	3/8	2.5	False	0	spine_0	1	69	3.0	125	V/V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	2
+414	1	207.0	207	0.5	1/2	69	-3	3	4	69	207.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	69	3.0	125	V/V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	6
+414	2	207.0	207	1.0	1	69	-3	3	4	69	207.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	69	3.0	125	V/V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	6
+415	1	207.5	415/2	0.5	1/2	69	-3	3	4	69	207.5	A4	69	True	A	0	5/8	3.5	False	0	spine_0	1	69	3.0	125	V/V	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	E-	B-	5	5	V	True	#4
+416	1	208.0	208	0.5	1/2	70	-3	3	4	70	208.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	70	3.0	126	V7/V	True	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+416	6	208.0	208	3.0	3	70	-3	3	4	70	208.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	70	3.0	126	V7/V	True	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+416	6	208.0	208	3.0	3	70	-3	3	4	70	208.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	70	3.0	126	V7/V	True	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+416	6	208.0	208	3.0	3	70	-3	3	4	70	208.0	A2	45	True	A	0	0	1.0	True	1	spine_0	1	70	3.0	126	V7/V	True	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+417	1	208.5	417/2	0.5	1/2	70	-3	3	4	70	208.5	C5	72	True	C	0	1/8	1.5	False	0	spine_0	1	70	3.0	126	V7/V	False	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+418	1	209.0	209	0.5	1/2	70	-3	3	4	70	209.0	A4	69	True	A	0	1/4	2.0	True	2	spine_0	1	70	3.0	126	V7/V	False	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+419	1	209.5	419/2	0.5	1/2	70	-3	3	4	70	209.5	F4	65	True	F	0	3/8	2.5	False	0	spine_0	1	70	3.0	126	V7/V	False	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	2
+420	1	210.0	210	0.5	1/2	70	-3	3	4	70	210.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	70	3.0	126	V7/V	False	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+421	1	210.5	421/2	0.5	1/2	70	-3	3	4	70	210.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	70	3.0	126	V7/V	False	('A', 'C', 'E-', 'F')	A	F	1	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+422	1	211.0	211	0.5	1/2	71	-3	3	4	71	211.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	71	2.0	127	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+422	2	211.0	211	1.0	1	71	-3	3	4	71	211.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	71	2.0	127	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+422	4	211.0	211	2.0	2	71	-3	3	4	71	211.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	71	2.0	127	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+422	2	211.0	211	1.0	1	71	-3	3	4	71	211.0	B-2	46	True	B	-1	0	1.0	True	1	spine_0	1	71	2.0	127	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+423	1	211.5	423/2	0.5	1/2	71	-3	3	4	71	211.5	F4	65	True	F	0	1/8	1.5	False	0	spine_0	1	71	2.0	127	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
+424	1	212.0	212	0.5	1/2	71	-3	3	4	71	212.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	71	2.0	127	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+424	2	212.0	212	1.0	1	71	-3	3	4	71	212.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	71	2.0	127	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+424	2	212.0	212	1.0	1	71	-3	3	4	71	212.0	D3	50	True	D	0	1/4	2.0	True	2	spine_0	1	71	2.0	127	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+425	1	212.5	425/2	0.5	1/2	71	-3	3	4	71	212.5	D4	62	True	D	0	3/8	2.5	False	0	spine_0	1	71	2.0	127	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+426	1	213.0	213	0.5	1/2	71	-3	3	4	71	213.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	71	1.0	128	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	6
+426	2	213.0	213	1.0	1	71	-3	3	4	71	213.0	A4	69	True	A	0	1/2	3.0	True	3	spine_0	1	71	1.0	128	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+426	2	213.0	213	1.0	1	71	-3	3	4	71	213.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	71	1.0	128	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	1
+426	2	213.0	213	1.0	1	71	-3	3	4	71	213.0	F3	53	True	F	0	1/2	3.0	True	3	spine_0	1	71	1.0	128	V7/V	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	2
+427	1	213.5	427/2	0.5	1/2	71	-3	3	4	71	213.5	A4	69	True	A	0	5/8	3.5	False	0	spine_0	1	71	1.0	128	V7/V	False	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	E-	B-	5	5	V7	True	#4
+428	2	214.0	214	1.0	1	72	-3	3	4	72	214.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	72	3.0	129	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+428	2	214.0	214	1.0	1	72	-3	3	4	72	214.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	72	3.0	129	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+428	2	214.0	214	1.0	1	72	-3	3	4	72	214.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	72	3.0	129	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
+428	2	214.0	214	1.0	1	72	-3	3	4	72	214.0	B-2	46	True	B	-1	0	1.0	True	1	spine_0	1	72	3.0	129	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+432	2	216.0	216	1.0	1	72	-3	3	4	72	216.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	72	3.0	129	V	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
+434	1	217.0	217	0.5	1/2	73	-3	3	4	73	217.0	D-4	61	True	D	-1	0	1.0	True	1	spine_0	1	73	2.0	130	iio	True	('G', 'B-', 'D-')	G	G	0	diminished triad	(1, 7, 10)	f	f	2	None	iio	True	6
+435	1	217.5	435/2	0.5	1/2	73	-3	3	4	73	217.5	B-3	58	True	B	-1	1/8	1.5	False	0	spine_0	1	73	2.0	130	iio	False	('G', 'B-', 'D-')	G	G	0	diminished triad	(1, 7, 10)	f	f	2	None	iio	True	4
+436	1	218.0	218	0.5	1/2	73	-3	3	4	73	218.0	G3	55	True	G	0	1/4	2.0	True	2	spine_0	1	73	2.0	130	iio	False	('G', 'B-', 'D-')	G	G	0	diminished triad	(1, 7, 10)	f	f	2	None	iio	True	2
+437	1	218.5	437/2	0.5	1/2	73	-3	3	4	73	218.5	B-3	58	True	B	-1	3/8	2.5	False	0	spine_0	1	73	2.0	130	iio	False	('G', 'B-', 'D-')	G	G	0	diminished triad	(1, 7, 10)	f	f	2	None	iio	True	4
+438	1	219.0	219	0.5	1/2	73	-3	3	4	73	219.0	G3	55	True	G	0	1/2	3.0	True	3	spine_0	1	73	1.0	131	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	2
+438	2	219.0	219	1.0	1	73	-3	3	4	73	219.0	E4	64	True	E	0	1/2	3.0	True	3	spine_0	1	73	1.0	131	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	#7
+438	2	219.0	219	1.0	1	73	-3	3	4	73	219.0	B-3	58	True	B	-1	1/2	3.0	True	3	spine_0	1	73	1.0	131	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	4
+438	2	219.0	219	1.0	1	73	-3	3	4	73	219.0	C3	48	True	C	0	1/2	3.0	True	3	spine_0	1	73	1.0	131	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
+439	1	219.5	439/2	0.5	1/2	73	-3	3	4	73	219.5	E4	64	True	E	0	5/8	3.5	False	0	spine_0	1	73	1.0	131	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	#7
+440	1	220.0	220	0.5	1/2	74	-3	3	4	74	220.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	74	2.0	132	i	True	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
+440	2	220.0	220	1.0	1	74	-3	3	4	74	220.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	74	2.0	132	i	True	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
+440	2	220.0	220	1.0	1	74	-3	3	4	74	220.0	A-3	56	True	A	-1	0	1.0	True	1	spine_0	1	74	2.0	132	i	True	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+440	2	220.0	220	1.0	1	74	-3	3	4	74	220.0	A-2	44	True	A	-1	0	1.0	True	1	spine_0	1	74	2.0	132	i	True	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+441	1	220.5	441/2	0.5	1/2	74	-3	3	4	74	220.5	C4	60	True	C	0	1/8	1.5	False	0	spine_0	1	74	2.0	132	i	False	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	5
+442	1	221.0	221	0.5	1/2	74	-3	3	4	74	221.0	D-4	61	True	D	-1	1/4	2.0	True	2	spine_0	1	74	2.0	132	i	False	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	6
+442	2	221.0	221	1.0	1	74	-3	3	4	74	221.0	A-4	68	True	A	-1	1/4	2.0	True	2	spine_0	1	74	2.0	132	i	False	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+443	1	221.5	443/2	0.5	1/2	74	-3	3	4	74	221.5	C4	60	True	C	0	3/8	2.5	False	0	spine_0	1	74	2.0	132	i	False	('A-', 'C', 'F')	A-	F	1	minor triad	(0, 5, 8)	f	f	1	None	i	True	5
+444	1	222.0	222	0.5	1/2	74	-3	3	4	74	222.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	74	1.0	133	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+444	2	222.0	222	1.0	1	74	-3	3	4	74	222.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	74	1.0	133	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+444	2	222.0	222	1.0	1	74	-3	3	4	74	222.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	74	1.0	133	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	5
+444	2	222.0	222	1.0	1	74	-3	3	4	74	222.0	F3	53	True	F	0	1/2	3.0	True	3	spine_0	1	74	1.0	133	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
+445	1	222.5	445/2	0.5	1/2	74	-3	3	4	74	222.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	74	1.0	133	i	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	5
+446	1	223.0	223	0.5	1/2	75	-3	3	4	75	223.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	75	3.0	134	V7	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	2
+446	2	223.0	223	1.0	1	75	-3	3	4	75	223.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	75	3.0	134	V7	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	2
+446	2	223.0	223	1.0	1	75	-3	3	4	75	223.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	75	3.0	134	V7	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
+446	2	223.0	223	1.0	1	75	-3	3	4	75	223.0	E3	52	True	E	0	0	1.0	True	1	spine_0	1	75	3.0	134	V7	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	#7
+447	1	223.5	447/2	0.5	1/2	75	-3	3	4	75	223.5	C4	60	True	C	0	1/8	1.5	False	0	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
+448	1	224.0	224	0.5	1/2	75	-3	3	4	75	224.0	D-4	61	True	D	-1	1/4	2.0	True	2	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	6
+448	2	224.0	224	1.0	1	75	-3	3	4	75	224.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	4
+449	1	224.5	449/2	0.5	1/2	75	-3	3	4	75	224.5	C4	60	True	C	0	3/8	2.5	False	0	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
+450	1	225.0	225	0.5	1/2	75	-3	3	4	75	225.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	4
+450	2	225.0	225	1.0	1	75	-3	3	4	75	225.0	B-4	70	True	B	-1	1/2	3.0	True	3	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	4
+450	2	225.0	225	1.0	1	75	-3	3	4	75	225.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
+450	2	225.0	225	1.0	1	75	-3	3	4	75	225.0	E3	52	True	E	0	1/2	3.0	True	3	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	#7
+451	1	225.5	451/2	0.5	1/2	75	-3	3	4	75	225.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	75	3.0	134	V7	False	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
+452	1	226.0	226	0.5	1/2	76	-3	3	4	76	226.0	A-4	68	True	A	-1	0	1.0	True	1	spine_0	1	76	2.0	135	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+452	2	226.0	226	1.0	1	76	-3	3	4	76	226.0	A-4	68	True	A	-1	0	1.0	True	1	spine_0	1	76	2.0	135	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+452	2	226.0	226	1.0	1	76	-3	3	4	76	226.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	76	2.0	135	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
+452	4	226.0	226	2.0	2	76	-3	3	4	76	226.0	F3	53	True	F	0	0	1.0	True	1	spine_0	1	76	2.0	135	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
+453	1	226.5	453/2	0.5	1/2	76	-3	3	4	76	226.5	C4	60	True	C	0	1/8	1.5	False	0	spine_0	1	76	2.0	135	i	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	5
+454	1	227.0	227	0.5	1/2	76	-3	3	4	76	227.0	D-4	61	True	D	-1	1/4	2.0	True	2	spine_0	1	76	2.0	135	i	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	6
+454	2	227.0	227	1.0	1	76	-3	3	4	76	227.0	F5	77	True	F	0	1/4	2.0	True	2	spine_0	1	76	2.0	135	i	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
+454	2	227.0	227	1.0	1	76	-3	3	4	76	227.0	A-4	68	True	A	-1	1/4	2.0	True	2	spine_0	1	76	2.0	135	i	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
+455	1	227.5	455/2	0.5	1/2	76	-3	3	4	76	227.5	C4	60	True	C	0	3/8	2.5	False	0	spine_0	1	76	2.0	135	i	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	5
+456	1	228.0	228	0.5	1/2	76	-3	3	4	76	228.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	76	1.0	136	i7	True	('E-', 'F', 'A-', 'C')	E-	F	3	minor seventh chord	(0, 3, 5, 8)	f	f	1	None	i7	True	3
+456	2	228.0	228	1.0	1	76	-3	3	4	76	228.0	F5	77	True	F	0	1/2	3.0	True	3	spine_0	1	76	1.0	136	i7	True	('E-', 'F', 'A-', 'C')	E-	F	3	minor seventh chord	(0, 3, 5, 8)	f	f	1	None	i7	True	1
+456	2	228.0	228	1.0	1	76	-3	3	4	76	228.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	76	1.0	136	i7	True	('E-', 'F', 'A-', 'C')	E-	F	3	minor seventh chord	(0, 3, 5, 8)	f	f	1	None	i7	True	3
+456	2	228.0	228	1.0	1	76	-3	3	4	76	228.0	E-3	51	True	E	-1	1/2	3.0	True	3	spine_0	1	76	1.0	136	i7	True	('E-', 'F', 'A-', 'C')	E-	F	3	minor seventh chord	(0, 3, 5, 8)	f	f	1	None	i7	True	7
+457	1	228.5	457/2	0.5	1/2	76	-3	3	4	76	228.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	76	1.0	136	i7	False	('E-', 'F', 'A-', 'C')	E-	F	3	minor seventh chord	(0, 3, 5, 8)	f	f	1	None	i7	True	5
+458	1	229.0	229	0.5	1/2	77	-3	3	4	77	229.0	A-4	68	True	A	-1	0	1.0	True	1	spine_0	1	77	3.0	137	V7/VII	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	3
+458	4	229.0	229	2.0	2	77	-3	3	4	77	229.0	F5	77	True	F	0	0	1.0	True	1	spine_0	1	77	3.0	137	V7/VII	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	1
+458	4	229.0	229	2.0	2	77	-3	3	4	77	229.0	A-4	68	True	A	-1	0	1.0	True	1	spine_0	1	77	3.0	137	V7/VII	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	3
+458	6	229.0	229	3.0	3	77	-3	3	4	77	229.0	D3	50	True	D	0	0	1.0	True	1	spine_0	1	77	3.0	137	V7/VII	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	#6
+459	1	229.5	459/2	0.5	1/2	77	-3	3	4	77	229.5	B-3	58	True	B	-1	1/8	1.5	False	0	spine_0	1	77	3.0	137	V7/VII	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	4
+460	1	230.0	230	0.5	1/2	77	-3	3	4	77	230.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	77	3.0	137	V7/VII	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	5
+461	1	230.5	461/2	0.5	1/2	77	-3	3	4	77	230.5	B-3	58	True	B	-1	3/8	2.5	False	0	spine_0	1	77	3.0	137	V7/VII	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	4
+462	1	231.0	231	0.5	1/2	77	-3	3	4	77	231.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	77	3.0	137	V7/VII	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	3
+462	2	231.0	231	1.0	1	77	-3	3	4	77	231.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	77	3.0	137	V7/VII	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	3
+462	2	231.0	231	1.0	1	77	-3	3	4	77	231.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	77	3.0	137	V7/VII	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	1
+463	1	231.5	463/2	0.5	1/2	77	-3	3	4	77	231.5	B-3	58	True	B	-1	5/8	3.5	False	0	spine_0	1	77	3.0	137	V7/VII	False	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	f	E-	5	7	V7	True	4
+464	1	232.0	232	0.5	1/2	78	-3	3	4	78	232.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	78	2.0	138	VII	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	2
+464	2	232.0	232	1.0	1	78	-3	3	4	78	232.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	78	2.0	138	VII	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	2
+464	2	232.0	232	1.0	1	78	-3	3	4	78	232.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	78	2.0	138	VII	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	7
+464	4	232.0	232	2.0	2	78	-3	3	4	78	232.0	E-3	51	True	E	-1	0	1.0	True	1	spine_0	1	78	2.0	138	VII	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	7
+465	1	232.5	465/2	0.5	1/2	78	-3	3	4	78	232.5	B-3	58	True	B	-1	1/8	1.5	False	0	spine_0	1	78	2.0	138	VII	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	4
+466	1	233.0	233	0.5	1/2	78	-3	3	4	78	233.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	78	2.0	138	VII	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	5
+466	2	233.0	233	1.0	1	78	-3	3	4	78	233.0	E-5	75	True	E	-1	1/4	2.0	True	2	spine_0	1	78	2.0	138	VII	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	7
+466	2	233.0	233	1.0	1	78	-3	3	4	78	233.0	G4	67	True	G	0	1/4	2.0	True	2	spine_0	1	78	2.0	138	VII	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	2
+467	1	233.5	467/2	0.5	1/2	78	-3	3	4	78	233.5	B-3	58	True	B	-1	3/8	2.5	False	0	spine_0	1	78	2.0	138	VII	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	f	f	7	None	VII	True	4
+468	1	234.0	234	0.5	1/2	78	-3	3	4	78	234.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	78	1.0	139	VII7	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	f	f	7	None	VII7	True	2
+468	2	234.0	234	1.0	1	78	-3	3	4	78	234.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	78	1.0	139	VII7	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	f	f	7	None	VII7	True	7
+468	2	234.0	234	1.0	1	78	-3	3	4	78	234.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	78	1.0	139	VII7	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	f	f	7	None	VII7	True	2
+468	2	234.0	234	1.0	1	78	-3	3	4	78	234.0	D3	50	True	D	0	1/2	3.0	True	3	spine_0	1	78	1.0	139	VII7	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	f	f	7	None	VII7	True	#6
+469	1	234.5	469/2	0.5	1/2	78	-3	3	4	78	234.5	B-3	58	True	B	-1	5/8	3.5	False	0	spine_0	1	78	1.0	139	VII7	False	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	f	f	7	None	VII7	True	4
+470	1	235.0	235	0.5	1/2	79	-3	3	4	79	235.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	79	3.0	140	III7	True	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	2
+470	4	235.0	235	2.0	2	79	-3	3	4	79	235.0	E-5	75	True	E	-1	0	1.0	True	1	spine_0	1	79	3.0	140	III7	True	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	7
+470	4	235.0	235	2.0	2	79	-3	3	4	79	235.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	79	3.0	140	III7	True	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	2
+470	6	235.0	235	3.0	3	79	-3	3	4	79	235.0	C3	48	True	C	0	0	1.0	True	1	spine_0	1	79	3.0	140	III7	True	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	5
+471	1	235.5	471/2	0.5	1/2	79	-3	3	4	79	235.5	A-3	56	True	A	-1	1/8	1.5	False	0	spine_0	1	79	3.0	140	III7	False	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	3
+472	1	236.0	236	0.5	1/2	79	-3	3	4	79	236.0	B-3	58	True	B	-1	1/4	2.0	True	2	spine_0	1	79	3.0	140	III7	False	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	4
+473	1	236.5	473/2	0.5	1/2	79	-3	3	4	79	236.5	A-3	56	True	A	-1	3/8	2.5	False	0	spine_0	1	79	3.0	140	III7	False	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	3
+474	1	237.0	237	0.5	1/2	79	-3	3	4	79	237.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	79	3.0	140	III7	False	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	2
+474	2	237.0	237	1.0	1	79	-3	3	4	79	237.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	79	3.0	140	III7	False	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	2
+474	2	237.0	237	1.0	1	79	-3	3	4	79	237.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	79	3.0	140	III7	False	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	7
+475	1	237.5	475/2	0.5	1/2	79	-3	3	4	79	237.5	A-3	56	True	A	-1	5/8	3.5	False	0	spine_0	1	79	3.0	140	III7	False	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	f	f	3	None	III7	True	3
+476	1	238.0	238	0.5	1/2	80	-3	3	4	80	238.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	80	3.0	141	iio7/v	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	1
+476	2	238.0	238	1.0	1	80	-3	3	4	80	238.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	80	3.0	141	iio7/v	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	1
+476	2	238.0	238	1.0	1	80	-3	3	4	80	238.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	80	3.0	141	iio7/v	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	#6
+476	4	238.0	238	2.0	2	80	-3	3	4	80	238.0	D3	50	True	D	0	0	1.0	True	1	spine_0	1	80	3.0	141	iio7/v	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	#6
+477	1	238.5	477/2	0.5	1/2	80	-3	3	4	80	238.5	A-3	56	True	A	-1	1/8	1.5	False	0	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	3
+478	1	239.0	239	0.5	1/2	80	-3	3	4	80	239.0	B-3	58	True	B	-1	1/4	2.0	True	2	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	4
+478	2	239.0	239	1.0	1	80	-3	3	4	80	239.0	D5	74	True	D	0	1/4	2.0	True	2	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	#6
+478	2	239.0	239	1.0	1	80	-3	3	4	80	239.0	F4	65	True	F	0	1/4	2.0	True	2	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	1
+479	1	239.5	479/2	0.5	1/2	80	-3	3	4	80	239.5	A-3	56	True	A	-1	3/8	2.5	False	0	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	3
+480	1	240.0	240	0.5	1/2	80	-3	3	4	80	240.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	1
+480	2	240.0	240	1.0	1	80	-3	3	4	80	240.0	D5	74	True	D	0	1/2	3.0	True	3	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	#6
+480	2	240.0	240	1.0	1	80	-3	3	4	80	240.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	1
+480	2	240.0	240	1.0	1	80	-3	3	4	80	240.0	C3	48	True	C	0	1/2	3.0	True	3	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	5
+481	1	240.5	481/2	0.5	1/2	80	-3	3	4	80	240.5	A-3	56	True	A	-1	5/8	3.5	False	0	spine_0	1	80	3.0	141	iio7/v	False	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	c	2	5	iio7	True	3
+482	1	241.0	241	0.5	1/2	81	-3	3	4	81	241.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	81	3.0	142	viio7/v	True	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	1
+482	4	241.0	241	2.0	2	81	-3	3	4	81	241.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	81	3.0	142	viio7/v	True	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	#6
+482	4	241.0	241	2.0	2	81	-3	3	4	81	241.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	81	3.0	142	viio7/v	True	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	1
+482	6	241.0	241	3.0	3	81	-3	3	4	81	241.0	B2	47	True	B	0	0	1.0	True	1	spine_0	1	81	3.0	142	viio7/v	True	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	#4
+483	1	241.5	483/2	0.5	1/2	81	-3	3	4	81	241.5	G3	55	True	G	0	1/8	1.5	False	0	spine_0	1	81	3.0	142	viio7/v	False	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	2
+484	1	242.0	242	0.5	1/2	81	-3	3	4	81	242.0	A-3	56	True	A	-1	1/4	2.0	True	2	spine_0	1	81	3.0	142	viio7/v	False	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	3
+485	1	242.5	485/2	0.5	1/2	81	-3	3	4	81	242.5	G3	55	True	G	0	3/8	2.5	False	0	spine_0	1	81	3.0	142	viio7/v	False	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	2
+486	1	243.0	243	0.5	1/2	81	-3	3	4	81	243.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	81	3.0	142	viio7/v	False	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	1
+486	2	243.0	243	1.0	1	81	-3	3	4	81	243.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	81	3.0	142	viio7/v	False	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	1
+486	2	243.0	243	1.0	1	81	-3	3	4	81	243.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	81	3.0	142	viio7/v	False	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	#6
+487	1	243.5	487/2	0.5	1/2	81	-3	3	4	81	243.5	G3	55	True	G	0	5/8	3.5	False	0	spine_0	1	81	3.0	142	viio7/v	False	('B', 'D', 'F', 'A-')	B	B	0	diminished seventh chord	(2, 5, 8, 11)	f	c	#7	5	viio7	True	2
+488	1	244.0	244	0.5	1/2	82	-3	3	4	82	244.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	82	2.0	143	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+488	2	244.0	244	1.0	1	82	-3	3	4	82	244.0	E-4	63	True	E	-1	0	1.0	True	1	spine_0	1	82	2.0	143	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+488	2	244.0	244	1.0	1	82	-3	3	4	82	244.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	82	2.0	143	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+488	2	244.0	244	1.0	1	82	-3	3	4	82	244.0	C3	48	True	C	0	0	1.0	True	1	spine_0	1	82	2.0	143	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+489	1	244.5	489/2	0.5	1/2	82	-3	3	4	82	244.5	C4	60	True	C	0	1/8	1.5	False	0	spine_0	1	82	2.0	143	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+490	1	245.0	245	0.5	1/2	82	-3	3	4	82	245.0	B3	59	True	B	0	1/4	2.0	True	2	spine_0	1	82	2.0	143	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	#4
+490	2	245.0	245	1.0	1	82	-3	3	4	82	245.0	F#4	66	True	F	1	1/4	2.0	True	2	spine_0	1	82	2.0	143	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	#1
+491	1	245.5	491/2	0.5	1/2	82	-3	3	4	82	245.5	C4	60	True	C	0	3/8	2.5	False	0	spine_0	1	82	2.0	143	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+492	1	246.0	246	0.5	1/2	82	-3	3	4	82	246.0	A-3	56	True	A	-1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	3
+492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	F#4	66	True	F	1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	#1
+492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	5
+492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	A-2	44	True	A	-1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	3
+493	1	246.5	493/2	0.5	1/2	82	-3	3	4	82	246.5	F#4	66	True	F	1	5/8	3.5	False	0	spine_0	1	82	1.0	144	It/v	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	#1
+494	1	247.0	247	0.5	1/2	83	-3	3	4	83	247.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	83	2.0	145	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+494	2	247.0	247	1.0	1	83	-3	3	4	83	247.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	83	2.0	145	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+494	2	247.0	247	1.0	1	83	-3	3	4	83	247.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	83	2.0	145	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#4
+494	2	247.0	247	1.0	1	83	-3	3	4	83	247.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	83	2.0	145	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+495	1	247.5	495/2	0.5	1/2	83	-3	3	4	83	247.5	G4	67	True	G	0	1/8	1.5	False	0	spine_0	1	83	2.0	145	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+496	1	248.0	248	0.5	1/2	83	-3	3	4	83	248.0	F#4	66	True	F	1	1/4	2.0	True	2	spine_0	1	83	2.0	145	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#1
+497	1	248.5	497/2	0.5	1/2	83	-3	3	4	83	248.5	G4	67	True	G	0	3/8	2.5	False	0	spine_0	1	83	2.0	145	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+498	1	249.0	249	0.5	1/2	83	-3	3	4	83	249.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	83	1.0	146	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+498	2	249.0	249	1.0	1	83	-3	3	4	83	249.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	83	1.0	146	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+498	2	249.0	249	1.0	1	83	-3	3	4	83	249.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	83	1.0	146	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+499	1	249.5	499/2	0.5	1/2	83	-3	3	4	83	249.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	83	1.0	146	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+500	1	250.0	250	0.5	1/2	84	-3	3	4	84	250.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	84	2.0	147	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+500	2	250.0	250	1.0	1	84	-3	3	4	84	250.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	84	2.0	147	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#6
+500	2	250.0	250	1.0	1	84	-3	3	4	84	250.0	B4	71	True	B	0	0	1.0	True	1	spine_0	1	84	2.0	147	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#4
+500	2	250.0	250	1.0	1	84	-3	3	4	84	250.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	84	2.0	147	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+501	1	250.5	501/2	0.5	1/2	84	-3	3	4	84	250.5	G4	67	True	G	0	1/8	1.5	False	0	spine_0	1	84	2.0	147	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+502	1	251.0	251	0.5	1/2	84	-3	3	4	84	251.0	F#4	66	True	F	1	1/4	2.0	True	2	spine_0	1	84	2.0	147	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#1
+503	1	251.5	503/2	0.5	1/2	84	-3	3	4	84	251.5	G4	67	True	G	0	3/8	2.5	False	0	spine_0	1	84	2.0	147	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+504	1	252.0	252	0.5	1/2	84	-3	3	4	84	252.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	84	1.0	148	v	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+504	2	252.0	252	1.0	1	84	-3	3	4	84	252.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	84	1.0	148	v	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+504	2	252.0	252	1.0	1	84	-3	3	4	84	252.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	84	1.0	148	v	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+505	1	252.5	505/2	0.5	1/2	84	-3	3	4	84	252.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	84	1.0	148	v	False	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+506	1	253.0	253	0.5	1/2	85	-3	3	4	85	253.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	85	2.0	149	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+506	2	253.0	253	1.0	1	85	-3	3	4	85	253.0	B4	71	True	B	0	0	1.0	True	1	spine_0	1	85	2.0	149	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#4
+506	2	253.0	253	1.0	1	85	-3	3	4	85	253.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	85	2.0	149	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#6
+506	2	253.0	253	1.0	1	85	-3	3	4	85	253.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	85	2.0	149	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+507	1	253.5	507/2	0.5	1/2	85	-3	3	4	85	253.5	G4	67	True	G	0	1/8	1.5	False	0	spine_0	1	85	2.0	149	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+508	1	254.0	254	0.5	1/2	85	-3	3	4	85	254.0	F#4	66	True	F	1	1/4	2.0	True	2	spine_0	1	85	2.0	149	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#1
+509	1	254.5	509/2	0.5	1/2	85	-3	3	4	85	254.5	G4	67	True	G	0	3/8	2.5	False	0	spine_0	1	85	2.0	149	V/v	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+510	1	255.0	255	0.5	1/2	85	-3	3	4	85	255.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	85	1.0	150	v	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+510	2	255.0	255	1.0	1	85	-3	3	4	85	255.0	G4	67	True	G	0	1/2	3.0	True	3	spine_0	1	85	1.0	150	v	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	2
+510	2	255.0	255	1.0	1	85	-3	3	4	85	255.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	85	1.0	150	v	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+511	1	255.5	511/2	0.5	1/2	85	-3	3	4	85	255.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	85	1.0	150	v	False	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+512	1	256.0	256	0.5	1/2	86	-3	3	4	86	256.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	86	2.0	151	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	2
+512	2	256.0	256	1.0	1	86	-3	3	4	86	256.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	86	2.0	151	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	1
+512	2	256.0	256	1.0	1	86	-3	3	4	86	256.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	86	2.0	151	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	#6
+512	2	256.0	256	1.0	1	86	-3	3	4	86	256.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	86	2.0	151	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	2
+513	1	256.5	513/2	0.5	1/2	86	-3	3	4	86	256.5	G4	67	True	G	0	1/8	1.5	False	0	spine_0	1	86	2.0	151	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	2
+514	1	257.0	257	0.5	1/2	86	-3	3	4	86	257.0	F#4	66	True	F	1	1/4	2.0	True	2	spine_0	1	86	2.0	151	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	#1
+515	1	257.5	515/2	0.5	1/2	86	-3	3	4	86	257.5	G4	67	True	G	0	3/8	2.5	False	0	spine_0	1	86	2.0	151	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	2
+516	1	258.0	258	0.5	1/2	86	-3	3	4	86	258.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	86	1.0	152	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+516	2	258.0	258	1.0	1	86	-3	3	4	86	258.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	86	1.0	152	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
+516	2	258.0	258	1.0	1	86	-3	3	4	86	258.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	86	1.0	152	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+517	1	258.5	517/2	0.5	1/2	86	-3	3	4	86	258.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	86	1.0	152	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
+518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#6
+518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#4
+518	2	259.0	259	6.0	1	87	-3	3	4	87	259.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2

@@ -1,0 +1,466 @@
+onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measure	ks_fifths	ts_beats	ts_beat_type	measureNumberWithSuffix	onset_beat	s_note	s_midi	s_isOnset	s_step	s_alter	mn_onset	s_beat_float	is_downbeat	downbeat	s_part_id	s_voice_id	a_measure	a_duration	a_annotationNumber	a_romanNumeral	a_isOnset	a_pitchNames	a_bass	a_root	a_inversion	a_quality	a_pcset	a_localKey	a_tonicizedKey	a_degree1	a_degree2	a_simpleNumeral	valid_chord_label	note_degree
+0	3	0.0	0	0.25	1/4	0	-3	3	4	1	0.0	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	1	3.0	0	i	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	1	None	i	True	1
+3	9	0.25	1/4	0.75	3/4	1	-3	3	4	2	0.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	1	3.0	0	i	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	1	None	i	True	1
+3	36	0.25	1/4	3.0	3	1	-3	3	4	2	0.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	1	3.0	0	i	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	1	None	i	True	1
+3	36	0.25	1/4	3.0	3	1	-3	3	4	2	0.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	1	3.0	0	i	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	1	None	i	True	3
+3	36	0.25	1/4	3.0	3	1	-3	3	4	2	0.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	1	3.0	0	i	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	1	None	i	True	5
+12	3	1.0	1	0.25	1/4	1	-3	3	4	2	1.0	E-4	63	True	E	-1	3/16	1.75	False	0	P2-Staff2	1	1	3.0	0	i	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	1	None	i	True	3
+15	21	1.25	5/4	1.75	7/4	1	-3	3	4	2	1.25	G4	67	True	G	0	1/4	2.0	True	2	P2-Staff2	1	1	3.0	0	i	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	1	None	i	True	5
+36	3	3.0	3	0.25	1/4	1	-3	3	4	2	3.0	A-4	68	True	A	-1	11/16	3.75	False	0	P2-Staff2	1	2	3.0	1	V7	True	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	6
+39	9	3.25	13/4	0.75	3/4	2	-3	3	4	3	3.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	1	2	3.0	1	V7	False	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	5
+39	36	3.25	13/4	3.0	3	2	-3	3	4	3	3.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	2	3.0	1	V7	False	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	1
+39	36	3.25	13/4	3.0	3	2	-3	3	4	3	3.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	2	3.0	1	V7	False	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	4
+39	36	3.25	13/4	3.0	3	2	-3	3	4	3	3.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	2	3.0	1	V7	False	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	5
+39	36	3.25	13/4	3.0	3	2	-3	3	4	3	3.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	2	3.0	1	V7	False	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	#7
+48	3	4.0	4	0.25	1/4	2	-3	3	4	3	4.0	B4	71	True	B	0	3/16	1.75	False	0	P2-Staff2	1	2	3.0	1	V7	False	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	#7
+51	21	4.25	17/4	1.75	7/4	2	-3	3	4	3	4.25	D5	74	True	D	0	1/4	2.0	True	2	P2-Staff2	1	2	3.0	1	V7	False	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	c	c	5	None	V7	True	2
+72	3	6.0	6	0.25	1/4	2	-3	3	4	3	6.0	D5	74	True	D	0	11/16	3.75	False	0	P2-Staff2	1	3	3.0	2	viio7	True	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+75	12	6.25	25/4	1.0	1	3	-3	3	4	4	6.25	A-5	80	True	A	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+75	36	6.25	25/4	3.0	3	3	-3	3	4	4	6.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+75	36	6.25	25/4	3.0	3	3	-3	3	4	4	6.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+75	36	6.25	25/4	3.0	3	3	-3	3	4	4	6.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+75	36	6.25	25/4	3.0	3	3	-3	3	4	4	6.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+75	36	6.25	25/4	3.0	3	3	-3	3	4	4	6.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+87	4	7.25	29/4	0.3333	1/3	3	-3	3	4	4	7.25	A-5	80	True	A	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+91	4	7.5833	91/12	0.3333	1/3	3	-3	3	4	4	7.583	F5	77	True	F	0	1/3	2.333	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+95	4	7.9167	95/12	0.3333	1/3	3	-3	3	4	4	7.917	D5	74	True	D	0	5/12	2.667	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+99	4	8.25	33/4	0.3333	1/3	3	-3	3	4	4	8.25	B4	71	True	B	0	1/2	3.0	True	3	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+103	4	8.5833	103/12	0.3333	1/3	3	-3	3	4	4	8.583	A-4	68	True	A	-1	7/12	3.333	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+107	4	8.9167	107/12	0.3333	1/3	3	-3	3	4	4	8.917	F4	65	True	F	0	2/3	3.667	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+111	0	9.25	37/4	0.0	0	4	-3	3	4	5	9.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+111	0	9.25	37/4	0.0	0	4	-3	3	4	5	9.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+111	0	9.25	37/4	0.0	0	4	-3	3	4	5	9.25	F4	65	True	F	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+111	9	9.25	37/4	0.75	3/4	4	-3	3	4	5	9.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+111	24	9.25	37/4	2.0	2	4	-3	3	4	5	9.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+111	24	9.25	37/4	2.0	2	4	-3	3	4	5	9.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+111	24	9.25	37/4	2.0	2	4	-3	3	4	5	9.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+111	24	9.25	37/4	2.0	2	4	-3	3	4	5	9.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+120	3	10.0	10	0.25	1/4	4	-3	3	4	5	10.0	D4	62	True	D	0	3/16	1.75	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+123	12	10.25	41/4	1.0	1	4	-3	3	4	5	10.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+141	6	11.75	47/4	0.5	1/2	4	-3	3	4	5	11.75	C4	60	True	C	0	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+147	9	12.25	49/4	0.75	3/4	5	-3	3	4	6	12.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+147	36	12.25	49/4	3.0	3	5	-3	3	4	6	12.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+147	36	12.25	49/4	3.0	3	5	-3	3	4	6	12.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+147	36	12.25	49/4	3.0	3	5	-3	3	4	6	12.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+147	36	12.25	49/4	3.0	3	5	-3	3	4	6	12.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+156	3	13.0	13	0.25	1/4	5	-3	3	4	6	13.0	E-4	63	True	E	-1	3/16	1.75	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+159	18	13.25	53/4	1.5	3/2	5	-3	3	4	6	13.25	G4	67	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+177	6	14.75	59/4	0.5	1/2	5	-3	3	4	6	14.75	A-4	68	True	A	-1	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+183	9	15.25	61/4	0.75	3/4	6	-3	3	4	7	15.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+183	36	15.25	61/4	3.0	3	6	-3	3	4	7	15.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+183	36	15.25	61/4	3.0	3	6	-3	3	4	7	15.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+183	36	15.25	61/4	3.0	3	6	-3	3	4	7	15.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+183	36	15.25	61/4	3.0	3	6	-3	3	4	7	15.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+192	3	16.0	16	0.25	1/4	6	-3	3	4	7	16.0	B4	71	True	B	0	3/16	1.75	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+195	18	16.25	65/4	1.5	3/2	6	-3	3	4	7	16.25	D5	74	True	D	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+213	6	17.75	71/4	0.5	1/2	6	-3	3	4	7	17.75	B4	71	True	B	0	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+219	12	18.25	73/4	1.0	1	7	-3	3	4	8	18.25	F5	77	True	F	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+219	36	18.25	73/4	3.0	3	7	-3	3	4	8	18.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+219	36	18.25	73/4	3.0	3	7	-3	3	4	8	18.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+219	36	18.25	73/4	3.0	3	7	-3	3	4	8	18.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+219	36	18.25	73/4	3.0	3	7	-3	3	4	8	18.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+219	36	18.25	73/4	3.0	3	7	-3	3	4	8	18.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+231	4	19.25	77/4	0.3333	1/3	7	-3	3	4	8	19.25	F5	77	True	F	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+235	4	19.5833	235/12	0.3333	1/3	7	-3	3	4	8	19.583	D5	74	True	D	0	1/3	2.333	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+239	4	19.9167	239/12	0.3333	1/3	7	-3	3	4	8	19.917	B4	71	True	B	0	5/12	2.667	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+243	4	20.25	81/4	0.3333	1/3	7	-3	3	4	8	20.25	A-4	68	True	A	-1	1/2	3.0	True	3	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+247	4	20.5833	247/12	0.3333	1/3	7	-3	3	4	8	20.583	G4	67	True	G	0	7/12	3.333	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+251	4	20.9167	251/12	0.3333	1/3	7	-3	3	4	8	20.917	F4	65	True	F	0	2/3	3.667	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+255	9	21.25	85/4	0.75	3/4	8	-3	3	4	9	21.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+255	36	21.25	85/4	3.0	3	8	-3	3	4	9	21.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+255	36	21.25	85/4	3.0	3	8	-3	3	4	9	21.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+255	36	21.25	85/4	3.0	3	8	-3	3	4	9	21.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+255	36	21.25	85/4	3.0	3	8	-3	3	4	9	21.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+264	3	22.0	22	0.25	1/4	8	-3	3	4	9	22.0	D4	62	True	D	0	3/16	1.75	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+267	12	22.25	89/4	1.0	1	8	-3	3	4	9	22.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+285	6	23.75	95/4	0.5	1/2	8	-3	3	4	9	23.75	G5	79	True	G	0	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+291	12	24.25	97/4	1.0	1	9	-3	3	4	10	24.25	A-5	80	True	A	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+291	36	24.25	97/4	3.0	3	9	-3	3	4	10	24.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+291	36	24.25	97/4	3.0	3	9	-3	3	4	10	24.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+291	36	24.25	97/4	3.0	3	9	-3	3	4	10	24.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+291	36	24.25	97/4	3.0	3	9	-3	3	4	10	24.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+291	36	24.25	97/4	3.0	3	9	-3	3	4	10	24.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+303	4	25.25	101/4	0.3333	1/3	9	-3	3	4	10	25.25	A-5	80	True	A	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+307	4	25.5833	307/12	0.3333	1/3	9	-3	3	4	10	25.583	F5	77	True	F	0	1/3	2.333	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+311	4	25.9167	311/12	0.3333	1/3	9	-3	3	4	10	25.917	D5	74	True	D	0	5/12	2.667	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+315	4	26.25	105/4	0.3333	1/3	9	-3	3	4	10	26.25	B4	71	True	B	0	1/2	3.0	True	3	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+319	4	26.5833	319/12	0.3333	1/3	9	-3	3	4	10	26.583	A-4	68	True	A	-1	7/12	3.333	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+323	4	26.9167	323/12	0.3333	1/3	9	-3	3	4	10	26.917	F4	65	True	F	0	2/3	3.667	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+327	0	27.25	109/4	0.0	0	10	-3	3	4	11	27.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+327	0	27.25	109/4	0.0	0	10	-3	3	4	11	27.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+327	0	27.25	109/4	0.0	0	10	-3	3	4	11	27.25	F4	65	True	F	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+327	9	27.25	109/4	0.75	3/4	10	-3	3	4	11	27.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+327	24	27.25	109/4	2.0	2	10	-3	3	4	11	27.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+327	24	27.25	109/4	2.0	2	10	-3	3	4	11	27.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+327	24	27.25	109/4	2.0	2	10	-3	3	4	11	27.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+327	24	27.25	109/4	2.0	2	10	-3	3	4	11	27.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+336	3	28.0	28	0.25	1/4	10	-3	3	4	11	28.0	D4	62	True	D	0	3/16	1.75	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+339	12	28.25	113/4	1.0	1	10	-3	3	4	11	28.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+357	6	29.75	119/4	0.5	1/2	10	-3	3	4	11	29.75	G4	67	True	G	0	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+363	18	30.25	121/4	1.5	3/2	11	-3	3	4	12	30.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+363	36	30.25	121/4	3.0	3	11	-3	3	4	12	30.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+363	24	30.25	121/4	2.0	2	11	-3	3	4	12	30.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+363	24	30.25	121/4	2.0	2	11	-3	3	4	12	30.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+363	36	30.25	121/4	3.0	3	11	-3	3	4	12	30.25	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+381	6	31.75	127/4	0.5	1/2	11	-3	3	4	12	31.75	G4	67	True	G	0	3/8	2.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+387	6	32.25	129/4	0.5	1/2	11	-3	3	4	12	32.25	G4	67	True	G	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+387	6	32.25	129/4	0.5	1/2	11	-3	3	4	12	32.25	G4	67	True	G	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+387	6	32.25	129/4	0.5	1/2	11	-3	3	4	12	32.25	G3	55	True	G	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+393	6	32.75	131/4	0.5	1/2	11	-3	3	4	12	32.75	G#4	68	True	G	1	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#5
+393	6	32.75	131/4	0.5	1/2	11	-3	3	4	12	32.75	G#4	68	True	G	1	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#5
+393	6	32.75	131/4	0.5	1/2	11	-3	3	4	12	32.75	F3	53	True	F	0	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+399	9	33.25	133/4	0.75	3/4	12	-3	3	4	13	33.25	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+399	12	33.25	133/4	1.0	1	12	-3	3	4	13	33.25	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+399	24	33.25	133/4	2.0	2	12	-3	3	4	13	33.25	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+399	12	33.25	133/4	1.0	1	12	-3	3	4	13	33.25	E3	52	True	E	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+399	24	33.25	133/4	2.0	2	12	-3	3	4	13	33.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+408	3	34.0	34	0.25	1/4	12	-3	3	4	13	34.0	A4	69	True	A	0	3/16	1.75	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+411	12	34.25	137/4	1.0	1	12	-3	3	4	13	34.25	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+411	12	34.25	137/4	1.0	1	12	-3	3	4	13	34.25	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+411	12	34.25	137/4	1.0	1	12	-3	3	4	13	34.25	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+429	6	35.75	143/4	0.5	1/2	12	-3	3	4	13	35.75	E5	76	True	E	0	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+429	6	35.75	143/4	0.5	1/2	12	-3	3	4	13	35.75	E4	64	True	E	0	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+429	6	35.75	143/4	0.5	1/2	12	-3	3	4	13	35.75	G#3	56	True	G	1	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#5
+429	6	35.75	143/4	0.5	1/2	12	-3	3	4	13	35.75	B2	47	True	B	0	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+435	12	36.25	145/4	1.0	1	13	-3	3	4	14	36.25	E5	76	True	E	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+435	24	36.25	145/4	2.0	2	13	-3	3	4	14	36.25	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+435	24	36.25	145/4	2.0	2	13	-3	3	4	14	36.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+435	24	36.25	145/4	2.0	2	13	-3	3	4	14	36.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+447	4	37.25	149/4	0.3333	1/3	13	-3	3	4	14	37.25	E5	76	True	E	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+451	4	37.5833	451/12	0.3333	1/3	13	-3	3	4	14	37.583	D5	74	True	D	0	1/3	2.333	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+455	4	37.9167	455/12	0.3333	1/3	13	-3	3	4	14	37.917	C5	72	True	C	0	5/12	2.667	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+459	4	38.25	153/4	0.3333	1/3	13	-3	3	4	14	38.25	C5	72	True	C	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+459	12	38.25	153/4	1.0	1	13	-3	3	4	14	38.25	D4	62	True	D	0	1/2	3.0	True	3	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+459	12	38.25	153/4	1.0	1	13	-3	3	4	14	38.25	F#4	66	True	F	1	1/2	3.0	True	3	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#4
+459	4	38.25	153/4	0.3333	1/3	13	-3	3	4	14	38.25	A-3	56	True	A	-1	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+459	12	38.25	153/4	1.0	1	13	-3	3	4	14	38.25	D3	50	True	D	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+463	4	38.5833	463/12	0.3333	1/3	13	-3	3	4	14	38.583	B4	71	True	B	0	7/12	3.333	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+463	4	38.5833	463/12	0.3333	1/3	13	-3	3	4	14	38.583	B3	59	True	B	0	7/12	3.333	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+467	4	38.9167	467/12	0.3333	1/3	13	-3	3	4	14	38.917	A4	69	True	A	0	2/3	3.667	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+467	4	38.9167	467/12	0.3333	1/3	13	-3	3	4	14	38.917	C4	60	True	C	0	2/3	3.667	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+471	0	39.25	157/4	0.0	0	14	-3	3	4	15	39.25	A4	69	True	A	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+471	12	39.25	157/4	1.0	1	14	-3	3	4	15	39.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+471	12	39.25	157/4	1.0	1	14	-3	3	4	15	39.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+471	12	39.25	157/4	1.0	1	14	-3	3	4	15	39.25	F#4	66	True	F	1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#4
+471	12	39.25	157/4	1.0	1	14	-3	3	4	15	39.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+471	12	39.25	157/4	1.0	1	14	-3	3	4	15	39.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+483	12	40.25	161/4	1.0	1	14	-3	3	4	15	40.25	G4	67	True	G	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+483	6	40.25	161/4	0.5	1/2	14	-3	3	4	15	40.25	D4	62	True	D	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+483	6	40.25	161/4	0.5	1/2	14	-3	3	4	15	40.25	G4	67	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+483	6	40.25	161/4	0.5	1/2	14	-3	3	4	15	40.25	G3	55	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+483	6	40.25	161/4	0.5	1/2	14	-3	3	4	15	40.25	B3	59	True	B	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+501	6	41.75	167/4	0.5	1/2	14	-3	3	4	15	41.75	F4	65	True	F	0	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+501	6	41.75	167/4	0.5	1/2	14	-3	3	4	15	41.75	F5	77	True	F	0	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+501	6	41.75	167/4	0.5	1/2	14	-3	3	4	15	41.75	B2	47	True	B	0	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+501	6	41.75	167/4	0.5	1/2	14	-3	3	4	15	41.75	G#3	56	True	G	1	5/8	3.5	False	0	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#5
+507	24	42.25	169/4	2.0	2	15	-3	3	4	16	42.25	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+507	12	42.25	169/4	1.0	1	15	-3	3	4	16	42.25	E5	76	True	E	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+507	24	42.25	169/4	2.0	2	15	-3	3	4	16	42.25	A3	57	True	A	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+507	24	42.25	169/4	2.0	2	15	-3	3	4	16	42.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+519	4	43.25	173/4	0.3333	1/3	15	-3	3	4	16	43.25	E5	76	True	E	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#3
+523	4	43.5833	523/12	0.3333	1/3	15	-3	3	4	16	43.583	D5	74	True	D	0	1/3	2.333	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+527	4	43.9167	527/12	0.3333	1/3	15	-3	3	4	16	43.917	C5	72	True	C	0	5/12	2.667	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+531	4	44.25	177/4	0.3333	1/3	15	-3	3	4	16	44.25	C5	72	True	C	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+531	12	44.25	177/4	1.0	1	15	-3	3	4	16	44.25	F#4	66	True	F	1	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#4
+531	4	44.25	177/4	0.3333	1/3	15	-3	3	4	16	44.25	A3	57	True	A	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+531	12	44.25	177/4	1.0	1	15	-3	3	4	16	44.25	D3	50	True	D	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+535	4	44.5833	535/12	0.3333	1/3	15	-3	3	4	16	44.583	B4	71	True	B	0	7/12	3.333	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+535	4	44.5833	535/12	0.3333	1/3	15	-3	3	4	16	44.583	B3	59	True	B	0	7/12	3.333	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+539	4	44.9167	539/12	0.3333	1/3	15	-3	3	4	16	44.917	A4	69	True	A	0	2/3	3.667	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+539	4	44.9167	539/12	0.3333	1/3	15	-3	3	4	16	44.917	C4	60	True	C	0	2/3	3.667	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+543	12	45.25	181/4	1.0	1	16	-3	3	4	17	45.25	F#4	66	True	F	1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#4
+543	12	45.25	181/4	1.0	1	16	-3	3	4	17	45.25	A4	69	True	A	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#6
+543	12	45.25	181/4	1.0	1	16	-3	3	4	17	45.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+543	12	45.25	181/4	1.0	1	16	-3	3	4	17	45.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+555	6	46.25	185/4	0.5	1/2	16	-3	3	4	17	46.25	G4	67	True	G	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+555	6	46.25	185/4	0.5	1/2	16	-3	3	4	17	46.25	G3	55	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+555	6	46.25	185/4	0.5	1/2	16	-3	3	4	17	46.25	B3	59	True	B	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+573	6	47.75	191/4	0.5	1/2	16	-3	3	4	17	47.75	G4	67	True	G	0	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+579	18	48.25	193/4	1.5	3/2	17	-3	3	4	18	48.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+591	6	49.25	197/4	0.5	1/2	17	-3	3	4	18	49.25	G3	55	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+591	6	49.25	197/4	0.5	1/2	17	-3	3	4	18	49.25	D4	62	True	D	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+591	6	49.25	197/4	0.5	1/2	17	-3	3	4	18	49.25	G4	67	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+591	6	49.25	197/4	0.5	1/2	17	-3	3	4	18	49.25	B2	47	True	B	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+591	6	49.25	197/4	0.5	1/2	17	-3	3	4	18	49.25	D3	50	True	D	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	2
+597	6	49.75	199/4	0.5	1/2	17	-3	3	4	18	49.75	G4	67	True	G	0	3/8	2.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+603	6	50.25	201/4	0.5	1/2	17	-3	3	4	18	50.25	G4	67	True	G	0	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+609	6	50.75	203/4	0.5	1/2	17	-3	3	4	18	50.75	G4	67	True	G	0	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+615	9	51.25	205/4	0.75	3/4	18	-3	3	4	19	51.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+624	3	52.0	52	0.25	1/4	18	-3	3	4	19	52.0	F4	65	True	F	0	3/16	1.75	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	4
+627	12	52.25	209/4	1.0	1	18	-3	3	4	19	52.25	E-4	63	True	E	-1	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+627	6	52.25	209/4	0.5	1/2	18	-3	3	4	19	52.25	G3	55	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+627	6	52.25	209/4	0.5	1/2	18	-3	3	4	19	52.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+627	6	52.25	209/4	0.5	1/2	18	-3	3	4	19	52.25	E-4	63	True	E	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+627	6	52.25	209/4	0.5	1/2	18	-3	3	4	19	52.25	C3	48	True	C	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+627	6	52.25	209/4	0.5	1/2	18	-3	3	4	19	52.25	E-3	51	True	E	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+645	6	53.75	215/4	0.5	1/2	18	-3	3	4	19	53.75	E-4	63	True	E	-1	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+651	18	54.25	217/4	1.5	3/2	19	-3	3	4	20	54.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+663	6	55.25	221/4	0.5	1/2	19	-3	3	4	20	55.25	E-4	63	True	E	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+663	6	55.25	221/4	0.5	1/2	19	-3	3	4	20	55.25	B-4	70	True	B	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	7
+663	6	55.25	221/4	0.5	1/2	19	-3	3	4	20	55.25	D-5	73	True	D	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	b2
+663	6	55.25	221/4	0.5	1/2	19	-3	3	4	20	55.25	G2	43	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+663	6	55.25	221/4	0.5	1/2	19	-3	3	4	20	55.25	E-3	51	True	E	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+663	6	55.25	221/4	0.5	1/2	19	-3	3	4	20	55.25	G3	55	True	G	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+669	6	55.75	223/4	0.5	1/2	19	-3	3	4	20	55.75	G4	67	True	G	0	3/8	2.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	5
+675	4	56.25	225/4	0.3333	1/3	19	-3	3	4	20	56.25	B-4	70	True	B	-1	1/2	3.0	True	3	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	7
+679	4	56.5833	679/12	0.3333	1/3	19	-3	3	4	20	56.583	E-5	75	True	E	-1	7/12	3.333	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+683	4	56.9167	683/12	0.3333	1/3	19	-3	3	4	20	56.917	D-5	73	True	D	-1	2/3	3.667	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	b2
+687	12	57.25	229/4	1.0	1	20	-3	3	4	21	57.25	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	#7
+699	12	58.25	233/4	1.0	1	20	-3	3	4	21	58.25	C5	72	True	C	0	1/4	2.0	True	2	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+699	6	58.25	233/4	0.5	1/2	20	-3	3	4	21	58.25	E-4	63	True	E	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+699	6	58.25	233/4	0.5	1/2	20	-3	3	4	21	58.25	A-4	68	True	A	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+699	6	58.25	233/4	0.5	1/2	20	-3	3	4	21	58.25	C5	72	True	C	0	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+699	6	58.25	233/4	0.5	1/2	20	-3	3	4	21	58.25	A-2	44	True	A	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+699	6	58.25	233/4	0.5	1/2	20	-3	3	4	21	58.25	E-3	51	True	E	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	3
+699	6	58.25	233/4	0.5	1/2	20	-3	3	4	21	58.25	A-3	56	True	A	-1	1/4	2.0	True	2	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+717	6	59.75	239/4	0.5	1/2	20	-3	3	4	21	59.75	C5	72	True	C	0	5/8	3.5	False	0	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+723	9	60.25	241/4	0.75	3/4	21	-3	3	4	22	60.25	C5	72	True	C	0	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+723	6	60.25	241/4	0.5	1/2	21	-3	3	4	22	60.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	6
+723	6	60.25	241/4	0.5	1/2	21	-3	3	4	22	60.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	1
+723	6	60.25	241/4	0.5	1/2	21	-3	3	4	22	60.25	G-3	54	True	G	-1	0	1.0	True	1	P2-Staff2	6	3	3.0	2	viio7	False	('D', 'F', 'A-', 'B')	D	B	1	diminished seventh chord	(2, 5, 8, 11)	c	c	#7	None	viio7	True	b5
+732	3	61.0	61	0.25	1/4	21	-3	3	4	22	61.0	C5	72	True	C	0	3/16	1.75	False	0	P2-Staff2	6	21	1.0	29	IV	True	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	A-	A-	4	None	IV	True	3
+735	9	61.25	245/4	0.75	3/4	21	-3	3	4	22	61.25	D-5	73	True	D	-1	1/4	2.0	True	2	P2-Staff2	6	21	1.0	29	IV	False	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	A-	A-	4	None	IV	True	4
+735	6	61.25	245/4	0.5	1/2	21	-3	3	4	22	61.25	A-3	56	True	A	-1	1/4	2.0	True	2	P2-Staff2	1	21	1.0	29	IV	False	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	A-	A-	4	None	IV	True	1
+735	6	61.25	245/4	0.5	1/2	21	-3	3	4	22	61.25	D-4	61	True	D	-1	1/4	2.0	True	2	P2-Staff2	1	21	1.0	29	IV	False	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	A-	A-	4	None	IV	True	4
+735	6	61.25	245/4	0.5	1/2	21	-3	3	4	22	61.25	F3	53	True	F	0	1/4	2.0	True	2	P2-Staff2	6	21	1.0	29	IV	False	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	A-	A-	4	None	IV	True	6
+744	3	62.0	62	0.25	1/4	21	-3	3	4	22	62.0	D-5	73	True	D	-1	7/16	2.75	False	0	P2-Staff2	6	21	1.0	30	It	True	('F-', 'A-', 'D')	F-	D	1	Italian augmented sixth chord	(2, 4, 8)	A-	A-	#4	None	It	True	4
+747	9	62.25	249/4	0.75	3/4	21	-3	3	4	22	62.25	D5	74	True	D	0	1/2	3.0	True	3	P2-Staff2	6	21	1.0	30	It	False	('F-', 'A-', 'D')	F-	D	1	Italian augmented sixth chord	(2, 4, 8)	A-	A-	#4	None	It	True	#4
+747	6	62.25	249/4	0.5	1/2	21	-3	3	4	22	62.25	A-3	56	True	A	-1	1/2	3.0	True	3	P2-Staff2	1	21	1.0	30	It	False	('F-', 'A-', 'D')	F-	D	1	Italian augmented sixth chord	(2, 4, 8)	A-	A-	#4	None	It	True	1
+747	6	62.25	249/4	0.5	1/2	21	-3	3	4	22	62.25	D4	62	True	D	0	1/2	3.0	True	3	P2-Staff2	1	21	1.0	30	It	False	('F-', 'A-', 'D')	F-	D	1	Italian augmented sixth chord	(2, 4, 8)	A-	A-	#4	None	It	True	#4
+747	6	62.25	249/4	0.5	1/2	21	-3	3	4	22	62.25	F-3	52	True	F	-1	1/2	3.0	True	3	P2-Staff2	6	21	1.0	30	It	False	('F-', 'A-', 'D')	F-	D	1	Italian augmented sixth chord	(2, 4, 8)	A-	A-	#4	None	It	True	b6
+756	3	63.0	63	0.25	1/4	21	-3	3	4	22	63.0	D5	74	True	D	0	11/16	3.75	False	0	P2-Staff2	6	22	2.0	31	V	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	#4
+759	24	63.25	253/4	2.0	2	22	-3	3	4	23	63.25	E-5	75	True	E	-1	0	1.0	True	1	P2-Staff2	2	22	2.0	31	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	5
+759	36	63.25	253/4	3.0	3	22	-3	3	4	23	63.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	2	22	2.0	31	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	5
+759	24	63.25	253/4	2.0	2	22	-3	3	4	23	63.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	22	2.0	31	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	7
+759	24	63.25	253/4	2.0	2	22	-3	3	4	23	63.25	B-3	58	True	B	-1	0	1.0	True	1	P2-Staff2	1	22	2.0	31	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+759	21	63.25	253/4	1.75	7/4	22	-3	3	4	23	63.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	2	22	2.0	31	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	5
+780	3	65.0	65	0.25	1/4	22	-3	3	4	23	65.0	D-3	49	True	D	-1	7/16	2.75	False	0	P2-Staff2	2	22	1.0	32	i	True	('C-', 'E-', 'A-')	C-	A-	1	minor triad	(3, 8, 11)	A-	A-	1	None	i	True	4
+783	12	65.25	261/4	1.0	1	22	-3	3	4	23	65.25	A-3	56	True	A	-1	1/2	3.0	True	3	P2-Staff2	1	22	1.0	32	i	False	('C-', 'E-', 'A-')	C-	A-	1	minor triad	(3, 8, 11)	A-	A-	1	None	i	True	1
+783	12	65.25	261/4	1.0	1	22	-3	3	4	23	65.25	C-4	59	True	C	-1	1/2	3.0	True	3	P2-Staff2	1	22	1.0	32	i	False	('C-', 'E-', 'A-')	C-	A-	1	minor triad	(3, 8, 11)	A-	A-	1	None	i	True	b3
+783	9	65.25	261/4	0.75	3/4	22	-3	3	4	23	65.25	C-3	47	True	C	-1	1/2	3.0	True	3	P2-Staff2	2	22	1.0	32	i	False	('C-', 'E-', 'A-')	C-	A-	1	minor triad	(3, 8, 11)	A-	A-	1	None	i	True	b3
+792	3	66.0	66	0.25	1/4	22	-3	3	4	23	66.0	A-2	44	True	A	-1	11/16	3.75	False	0	P2-Staff2	2	23	3.0	33	V	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+795	36	66.25	265/4	3.0	3	23	-3	3	4	24	66.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	7
+795	36	66.25	265/4	3.0	3	23	-3	3	4	24	66.25	B-3	58	True	B	-1	0	1.0	True	1	P2-Staff2	1	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+795	36	66.25	265/4	3.0	3	23	-3	3	4	24	66.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	1	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	5
+795	36	66.25	265/4	3.0	3	23	-3	3	4	24	66.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	5
+837	6	69.75	279/4	0.5	1/2	24	-3	3	4	25	69.75	E-3	51	True	E	-1	1/8	1.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	5
+837	6	69.75	279/4	0.5	1/2	24	-3	3	4	25	69.75	E-2	39	True	E	-1	1/8	1.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	5
+843	6	70.25	281/4	0.5	1/2	24	-3	3	4	25	70.25	F3	53	True	F	0	1/4	2.0	True	2	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	6
+843	6	70.25	281/4	0.5	1/2	24	-3	3	4	25	70.25	F2	41	True	F	0	1/4	2.0	True	2	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	6
+849	6	70.75	283/4	0.5	1/2	24	-3	3	4	25	70.75	G3	55	True	G	0	3/8	2.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	7
+849	6	70.75	283/4	0.5	1/2	24	-3	3	4	25	70.75	G2	43	True	G	0	3/8	2.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	7
+855	6	71.25	285/4	0.5	1/2	24	-3	3	4	25	71.25	A-3	56	True	A	-1	1/2	3.0	True	3	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+855	6	71.25	285/4	0.5	1/2	24	-3	3	4	25	71.25	A-2	44	True	A	-1	1/2	3.0	True	3	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+861	6	71.75	287/4	0.5	1/2	24	-3	3	4	25	71.75	B-4	70	True	B	-1	5/8	3.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+861	6	71.75	287/4	0.5	1/2	24	-3	3	4	25	71.75	B-3	58	True	B	-1	5/8	3.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+861	6	71.75	287/4	0.5	1/2	24	-3	3	4	25	71.75	B-2	46	True	B	-1	5/8	3.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+867	0	72.25	289/4	0.0	0	25	-3	3	4	26	72.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+867	0	72.25	289/4	0.0	0	25	-3	3	4	26	72.25	B-3	58	True	B	-1	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+867	0	72.25	289/4	0.0	0	25	-3	3	4	26	72.25	A-2	44	True	A	-1	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+867	0	72.25	289/4	0.0	0	25	-3	3	4	26	72.25	B-2	46	True	B	-1	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+867	18	72.25	289/4	1.5	3/2	25	-3	3	4	26	72.25	C5	72	True	C	0	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	3
+867	18	72.25	289/4	1.5	3/2	25	-3	3	4	26	72.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	3
+867	18	72.25	289/4	1.5	3/2	25	-3	3	4	26	72.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	3
+885	6	73.75	295/4	0.5	1/2	25	-3	3	4	26	73.75	B-4	70	True	B	-1	3/8	2.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+885	6	73.75	295/4	0.5	1/2	25	-3	3	4	26	73.75	B-3	58	True	B	-1	3/8	2.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+885	6	73.75	295/4	0.5	1/2	25	-3	3	4	26	73.75	B-2	46	True	B	-1	3/8	2.5	False	0	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	2
+891	9	74.25	297/4	0.75	3/4	25	-3	3	4	26	74.25	A-4	68	True	A	-1	1/2	3.0	True	3	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+891	9	74.25	297/4	0.75	3/4	25	-3	3	4	26	74.25	A-3	56	True	A	-1	1/2	3.0	True	3	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+891	9	74.25	297/4	0.75	3/4	25	-3	3	4	26	74.25	A-2	44	True	A	-1	1/2	3.0	True	3	P2-Staff2	2	23	3.0	33	V	False	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	A-	A-	5	None	V	True	1
+900	3	75.0	75	0.25	1/4	25	-3	3	4	26	75.0	G4	67	True	G	0	11/16	3.75	False	0	P2-Staff2	2	26	2.0	36	viio/v	True	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+900	3	75.0	75	0.25	1/4	25	-3	3	4	26	75.0	G3	55	True	G	0	11/16	3.75	False	0	P2-Staff2	2	26	2.0	36	viio/v	True	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+900	3	75.0	75	0.25	1/4	25	-3	3	4	26	75.0	G2	43	True	G	0	11/16	3.75	False	0	P2-Staff2	2	26	2.0	36	viio/v	True	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+903	0	75.25	301/4	0.0	0	26	-3	3	4	27	75.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+903	6	75.25	301/4	0.5	1/2	26	-3	3	4	27	75.25	F#4	66	True	F	1	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	#4
+903	24	75.25	301/4	2.0	2	26	-3	3	4	27	75.25	F#3	54	True	F	1	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	#4
+903	24	75.25	301/4	2.0	2	26	-3	3	4	27	75.25	F#2	42	True	F	1	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	#4
+909	6	75.75	303/4	0.5	1/2	26	-3	3	4	27	75.75	F#4	66	True	F	1	1/8	1.5	False	0	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	#4
+927	12	77.25	309/4	1.0	1	26	-3	3	4	27	77.25	G3	55	True	G	0	1/2	3.0	True	3	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+927	12	77.25	309/4	1.0	1	26	-3	3	4	27	77.25	G2	43	True	G	0	1/2	3.0	True	3	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+933	6	77.75	311/4	0.5	1/2	26	-3	3	4	27	77.75	G4	67	True	G	0	5/8	3.5	False	0	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+939	0	78.25	313/4	0.0	0	27	-3	3	4	28	78.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	4
+939	0	78.25	313/4	0.0	0	27	-3	3	4	28	78.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+939	0	78.25	313/4	0.0	0	27	-3	3	4	28	78.25	F#2	42	True	F	1	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	#4
+939	0	78.25	313/4	0.0	0	27	-3	3	4	28	78.25	G2	43	True	G	0	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+939	18	78.25	313/4	1.5	3/2	27	-3	3	4	28	78.25	A-4	68	True	A	-1	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	6
+939	18	78.25	313/4	1.5	3/2	27	-3	3	4	28	78.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	6
+939	18	78.25	313/4	1.5	3/2	27	-3	3	4	28	78.25	A-2	44	True	A	-1	0	1.0	True	1	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	6
+957	6	79.75	319/4	0.5	1/2	27	-3	3	4	28	79.75	G4	67	True	G	0	3/8	2.5	False	0	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+957	6	79.75	319/4	0.5	1/2	27	-3	3	4	28	79.75	G3	55	True	G	0	3/8	2.5	False	0	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+957	6	79.75	319/4	0.5	1/2	27	-3	3	4	28	79.75	G2	43	True	G	0	3/8	2.5	False	0	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	5
+963	9	80.25	321/4	0.75	3/4	27	-3	3	4	28	80.25	F4	65	True	F	0	1/2	3.0	True	3	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	4
+963	9	80.25	321/4	0.75	3/4	27	-3	3	4	28	80.25	F3	53	True	F	0	1/2	3.0	True	3	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	4
+963	9	80.25	321/4	0.75	3/4	27	-3	3	4	28	80.25	F#2	42	True	F	1	1/2	3.0	True	3	P2-Staff2	2	26	2.0	36	viio/v	False	('F#', 'A', 'C')	F#	F#	0	diminished triad	(0, 6, 9)	c	g	#7	5	viio	True	#4
+972	3	81.0	81	0.25	1/4	27	-3	3	4	28	81.0	E-4	63	True	E	-1	11/16	3.75	False	0	P2-Staff2	2	28	3.0	39	ii	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+972	3	81.0	81	0.25	1/4	27	-3	3	4	28	81.0	E-3	51	True	E	-1	11/16	3.75	False	0	P2-Staff2	2	28	3.0	39	ii	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+972	3	81.0	81	0.25	1/4	27	-3	3	4	28	81.0	E-2	39	True	E	-1	11/16	3.75	False	0	P2-Staff2	2	28	3.0	39	ii	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+975	0	81.25	325/4	0.0	0	28	-3	3	4	29	81.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+975	6	81.25	325/4	0.5	1/2	28	-3	3	4	29	81.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+975	36	81.25	325/4	3.0	3	28	-3	3	4	29	81.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+975	36	81.25	325/4	3.0	3	28	-3	3	4	29	81.25	D2	38	True	D	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+981	6	81.75	327/4	0.5	1/2	28	-3	3	4	29	81.75	D4	62	True	D	0	1/8	1.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1011	24	84.25	337/4	2.0	2	29	-3	3	4	30	84.25	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1011	24	84.25	337/4	2.0	2	29	-3	3	4	30	84.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1011	24	84.25	337/4	2.0	2	29	-3	3	4	30	84.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1011	24	84.25	337/4	2.0	2	29	-3	3	4	30	84.25	G1	31	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1011	24	84.25	337/4	2.0	2	29	-3	3	4	30	84.25	D2	38	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1011	24	84.25	337/4	2.0	2	29	-3	3	4	30	84.25	G2	43	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1041	6	86.75	347/4	0.5	1/2	29	-3	3	4	30	86.75	C4	60	True	C	0	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1047	9	87.25	349/4	0.75	3/4	30	-3	3	4	31	87.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1047	36	87.25	349/4	3.0	3	30	-3	3	4	31	87.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1047	36	87.25	349/4	3.0	3	30	-3	3	4	31	87.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1047	36	87.25	349/4	3.0	3	30	-3	3	4	31	87.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1047	36	87.25	349/4	3.0	3	30	-3	3	4	31	87.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1056	9	88.0	88	0.75	3/4	30	-3	3	4	31	88.0	E-4	63	True	E	-1	3/16	1.75	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1065	12	88.75	355/4	1.0	1	30	-3	3	4	31	88.75	G4	67	True	G	0	3/8	2.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1077	6	89.75	359/4	0.5	1/2	30	-3	3	4	31	89.75	A-4	68	True	A	-1	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1083	9	90.25	361/4	0.75	3/4	31	-3	3	4	32	90.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1083	36	90.25	361/4	3.0	3	31	-3	3	4	32	90.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1083	36	90.25	361/4	3.0	3	31	-3	3	4	32	90.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1083	36	90.25	361/4	3.0	3	31	-3	3	4	32	90.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1083	36	90.25	361/4	3.0	3	31	-3	3	4	32	90.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1092	3	91.0	91	0.25	1/4	31	-3	3	4	32	91.0	B4	71	True	B	0	3/16	1.75	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1095	18	91.25	365/4	1.5	3/2	31	-3	3	4	32	91.25	D5	74	True	D	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1113	6	92.75	371/4	0.5	1/2	31	-3	3	4	32	92.75	B4	71	True	B	0	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1119	12	93.25	373/4	1.0	1	32	-3	3	4	33	93.25	F5	77	True	F	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1119	36	93.25	373/4	3.0	3	32	-3	3	4	33	93.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1119	36	93.25	373/4	3.0	3	32	-3	3	4	33	93.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1119	36	93.25	373/4	3.0	3	32	-3	3	4	33	93.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1119	36	93.25	373/4	3.0	3	32	-3	3	4	33	93.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1119	36	93.25	373/4	3.0	3	32	-3	3	4	33	93.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1131	4	94.25	377/4	0.3333	1/3	32	-3	3	4	33	94.25	F5	77	False	F	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1135	4	94.5833	1135/12	0.3333	1/3	32	-3	3	4	33	94.583	D5	74	True	D	0	1/3	2.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1139	4	94.9167	1139/12	0.3333	1/3	32	-3	3	4	33	94.917	B4	71	True	B	0	5/12	2.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1143	4	95.25	381/4	0.3333	1/3	32	-3	3	4	33	95.25	A-4	68	True	A	-1	1/2	3.0	True	3	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1147	4	95.5833	1147/12	0.3333	1/3	32	-3	3	4	33	95.583	G4	67	True	G	0	7/12	3.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1151	4	95.9167	1151/12	0.3333	1/3	32	-3	3	4	33	95.917	F4	65	True	F	0	2/3	3.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1155	9	96.25	385/4	0.75	3/4	33	-3	3	4	34	96.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1155	36	96.25	385/4	3.0	3	33	-3	3	4	34	96.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1155	36	96.25	385/4	3.0	3	33	-3	3	4	34	96.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1155	36	96.25	385/4	3.0	3	33	-3	3	4	34	96.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1155	36	96.25	385/4	3.0	3	33	-3	3	4	34	96.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1164	3	97.0	97	0.25	1/4	33	-3	3	4	34	97.0	D4	62	True	D	0	3/16	1.75	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1167	12	97.25	389/4	1.0	1	33	-3	3	4	34	97.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1185	6	98.75	395/4	0.5	1/2	33	-3	3	4	34	98.75	G5	79	True	G	0	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1191	12	99.25	397/4	1.0	1	34	-3	3	4	35	99.25	A-5	80	True	A	-1	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1191	36	99.25	397/4	3.0	3	34	-3	3	4	35	99.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1191	36	99.25	397/4	3.0	3	34	-3	3	4	35	99.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1191	36	99.25	397/4	3.0	3	34	-3	3	4	35	99.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1191	36	99.25	397/4	3.0	3	34	-3	3	4	35	99.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1191	36	99.25	397/4	3.0	3	34	-3	3	4	35	99.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1203	4	100.25	401/4	0.3333	1/3	34	-3	3	4	35	100.25	A-5	80	False	A	-1	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1207	4	100.5833	1207/12	0.3333	1/3	34	-3	3	4	35	100.583	F5	77	True	F	0	1/3	2.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1211	4	100.9167	1211/12	0.3333	1/3	34	-3	3	4	35	100.917	C5	72	True	C	0	5/12	2.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1215	4	101.25	405/4	0.3333	1/3	34	-3	3	4	35	101.25	B4	71	True	B	0	1/2	3.0	True	3	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1219	4	101.5833	1219/12	0.3333	1/3	34	-3	3	4	35	101.583	A-4	68	True	A	-1	7/12	3.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1223	4	101.9167	1223/12	0.3333	1/3	34	-3	3	4	35	101.917	F4	65	True	F	0	2/3	3.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1227	0	102.25	409/4	0.0	0	35	-3	3	4	36	102.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1227	0	102.25	409/4	0.0	0	35	-3	3	4	36	102.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1227	0	102.25	409/4	0.0	0	35	-3	3	4	36	102.25	F4	65	True	F	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1227	9	102.25	409/4	0.75	3/4	35	-3	3	4	36	102.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1227	24	102.25	409/4	2.0	2	35	-3	3	4	36	102.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1227	24	102.25	409/4	2.0	2	35	-3	3	4	36	102.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1227	24	102.25	409/4	2.0	2	35	-3	3	4	36	102.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1227	24	102.25	409/4	2.0	2	35	-3	3	4	36	102.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1236	3	103.0	103	0.25	1/4	35	-3	3	4	36	103.0	D4	62	True	D	0	3/16	1.75	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1239	12	103.25	413/4	1.0	1	35	-3	3	4	36	103.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1257	6	104.75	419/4	0.5	1/2	35	-3	3	4	36	104.75	G4	67	True	G	0	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1263	18	105.25	421/4	1.5	3/2	36	-3	3	4	37	105.25	C5	72	True	C	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1263	24	105.25	421/4	2.0	2	36	-3	3	4	37	105.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1263	36	105.25	421/4	3.0	3	36	-3	3	4	37	105.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1263	36	105.25	421/4	3.0	3	36	-3	3	4	37	105.25	E3	52	True	E	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#3
+1281	6	106.75	427/4	0.5	1/2	36	-3	3	4	37	106.75	G4	67	True	G	0	3/8	2.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1287	6	107.25	429/4	0.5	1/2	36	-3	3	4	37	107.25	G4	67	True	G	0	1/2	3.0	True	3	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1287	6	107.25	429/4	0.5	1/2	36	-3	3	4	37	107.25	G4	67	True	G	0	1/2	3.0	True	3	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1293	6	107.75	431/4	0.5	1/2	36	-3	3	4	37	107.75	G#4	68	True	G	1	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#5
+1293	6	107.75	431/4	0.5	1/2	36	-3	3	4	37	107.75	G#4	68	True	G	1	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#5
+1299	9	108.25	433/4	0.75	3/4	37	-3	3	4	38	108.25	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1299	12	108.25	433/4	1.0	1	37	-3	3	4	38	108.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1299	12	108.25	433/4	1.0	1	37	-3	3	4	38	108.25	G#4	68	True	G	1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#5
+1299	24	108.25	433/4	2.0	2	37	-3	3	4	38	108.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1308	3	109.0	109	0.25	1/4	37	-3	3	4	38	109.0	A4	69	True	A	0	3/16	1.75	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#6
+1311	12	109.25	437/4	1.0	1	37	-3	3	4	38	109.25	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#6
+1311	12	109.25	437/4	1.0	1	37	-3	3	4	38	109.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1311	12	109.25	437/4	1.0	1	37	-3	3	4	38	109.25	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#6
+1329	6	110.75	443/4	0.5	1/2	37	-3	3	4	38	110.75	A4	69	True	A	0	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#6
+1335	12	111.25	445/4	1.0	1	38	-3	3	4	39	111.25	F5	77	True	F	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1335	12	111.25	445/4	1.0	1	38	-3	3	4	39	111.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1335	24	111.25	445/4	2.0	2	38	-3	3	4	39	111.25	A3	57	True	A	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#6
+1335	24	111.25	445/4	2.0	2	38	-3	3	4	39	111.25	D2	38	True	D	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1347	4	112.25	449/4	0.3333	1/3	38	-3	3	4	39	112.25	F5	77	True	F	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1347	4	112.25	449/4	0.3333	1/3	38	-3	3	4	39	112.25	D3	50	True	D	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1351	4	112.5833	1351/12	0.3333	1/3	38	-3	3	4	39	112.583	E5	76	True	E	0	1/3	2.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#3
+1351	4	112.5833	1351/12	0.3333	1/3	38	-3	3	4	39	112.583	E3	52	True	E	0	1/3	2.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#3
+1355	4	112.9167	1355/12	0.3333	1/3	38	-3	3	4	39	112.917	D5	74	True	D	0	5/12	2.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1355	4	112.9167	1355/12	0.3333	1/3	38	-3	3	4	39	112.917	F3	53	True	F	0	5/12	2.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1359	4	113.25	453/4	0.3333	1/3	38	-3	3	4	39	113.25	D5	74	True	D	0	1/2	3.0	True	3	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1359	4	113.25	453/4	0.3333	1/3	38	-3	3	4	39	113.25	B3	59	True	B	0	1/2	3.0	True	3	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1359	12	113.25	453/4	1.0	1	38	-3	3	4	39	113.25	F3	53	True	F	0	1/2	3.0	True	3	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1359	12	113.25	453/4	1.0	1	38	-3	3	4	39	113.25	G3	55	True	G	0	1/2	3.0	True	3	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1359	12	113.25	453/4	1.0	1	38	-3	3	4	39	113.25	G2	43	True	G	0	1/2	3.0	True	3	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1363	4	113.5833	1363/12	0.3333	1/3	38	-3	3	4	39	113.583	C5	72	True	C	0	7/12	3.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1363	4	113.5833	1363/12	0.3333	1/3	38	-3	3	4	39	113.583	C4	60	True	C	0	7/12	3.333	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1367	4	113.9167	1367/12	0.3333	1/3	38	-3	3	4	39	113.917	B4	71	True	B	0	2/3	3.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1367	4	113.9167	1367/12	0.3333	1/3	38	-3	3	4	39	113.917	D4	62	True	D	0	2/3	3.667	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1371	12	114.25	457/4	1.0	1	39	-3	3	4	40	114.25	D5	74	True	D	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1371	12	114.25	457/4	1.0	1	39	-3	3	4	40	114.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1371	12	114.25	457/4	1.0	1	39	-3	3	4	40	114.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1371	24	114.25	457/4	2.0	2	39	-3	3	4	40	114.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1371	12	114.25	457/4	1.0	1	39	-3	3	4	40	114.25	G2	43	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1371	12	114.25	457/4	1.0	1	39	-3	3	4	40	114.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1383	12	115.25	461/4	1.0	1	39	-3	3	4	40	115.25	C5	72	True	C	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1383	12	115.25	461/4	1.0	1	39	-3	3	4	40	115.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1383	12	115.25	461/4	1.0	1	39	-3	3	4	40	115.25	C3	48	True	C	0	1/4	2.0	True	2	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1383	12	115.25	461/4	1.0	1	39	-3	3	4	40	115.25	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#3
+1401	6	116.75	467/4	0.5	1/2	39	-3	3	4	40	116.75	C5	72	True	C	0	5/8	3.5	False	0	P2-Staff2	2	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1407	12	117.25	469/4	1.0	1	40	-3	3	4	41	117.25	C5	72	True	C	0	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1407	24	117.25	469/4	2.0	2	40	-3	3	4	41	117.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1407	24	117.25	469/4	2.0	2	40	-3	3	4	41	117.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1407	24	117.25	469/4	2.0	2	40	-3	3	4	41	117.25	F2	41	True	F	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1407	24	117.25	469/4	2.0	2	40	-3	3	4	41	117.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1419	4	118.25	473/4	0.3333	1/3	40	-3	3	4	41	118.25	C5	72	False	C	0	1/4	2.0	True	2	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1423	4	118.5833	1423/12	0.3333	1/3	40	-3	3	4	41	118.583	A-4	68	True	A	-1	1/3	2.333	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1427	4	118.9167	1427/12	0.3333	1/3	40	-3	3	4	41	118.917	F4	65	True	F	0	5/12	2.667	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1431	4	119.25	477/4	0.3333	1/3	40	-3	3	4	41	119.25	C5	72	True	C	0	1/2	3.0	True	3	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1431	12	119.25	477/4	1.0	1	40	-3	3	4	41	119.25	F3	53	True	F	0	1/2	3.0	True	3	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1431	12	119.25	477/4	1.0	1	40	-3	3	4	41	119.25	C4	60	True	C	0	1/2	3.0	True	3	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1431	12	119.25	477/4	1.0	1	40	-3	3	4	41	119.25	A-2	44	True	A	-1	1/2	3.0	True	3	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1431	12	119.25	477/4	1.0	1	40	-3	3	4	41	119.25	D3	50	True	D	0	1/2	3.0	True	3	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1435	4	119.5833	1435/12	0.3333	1/3	40	-3	3	4	41	119.583	A-4	68	True	A	-1	7/12	3.333	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1439	4	119.9167	1439/12	0.3333	1/3	40	-3	3	4	41	119.917	F4	65	True	F	0	2/3	3.667	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1443	36	120.25	481/4	3.0	3	41	-3	3	4	42	120.25	G4	67	True	G	0	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1443	12	120.25	481/4	1.0	1	41	-3	3	4	42	120.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1443	36	120.25	481/4	3.0	3	41	-3	3	4	42	120.25	G2	43	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1443	36	120.25	481/4	3.0	3	41	-3	3	4	42	120.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1443	36	120.25	481/4	3.0	3	41	-3	3	4	42	120.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1455	6	121.25	485/4	0.5	1/2	41	-3	3	4	42	121.25	B3	59	True	B	0	1/4	2.0	True	2	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1461	6	121.75	487/4	0.5	1/2	41	-3	3	4	42	121.75	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#6
+1467	12	122.25	489/4	1.0	1	41	-3	3	4	42	122.25	B3	59	True	B	0	1/2	3.0	True	3	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1479	12	123.25	493/4	1.0	1	42	-3	3	4	43	123.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1479	36	123.25	493/4	3.0	3	42	-3	3	4	43	123.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1479	36	123.25	493/4	3.0	3	42	-3	3	4	43	123.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1479	36	123.25	493/4	3.0	3	42	-3	3	4	43	123.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1479	36	123.25	493/4	3.0	3	42	-3	3	4	43	123.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1509	6	125.75	503/4	0.5	1/2	42	-3	3	4	43	125.75	G5	79	True	G	0	5/8	3.5	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1515	12	126.25	505/4	1.0	1	43	-3	3	4	44	126.25	A-5	80	True	A	-1	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1515	36	126.25	505/4	3.0	3	43	-3	3	4	44	126.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1515	36	126.25	505/4	3.0	3	43	-3	3	4	44	126.25	D3	50	True	D	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1515	36	126.25	505/4	3.0	3	43	-3	3	4	44	126.25	F3	53	True	F	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1515	36	126.25	505/4	3.0	3	43	-3	3	4	44	126.25	A-3	56	True	A	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1515	36	126.25	505/4	3.0	3	43	-3	3	4	44	126.25	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1527	4	127.25	509/4	0.3333	1/3	43	-3	3	4	44	127.25	A-5	80	False	A	-1	1/4	2.0	True	2	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1531	4	127.5833	1531/12	0.3333	1/3	43	-3	3	4	44	127.583	F5	77	True	F	0	1/3	2.333	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1535	4	127.9167	1535/12	0.3333	1/3	43	-3	3	4	44	127.917	D5	74	True	D	0	5/12	2.667	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1539	4	128.25	513/4	0.3333	1/3	43	-3	3	4	44	128.25	B4	71	True	B	0	1/2	3.0	True	3	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	#7
+1543	4	128.5833	1543/12	0.3333	1/3	43	-3	3	4	44	128.583	A-4	68	True	A	-1	7/12	3.333	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	6
+1547	4	128.9167	1547/12	0.3333	1/3	43	-3	3	4	44	128.917	F4	65	True	F	0	2/3	3.667	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1551	0	129.25	517/4	0.0	0	44	-3	3	4	45	129.25	D4	62	True	D	0	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1551	0	129.25	517/4	0.0	0	44	-3	3	4	45	129.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1551	0	129.25	517/4	0.0	0	44	-3	3	4	45	129.25	F4	65	True	F	0	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	4
+1551	9	129.25	517/4	0.75	3/4	44	-3	3	4	45	129.25	E-4	63	True	E	-1	0	1.0	True	1	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1551	24	129.25	517/4	2.0	2	44	-3	3	4	45	129.25	C3	48	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1551	24	129.25	517/4	2.0	2	44	-3	3	4	45	129.25	E-3	51	True	E	-1	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	3
+1551	24	129.25	517/4	2.0	2	44	-3	3	4	45	129.25	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	5
+1551	24	129.25	517/4	2.0	2	44	-3	3	4	45	129.25	C4	60	True	C	0	0	1.0	True	1	P2-Staff2	1	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
+1560	3	130.0	130	0.25	1/4	44	-3	3	4	45	130.0	D4	62	True	D	0	3/16	1.75	False	0	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	2
+1563	12	130.25	521/4	2.0	1	44	-3	3	4	45	130.25	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	6	28	3.0	39	ii	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	2	None	ii	True	1
