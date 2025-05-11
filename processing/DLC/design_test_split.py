@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.16.7
+#       jupytext_version: 1.17.1
 #   kernelspec:
 #     display_name: dimcat
 #     language: python
@@ -19,7 +19,7 @@ import ms3
 import pandas as pd
 
 # %%
-DLC_PATH = ms3.resolve_dir("..")
+DLC_PATH = ms3.resolve_dir("../../corpora/distant_listening_corpus")
 
 # %%
 excluded_pieces = [
@@ -41,24 +41,26 @@ excluded_pieces = [
 ]
 
 # %%
-dlc_metadata = ms3.load_tsv(
-    "distant_listening_corpus.metadata.tsv", index_col=["corpus", "piece"]
+dlc_metadata = pd.read_csv(
+    "distant_listening_corpus.metadata.tsv",
+    sep="\t",
+    index_col=["corpus", "piece"],
+    dtype="string"
 )
 dlc_summary = pd.read_csv(
     "/home/laser/git/AugmentedNet/dlc_summary.tsv",
     sep="\t",
     index_col=["corpus", "piece"],
 )
+dlc_metadata = dlc_metadata.astype(dict(label_count="Int64"))
 dlc_metadata = dlc_metadata[dlc_metadata.label_count > 0]  # only annotated pieces
 dlc_metadata = pd.concat([dlc_metadata, dlc_summary], axis=1)
+dlc_metadata = dlc_metadata.loc(axis=1)[~dlc_metadata.columns.duplicated()]
 dlc_metadata = dlc_metadata.loc[
     dlc_metadata.index.difference(excluded_pieces)
 ]  # without excluded pieces
 N_overall = len(dlc_metadata)
 dlc_metadata
-
-
-# %%
 
 
 # %%
