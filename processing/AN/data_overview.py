@@ -18,27 +18,21 @@
 
 import os
 import re
+import sys
 from typing import Dict
+
 
 import git
 import ms3
 import pandas as pd
 
+
+REPO_PATH = ms3.resolve_dir("../../corpora/AugmentedNet")
+sys.path.append(REPO_PATH)
+
 from AugmentedNet import utils
 from AugmentedNet.common import ANNOTATIONSCOREDUPLES, DATASPLITS
 
-
-def resolve_dir(d):
-    """Resolves '~' to HOME directory and turns ``d`` into an absolute path."""
-    if d is None:
-        return None
-    d = str(d)
-    if "~" in d:
-        return os.path.expanduser(d)
-    return os.path.abspath(d)
-
-
-REPO_PATH = resolve_dir("..")
 DATASET = "events"
 AUGMENTEDNET_REPO = git.Repo(REPO_PATH)
 AUGMENTEDNET_VERSION = "v1.0.0"
