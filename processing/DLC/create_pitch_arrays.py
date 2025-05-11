@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.17.0
+#       jupytext_version: 1.17.1
 #   kernelspec:
 #     display_name: dimcat
 #     language: python
@@ -14,23 +14,26 @@
 # ---
 
 # %%
-import os
-
-# %%
-from enum import Enum
-
-import ms3
-
-# %%
 # %load_ext autoreload
 # %autoreload 2
-import utils
+from enum import Enum
+import os
+import sys
+import ms3
+
+REPO = ms3.resolve_dir("../..")
+sys.path.insert(0, REPO)
+from processing import utils
 
 # from processing.utils import create_specs
 
-DLC_PATH = ms3.resolve_dir("../corpora/distant_listening_corpus")
+DLC_PATH = ms3.resolve_dir("../../corpora/distant_listening_corpus")
 METADATA_PATH = "distant_listening_corpus.metadata.tsv"
-DATASET = "pitch_arrays"
+DATASET = "../../pitch_arrays/DLC"
+
+# %%
+
+sys.path
 
 # %%
 # bps1 = pd.read_csv("/home/laser/git/AugmentedNet/events/test/bps-01-op002-no1-1_joint.tsv", sep="\t")

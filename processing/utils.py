@@ -1298,7 +1298,7 @@ def store_pitch_arrays_for_corpus(
 
     if reset:
         piece_names = corpus.get_all_pnames(pieces_not_in_metadata=False)
-        ids = [(corpus.name, piece) for piece in piece_names]
+        ids = [ID for piece in piece_names if (ID := (corpus.name, piece)) in metadata.index]
         metadata.loc[ids, column_name] = False
         ms3.write_tsv(metadata, metadata_path, index=True)
     for piece_id, piece in corpus.iter_pieces():
