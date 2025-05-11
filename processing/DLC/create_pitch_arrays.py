@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.16.7
+#       jupytext_version: 1.17.0
 #   kernelspec:
 #     display_name: dimcat
 #     language: python
@@ -28,7 +28,7 @@ import utils
 
 # from processing.utils import create_specs
 
-DLC_PATH = ms3.resolve_dir("..")
+DLC_PATH = ms3.resolve_dir("../corpora/distant_listening_corpus")
 METADATA_PATH = "distant_listening_corpus.metadata.tsv"
 DATASET = "pitch_arrays"
 
