@@ -49,8 +49,8 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 105.0	36	0	3.0	47	V	V	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	D	D	D	D	5	None	V	True
 108.0	37	0	3.0	48	i	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	D	a	1	None	i	True
 111.0	38	0	3.0	49	i	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	D	a	1	None	i	True
-114.0	39	0	3.0	50	Ger7	Ger7	True	('D#', 'F', 'A', 'C')	D#	D#	0	enharmonic to dominant seventh chord	(0, 3, 5, 9)	a	a	D	a	#4	None	Ger7	True
-117.0	40	0	3.0	51	Ger7	Ger7	True	('D#', 'F', 'A', 'C')	D#	D#	0	enharmonic to dominant seventh chord	(0, 3, 5, 9)	a	a	D	a	#4	None	Ger7	True
+114.0	39	0	3.0	50	Ger7	Ger7	True	('D#', 'F', 'A', 'C')	D#	D#	0	German augmented sixth chord in root position	(0, 3, 5, 9)	a	a	D	a	#4	None	Ger7	True
+117.0	40	0	3.0	51	Ger7	Ger7	True	('D#', 'F', 'A', 'C')	D#	D#	0	German augmented sixth chord in root position	(0, 3, 5, 9)	a	a	D	a	#4	None	Ger7	True
 120.0	41	0	2.0	52	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	D	a	5	None	V	True
 122.0	41	1/2	1.0	53	viio/V	viio/V	True	('D#', 'F#', 'A')	D#	D#	0	diminished triad	(3, 6, 9)	a	a	D	E	7	5	viio	True
 123.0	42	0	2.0	54	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	D	a	5	None	V	True
@@ -223,7 +223,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 504.0	169	0	3.0	221	i6	i	True	('D', 'F#', 'B')	D	B	1	minor triad	(2, 6, 11)	b	b	D	b	1	None	i	True
 507.0	170	0	3.0	222	V65	V7	True	('A#', 'C#', 'E', 'F#')	A#	F#	1	dominant seventh chord	(1, 4, 6, 10)	b	b	D	b	5	None	V7	True
 510.0	171	0	3.0	223	i	i	True	('B', 'D', 'F#')	B	B	0	minor triad	(2, 6, 11)	b	b	D	b	1	None	i	True
-513.0	172	0	3.0	224	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	enharmonic to dominant seventh chord	(2, 5, 7, 11)	b	b	D	b	#4	None	Ger7	True
+513.0	172	0	3.0	224	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	German augmented sixth chord in root position	(2, 5, 7, 11)	b	b	D	b	#4	None	Ger7	True
 516.0	173	0	3.0	225	V	V	True	('F#', 'A#', 'C#')	F#	F#	0	major triad	(1, 6, 10)	b	b	D	b	5	None	V	True
 519.0	174	0	3.0	226	V	V	True	('F#', 'A#', 'C#')	F#	F#	0	major triad	(1, 6, 10)	b	b	D	b	5	None	V	True
 522.0	175	0	2.0	227	V7	V7	True	('F#', 'A#', 'C#', 'E')	F#	F#	0	dominant seventh chord	(1, 4, 6, 10)	b	b	D	b	5	None	V7	True

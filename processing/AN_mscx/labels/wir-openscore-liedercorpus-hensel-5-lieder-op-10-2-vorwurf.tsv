@@ -44,7 +44,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 88.0	23	0	3.5	42	i64	V	True	('G#', 'C#', 'E')	G#	G#	0	major triad	(1, 4, 8)	c#	c#	g#	c#	5	None	V	True
 91.5	23	7/8	0.5	43	V7	V7	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	c#	c#	g#	c#	5	None	V7	True
 92.0	24	0	4.0	44	I	I	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	C#	C#	g#	C#	1	None	I	True
-96.0	25	0	2.0	45	Ger43	Ger7	True	('C#', 'E', 'F##', 'A')	C#	F##	2	enharmonic to dominant seventh chord	(1, 4, 7, 9)	C#	C#	g#	C#	#4	None	Ger7	True
+96.0	25	0	2.0	45	Ger43	Ger7	True	('C#', 'E', 'F##', 'A')	C#	F##	2	German augmented sixth chord in second inversion	(1, 4, 7, 9)	C#	C#	g#	C#	#4	None	Ger7	True
 98.0	25	1/2	2.0	46	V	V	True	('G#', 'B#', 'D#')	G#	G#	0	major triad	(0, 3, 8)	C#	C#	g#	C#	5	None	V	True
 100.0	26	0	4.0	47	I	I	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	C#	C#	g#	C#	1	None	I	True
 104.0	27	0	2.0	48	V7/IV	V7/IV	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	C#	C#	g#	F#	5	4	V7	True
@@ -63,7 +63,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 136.0	35	0	4.0	61	V	V	True	('D#', 'F##', 'A#')	D#	D#	0	major triad	(3, 7, 10)	g#	g#	g#	g#	5	None	V	True
 140.0	36	0	3.0	62	V	V	True	('D#', 'F##', 'A#')	D#	D#	0	major triad	(3, 7, 10)	g#	g#	g#	g#	5	None	V	True
 143.0	36	3/4	1.0	63	VI	VI	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	g#	g#	g#	g#	6	None	VI	True
-144.0	37	0	2.0	64	V4	V4	True	('A#', 'D#')	A#	D#	2	Perfect Fourth	(3, 10)	g#	g#	g#	g#	5	None	none	False
+144.0	37	0	2.0	64	V4	V4	True	('D#', 'G#')	D#	D#	0	Perfect Fourth	(3, 8)	g#	g#	g#	g#	5	None	none	False
 146.0	37	1/2	2.0	65	i	i	True	('G#', 'B', 'D#')	G#	G#	0	minor triad	(3, 8, 11)	g#	g#	g#	g#	1	None	i	True
 148.0	38	0	2.0	66	V	V	True	('D#', 'F##', 'A#')	D#	D#	0	major triad	(3, 7, 10)	g#	g#	g#	g#	5	None	V	True
 150.0	38	1/2	2.0	67	Ger65	Ger7	True	('E', 'G#', 'B', 'C##')	E	C##	1	German augmented sixth chord	(2, 4, 8, 11)	g#	g#	g#	g#	#4	None	Ger7	True

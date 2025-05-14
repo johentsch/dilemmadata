@@ -113,9 +113,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 68	4	17.0	17	1.0	1	6	-2	6	8	6	11.333	B-2	46	True	B	-1	1/2	2.333	False	0	P2-Staff2	1	6	2.5	9	VI	False	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	g	g	6	None	VI	True	3
 68	4	17.0	17	1.0	1	6	-2	6	8	6	11.333	G3	55	False	G	0	1/2	2.333	False	0	P2-Staff2	1	6	2.5	9	VI	False	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
 69	1	17.25	69/4	0.25	1/4	6	-2	6	8	6	11.5	E-4	63	True	E	-1	9/16	2.5	False	0	P2-Staff2	1	6	2.5	9	VI	False	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	g	g	6	None	VI	True	6
-70	2	17.5	35/2	0.5	1/2	6	-2	6	8	6	11.667	C#5	73	True	C	1	5/8	2.667	False	0	P2-Staff2	1	6	0.5	10	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	#4
-70	1	17.5	35/2	0.25	1/4	6	-2	6	8	6	11.667	B-4	70	True	B	-1	5/8	2.667	False	0	P2-Staff2	1	6	0.5	10	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	3
-71	1	17.75	71/4	0.25	1/4	6	-2	6	8	6	11.833	E-4	63	True	E	-1	11/16	2.833	False	0	P2-Staff2	1	6	0.5	10	Ger7	False	('B-', 'C#', 'E-', 'G')	B-	C#	3	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	6
+70	2	17.5	35/2	0.5	1/2	6	-2	6	8	6	11.667	C#5	73	True	C	1	5/8	2.667	False	0	P2-Staff2	1	6	0.5	10	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	German augmented sixth chord in third inversion	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	#4
+70	1	17.5	35/2	0.25	1/4	6	-2	6	8	6	11.667	B-4	70	True	B	-1	5/8	2.667	False	0	P2-Staff2	1	6	0.5	10	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	German augmented sixth chord in third inversion	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	3
+71	1	17.75	71/4	0.25	1/4	6	-2	6	8	6	11.833	E-4	63	True	E	-1	11/16	2.833	False	0	P2-Staff2	1	6	0.5	10	Ger7	False	('B-', 'C#', 'E-', 'G')	B-	C#	3	German augmented sixth chord in third inversion	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	6
 72	6	18.0	18	1.5	3/2	7	-2	6	8	7	12.0	D5	74	True	D	0	0	1.0	True	1	P2-Staff2	1	7	3.0	11	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	5
 72	1	18.0	18	0.25	1/4	7	-2	6	8	7	12.0	B-2	46	True	B	-1	0	1.0	True	1	P2-Staff2	1	7	3.0	11	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	3
 73	1	18.25	73/4	0.25	1/4	7	-2	6	8	7	12.167	F3	53	True	F	0	1/16	1.167	False	0	P2-Staff2	1	7	3.0	11	III	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	7
@@ -595,9 +595,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 380	4	95.0	95	1.0	1	32	-2	6	8	32	63.333	B-2	46	True	B	-1	1/2	2.333	False	0	P2-Staff2	1	32	2.5	57	VI	False	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	g	g	6	None	VI	True	3
 380	4	95.0	95	1.0	1	32	-2	6	8	32	63.333	G3	55	False	G	0	1/2	2.333	False	0	P2-Staff2	1	32	2.5	57	VI	False	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
 381	1	95.25	381/4	0.25	1/4	32	-2	6	8	32	63.5	E-4	63	True	E	-1	9/16	2.5	False	0	P2-Staff2	1	32	2.5	57	VI	False	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	g	g	6	None	VI	True	6
-382	2	95.5	191/2	0.5	1/2	32	-2	6	8	32	63.667	C#5	73	True	C	1	5/8	2.667	False	0	P2-Staff2	1	32	0.5	58	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	#4
-382	1	95.5	191/2	0.25	1/4	32	-2	6	8	32	63.667	B-4	70	True	B	-1	5/8	2.667	False	0	P2-Staff2	1	32	0.5	58	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	3
-383	1	95.75	383/4	0.25	1/4	32	-2	6	8	32	63.833	G4	67	True	G	0	11/16	2.833	False	0	P2-Staff2	1	32	0.5	58	Ger7	False	('B-', 'C#', 'E-', 'G')	B-	C#	3	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
+382	2	95.5	191/2	0.5	1/2	32	-2	6	8	32	63.667	C#5	73	True	C	1	5/8	2.667	False	0	P2-Staff2	1	32	0.5	58	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	German augmented sixth chord in third inversion	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	#4
+382	1	95.5	191/2	0.25	1/4	32	-2	6	8	32	63.667	B-4	70	True	B	-1	5/8	2.667	False	0	P2-Staff2	1	32	0.5	58	Ger7	True	('B-', 'C#', 'E-', 'G')	B-	C#	3	German augmented sixth chord in third inversion	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	3
+383	1	95.75	383/4	0.25	1/4	32	-2	6	8	32	63.833	G4	67	True	G	0	11/16	2.833	False	0	P2-Staff2	1	32	0.5	58	Ger7	False	('B-', 'C#', 'E-', 'G')	B-	C#	3	German augmented sixth chord in third inversion	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
 384	6	96.0	96	1.5	3/2	33	-2	6	8	33	64.0	D5	74	True	D	0	0	1.0	True	1	P2-Staff2	1	33	3.0	59	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	5
 384	1	96.0	96	0.25	1/4	33	-2	6	8	33	64.0	B-2	46	True	B	-1	0	1.0	True	1	P2-Staff2	1	33	3.0	59	III	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	3
 385	1	96.25	385/4	0.25	1/4	33	-2	6	8	33	64.167	F3	53	True	F	0	1/16	1.167	False	0	P2-Staff2	1	33	3.0	59	III	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	g	g	3	None	III	True	7

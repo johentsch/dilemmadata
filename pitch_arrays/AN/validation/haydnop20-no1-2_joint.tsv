@@ -86,10 +86,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 100	8	25.0	25	2.0	2	9	-3	3	4	9	25.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	9	2.0	10	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
 100	8	25.0	25	2.0	2	9	-3	3	4	9	25.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	9	2.0	10	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
 104	4	26.0	26	1.0	1	9	-3	3	4	9	26.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	9	2.0	10	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
-108	3	27.0	27	0.75	3/4	9	-3	3	4	9	27.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	9	1.0	11	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
-108	4	27.0	27	1.0	1	9	-3	3	4	9	27.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	9	1.0	11	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
-108	4	27.0	27	1.0	1	9	-3	3	4	9	27.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	9	1.0	11	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	6
-111	1	27.75	111/4	0.25	1/4	9	-3	3	4	9	27.75	A4	69	True	A	0	11/16	3.75	False	0	spine_0	1	9	1.0	11	It	False	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	#4
+108	3	27.0	27	0.75	3/4	9	-3	3	4	9	27.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	9	1.0	11	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
+108	4	27.0	27	1.0	1	9	-3	3	4	9	27.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	9	1.0	11	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
+108	4	27.0	27	1.0	1	9	-3	3	4	9	27.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	9	1.0	11	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	6
+111	1	27.75	111/4	0.25	1/4	9	-3	3	4	9	27.75	A4	69	True	A	0	11/16	3.75	False	0	spine_0	1	9	1.0	11	It	False	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	#4
 112	4	28.0	28	1.0	1	10	-3	3	4	10	28.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	10	2.0	12	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
 112	8	28.0	28	2.0	2	10	-3	3	4	10	28.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	10	2.0	12	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
 112	8	28.0	28	2.0	2	10	-3	3	4	10	28.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	10	2.0	12	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
@@ -102,10 +102,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 124	8	31.0	31	2.0	2	11	-3	3	4	11	31.0	F4	65	True	F	0	0	1.0	True	1	spine_0	1	11	2.0	14	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	2
 124	8	31.0	31	2.0	2	11	-3	3	4	11	31.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	11	2.0	14	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
 128	4	32.0	32	1.0	1	11	-3	3	4	11	32.0	B-4	70	True	B	-1	1/4	2.0	True	2	spine_0	1	11	2.0	14	V	False	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
-132	3	33.0	33	0.75	3/4	11	-3	3	4	11	33.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	11	1.0	15	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
-132	4	33.0	33	1.0	1	11	-3	3	4	11	33.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	11	1.0	15	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
-132	4	33.0	33	1.0	1	11	-3	3	4	11	33.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	11	1.0	15	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	6
-135	1	33.75	135/4	0.25	1/4	11	-3	3	4	11	33.75	A4	69	True	A	0	11/16	3.75	False	0	spine_0	1	11	1.0	15	It	False	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	E-	#4	None	It	True	#4
+132	3	33.0	33	0.75	3/4	11	-3	3	4	11	33.0	E-5	75	True	E	-1	1/2	3.0	True	3	spine_0	1	11	1.0	15	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
+132	4	33.0	33	1.0	1	11	-3	3	4	11	33.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	11	1.0	15	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	1
+132	4	33.0	33	1.0	1	11	-3	3	4	11	33.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	11	1.0	15	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	6
+135	1	33.75	135/4	0.25	1/4	11	-3	3	4	11	33.75	A4	69	True	A	0	11/16	3.75	False	0	spine_0	1	11	1.0	15	It	False	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	E-	#4	None	It	True	#4
 136	4	34.0	34	1.0	1	12	-3	3	4	12	34.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	12	2.0	16	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
 136	8	34.0	34	2.0	2	12	-3	3	4	12	34.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	12	2.0	16	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	7
 136	8	34.0	34	2.0	2	12	-3	3	4	12	34.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	12	2.0	16	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	E-	5	None	V	True	5
@@ -522,7 +522,7 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 768	4	192.0	192	1.0	1	64	-3	3	4	64	192.0	A-4	68	True	A	-1	1/2	3.0	True	3	spine_0	1	64	3.0	79	ii	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	E-	2	None	ii	True	4
 768	4	192.0	192	1.0	1	64	-3	3	4	64	192.0	C5	72	True	C	0	1/2	3.0	True	3	spine_0	1	64	3.0	79	ii	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	E-	2	None	ii	True	6
 768	4	192.0	192	1.0	1	64	-3	3	4	64	192.0	F4	65	True	F	0	1/2	3.0	True	3	spine_0	1	64	3.0	79	ii	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	E-	2	None	ii	True	2
-772	4	193.0	193	1.0	1	65	-3	3	4	65	193.0	B-5	82	True	B	-1	0	1.0	True	1	spine_0	1	65	3.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	5
-772	4	193.0	193	1.0	1	65	-3	3	4	65	193.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	65	3.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	3
-772	4	193.0	193	1.0	1	65	-3	3	4	65	193.0	C5	72	False	C	0	0	1.0	True	1	spine_0	1	65	3.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	6
-772	4	193.0	193	6.0	1	65	-3	3	4	65	193.0	E4	64	True	E	0	0	1.0	True	1	spine_0	1	65	3.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	#1
+772	4	193.0	193	1.0	1	65	-3	3	4	65	193.0	B-5	82	True	B	-1	0	1.0	True	1	spine_0	1	65	2.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	5
+772	4	193.0	193	1.0	1	65	-3	3	4	65	193.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	65	2.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	3
+772	4	193.0	193	1.0	1	65	-3	3	4	65	193.0	C5	72	False	C	0	0	1.0	True	1	spine_0	1	65	2.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	6
+772	4	193.0	193	6.0	1	65	-3	3	4	65	193.0	E4	64	True	E	0	0	1.0	True	1	spine_0	1	65	2.0	80	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	f	5	2	V7	True	#1

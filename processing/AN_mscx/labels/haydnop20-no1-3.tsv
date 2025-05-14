@@ -59,7 +59,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 37.5	26	0	0.5	57	V65/V	V7/V	True	('D', 'F', 'A-', 'B-')	D	B-	1	dominant seventh chord	(2, 5, 8, 10)	A-	Ab	Ab	E-	5	5	V7	True
 38.0	26	1/8	0.5	58	v	v	True	('E-', 'G-', 'B-')	E-	E-	0	minor triad	(3, 6, 10)	A-	Ab	Ab	A-	5	None	v	True
 38.5	26	1/4	0.5	59	ii6	ii	True	('D-', 'F', 'B-')	D-	B-	1	minor triad	(1, 5, 10)	A-	Ab	Ab	A-	2	None	ii	True
-39.0	27	0	1.5	60	Ger7/V	Ger7/V	True	('A', 'C-', 'E-', 'G-')	A	A	0	enharmonic to dominant seventh chord	(3, 6, 9, 11)	A-	Ab	Ab	e-	#4	5	Ger7	True
+39.0	27	0	1.5	60	Ger7/V	Ger7/V	True	('A', 'C-', 'E-', 'G-')	A	A	0	German augmented sixth chord in root position	(3, 6, 9, 11)	A-	Ab	Ab	e-	#4	5	Ger7	True
 40.5	28	0	0.5	61	V64	V	True	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	A-	Ab	Ab	A-	5	None	V	True
 41.0	28	1/8	1.0	62	V/V	V/V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	A-	Ab	Ab	E-	5	5	V	True
 42.0	29	0	0.5	63	iii2	iii7	True	('B-', 'C', 'E-', 'G')	B-	C	3	minor seventh chord	(0, 3, 7, 10)	A-	Ab	Ab	A-	3	None	iii7	True
@@ -118,11 +118,11 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 77.5	52	1/4	0.5	116	I6	I	True	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	D-	Db	Ab	D-	1	None	I	True
 78.0	53	0	0.5	117	IV	IV	True	('G-', 'B-', 'D-')	G-	G-	0	major triad	(1, 6, 10)	D-	Db	Ab	D-	4	None	IV	True
 78.5	53	1/8	0.5	118	I6	I	True	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	D-	Db	Ab	D-	1	None	I	True
-79.0	53	1/4	0.5	119	Ger7/V	Ger7/V	True	('D', 'F-', 'A-', 'C-')	D	D	0	enharmonic to dominant seventh chord	(2, 4, 8, 11)	D-	Db	Ab	a-	#4	5	Ger7	True
+79.0	53	1/4	0.5	119	Ger7/V	Ger7/V	True	('D', 'F-', 'A-', 'C-')	D	D	0	German augmented sixth chord in root position	(2, 4, 8, 11)	D-	Db	Ab	a-	#4	5	Ger7	True
 79.5	54	0	1.5	120	V/V	V/V	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	D-	Db	Ab	A-	5	5	V	True
 81.0	55	0	0.5	121	V	V	True	('A-', 'C', 'E-')	A-	A-	0	major triad	(0, 3, 8)	D-	Db	Ab	D-	5	None	V	True
 81.5	55	1/8	0.5	122	V6/V	V/V	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	D-	Db	Ab	A-	5	5	V	True
-82.0	55	1/4	0.5	123	Ger7/vi	Ger7/vi	True	('E', 'G-', 'B-', 'D-')	E	E	0	enharmonic to dominant seventh chord	(1, 4, 6, 10)	D-	Db	Ab	b-	#4	6	Ger7	True
+82.0	55	1/4	0.5	123	Ger7/vi	Ger7/vi	True	('E', 'G-', 'B-', 'D-')	E	E	0	German augmented sixth chord in root position	(1, 4, 6, 10)	D-	Db	Ab	b-	#4	6	Ger7	True
 82.5	56	0	1.5	124	V/vi	V/vi	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	D-	Db	Ab	b-	5	6	V	True
 84.0	57	0	1.5	125	i	i	True	('B-', 'D-', 'F')	B-	B-	0	minor triad	(1, 5, 10)	b-	bb	Ab	b-	1	None	i	True
 85.5	58	0	0.5	126	iio65	iio7	True	('E-', 'G-', 'B--', 'C')	E-	C	1	diminished seventh chord	(0, 3, 6, 9)	b-	bb	Ab	b-	2	None	iio7	True
@@ -194,7 +194,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 124.5	84	0	0.5	192	viio	viio	True	('G', 'B-', 'D-')	G	G	0	diminished triad	(1, 7, 10)	A-	Ab	Ab	A-	7	None	viio	True
 125.0	84	1/8	0.5	193	i	i	True	('A-', 'C-', 'E-')	A-	A-	0	minor triad	(3, 8, 11)	A-	Ab	Ab	A-	1	None	i	True
 125.5	84	1/4	0.5	194	V64	V	True	('B-', 'E-', 'G')	B-	E-	2	major triad	(3, 7, 10)	A-	Ab	Ab	A-	5	None	V	True
-126.0	85	0	1.5	195	Ger7	Ger7	True	('D', 'F-', 'A-', 'C-')	D	D	0	enharmonic to dominant seventh chord	(2, 4, 8, 11)	A-	Ab	Ab	A-	#4	None	Ger7	True
+126.0	85	0	1.5	195	Ger7	Ger7	True	('D', 'F-', 'A-', 'C-')	D	D	0	German augmented sixth chord in root position	(2, 4, 8, 11)	A-	Ab	Ab	A-	#4	None	Ger7	True
 127.5	86	0	1.5	196	V7	V7	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	A-	Ab	Ab	A-	5	None	V7	True
 129.0	87	0	0.5	197	vi7	vi7	True	('F', 'A-', 'C', 'E-')	F	F	0	minor seventh chord	(0, 3, 5, 8)	A-	Ab	Ab	A-	6	None	vi7	True
 129.5	87	1/8	1.0	198	ii6	ii	True	('D-', 'F', 'B-')	D-	B-	1	minor triad	(1, 5, 10)	A-	Ab	Ab	A-	2	None	ii	True

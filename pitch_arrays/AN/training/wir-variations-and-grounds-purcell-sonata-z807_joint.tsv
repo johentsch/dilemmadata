@@ -5,8 +5,8 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 10	2	2.5	5/2	0.5	1/2	1	-2	3	4	1	2.5	E-5	75	True	E	-1	5/8	3.5	False	0	Basso Continuo	1	1	2.0	1	VI	False	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	g	g	6	None	VI	True	6
 12	4	3.0	3	1.0	1	2	-2	3	4	2	3.0	E-5	75	True	E	-1	0	1.0	True	1	Basso Continuo	1	2	1.0	2	VII7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	g	g	7	None	VII7	True	6
 12	12	3.0	3	3.0	3	2	-2	3	4	2	3.0	F3	53	True	F	0	0	1.0	True	1	Basso Continuo	1	2	1.0	2	VII7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	g	g	7	None	VII7	True	7
-16	4	4.0	4	1.0	1	2	-2	3	4	2	4.0	D5	74	True	D	0	1/4	2.0	True	2	Basso Continuo	1	2	2.0	3	i7	True	('F', 'G', 'D')	F	G	3	incomplete dominant-seventh chord	(2, 5, 7)	g	g	1	None	i7	True	5
-20	4	5.0	5	1.0	1	2	-2	3	4	2	5.0	G5	79	True	G	0	1/2	3.0	True	3	Basso Continuo	1	2	2.0	3	i7	False	('F', 'G', 'D')	F	G	3	incomplete dominant-seventh chord	(2, 5, 7)	g	g	1	None	i7	True	1
+16	4	4.0	4	1.0	1	2	-2	3	4	2	4.0	D5	74	True	D	0	1/4	2.0	True	2	Basso Continuo	1	2	2.0	3	i7	True	('G', 'A', 'E-')	G	G	0	incomplete half-diminished seventh chord	(3, 7, 9)	g	g	1	None	i7	True	5
+20	4	5.0	5	1.0	1	2	-2	3	4	2	5.0	G5	79	True	G	0	1/2	3.0	True	3	Basso Continuo	1	2	2.0	3	i7	False	('G', 'A', 'E-')	G	G	0	incomplete half-diminished seventh chord	(3, 7, 9)	g	g	1	None	i7	True	1
 24	1	6.0	6	0.25	1/4	3	-2	3	4	3	6.0	G5	79	True	G	0	0	1.0	True	1	Basso Continuo	1	3	3.0	4	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
 24	4	6.0	6	1.0	1	3	-2	3	4	3	6.0	G4	67	True	G	0	0	1.0	True	1	Basso Continuo	1	3	3.0	4	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	1
 24	12	6.0	6	3.0	3	3	-2	3	4	3	6.0	E-3	51	True	E	-1	0	1.0	True	1	Basso Continuo	1	3	3.0	4	VI	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	g	g	6	None	VI	True	6
@@ -91,8 +91,8 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 144	3	36.0	36	0.75	3/4	13	-2	3	4	13	36.0	D5	74	True	D	0	0	1.0	True	1	Basso Continuo	1	13	1.0	24	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	3
 144	12	36.0	36	3.0	3	13	-2	3	4	13	36.0	E-3	51	True	E	-1	0	1.0	True	1	Basso Continuo	1	13	1.0	24	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
 147	1	36.75	147/4	0.25	1/4	13	-2	3	4	13	36.75	E-5	75	True	E	-1	3/16	1.75	False	0	Basso Continuo	1	13	1.0	24	ii	False	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	B-	2	None	ii	True	4
-148	4	37.0	37	1.0	1	13	-2	3	4	13	37.0	F#4	66	True	F	1	1/4	2.0	True	2	Basso Continuo	1	13	1.0	25	viio7	True	('E-', 'F#', 'C')	E-	F#	3	enharmonic equivalent to diminished triad	(0, 3, 6)	g	g	#7	None	viio7	True	#7
-148	6	37.0	37	1.5	3/2	13	-2	3	4	13	37.0	C5	72	True	C	0	1/4	2.0	True	2	Basso Continuo	1	13	1.0	25	viio7	True	('E-', 'F#', 'C')	E-	F#	3	enharmonic equivalent to diminished triad	(0, 3, 6)	g	g	#7	None	viio7	True	4
+148	4	37.0	37	1.0	1	13	-2	3	4	13	37.0	F#4	66	True	F	1	1/4	2.0	True	2	Basso Continuo	1	13	1.0	25	viio7	True	('F', 'G#', 'D#')	F	F	0	incomplete minor-seventh chord	(3, 5, 8)	g	g	#7	None	viio7	True	#7
+148	6	37.0	37	1.5	3/2	13	-2	3	4	13	37.0	C5	72	True	C	0	1/4	2.0	True	2	Basso Continuo	1	13	1.0	25	viio7	True	('F', 'G#', 'D#')	F	F	0	incomplete minor-seventh chord	(3, 5, 8)	g	g	#7	None	viio7	True	4
 152	4	38.0	38	1.0	1	13	-2	3	4	13	38.0	G4	67	True	G	0	1/2	3.0	True	3	Basso Continuo	1	13	1.0	26	VI7	True	('E-', 'G', 'B-', 'D')	E-	E-	0	major seventh chord	(2, 3, 7, 10)	g	g	6	None	VI7	True	1
 154	2	38.5	77/2	0.5	1/2	13	-2	3	4	13	38.5	D5	74	True	D	0	5/8	3.5	False	0	Basso Continuo	1	13	1.0	26	VI7	False	('E-', 'G', 'B-', 'D')	E-	E-	0	major seventh chord	(2, 3, 7, 10)	g	g	6	None	VI7	True	5
 156	4	39.0	39	1.0	1	14	-2	3	4	14	39.0	A4	69	True	A	0	0	1.0	True	1	Basso Continuo	1	14	1.5	27	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	2
@@ -366,8 +366,8 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 528	4	132.0	132	1.0	1	45	-2	3	4	45	132.0	G5	79	True	G	0	0	1.0	True	1	Basso Continuo	1	45	1.0	84	iiø7	True	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	1
 528	8	132.0	132	2.0	2	45	-2	3	4	45	132.0	A4	69	True	A	0	0	1.0	True	1	Basso Continuo	1	45	1.0	84	iiø7	True	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	2
 528	4	132.0	132	1.0	1	45	-2	3	4	45	132.0	C3	48	True	C	0	0	1.0	True	1	Basso Continuo	1	45	1.0	84	iiø7	True	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	4
-532	4	133.0	133	1.0	1	45	-2	3	4	45	133.0	D5	74	True	D	0	1/4	2.0	True	2	Basso Continuo	1	45	1.0	85	V	True	('D', 'G', 'A')	D	D	0	major triad	(2, 7, 9)	g	g	5	None	V	True	5
-532	8	133.0	133	2.0	2	45	-2	3	4	45	133.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	45	1.0	85	V	True	('D', 'G', 'A')	D	D	0	major triad	(2, 7, 9)	g	g	5	None	V	True	5
+532	4	133.0	133	1.0	1	45	-2	3	4	45	133.0	D5	74	True	D	0	1/4	2.0	True	2	Basso Continuo	1	45	1.0	85	i54	True	('G', 'C', 'D')	G	G	0	quartal trichord	(0, 2, 7)	g	g	1	None	i	True	5
+532	8	133.0	133	2.0	2	45	-2	3	4	45	133.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	45	1.0	85	i54	True	('G', 'C', 'D')	G	G	0	quartal trichord	(0, 2, 7)	g	g	1	None	i	True	5
 536	4	134.0	134	1.0	1	45	-2	3	4	45	134.0	F5	77	True	F	0	1/2	3.0	True	3	Basso Continuo	1	45	1.0	86	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	7
 536	4	134.0	134	1.0	1	45	-2	3	4	45	134.0	D5	74	True	D	0	1/2	3.0	True	3	Basso Continuo	1	45	1.0	86	v	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	g	g	5	None	v	True	5
 540	4	135.0	135	1.0	1	46	-2	3	4	46	135.0	E5	76	True	E	0	0	1.0	True	1	Basso Continuo	1	46	1.0	87	#viø7	True	('G', 'B-', 'D', 'E')	G	E	1	half-diminished seventh chord	(2, 4, 7, 10)	g	g	#6	None	#vi%7	True	#6
@@ -963,9 +963,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1368	4	342.0	342	1.0	1	115	-2	3	4	115	342.0	B-5	82	True	B	-1	0	1.0	True	1	Basso Continuo	1	115	1.0	222	iv7	True	('C', 'E-', 'G', 'B-')	C	C	0	minor seventh chord	(0, 3, 7, 10)	g	g	4	None	iv7	True	3
 1368	6	342.0	342	1.5	3/2	115	-2	3	4	115	342.0	G5	79	True	G	0	0	1.0	True	1	Basso Continuo	1	115	1.0	222	iv7	True	('C', 'E-', 'G', 'B-')	C	C	0	minor seventh chord	(0, 3, 7, 10)	g	g	4	None	iv7	True	1
 1368	4	342.0	342	1.0	1	115	-2	3	4	115	342.0	C3	48	True	C	0	0	1.0	True	1	Basso Continuo	1	115	1.0	222	iv7	True	('C', 'E-', 'G', 'B-')	C	C	0	minor seventh chord	(0, 3, 7, 10)	g	g	4	None	iv7	True	4
-1372	6	343.0	343	1.5	3/2	115	-2	3	4	115	343.0	A5	81	True	A	0	1/4	2.0	True	2	Basso Continuo	1	115	1.0	223	i54	True	('D', 'G', 'A')	D	G	2	quartal trichord	(2, 7, 9)	g	g	1	None	i	True	2
-1372	8	343.0	343	2.0	2	115	-2	3	4	115	343.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	115	1.0	223	i54	True	('D', 'G', 'A')	D	G	2	quartal trichord	(2, 7, 9)	g	g	1	None	i	True	5
-1374	2	343.5	687/2	0.5	1/2	115	-2	3	4	115	343.5	G5	79	True	G	0	3/8	2.5	False	0	Basso Continuo	1	115	1.0	223	i54	False	('D', 'G', 'A')	D	G	2	quartal trichord	(2, 7, 9)	g	g	1	None	i	True	1
+1372	6	343.0	343	1.5	3/2	115	-2	3	4	115	343.0	A5	81	True	A	0	1/4	2.0	True	2	Basso Continuo	1	115	1.0	223	i54	True	('G', 'C', 'D')	G	G	0	quartal trichord	(0, 2, 7)	g	g	1	None	i	True	2
+1372	8	343.0	343	2.0	2	115	-2	3	4	115	343.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	115	1.0	223	i54	True	('G', 'C', 'D')	G	G	0	quartal trichord	(0, 2, 7)	g	g	1	None	i	True	5
+1374	2	343.5	687/2	0.5	1/2	115	-2	3	4	115	343.5	G5	79	True	G	0	3/8	2.5	False	0	Basso Continuo	1	115	1.0	223	i54	False	('G', 'C', 'D')	G	G	0	quartal trichord	(0, 2, 7)	g	g	1	None	i	True	1
 1376	4	344.0	344	1.0	1	115	-2	3	4	115	344.0	F5	77	True	F	0	1/2	3.0	True	3	Basso Continuo	1	115	1.0	224	vi	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	F	F	6	None	vi	True	1
 1378	2	344.5	689/2	0.5	1/2	115	-2	3	4	115	344.5	A5	81	True	A	0	5/8	3.5	False	0	Basso Continuo	1	115	1.0	224	vi	False	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	F	F	6	None	vi	True	3
 1380	3	345.0	345	0.75	3/4	116	-2	3	4	116	345.0	A5	81	True	A	0	0	1.0	True	1	Basso Continuo	1	116	3.0	225	viio	True	('G', 'B-', 'E')	G	E	1	diminished triad	(4, 7, 10)	F	F	7	None	viio	True	3

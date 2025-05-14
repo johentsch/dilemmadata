@@ -384,10 +384,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 588	6	49.0	49	0.5	1/2	13	-1	4	4	13	49.0	G3	55	True	G	0	1/4	2.0	True	2	P1-Staff2	1	13	0.5	66	IV7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	d	d	4	None	IV7	True	4
 590	2	49.1667	295/6	0.1667	1/6	13	-1	4	4	13	49.167	D4	62	True	D	0	7/24	2.167	False	0	P1-Staff2	1	13	0.5	66	IV7	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	d	d	4	None	IV7	True	1
 592	2	49.3333	148/3	0.1667	1/6	13	-1	4	4	13	49.333	B4	71	True	B	0	1/3	2.333	False	0	P1-Staff2	1	13	0.5	66	IV7	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	d	d	4	None	IV7	True	#6
-594	2	49.5	99/2	0.1667	1/6	13	-1	4	4	13	49.5	F4	65	True	F	0	3/8	2.5	False	0	P1-Staff2	1	13	0.5	67	i4#3	True	('A', 'C#', 'D', 'F')	A	D	2	minor-augmented tetrachord	(1, 2, 5, 9)	d	d	1	None	none	False	3
-594	6	49.5	99/2	0.5	1/2	13	-1	4	4	13	49.5	A3	57	True	A	0	3/8	2.5	False	0	P1-Staff2	1	13	0.5	67	i4#3	True	('A', 'C#', 'D', 'F')	A	D	2	minor-augmented tetrachord	(1, 2, 5, 9)	d	d	1	None	none	False	5
-596	2	49.6667	149/3	0.1667	1/6	13	-1	4	4	13	49.667	D4	62	True	D	0	5/12	2.667	False	0	P1-Staff2	1	13	0.5	67	i4#3	False	('A', 'C#', 'D', 'F')	A	D	2	minor-augmented tetrachord	(1, 2, 5, 9)	d	d	1	None	none	False	1
-598	2	49.8333	299/6	0.1667	1/6	13	-1	4	4	13	49.833	C#5	73	True	C	1	11/24	2.833	False	0	P1-Staff2	1	13	0.5	67	i4#3	False	('A', 'C#', 'D', 'F')	A	D	2	minor-augmented tetrachord	(1, 2, 5, 9)	d	d	1	None	none	False	#7
+594	2	49.5	99/2	0.1667	1/6	13	-1	4	4	13	49.5	F4	65	True	F	0	3/8	2.5	False	0	P1-Staff2	1	13	0.5	67	i4#3	True	('A', 'C', 'D', 'F')	A	D	2	minor seventh chord	(0, 2, 5, 9)	d	d	1	None	none	False	3
+594	6	49.5	99/2	0.5	1/2	13	-1	4	4	13	49.5	A3	57	True	A	0	3/8	2.5	False	0	P1-Staff2	1	13	0.5	67	i4#3	True	('A', 'C', 'D', 'F')	A	D	2	minor seventh chord	(0, 2, 5, 9)	d	d	1	None	none	False	5
+596	2	49.6667	149/3	0.1667	1/6	13	-1	4	4	13	49.667	D4	62	True	D	0	5/12	2.667	False	0	P1-Staff2	1	13	0.5	67	i4#3	False	('A', 'C', 'D', 'F')	A	D	2	minor seventh chord	(0, 2, 5, 9)	d	d	1	None	none	False	1
+598	2	49.8333	299/6	0.1667	1/6	13	-1	4	4	13	49.833	C#5	73	True	C	1	11/24	2.833	False	0	P1-Staff2	1	13	0.5	67	i4#3	False	('A', 'C', 'D', 'F')	A	D	2	minor seventh chord	(0, 2, 5, 9)	d	d	1	None	none	False	#7
 600	2	50.0	50	0.1667	1/6	13	-1	4	4	13	50.0	F4	65	True	F	0	1/2	3.0	True	3	P1-Staff2	1	13	0.5	68	bVI	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	d	d	6	None	bVI	True	3
 600	6	50.0	50	0.5	1/2	13	-1	4	4	13	50.0	B-3	58	True	B	-1	1/2	3.0	True	3	P1-Staff2	1	13	0.5	68	bVI	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	d	d	6	None	bVI	True	6
 602	2	50.1667	301/6	0.1667	1/6	13	-1	4	4	13	50.167	D4	62	True	D	0	13/24	3.167	False	0	P1-Staff2	1	13	0.5	68	bVI	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	d	d	6	None	bVI	True	1
@@ -681,10 +681,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1032	18	86.0	86	1.5	3/2	22	-1	4	4	22	86.0	B2	47	True	B	0	1/2	3.0	True	3	P1-Staff2	6	22	0.5	94	viio7/v	True	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	a	#7	5	viio7	True	#6
 1034	2	86.1667	517/6	0.1667	1/6	22	-1	4	4	22	86.167	G#3	56	True	G	1	13/24	3.167	False	0	P1-Staff2	6	22	0.5	94	viio7/v	False	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	a	#7	5	viio7	True	#4
 1036	2	86.3333	259/3	0.1667	1/6	22	-1	4	4	22	86.333	D4	62	True	D	0	7/12	3.333	False	0	P1-Staff2	6	22	0.5	94	viio7/v	False	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	a	#7	5	viio7	True	1
-1038	2	86.5	173/2	0.1667	1/6	22	-1	4	4	22	86.5	C#4	61	True	C	1	5/8	3.5	False	0	P1-Staff2	6	22	0.5	95	vii7	True	('B', 'C#', 'E', 'G#')	B	C#	3	minor seventh chord	(1, 4, 8, 11)	d	d	#7	None	vii7	True	#7
-1038	6	86.5	173/2	0.5	1/2	22	-1	4	4	22	86.5	E3	52	True	E	0	5/8	3.5	False	0	P1-Staff2	6	22	0.5	95	vii7	True	('B', 'C#', 'E', 'G#')	B	C#	3	minor seventh chord	(1, 4, 8, 11)	d	d	#7	None	vii7	True	2
-1040	2	86.6667	260/3	0.1667	1/6	22	-1	4	4	22	86.667	G#3	56	True	G	1	2/3	3.667	False	0	P1-Staff2	6	22	0.5	95	vii7	False	('B', 'C#', 'E', 'G#')	B	C#	3	minor seventh chord	(1, 4, 8, 11)	d	d	#7	None	vii7	True	#4
-1042	2	86.8333	521/6	0.1667	1/6	22	-1	4	4	22	86.833	E4	64	True	E	0	17/24	3.833	False	0	P1-Staff2	6	22	0.5	95	vii7	False	('B', 'C#', 'E', 'G#')	B	C#	3	minor seventh chord	(1, 4, 8, 11)	d	d	#7	None	vii7	True	2
+1038	2	86.5	173/2	0.1667	1/6	22	-1	4	4	22	86.5	C#4	61	True	C	1	5/8	3.5	False	0	P1-Staff2	6	22	0.5	95	vii7	True	('B-', 'C#', 'E', 'G#')	B-	C#	3	enharmonic equivalent to half-diminished seventh chord	(1, 4, 8, 10)	d	d	#7	None	vii7	True	#7
+1038	6	86.5	173/2	0.5	1/2	22	-1	4	4	22	86.5	E3	52	True	E	0	5/8	3.5	False	0	P1-Staff2	6	22	0.5	95	vii7	True	('B-', 'C#', 'E', 'G#')	B-	C#	3	enharmonic equivalent to half-diminished seventh chord	(1, 4, 8, 10)	d	d	#7	None	vii7	True	2
+1040	2	86.6667	260/3	0.1667	1/6	22	-1	4	4	22	86.667	G#3	56	True	G	1	2/3	3.667	False	0	P1-Staff2	6	22	0.5	95	vii7	False	('B-', 'C#', 'E', 'G#')	B-	C#	3	enharmonic equivalent to half-diminished seventh chord	(1, 4, 8, 10)	d	d	#7	None	vii7	True	#4
+1042	2	86.8333	521/6	0.1667	1/6	22	-1	4	4	22	86.833	E4	64	True	E	0	17/24	3.833	False	0	P1-Staff2	6	22	0.5	95	vii7	False	('B-', 'C#', 'E', 'G#')	B-	C#	3	enharmonic equivalent to half-diminished seventh chord	(1, 4, 8, 10)	d	d	#7	None	vii7	True	2
 1044	2	87.0	87	0.1667	1/6	22	-1	4	4	22	87.0	D4	62	True	D	0	3/4	4.0	True	4	P1-Staff2	6	22	0.5	96	viio7/v	True	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	a	#7	5	viio7	True	1
 1044	6	87.0	87	0.5	1/2	22	-1	4	4	22	87.0	F3	53	True	F	0	3/4	4.0	True	4	P1-Staff2	6	22	0.5	96	viio7/v	True	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	a	#7	5	viio7	True	3
 1046	2	87.1667	523/6	0.1667	1/6	22	-1	4	4	22	87.167	G#3	56	True	G	1	19/24	4.167	False	0	P1-Staff2	6	22	0.5	96	viio7/v	False	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	a	#7	5	viio7	True	#4

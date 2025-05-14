@@ -485,8 +485,8 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 408	4	102.0	102	1.0	1	35	0	6	8	35	68.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	35	1.0	94	IV/IV	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	C	F	4	4	IV	True	2
 408	2	102.0	102	0.5	1/2	35	0	6	8	35	68.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	35	1.0	94	IV/IV	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	C	F	4	4	IV	True	b7
 410	2	102.5	205/2	0.5	1/2	35	0	6	8	35	68.333	A4	69	True	A	0	1/8	1.333	False	0	spine_0	1	35	1.0	94	IV/IV	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	C	F	4	4	IV	True	6
-412	2	103.0	103	0.5	1/2	35	0	6	8	35	68.667	F#5	78	True	F	1	1/4	1.667	False	0	spine_0	1	35	0.5	95	It/i	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	C	c	#4	1	It	True	#4
-412	2	103.0	103	0.5	1/2	35	0	6	8	35	68.667	A-4	68	True	A	-1	1/4	1.667	False	0	spine_0	1	35	0.5	95	It/i	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	C	c	#4	1	It	True	b6
+412	2	103.0	103	0.5	1/2	35	0	6	8	35	68.667	F#5	78	True	F	1	1/4	1.667	False	0	spine_0	1	35	0.5	95	It/i	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	C	c	#4	1	It	True	#4
+412	2	103.0	103	0.5	1/2	35	0	6	8	35	68.667	A-4	68	True	A	-1	1/4	1.667	False	0	spine_0	1	35	0.5	95	It/i	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	C	c	#4	1	It	True	b6
 414	2	103.5	207/2	0.5	1/2	35	0	6	8	35	69.0	G5	79	True	G	0	3/8	2.0	True	2	spine_0	1	35	1.0	96	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	5
 414	4	103.5	207/2	1.0	1	35	0	6	8	35	69.0	G4	67	True	G	0	3/8	2.0	True	2	spine_0	1	35	1.0	96	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	5
 416	2	104.0	104	0.5	1/2	35	0	6	8	35	69.333	F#5	78	True	F	1	1/2	2.333	False	0	spine_0	1	35	1.0	96	V	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	#4
@@ -495,8 +495,8 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 420	4	105.0	105	1.0	1	36	0	6	8	36	70.0	E5	76	True	E	0	0	1.0	True	1	spine_0	1	36	1.0	98	I	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	1	None	I	True	3
 420	2	105.0	105	0.5	1/2	36	0	6	8	36	70.0	C5	72	True	C	0	0	1.0	True	1	spine_0	1	36	1.0	98	I	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	1	None	I	True	1
 422	2	105.5	211/2	0.5	1/2	36	0	6	8	36	70.333	B4	71	True	B	0	1/8	1.333	False	0	spine_0	1	36	1.0	98	I	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	1	None	I	True	7
-424	2	106.0	106	0.5	1/2	36	0	6	8	36	70.667	G#5	80	True	G	1	1/4	1.667	False	0	spine_0	1	36	0.5	99	It/ii	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	C	d	#4	2	It	True	#5
-424	2	106.0	106	0.5	1/2	36	0	6	8	36	70.667	B-4	70	True	B	-1	1/4	1.667	False	0	spine_0	1	36	0.5	99	It/ii	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	C	d	#4	2	It	True	b7
+424	2	106.0	106	0.5	1/2	36	0	6	8	36	70.667	G#5	80	True	G	1	1/4	1.667	False	0	spine_0	1	36	0.5	99	It/ii	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	C	d	#4	2	It	True	#5
+424	2	106.0	106	0.5	1/2	36	0	6	8	36	70.667	B-4	70	True	B	-1	1/4	1.667	False	0	spine_0	1	36	0.5	99	It/ii	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	C	d	#4	2	It	True	b7
 426	2	106.5	213/2	0.5	1/2	36	0	6	8	36	71.0	A5	81	True	A	0	3/8	2.0	True	2	spine_0	1	36	1.0	100	V/ii	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	C	d	5	2	V	True	6
 426	4	106.5	213/2	1.0	1	36	0	6	8	36	71.0	A4	69	True	A	0	3/8	2.0	True	2	spine_0	1	36	1.0	100	V/ii	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	C	d	5	2	V	True	6
 428	2	107.0	107	0.5	1/2	36	0	6	8	36	71.333	G#5	80	True	G	1	1/2	2.333	False	0	spine_0	1	36	1.0	100	V/ii	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	C	d	5	2	V	True	#5
@@ -510,9 +510,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 432	2	108.0	108	0.5	1/2	37	0	6	8	37	72.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	37	1.0	102	VI/ii	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	C	d	6	2	VI	True	b7
 434	2	108.5	217/2	0.5	1/2	37	0	6	8	37	72.333	C#4	61	True	C	1	1/8	1.333	False	0	spine_0	1	37	1.0	102	VI/ii	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	C	d	6	2	VI	True	#1
 434	2	108.5	217/2	0.5	1/2	37	0	6	8	37	72.333	A3	57	True	A	0	1/8	1.333	False	0	spine_0	1	37	1.0	102	VI/ii	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	C	d	6	2	VI	True	6
-436	2	109.0	109	0.5	1/2	37	0	6	8	37	72.667	F#4	66	True	F	1	1/4	1.667	False	0	spine_0	1	37	0.5	103	It/i	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	C	c	#4	1	It	True	#4
-436	2	109.0	109	0.5	1/2	37	0	6	8	37	72.667	C4	60	True	C	0	1/4	1.667	False	0	spine_0	1	37	0.5	103	It/i	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	C	c	#4	1	It	True	1
-436	2	109.0	109	0.5	1/2	37	0	6	8	37	72.667	A-3	56	True	A	-1	1/4	1.667	False	0	spine_0	1	37	0.5	103	It/i	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	C	c	#4	1	It	True	b6
+436	2	109.0	109	0.5	1/2	37	0	6	8	37	72.667	F#4	66	True	F	1	1/4	1.667	False	0	spine_0	1	37	0.5	103	It/i	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	C	c	#4	1	It	True	#4
+436	2	109.0	109	0.5	1/2	37	0	6	8	37	72.667	C4	60	True	C	0	1/4	1.667	False	0	spine_0	1	37	0.5	103	It/i	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	C	c	#4	1	It	True	1
+436	2	109.0	109	0.5	1/2	37	0	6	8	37	72.667	A-3	56	True	A	-1	1/4	1.667	False	0	spine_0	1	37	0.5	103	It/i	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	C	c	#4	1	It	True	b6
 438	2	109.5	219/2	0.5	1/2	37	0	6	8	37	73.0	G4	67	True	G	0	3/8	2.0	True	2	spine_0	1	37	1.5	104	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	5
 438	4	109.5	219/2	1.0	1	37	0	6	8	37	73.0	B3	59	True	B	0	3/8	2.0	True	2	spine_0	1	37	1.5	104	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	7
 438	4	109.5	219/2	1.0	1	37	0	6	8	37	73.0	G3	55	True	G	0	3/8	2.0	True	2	spine_0	1	37	1.5	104	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	5
@@ -525,9 +525,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 444	2	111.0	111	0.5	1/2	38	0	6	8	38	74.0	C4	60	True	C	0	0	1.0	True	1	spine_0	1	38	0.5	105	I	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	1	None	I	True	1
 446	2	111.5	223/2	0.5	1/2	38	0	6	8	38	74.333	D#4	63	True	D	1	1/8	1.333	False	0	spine_0	1	38	0.5	106	V7/vi	True	('B', 'D', 'E', 'G#')	B	E	2	dominant seventh chord	(2, 4, 8, 11)	C	a	5	6	V7	True	#2
 446	2	111.5	223/2	0.5	1/2	38	0	6	8	38	74.333	B3	59	True	B	0	1/8	1.333	False	0	spine_0	1	38	0.5	106	V7/vi	True	('B', 'D', 'E', 'G#')	B	E	2	dominant seventh chord	(2, 4, 8, 11)	C	a	5	6	V7	True	7
-448	2	112.0	112	0.5	1/2	38	0	6	8	38	74.667	G#4	68	True	G	1	1/4	1.667	False	0	spine_0	1	38	0.5	107	It/ii	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	C	d	#4	2	It	True	#5
-448	2	112.0	112	0.5	1/2	38	0	6	8	38	74.667	D4	62	True	D	0	1/4	1.667	False	0	spine_0	1	38	0.5	107	It/ii	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	C	d	#4	2	It	True	2
-448	2	112.0	112	0.5	1/2	38	0	6	8	38	74.667	B-3	58	True	B	-1	1/4	1.667	False	0	spine_0	1	38	0.5	107	It/ii	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	C	d	#4	2	It	True	b7
+448	2	112.0	112	0.5	1/2	38	0	6	8	38	74.667	G#4	68	True	G	1	1/4	1.667	False	0	spine_0	1	38	0.5	107	It/ii	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	C	d	#4	2	It	True	#5
+448	2	112.0	112	0.5	1/2	38	0	6	8	38	74.667	D4	62	True	D	0	1/4	1.667	False	0	spine_0	1	38	0.5	107	It/ii	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	C	d	#4	2	It	True	2
+448	2	112.0	112	0.5	1/2	38	0	6	8	38	74.667	B-3	58	True	B	-1	1/4	1.667	False	0	spine_0	1	38	0.5	107	It/ii	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	C	d	#4	2	It	True	b7
 450	2	112.5	225/2	0.5	1/2	38	0	6	8	38	75.0	A4	69	True	A	0	3/8	2.0	True	2	spine_0	1	38	1.0	108	V/ii	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	C	d	5	2	V	True	6
 450	4	112.5	225/2	1.0	1	38	0	6	8	38	75.0	C#4	61	True	C	1	3/8	2.0	True	2	spine_0	1	38	1.0	108	V/ii	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	C	d	5	2	V	True	#1
 450	4	112.5	225/2	1.0	1	38	0	6	8	38	75.0	A3	57	True	A	0	3/8	2.0	True	2	spine_0	1	38	1.0	108	V/ii	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	C	d	5	2	V	True	6
@@ -1496,14 +1496,14 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1220	2	305.0	305	0.5	1/2	102	0	6	8	102	203.333	A4	69	True	A	0	1/2	2.333	False	0	spine_0	1	102	3.0	306	IV	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	F	F	4	None	IV	True	3
 1222	2	305.5	611/2	0.5	1/2	102	0	6	8	102	203.667	D6	86	True	D	0	5/8	2.667	False	0	spine_0	1	102	3.0	306	IV	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	F	F	4	None	IV	True	6
 1222	2	305.5	611/2	0.5	1/2	102	0	6	8	102	203.667	G4	67	True	G	0	5/8	2.667	False	0	spine_0	1	102	3.0	306	IV	False	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	F	F	4	None	IV	True	2
-1224	2	306.0	306	0.5	1/2	103	0	6	8	103	204.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	6
-1224	2	306.0	306	0.5	1/2	103	0	6	8	103	204.0	D5	74	False	D	0	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	6
-1224	6	306.0	306	1.5	3/2	103	0	6	8	103	204.0	G#4	68	True	G	1	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	#2
-1224	6	306.0	306	1.5	3/2	103	0	6	8	103	204.0	B-3	58	False	B	-1	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	4
-1226	2	306.5	613/2	0.5	1/2	103	0	6	8	103	204.333	E-5	75	True	E	-1	1/8	1.333	False	0	spine_0	1	103	1.5	307	It/vi	False	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	b7
-1226	2	306.5	613/2	0.5	1/2	103	0	6	8	103	204.333	D4	62	True	D	0	1/8	1.333	False	0	spine_0	1	103	1.5	307	It/vi	False	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	6
-1228	2	307.0	307	0.5	1/2	103	0	6	8	103	204.667	E5	76	True	E	0	1/4	1.667	False	0	spine_0	1	103	1.5	307	It/vi	False	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	7
-1228	2	307.0	307	0.5	1/2	103	0	6	8	103	204.667	D4	62	True	D	0	1/4	1.667	False	0	spine_0	1	103	1.5	307	It/vi	False	('G#', 'B-', 'D')	G#	G#	0	incomplete dominant-seventh chord	(2, 8, 10)	F	d	#4	6	It	True	6
+1224	2	306.0	306	0.5	1/2	103	0	6	8	103	204.0	D5	74	True	D	0	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	6
+1224	2	306.0	306	0.5	1/2	103	0	6	8	103	204.0	D5	74	False	D	0	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	6
+1224	6	306.0	306	1.5	3/2	103	0	6	8	103	204.0	G#4	68	True	G	1	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	#2
+1224	6	306.0	306	1.5	3/2	103	0	6	8	103	204.0	B-3	58	False	B	-1	0	1.0	True	1	spine_0	1	103	1.5	307	It/vi	True	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	4
+1226	2	306.5	613/2	0.5	1/2	103	0	6	8	103	204.333	E-5	75	True	E	-1	1/8	1.333	False	0	spine_0	1	103	1.5	307	It/vi	False	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	b7
+1226	2	306.5	613/2	0.5	1/2	103	0	6	8	103	204.333	D4	62	True	D	0	1/8	1.333	False	0	spine_0	1	103	1.5	307	It/vi	False	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	6
+1228	2	307.0	307	0.5	1/2	103	0	6	8	103	204.667	E5	76	True	E	0	1/4	1.667	False	0	spine_0	1	103	1.5	307	It/vi	False	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	7
+1228	2	307.0	307	0.5	1/2	103	0	6	8	103	204.667	D4	62	True	D	0	1/4	1.667	False	0	spine_0	1	103	1.5	307	It/vi	False	('B-', 'D', 'G#')	B-	G#	1	Italian augmented sixth chord	(2, 8, 10)	F	d	#4	6	It	True	6
 1230	2	307.5	615/2	0.5	1/2	103	0	6	8	103	205.0	F5	77	True	F	0	3/8	2.0	True	2	spine_0	1	103	1.5	308	vi	True	('A', 'D', 'F')	A	D	2	minor triad	(2, 5, 9)	F	F	6	None	vi	True	1
 1230	2	307.5	615/2	0.5	1/2	103	0	6	8	103	205.0	D5	74	True	D	0	3/8	2.0	True	2	spine_0	1	103	1.5	308	vi	True	('A', 'D', 'F')	A	D	2	minor triad	(2, 5, 9)	F	F	6	None	vi	True	6
 1230	2	307.5	615/2	0.5	1/2	103	0	6	8	103	205.0	A4	69	True	A	0	3/8	2.0	True	2	spine_0	1	103	1.5	308	vi	True	('A', 'D', 'F')	A	D	2	minor triad	(2, 5, 9)	F	F	6	None	vi	True	3
@@ -1559,14 +1559,14 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1270	2	317.5	635/2	0.5	1/2	106	0	6	8	106	211.667	D4	62	True	D	0	5/8	2.667	False	0	spine_0	1	106	0.5	316	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
 1270	2	317.5	635/2	0.5	1/2	106	0	6	8	106	211.667	B-3	58	True	B	-1	5/8	2.667	False	0	spine_0	1	106	0.5	316	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
 1270	2	317.5	635/2	0.5	1/2	106	0	6	8	106	211.667	G3	55	True	G	0	5/8	2.667	False	0	spine_0	1	106	0.5	316	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
-1272	12	318.0	318	3.0	3	107	0	6	8	107	212.0	C#4	61	True	C	1	0	1.0	True	1	spine_0	1	107	3.0	317	Ger7	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	#4
-1272	12	318.0	318	3.0	3	107	0	6	8	107	212.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	107	3.0	317	Ger7	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	3
-1272	12	318.0	318	3.0	3	107	0	6	8	107	212.0	E-3	51	True	E	-1	0	1.0	True	1	spine_0	1	107	3.0	317	Ger7	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	6
-1274	2	318.5	637/2	0.5	1/2	107	0	6	8	107	212.333	G5	79	True	G	0	1/8	1.333	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
-1276	2	319.0	319	0.5	1/2	107	0	6	8	107	212.667	G5	79	True	G	0	1/4	1.667	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
-1278	2	319.5	639/2	0.5	1/2	107	0	6	8	107	213.0	G4	67	True	G	0	3/8	2.0	True	2	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
-1280	2	320.0	320	0.5	1/2	107	0	6	8	107	213.333	A-4	68	True	A	-1	1/2	2.333	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	b2
-1282	2	320.5	641/2	0.5	1/2	107	0	6	8	107	213.667	A4	69	True	A	0	5/8	2.667	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	2
+1272	12	318.0	318	3.0	3	107	0	6	8	107	212.0	C#4	61	True	C	1	0	1.0	True	1	spine_0	1	107	3.0	317	Ger7	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	#4
+1272	12	318.0	318	3.0	3	107	0	6	8	107	212.0	B-3	58	True	B	-1	0	1.0	True	1	spine_0	1	107	3.0	317	Ger7	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	3
+1272	12	318.0	318	3.0	3	107	0	6	8	107	212.0	E-3	51	True	E	-1	0	1.0	True	1	spine_0	1	107	3.0	317	Ger7	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	6
+1274	2	318.5	637/2	0.5	1/2	107	0	6	8	107	212.333	G5	79	True	G	0	1/8	1.333	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
+1276	2	319.0	319	0.5	1/2	107	0	6	8	107	212.667	G5	79	True	G	0	1/4	1.667	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
+1278	2	319.5	639/2	0.5	1/2	107	0	6	8	107	213.0	G4	67	True	G	0	3/8	2.0	True	2	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	1
+1280	2	320.0	320	0.5	1/2	107	0	6	8	107	213.333	A-4	68	True	A	-1	1/2	2.333	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	b2
+1282	2	320.5	641/2	0.5	1/2	107	0	6	8	107	213.667	A4	69	True	A	0	5/8	2.667	False	0	spine_0	1	107	3.0	317	Ger7	False	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	g	g	#4	None	Ger7	True	2
 1284	2	321.0	321	0.5	1/2	108	0	6	8	108	214.0	B-4	70	True	B	-1	0	1.0	True	1	spine_0	1	108	3.0	318	i	True	('D', 'G', 'B-')	D	G	2	minor triad	(2, 7, 10)	g	g	1	None	i	True	3
 1284	12	321.0	321	3.0	3	108	0	6	8	108	214.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	108	3.0	318	i	True	('D', 'G', 'B-')	D	G	2	minor triad	(2, 7, 10)	g	g	1	None	i	True	5
 1284	12	321.0	321	3.0	3	108	0	6	8	108	214.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	108	3.0	318	i	True	('D', 'G', 'B-')	D	G	2	minor triad	(2, 7, 10)	g	g	1	None	i	True	1

@@ -404,13 +404,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 398	2	49.75	199/4	0.25	1/4	25	3	2	4	25	49.75	G#5	80	True	G	1	3/8	2.5	False	0	P2-Staff2	7	25	2.0	33	iv	False	('D', 'F#', 'B')	D	B	1	minor triad	(2, 6, 11)	f#	f#	4	None	iv	True	2
 400	2	50.0	50	0.25	1/4	25	3	2	4	25	50.0	F#5	78	True	F	1	7/16	2.75	False	0	P2-Staff2	7	25	2.0	33	iv	False	('D', 'F#', 'B')	D	B	1	minor triad	(2, 6, 11)	f#	f#	4	None	iv	True	1
 400	2	50.0	50	0.25	1/4	25	3	2	4	25	50.0	B2	47	True	B	0	7/16	2.75	False	0	P2-Staff2	7	25	2.0	33	iv	False	('D', 'F#', 'B')	D	B	1	minor triad	(2, 6, 11)	f#	f#	4	None	iv	True	4
-402	16	50.25	201/4	2.0	2	26	3	2	4	26	50.25	E#5	77	True	E	1	0	1.0	True	1	P2-Staff2	6	26	2.0	34	V7	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	#7
-402	2	50.25	201/4	0.25	1/4	26	3	2	4	26	50.25	C#3	49	True	C	1	0	1.0	True	1	P2-Staff2	6	26	2.0	34	V7	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
-402	16	50.25	201/4	2.0	2	26	3	2	4	26	50.25	C#3	49	True	C	1	0	1.0	True	1	P2-Staff2	6	26	2.0	34	V7	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
-404	2	50.5	101/2	0.25	1/4	26	3	2	4	26	50.5	G#3	56	True	G	1	1/16	1.25	False	0	P2-Staff2	6	26	2.0	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	2
-406	2	50.75	203/4	0.25	1/4	26	3	2	4	26	50.75	C#4	61	True	C	1	1/8	1.5	False	0	P2-Staff2	6	26	2.0	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
-406	4	50.75	203/4	0.5	1/2	26	3	2	4	26	50.75	C#4	61	True	C	1	1/8	1.5	False	0	P2-Staff2	6	26	2.0	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
-408	2	51.0	51	0.25	1/4	26	3	2	4	26	51.0	E#4	65	True	E	1	3/16	1.75	False	0	P2-Staff2	6	26	2.0	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	#7
-410	8	51.25	205/4	1.0	1	26	3	2	4	26	51.25	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	6	26	2.0	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	4
-410	8	51.25	205/4	1.0	1	26	3	2	4	26	51.25	E#4	65	False	E	1	1/4	2.0	True	2	P2-Staff2	6	26	2.0	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	#7
-410	8	51.25	205/4	1.0	1	26	3	2	4	26	51.25	C#4	61	False	C	1	1/4	2.0	True	2	P2-Staff2	6	26	2.0	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
+402	16	50.25	201/4	2.0	2	26	3	2	4	26	50.25	E#5	77	True	E	1	0	1.0	True	1	P2-Staff2	6	26	1.75	34	V7	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	#7
+402	2	50.25	201/4	0.25	1/4	26	3	2	4	26	50.25	C#3	49	True	C	1	0	1.0	True	1	P2-Staff2	6	26	1.75	34	V7	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
+402	16	50.25	201/4	2.0	2	26	3	2	4	26	50.25	C#3	49	True	C	1	0	1.0	True	1	P2-Staff2	6	26	1.75	34	V7	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
+404	2	50.5	101/2	0.25	1/4	26	3	2	4	26	50.5	G#3	56	True	G	1	1/16	1.25	False	0	P2-Staff2	6	26	1.75	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	2
+406	2	50.75	203/4	0.25	1/4	26	3	2	4	26	50.75	C#4	61	True	C	1	1/8	1.5	False	0	P2-Staff2	6	26	1.75	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
+406	4	50.75	203/4	0.5	1/2	26	3	2	4	26	50.75	C#4	61	True	C	1	1/8	1.5	False	0	P2-Staff2	6	26	1.75	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5
+408	2	51.0	51	0.25	1/4	26	3	2	4	26	51.0	E#4	65	True	E	1	3/16	1.75	False	0	P2-Staff2	6	26	1.75	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	#7
+410	8	51.25	205/4	1.0	1	26	3	2	4	26	51.25	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	6	26	1.75	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	4
+410	8	51.25	205/4	1.0	1	26	3	2	4	26	51.25	E#4	65	False	E	1	1/4	2.0	True	2	P2-Staff2	6	26	1.75	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	#7
+410	8	51.25	205/4	1.0	1	26	3	2	4	26	51.25	C#4	61	False	C	1	1/4	2.0	True	2	P2-Staff2	6	26	1.75	34	V7	False	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	f#	f#	5	None	V7	True	5

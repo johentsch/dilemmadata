@@ -335,8 +335,8 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 892.0	224	0	4.0	333	I	I	True	('D#', 'F##', 'A#')	D#	D#	0	major triad	(3, 7, 10)	D#	D#	c#	D#	1	None	I	True
 896.0	225	0	4.0	334	V4/3	V7	True	('E#', 'G#', 'A#', 'C##')	E#	A#	2	dominant seventh chord	(2, 5, 8, 10)	D#	D#	c#	D#	5	None	V7	True
 900.0	226	0	4.0	335	V4/3	V7	True	('E#', 'G#', 'A#', 'C##')	E#	A#	2	dominant seventh chord	(2, 5, 8, 10)	D#	D#	c#	D#	5	None	V7	True
-904.0	227	0	4.0	336	vii6/5/ii	vii7/ii	True	('F##', 'A##', 'C##', 'D##')	F##	D##	1	minor seventh chord	(2, 4, 7, 11)	D#	D#	c#	e#	#7	2	vii7	True
-908.0	228	0	4.0	337	vii6/5/ii	vii7/ii	True	('F##', 'A##', 'C##', 'D##')	F##	D##	1	minor seventh chord	(2, 4, 7, 11)	D#	D#	c#	e#	#7	2	vii7	True
+904.0	227	0	4.0	336	vii6/5/ii	vii7/ii	True	('F##', 'A##', 'C#', 'D##')	F##	D##	1	enharmonic equivalent to half-diminished seventh chord	(1, 4, 7, 11)	D#	D#	c#	e#	#7	2	vii7	True
+908.0	228	0	4.0	337	vii6/5/ii	vii7/ii	True	('F##', 'A##', 'C#', 'D##')	F##	D##	1	enharmonic equivalent to half-diminished seventh chord	(1, 4, 7, 11)	D#	D#	c#	e#	#7	2	vii7	True
 912.0	229	0	4.0	338	viio6/5/V	viio7/V	True	('B#', 'D#', 'F#', 'G##')	B#	G##	1	diminished seventh chord	(0, 3, 6, 9)	D#	D#	c#	A#	7	5	viio7	True
 916.0	230	0	4.0	339	viio4/3/V	viio7/V	True	('D#', 'F#', 'G##', 'B#')	D#	G##	2	diminished seventh chord	(0, 3, 6, 9)	D#	D#	c#	A#	7	5	viio7	True
 920.0	231	0	2.0	340	iio6	iio	True	('G#', 'B', 'E#')	G#	E#	1	diminished triad	(5, 8, 11)	D#	D#	c#	D#	2	None	iio	True
@@ -487,7 +487,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 1276.0	320	0	4.0	485	i	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	C#	C#	c#	C#	1	None	i	True
 1280.0	321	0	4.0	486	i	i	True	('C#', 'E', 'G#')	C#	C#	0	minor triad	(1, 4, 8)	C#	C#	c#	C#	1	None	i	True
 1284.0	322	0	4.0	487	VII	VII	True	('B#', 'D##', 'F##')	B#	B#	0	major triad	(0, 4, 7)	C#	C#	c#	C#	7	None	VII	True
-1288.0	323	0	4.0	488	iv6/5	iv7	True	('A', 'C#', 'E#', 'F#')	A	F#	1	minor-augmented tetrachord	(1, 5, 6, 9)	C#	C#	c#	C#	4	None	iv7	True
+1288.0	323	0	4.0	488	iv6/5	iv7	True	('A', 'C#', 'E', 'F#')	A	F#	1	minor seventh chord	(1, 4, 6, 9)	C#	C#	c#	C#	4	None	iv7	True
 1292.0	324	0	4.0	489	III6	III	True	('G##', 'B#', 'E#')	G##	E#	1	major triad	(0, 5, 9)	C#	C#	c#	C#	3	None	III	True
 1296.0	325	0	4.0	490	iv	iv	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	C#	C#	c#	C#	4	None	iv	True
 1300.0	326	0	2.0	491	III	III	True	('E#', 'G##', 'B#')	E#	E#	0	major triad	(0, 5, 9)	C#	C#	c#	C#	3	None	III	True

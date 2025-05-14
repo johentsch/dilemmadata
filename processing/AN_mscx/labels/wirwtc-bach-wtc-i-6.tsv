@@ -66,7 +66,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 47.5	12	7/8	0.5	64	viio63	viio3	True	('E', 'G', 'C#')	E	C#	1	diminished triad	(1, 4, 7)	d	d	d	d	#7	None	viio	True
 48.0	13	0	1.0	65	i	i	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	d	d	d	d	1	None	i	True
 49.0	13	1/4	0.5	66	IV7	IV7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	d	d	d	d	4	None	IV7	True
-49.5	13	3/8	0.5	67	i4#3	i4#3	True	('A', 'C#', 'D', 'F')	A	D	2	minor-augmented tetrachord	(1, 2, 5, 9)	d	d	d	d	1	None	none	False
+49.5	13	3/8	0.5	67	i4#3	i4#3	True	('A', 'C', 'D', 'F')	A	D	2	minor seventh chord	(0, 2, 5, 9)	d	d	d	d	1	None	none	False
 50.0	13	1/2	0.5	68	bVI	bVI	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	d	d	d	d	6	None	bVI	True
 50.5	13	5/8	0.5	69	i6	i	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	d	d	d	d	1	None	i	True
 51.0	13	3/4	0.5	70	iv7	iv7	True	('G', 'B-', 'D', 'F')	G	G	0	minor seventh chord	(2, 5, 7, 10)	d	d	d	d	4	None	iv7	True
@@ -94,7 +94,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 83.5	21	7/8	0.5	92	i64	i	True	('A', 'D', 'F')	A	D	2	minor triad	(2, 5, 9)	d	d	d	d	1	None	i	True
 84.0	22	0	2.0	93	viio42	viio7	True	('B-', 'C#', 'E', 'G')	B-	C#	3	diminished seventh chord	(1, 4, 7, 10)	d	d	d	d	#7	None	viio7	True
 86.0	22	1/2	0.5	94	viio65/v	viio7/v	True	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	d	d	a	#7	5	viio7	True
-86.5	22	5/8	0.5	95	vii42	vii7	True	('B', 'C#', 'E', 'G#')	B	C#	3	minor seventh chord	(1, 4, 8, 11)	d	d	d	d	#7	None	vii7	True
+86.5	22	5/8	0.5	95	vii42	vii7	True	('B-', 'C#', 'E', 'G#')	B-	C#	3	enharmonic equivalent to half-diminished seventh chord	(1, 4, 8, 10)	d	d	d	d	#7	None	vii7	True
 87.0	22	3/4	0.5	96	viio65/v	viio7/v	True	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	d	d	d	a	#7	5	viio7	True
 87.5	22	7/8	0.5	97	iv65	iv7	True	('B-', 'D', 'F', 'G')	B-	G	1	minor seventh chord	(2, 5, 7, 10)	d	d	d	d	4	None	iv7	True
 88.0	23	0	2.0	98	V7	V7	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	d	d	d	d	5	None	V7	True

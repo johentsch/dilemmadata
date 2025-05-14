@@ -69,7 +69,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 77.0	39	1/4	1.0	67	#vo7	#vo7	True	('G#', 'B', 'D', 'F')	G#	G#	0	diminished seventh chord	(2, 5, 8, 11)	c	c	Bb	c	#5	None	#vo7	True
 78.0	40	0	1.0	68	ii64	ii	True	('A', 'D', 'F')	A	D	2	minor triad	(2, 5, 9)	c	c	Bb	c	2	None	ii	True
 79.0	40	1/4	1.0	69	ii64	ii	True	('A', 'D', 'F')	A	D	2	minor triad	(2, 5, 9)	c	c	Bb	c	2	None	ii	True
-80.0	41	0	1.0	70	bIV7	bIV7	True	('F-', 'A-', 'C-', 'E--')	F-	F-	0	dominant seventh chord	(2, 4, 8, 11)	c	c	Bb	c	-4	None	bIV7	True
+80.0	41	0	1.0	70	bIV7	bIV7	True	('F-', 'A-', 'C-', 'E-')	F-	F-	0	major seventh chord	(3, 4, 8, 11)	c	c	Bb	c	-4	None	bIV7	True
 81.0	41	1/4	1.0	71	bVI7	bVI7	True	('A-', 'C', 'E-', 'G')	A-	A-	0	major seventh chord	(0, 3, 7, 8)	c	c	Bb	c	6	None	bVI7	True
 82.0	42	0	2.0	72	viio7	viio7	True	('A', 'C', 'E-', 'G-')	A	A	0	diminished seventh chord	(0, 3, 6, 9)	b-	bb	Bb	b-	#7	None	viio7	True
 84.0	43	0	1.0	73	i	i	True	('B-', 'D-', 'F')	B-	B-	0	minor triad	(1, 5, 10)	b-	bb	Bb	b-	1	None	i	True
@@ -299,7 +299,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 277.0	171	0	1.5	297	IV6	IV	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	B-	Bb	Bb	B-	4	None	IV	True
 278.5	172	0	1.5	298	V2/bIII	V7/NI	True	('G-', 'A-', 'C', 'E-')	G-	A-	3	dominant seventh chord	(0, 3, 6, 8)	B-	Bb	Bb	D-	5	-3	V7	True
 280.0	173	0	1.5	299	bIII6	NI	True	('F', 'A-', 'D-')	F	D-	1	major triad	(1, 5, 8)	B-	Bb	Bb	B-	-3	None	N	True
-281.5	174	0	1.5	300	bVI2	bVI7	True	('F-', 'G-', 'B-', 'D-')	F-	G-	3	dominant seventh chord	(1, 4, 6, 10)	B-	Bb	Bb	B-	-6	None	bVI7	True
+281.5	174	0	1.5	300	bVI2	bVI7	True	('F', 'G-', 'B-', 'D-')	F	G-	3	major seventh chord	(1, 5, 6, 10)	B-	Bb	Bb	B-	-6	None	bVI7	True
 283.0	175	0	1.5	301	bII6	N	True	('E-', 'G-', 'C-')	E-	C-	1	major triad	(3, 6, 11)	B-	Bb	Bb	B-	-2	None	N	True
 284.5	176	0	1.5	302	V2	V7	True	('E-', 'F', 'A', 'C')	E-	F	3	dominant seventh chord	(0, 3, 5, 9)	B-	Bb	Bb	B-	5	None	V7	True
 286.0	177	0	1.0	303	i6	i	True	('D-', 'F', 'B-')	D-	B-	1	minor triad	(1, 5, 10)	B-	Bb	Bb	B-	1	None	i	True

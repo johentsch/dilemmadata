@@ -12,7 +12,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 21.0	8	0	3.0	10	iiø43	iiø7	True	('A-', 'C', 'D', 'F')	A-	D	2	half-diminished seventh chord	(0, 2, 5, 8)	C	C	C	C	2	None	ii%7	True
 24.0	9	0	3.0	11	viio2	viio7	True	('A-', 'B', 'D', 'F')	A-	B	3	diminished seventh chord	(2, 5, 8, 11)	C	C	C	C	7	None	viio7	True
 27.0	10	0	3.0	12	viio2	viio7	True	('A-', 'B', 'D', 'F')	A-	B	3	diminished seventh chord	(2, 5, 8, 11)	C	C	C	C	7	None	viio7	True
-30.0	11	0	3.0	13	bVII2	bVII7	True	('A-', 'B-', 'D', 'F')	A-	B-	3	dominant seventh chord	(2, 5, 8, 10)	C	C	C	C	-7	None	bVII7	True
+30.0	11	0	3.0	13	bVII2	bVII7	True	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	C	C	C	C	-7	None	bVII7	True
 33.0	12	0	2.0	14	bIII6	NI	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	C	C	C	C	-3	None	N	True
 35.0	12	1/2	1.0	15	bIII6	NI	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	C	C	C	C	-3	None	N	True
 36.0	13	0	2.0	16	bIII6	NI	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	C	C	C	C	-3	None	N	True
@@ -342,12 +342,12 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 620.0	163	1/4	3.0	340	i	i	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	C	c	1	None	i	True
 623.0	164	0	1.0	341	viio43/V	viio7/V	True	('C', 'E-', 'F#', 'A')	C	F#	2	diminished seventh chord	(0, 3, 6, 9)	c	c	C	G	7	5	viio7	True
 624.0	164	1/4	2.0	342	Ger65	Ger7	True	('A-', 'C', 'E-', 'F#')	A-	F#	1	German augmented sixth chord	(0, 3, 6, 8)	c	c	C	c	#4	None	Ger7	True
-626.0	164	3/4	1.0	343	Fr65	Fr7	True	('F#', 'A-', 'C', 'D')	F#	D	1	Messiaen's truncated mode 6	(0, 2, 6, 8)	c	c	C	c	2	None	Fr7	True
+626.0	164	3/4	1.0	343	Fr65	Fr7	True	('F#', 'A-', 'C', 'D')	F#	D	1	French augmented sixth chord in first inversion	(0, 2, 6, 8)	c	c	C	c	2	None	Fr7	True
 627.0	165	0	2.0	344	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
 629.0	165	1/2	2.0	345	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
-631.0	166	0	4.0	346	Fr65	Fr7	True	('F#', 'A-', 'C', 'D')	F#	D	1	Messiaen's truncated mode 6	(0, 2, 6, 8)	c	c	C	c	2	None	Fr7	True
+631.0	166	0	4.0	346	Fr65	Fr7	True	('F#', 'A-', 'C', 'D')	F#	D	1	French augmented sixth chord in first inversion	(0, 2, 6, 8)	c	c	C	c	2	None	Fr7	True
 635.0	167	0	2.0	347	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
-637.0	167	1/2	2.0	348	Fr65	Fr7	True	('F#', 'A-', 'C', 'D')	F#	D	1	Messiaen's truncated mode 6	(0, 2, 6, 8)	c	c	C	c	2	None	Fr7	True
+637.0	167	1/2	2.0	348	Fr65	Fr7	True	('F#', 'A-', 'C', 'D')	F#	D	1	French augmented sixth chord in first inversion	(0, 2, 6, 8)	c	c	C	c	2	None	Fr7	True
 639.0	168	0	4.0	349	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
 643.0	169	0	2.0	350	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
 645.0	169	1/2	2.0	351	V6	V	True	('B', 'D', 'G')	B	G	1	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
@@ -488,7 +488,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 917.0	237	1/2	1.0	486	I6	I	True	('E', 'G', 'C')	E	C	1	major triad	(0, 4, 7)	c	c	C	c	1	None	I	True
 918.0	237	3/4	1.0	487	III65	III7	True	('G', 'B-', 'D', 'E-')	G	E-	1	major seventh chord	(2, 3, 7, 10)	c	c	C	c	3	None	III7	True
 919.0	238	0	1.0	488	vi	vi	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	c	c	C	c	#6	None	vi	True
-920.0	238	1/4	1.0	489	#vii43	#vii7	True	('F#', 'A', 'B', 'D')	F#	B	2	minor seventh chord	(2, 6, 9, 11)	c	c	C	c	#7	None	#vii7	True
+920.0	238	1/4	1.0	489	#vii43	#vii7	True	('F#', 'A-', 'B', 'D')	F#	B	2	enharmonic equivalent to half-diminished seventh chord	(2, 6, 8, 11)	c	c	C	c	#7	None	#vii7	True
 921.0	238	1/2	1.0	490	ii6	ii	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	c	c	C	c	2	None	ii	True
 922.0	238	3/4	0.5	491	viio6/ii	viio/ii	True	('E', 'G', 'C#')	E	C#	1	diminished triad	(1, 4, 7)	c	c	C	d	#7	2	viio	True
 922.5	238	7/8	0.5	492	ii	ii	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	c	c	C	c	2	None	ii	True

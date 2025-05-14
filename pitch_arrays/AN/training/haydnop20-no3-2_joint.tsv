@@ -731,11 +731,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 490	1	245.0	245	0.5	1/2	82	-3	3	4	82	245.0	B3	59	True	B	0	1/4	2.0	True	2	spine_0	1	82	2.0	143	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	#4
 490	2	245.0	245	1.0	1	82	-3	3	4	82	245.0	F#4	66	True	F	1	1/4	2.0	True	2	spine_0	1	82	2.0	143	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	#1
 491	1	245.5	491/2	0.5	1/2	82	-3	3	4	82	245.5	C4	60	True	C	0	3/8	2.5	False	0	spine_0	1	82	2.0	143	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
-492	1	246.0	246	0.5	1/2	82	-3	3	4	82	246.0	A-3	56	True	A	-1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	3
-492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	F#4	66	True	F	1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	#1
-492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	5
-492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	A-2	44	True	A	-1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	3
-493	1	246.5	493/2	0.5	1/2	82	-3	3	4	82	246.5	F#4	66	True	F	1	5/8	3.5	False	0	spine_0	1	82	1.0	144	It/v	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	f	c	#4	5	It	True	#1
+492	1	246.0	246	0.5	1/2	82	-3	3	4	82	246.0	A-3	56	True	A	-1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	f	c	#4	5	It	True	3
+492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	F#4	66	True	F	1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	f	c	#4	5	It	True	#1
+492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	f	c	#4	5	It	True	5
+492	2	246.0	246	1.0	1	82	-3	3	4	82	246.0	A-2	44	True	A	-1	1/2	3.0	True	3	spine_0	1	82	1.0	144	It/v	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	f	c	#4	5	It	True	3
+493	1	246.5	493/2	0.5	1/2	82	-3	3	4	82	246.5	F#4	66	True	F	1	5/8	3.5	False	0	spine_0	1	82	1.0	144	It/v	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	f	c	#4	5	It	True	#1
 494	1	247.0	247	0.5	1/2	83	-3	3	4	83	247.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	83	2.0	145	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
 494	2	247.0	247	1.0	1	83	-3	3	4	83	247.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	83	2.0	145	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
 494	2	247.0	247	1.0	1	83	-3	3	4	83	247.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	83	2.0	145	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#4
@@ -780,7 +780,7 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 516	2	258.0	258	1.0	1	86	-3	3	4	86	258.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	86	1.0	152	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	7
 516	2	258.0	258	1.0	1	86	-3	3	4	86	258.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	86	1.0	152	v	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
 517	1	258.5	517/2	0.5	1/2	86	-3	3	4	86	258.5	C4	60	True	C	0	5/8	3.5	False	0	spine_0	1	86	1.0	152	v	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	f	f	5	None	v	True	5
-518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
-518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#6
-518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#4
-518	2	259.0	259	6.0	1	87	-3	3	4	87	259.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	87	3.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	G3	55	True	G	0	0	1.0	True	1	spine_0	1	87	2.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2
+518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	D4	62	True	D	0	0	1.0	True	1	spine_0	1	87	2.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#6
+518	2	259.0	259	1.0	1	87	-3	3	4	87	259.0	B3	59	True	B	0	0	1.0	True	1	spine_0	1	87	2.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	#4
+518	2	259.0	259	6.0	1	87	-3	3	4	87	259.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	87	2.0	153	V/v	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	f	c	5	5	V	True	2

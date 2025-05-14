@@ -400,12 +400,12 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 250	1	62.5	125/2	0.25	1/4	16	3	4	4	16	62.5	C#4	61	True	C	1	5/8	3.5	False	0	P1-Staff2	6	16	1.0	62	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	3
 251	1	62.75	251/4	0.25	1/4	16	3	4	4	16	62.75	G#4	68	True	G	1	11/16	3.75	False	0	P1-Staff2	6	16	1.0	62	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	7
 251	1	62.75	251/4	0.25	1/4	16	3	4	4	16	62.75	A3	57	True	A	0	11/16	3.75	False	0	P1-Staff2	6	16	1.0	62	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	1
-252	1	63.0	63	0.25	1/4	16	3	4	4	16	63.0	F#4	66	True	F	1	3/4	4.0	True	4	P1-Staff2	6	16	1.0	63	IV77	True	('F#', 'C#', 'D', 'E')	F#	D	1	phrygian tetrachord	(1, 2, 4, 6)	A	A	4	None	none	False	6
-252	2	63.0	63	0.5	1/2	16	3	4	4	16	63.0	D4	62	True	D	0	3/4	4.0	True	4	P1-Staff2	6	16	1.0	63	IV77	True	('F#', 'C#', 'D', 'E')	F#	D	1	phrygian tetrachord	(1, 2, 4, 6)	A	A	4	None	none	False	4
-253	1	63.25	253/4	0.25	1/4	16	3	4	4	16	63.25	E5	76	True	E	0	13/16	4.25	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('F#', 'C#', 'D', 'E')	F#	D	1	phrygian tetrachord	(1, 2, 4, 6)	A	A	4	None	none	False	5
-254	1	63.5	127/2	0.25	1/4	16	3	4	4	16	63.5	D5	74	True	D	0	7/8	4.5	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('F#', 'C#', 'D', 'E')	F#	D	1	phrygian tetrachord	(1, 2, 4, 6)	A	A	4	None	none	False	4
-254	2	63.5	127/2	0.5	1/2	16	3	4	4	16	63.5	F#3	54	True	F	1	7/8	4.5	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('F#', 'C#', 'D', 'E')	F#	D	1	phrygian tetrachord	(1, 2, 4, 6)	A	A	4	None	none	False	6
-255	1	63.75	255/4	0.25	1/4	16	3	4	4	16	63.75	C#5	73	True	C	1	15/16	4.75	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('F#', 'C#', 'D', 'E')	F#	D	1	phrygian tetrachord	(1, 2, 4, 6)	A	A	4	None	none	False	3
+252	1	63.0	63	0.25	1/4	16	3	4	4	16	63.0	F#4	66	True	F	1	3/4	4.0	True	4	P1-Staff2	6	16	1.0	63	IV77	True	('D', 'A', 'B', 'C#')	D	D	0	lydian tetrachord	(1, 2, 9, 11)	A	A	4	None	none	False	6
+252	2	63.0	63	0.5	1/2	16	3	4	4	16	63.0	D4	62	True	D	0	3/4	4.0	True	4	P1-Staff2	6	16	1.0	63	IV77	True	('D', 'A', 'B', 'C#')	D	D	0	lydian tetrachord	(1, 2, 9, 11)	A	A	4	None	none	False	4
+253	1	63.25	253/4	0.25	1/4	16	3	4	4	16	63.25	E5	76	True	E	0	13/16	4.25	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('D', 'A', 'B', 'C#')	D	D	0	lydian tetrachord	(1, 2, 9, 11)	A	A	4	None	none	False	5
+254	1	63.5	127/2	0.25	1/4	16	3	4	4	16	63.5	D5	74	True	D	0	7/8	4.5	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('D', 'A', 'B', 'C#')	D	D	0	lydian tetrachord	(1, 2, 9, 11)	A	A	4	None	none	False	4
+254	2	63.5	127/2	0.5	1/2	16	3	4	4	16	63.5	F#3	54	True	F	1	7/8	4.5	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('D', 'A', 'B', 'C#')	D	D	0	lydian tetrachord	(1, 2, 9, 11)	A	A	4	None	none	False	6
+255	1	63.75	255/4	0.25	1/4	16	3	4	4	16	63.75	C#5	73	True	C	1	15/16	4.75	False	0	P1-Staff2	6	16	1.0	63	IV77	False	('D', 'A', 'B', 'C#')	D	D	0	lydian tetrachord	(1, 2, 9, 11)	A	A	4	None	none	False	3
 256	1	64.0	64	0.25	1/4	17	3	4	4	17	64.0	B4	71	True	B	0	0	1.0	True	1	P1-Staff2	6	17	1.0	64	viiø7	True	('G#', 'B', 'D', 'F#')	G#	G#	0	half-diminished seventh chord	(2, 6, 8, 11)	A	A	7	None	vii%7	True	2
 256	1	64.0	64	0.25	1/4	17	3	4	4	17	64.0	G#3	56	True	G	1	0	1.0	True	1	P1-Staff2	6	17	1.0	64	viiø7	True	('G#', 'B', 'D', 'F#')	G#	G#	0	half-diminished seventh chord	(2, 6, 8, 11)	A	A	7	None	vii%7	True	7
 257	1	64.25	257/4	0.25	1/4	17	3	4	4	17	64.25	A4	69	True	A	0	1/16	1.25	False	0	P1-Staff2	6	17	1.0	64	viiø7	False	('G#', 'B', 'D', 'F#')	G#	G#	0	half-diminished seventh chord	(2, 6, 8, 11)	A	A	7	None	vii%7	True	1

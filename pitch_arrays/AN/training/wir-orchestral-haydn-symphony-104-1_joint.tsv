@@ -2399,13 +2399,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 5912	8	739.0	739	1.0	1	185	2	2	2	185	369.5	A5	81	True	A	0	3/4	2.5	False	0	P1-Staff2	1	185	4.0	285	V	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	D	D	5	None	V	True	5
 5912	4	739.0	739	0.5	1/2	185	2	2	2	185	369.5	A2	45	True	A	0	3/4	2.5	False	0	P1-Staff2	6	185	4.0	285	V	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	D	D	5	None	V	True	5
 5916	4	739.5	1479/2	0.5	1/2	185	2	2	2	185	369.75	A3	57	True	A	0	7/8	2.75	False	0	P1-Staff2	6	185	4.0	285	V	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	D	D	5	None	V	True	5
-5920	16	740.0	740	2.0	2	186	2	2	2	186	370.0	D5	74	True	D	0	0	1.0	True	1	P1-Staff2	1	186	2.0	286	bVI7	True	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	D	D	-6	None	bVI7	True	1
-5920	16	740.0	740	2.0	2	186	2	2	2	186	370.0	F5	77	True	F	0	0	1.0	True	1	P1-Staff2	1	186	2.0	286	bVI7	True	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	D	D	-6	None	bVI7	True	b3
-5920	16	740.0	740	2.0	2	186	2	2	2	186	370.0	B-5	82	True	B	-1	0	1.0	True	1	P1-Staff2	1	186	2.0	286	bVI7	True	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	D	D	-6	None	bVI7	True	b6
-5920	4	740.0	740	0.5	1/2	186	2	2	2	186	370.0	A2	45	True	A	0	0	1.0	True	1	P1-Staff2	6	186	2.0	286	bVI7	True	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	D	D	-6	None	bVI7	True	5
-5924	4	740.5	1481/2	0.5	1/2	186	2	2	2	186	370.25	A3	57	True	A	0	1/8	1.25	False	0	P1-Staff2	6	186	2.0	286	bVI7	False	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	D	D	-6	None	bVI7	True	5
-5928	4	741.0	741	0.5	1/2	186	2	2	2	186	370.5	A2	45	True	A	0	1/4	1.5	False	0	P1-Staff2	6	186	2.0	286	bVI7	False	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	D	D	-6	None	bVI7	True	5
-5932	4	741.5	1483/2	0.5	1/2	186	2	2	2	186	370.75	A3	57	True	A	0	3/8	1.75	False	0	P1-Staff2	6	186	2.0	286	bVI7	False	('A', 'B-', 'D', 'F')	A	B-	3	major seventh chord	(2, 5, 9, 10)	D	D	-6	None	bVI7	True	5
+5920	16	740.0	740	2.0	2	186	2	2	2	186	370.0	D5	74	True	D	0	0	1.0	True	1	P1-Staff2	1	186	2.0	286	bVI7	True	('A#', 'B-', 'D', 'F')	A#	B-	3	enharmonic equivalent to major triad	(2, 5, 10)	D	D	-6	None	bVI7	True	1
+5920	16	740.0	740	2.0	2	186	2	2	2	186	370.0	F5	77	True	F	0	0	1.0	True	1	P1-Staff2	1	186	2.0	286	bVI7	True	('A#', 'B-', 'D', 'F')	A#	B-	3	enharmonic equivalent to major triad	(2, 5, 10)	D	D	-6	None	bVI7	True	b3
+5920	16	740.0	740	2.0	2	186	2	2	2	186	370.0	B-5	82	True	B	-1	0	1.0	True	1	P1-Staff2	1	186	2.0	286	bVI7	True	('A#', 'B-', 'D', 'F')	A#	B-	3	enharmonic equivalent to major triad	(2, 5, 10)	D	D	-6	None	bVI7	True	b6
+5920	4	740.0	740	0.5	1/2	186	2	2	2	186	370.0	A2	45	True	A	0	0	1.0	True	1	P1-Staff2	6	186	2.0	286	bVI7	True	('A#', 'B-', 'D', 'F')	A#	B-	3	enharmonic equivalent to major triad	(2, 5, 10)	D	D	-6	None	bVI7	True	5
+5924	4	740.5	1481/2	0.5	1/2	186	2	2	2	186	370.25	A3	57	True	A	0	1/8	1.25	False	0	P1-Staff2	6	186	2.0	286	bVI7	False	('A#', 'B-', 'D', 'F')	A#	B-	3	enharmonic equivalent to major triad	(2, 5, 10)	D	D	-6	None	bVI7	True	5
+5928	4	741.0	741	0.5	1/2	186	2	2	2	186	370.5	A2	45	True	A	0	1/4	1.5	False	0	P1-Staff2	6	186	2.0	286	bVI7	False	('A#', 'B-', 'D', 'F')	A#	B-	3	enharmonic equivalent to major triad	(2, 5, 10)	D	D	-6	None	bVI7	True	5
+5932	4	741.5	1483/2	0.5	1/2	186	2	2	2	186	370.75	A3	57	True	A	0	3/8	1.75	False	0	P1-Staff2	6	186	2.0	286	bVI7	False	('A#', 'B-', 'D', 'F')	A#	B-	3	enharmonic equivalent to major triad	(2, 5, 10)	D	D	-6	None	bVI7	True	5
 5936	16	742.0	742	2.0	2	186	2	2	2	186	371.0	D#5	75	True	D	1	1/2	2.0	True	2	P1-Staff2	1	186	2.0	287	VI7	True	('A', 'B', 'D#', 'F#')	A	B	3	dominant seventh chord	(3, 6, 9, 11)	D	D	6	None	VI7	True	#1
 5936	16	742.0	742	2.0	2	186	2	2	2	186	371.0	F#5	78	True	F	1	1/2	2.0	True	2	P1-Staff2	1	186	2.0	287	VI7	True	('A', 'B', 'D#', 'F#')	A	B	3	dominant seventh chord	(3, 6, 9, 11)	D	D	6	None	VI7	True	3
 5936	16	742.0	742	2.0	2	186	2	2	2	186	371.0	B5	83	True	B	0	1/2	2.0	True	2	P1-Staff2	1	186	2.0	287	VI7	True	('A', 'B', 'D#', 'F#')	A	B	3	dominant seventh chord	(3, 6, 9, 11)	D	D	6	None	VI7	True	6

@@ -10,11 +10,11 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 21.0	7	1/2	1.0	8	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	Eb	Eb	E-	5	None	V	True
 22.0	8	0	3.0	9	I	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	Eb	Eb	E-	1	None	I	True
 25.0	9	0	2.0	10	V6	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	Eb	Eb	E-	5	None	V	True
-27.0	9	1/2	1.0	11	It	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	Eb	Eb	E-	#4	None	It	True
+27.0	9	1/2	1.0	11	It	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	Eb	Eb	E-	#4	None	It	True
 28.0	10	0	2.0	12	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	Eb	Eb	E-	5	None	V	True
 30.0	10	1/2	1.0	13	I	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	Eb	Eb	E-	1	None	I	True
 31.0	11	0	2.0	14	V6	V	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	E-	Eb	Eb	E-	5	None	V	True
-33.0	11	1/2	1.0	15	It	It	True	('A', 'C-', 'E-')	A	A	0	incomplete dominant-seventh chord	(3, 9, 11)	E-	Eb	Eb	E-	#4	None	It	True
+33.0	11	1/2	1.0	15	It	It	True	('C-', 'E-', 'A')	C-	A	1	Italian augmented sixth chord	(3, 9, 11)	E-	Eb	Eb	E-	#4	None	It	True
 34.0	12	0	2.0	16	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	Eb	Eb	E-	5	None	V	True
 36.0	12	1/2	1.0	17	v	v	True	('B-', 'D-', 'F')	B-	B-	0	minor triad	(1, 5, 10)	E-	Eb	Eb	E-	5	None	v	True
 37.0	13	0	3.0	18	v	v	True	('B-', 'D-', 'F')	B-	B-	0	minor triad	(1, 5, 10)	E-	Eb	Eb	E-	5	None	v	True
@@ -79,4 +79,4 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 184.0	62	0	3.0	77	ii	ii	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	Eb	Eb	E-	2	None	ii	True
 187.0	63	0	3.0	78	V64/ii	V/ii	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	E-	Eb	Eb	f	5	2	V	True
 190.0	64	0	3.0	79	ii	ii	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	E-	Eb	Eb	E-	2	None	ii	True
-193.0	65	0	3.0	80	V65/ii	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	Eb	Eb	f	5	2	V7	True
+193.0	65	0	2.0	80	V65/ii	V7/ii	True	('E', 'G', 'B-', 'C')	E	C	1	dominant seventh chord	(0, 4, 7, 10)	E-	Eb	Eb	f	5	2	V7	True

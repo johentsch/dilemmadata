@@ -566,7 +566,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 558.0	265	0	1.5	564	V42/v/vi	V7/v/vi	True	('F#', 'G#', 'B#', 'D#')	F#	G#	3	dominant seventh chord	(0, 3, 6, 8)	A	A	A	c#	5	5	V7	True
 559.5	265	3/8	1.5	565	i6/v/vi	i/v/vi	True	('E', 'G#', 'C#')	E	C#	1	minor triad	(1, 4, 8)	A	A	A	c#	1	5	i	True
 561.0	266	0	1.5	566	viio6/v/vi	viio/v/vi	True	('D#', 'F#', 'B#')	D#	B#	1	diminished triad	(0, 3, 6)	A	A	A	c#	#7	5	viio	True
-562.5	266	3/8	1.5	567	Fr/vi	Fr/vi	True	('G#', 'B#', 'D')	G#	G#	0	incomplete half-diminished seventh chord	(0, 2, 8)	A	A	A	f#	2	6	Fr	True
+562.5	266	3/8	1.5	567	Fr/vi	Fr/vi	True	('D', 'F#', 'G#', 'B#')	D	G#	2	French augmented sixth chord	(0, 2, 6, 8)	A	A	A	f#	2	6	Fr	True
 564.0	267	0	3.0	568	V7/vi	V7/vi	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	A	A	A	f#	5	6	V7	True
 567.0	268	0	3.0	569	V7/ii	V7/ii	True	('F#', 'A#', 'C#', 'E')	F#	F#	0	dominant seventh chord	(1, 4, 6, 10)	A	A	A	b	5	2	V7	True
 570.0	269	0	3.0	570	V7/V	V7/V	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	A	A	A	E	5	5	V7	True
@@ -616,10 +616,10 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 645.0	294	0	3.0	614	viio7/V/vi	viio7/V/vi	True	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	A	A	A	C#	7	5	viio7	True
 648.0	295	0	3.0	615	V7/vi	V7/vi	True	('C#', 'E#', 'G#', 'B')	C#	C#	0	dominant seventh chord	(1, 5, 8, 11)	A	A	A	f#	5	6	V7	True
 651.0	296	0	1.5	616	V/vi	V/vi	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	A	A	A	f#	5	6	V	True
-652.5	296	3/8	1.5	617	Ger/vi	Ger/vi	True	('B#', 'D', 'F#')	B#	B#	0	incomplete dominant-seventh chord	(0, 2, 6)	A	A	A	f#	#4	6	Ger	True
+652.5	296	3/8	1.5	617	Ger/vi	Ger/vi	True	('D', 'F#', 'A', 'B#')	D	B#	1	German augmented sixth chord	(0, 2, 6, 9)	A	A	A	f#	#4	6	Ger	True
 654.0	297	0	3.0	618	V/vi	V/vi	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	A	A	A	f#	5	6	V	True
 657.0	298	0	1.5	619	V/vi	V/vi	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	A	A	A	f#	5	6	V	True
-658.5	298	3/8	1.5	620	Ger/vi	Ger/vi	True	('B#', 'D', 'F#')	B#	B#	0	incomplete dominant-seventh chord	(0, 2, 6)	A	A	A	f#	#4	6	Ger	True
+658.5	298	3/8	1.5	620	Ger/vi	Ger/vi	True	('D', 'F#', 'A', 'B#')	D	B#	1	German augmented sixth chord	(0, 2, 6, 9)	A	A	A	f#	#4	6	Ger	True
 660.0	299	0	1.5	621	V/vi	V/vi	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	A	A	A	f#	5	6	V	True
 661.5	299	3/8	1.5	622	viio7/V/vi	viio7/V/vi	True	('B#', 'D#', 'F#', 'A')	B#	B#	0	diminished seventh chord	(0, 3, 6, 9)	A	A	A	C#	7	5	viio7	True
 663.0	300	0	1.5	623	V/vi	V/vi	True	('C#', 'E#', 'G#')	C#	C#	0	major triad	(1, 5, 8)	A	A	A	f#	5	6	V	True
@@ -718,4 +718,4 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 865.5	367	3/8	1.5	716	V7	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	A	A	5	None	V7	True
 867.0	368	0	3.0	717	I	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True
 870.0	369	0	3.0	718	I	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True
-873.0	370	0	3.0	719	I	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True
+873.0	370	0	1.0	719	I	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True

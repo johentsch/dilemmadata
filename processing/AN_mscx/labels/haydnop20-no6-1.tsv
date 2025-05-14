@@ -59,7 +59,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 84.0	29	0	3.0	57	V7	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	A	E	5	None	V7	True
 87.0	30	0	3.0	58	V7	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	A	E	5	None	V7	True
 90.0	31	0	1.5	59	i	i	True	('E', 'G', 'B')	E	E	0	minor triad	(4, 7, 11)	E	E	A	E	1	None	i	True
-91.5	31	3/8	1.5	60	iv7	iv7	True	('A', 'C', 'E', 'G#')	A	A	0	minor-augmented tetrachord	(0, 4, 8, 9)	E	E	A	E	4	None	iv7	True
+91.5	31	3/8	1.5	60	iv7	iv7	True	('A', 'C', 'E', 'G')	A	A	0	minor seventh chord	(0, 4, 7, 9)	E	E	A	E	4	None	iv7	True
 93.0	32	0	1.5	61	I7	I7	True	('D', 'F#', 'A', 'C#')	D	D	0	major seventh chord	(1, 2, 6, 9)	D	D	A	D	1	None	I7	True
 94.5	32	3/8	1.5	62	I	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	A	D	1	None	I	True
 96.0	33	0	1.5	63	IV	IV	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	D	D	A	D	4	None	IV	True
@@ -147,8 +147,8 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 196.5	66	3/8	1.5	145	i	i	True	('B', 'D', 'F#')	B	B	0	minor triad	(2, 6, 11)	b	b	A	b	1	None	i	True
 198.0	67	0	1.5	146	V7	V7	True	('F#', 'A#', 'C#', 'E')	F#	F#	0	dominant seventh chord	(1, 4, 6, 10)	b	b	A	b	5	None	V7	True
 199.5	67	3/8	1.5	147	i	i	True	('B', 'D', 'F#')	B	B	0	minor triad	(2, 6, 11)	b	b	A	b	1	None	i	True
-201.0	68	0	3.0	148	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	enharmonic to dominant seventh chord	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
-204.0	69	0	3.0	149	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	enharmonic to dominant seventh chord	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
+201.0	68	0	3.0	148	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	German augmented sixth chord in root position	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
+204.0	69	0	3.0	149	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	German augmented sixth chord in root position	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
 207.0	70	0	1.5	150	VI	VI	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	b	b	A	b	6	None	VI	True
 208.5	70	3/8	1.5	151	V7	V7	True	('F#', 'A#', 'C#', 'E')	F#	F#	0	dominant seventh chord	(1, 4, 6, 10)	b	b	A	b	5	None	V7	True
 210.0	71	0	3.0	152	V7/II	V7/II	True	('G#', 'B#', 'D#', 'F#')	G#	G#	0	dominant seventh chord	(0, 3, 6, 8)	b	b	A	C#	5	2	V7	True
@@ -158,9 +158,9 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 219.0	74	0	3.0	156	iv	iv	True	('E', 'G', 'B')	E	E	0	minor triad	(4, 7, 11)	b	b	A	b	4	None	iv	True
 222.0	75	0	3.0	157	iio	iio	True	('C#', 'E', 'G')	C#	C#	0	diminished triad	(1, 4, 7)	b	b	A	b	2	None	iio	True
 225.0	76	0	3.0	158	V7	V7	True	('F#', 'A#', 'C#', 'E')	F#	F#	0	dominant seventh chord	(1, 4, 6, 10)	b	b	A	b	5	None	V7	True
-228.0	77	0	1.5	159	It	It	True	('E#', 'G', 'B')	E#	E#	0	incomplete dominant-seventh chord	(5, 7, 11)	b	b	A	b	#4	None	It	True
-229.5	77	3/8	1.5	160	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	enharmonic to dominant seventh chord	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
-231.0	78	0	3.0	161	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	enharmonic to dominant seventh chord	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
+228.0	77	0	1.5	159	It	It	True	('G', 'B', 'E#')	G	E#	1	Italian augmented sixth chord	(5, 7, 11)	b	b	A	b	#4	None	It	True
+229.5	77	3/8	1.5	160	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	German augmented sixth chord in root position	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
+231.0	78	0	3.0	161	Ger7	Ger7	True	('E#', 'G', 'B', 'D')	E#	E#	0	German augmented sixth chord in root position	(2, 5, 7, 11)	b	b	A	b	#4	None	Ger7	True
 234.0	79	0	3.0	162	VI	VI	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	b	b	A	b	6	None	VI	True
 237.0	80	0	3.0	163	V7/vii	V7/vii	True	('E#', 'G##', 'B#', 'D#')	E#	E#	0	dominant seventh chord	(0, 3, 5, 9)	b	b	A	a#	5	#7	V7	True
 240.0	81	0	3.0	164	vii	vii	True	('A#', 'C#', 'E#')	A#	A#	0	minor triad	(1, 5, 10)	b	b	A	b	#7	None	vii	True
@@ -225,7 +225,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 349.5	117	3/8	1.5	223	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	A	a	5	None	V	True
 351.0	118	0	1.5	224	i	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	A	a	1	None	i	True
 352.5	118	3/8	1.0	225	VI	VI	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	a	a	A	a	6	None	VI	True
-353.5	118	5/8	0.5	226	It	It	True	('D#', 'F', 'A')	D#	D#	0	incomplete dominant-seventh chord	(3, 5, 9)	a	a	A	a	#4	None	It	True
+353.5	118	5/8	0.5	226	It	It	True	('F', 'A', 'D#')	F	D#	1	Italian augmented sixth chord	(3, 5, 9)	a	a	A	a	#4	None	It	True
 354.0	119	0	3.0	227	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	A	a	5	None	V	True
 357.0	120	0	3.0	228	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	A	a	5	None	V	True
 360.0	121	0	3.0	229	V7	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	a	a	A	a	5	None	V7	True

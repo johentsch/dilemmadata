@@ -18,9 +18,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 540	60	4.5	9/2	0.5	1/2	3	-3	2	4	3	4.5	B-2	46	True	B	-1	1/8	1.5	False	0	P1-Staff2	1	3	1.0	3	viio7/ii	False	('B-', 'D-', 'E', 'G')	B-	E	2	diminished seventh chord	(1, 4, 7, 10)	E-	f	#7	2	viio7	True	5
 540	60	4.5	9/2	0.5	1/2	3	-3	2	4	3	4.5	E3	52	True	E	0	1/8	1.5	False	0	P1-Staff2	1	3	1.0	3	viio7/ii	False	('B-', 'D-', 'E', 'G')	B-	E	2	diminished seventh chord	(1, 4, 7, 10)	E-	f	#7	2	viio7	True	#1
 585	15	4.875	39/8	0.125	1/8	3	-3	2	4	3	4.875	D-5	73	True	D	-1	7/32	1.875	False	0	P1-Staff2	5	3	1.0	3	viio7/ii	False	('B-', 'D-', 'E', 'G')	B-	E	2	diminished seventh chord	(1, 4, 7, 10)	E-	f	#7	2	viio7	True	b7
-600	60	5.0	5	0.5	1/2	3	-3	2	4	3	5.0	C5	72	True	C	0	1/4	2.0	True	2	P1-Staff2	5	3	0.5	4	V/bVII	True	('A-', 'C-', 'F-')	A-	F-	1	major triad	(4, 8, 11)	c	B--	5	-7	V	True	1
-600	60	5.0	5	0.5	1/2	3	-3	2	4	3	5.0	A2	45	True	A	0	1/4	2.0	True	2	P1-Staff2	1	3	0.5	4	V/bVII	True	('A-', 'C-', 'F-')	A-	F-	1	major triad	(4, 8, 11)	c	B--	5	-7	V	True	#6
-600	60	5.0	5	0.5	1/2	3	-3	2	4	3	5.0	F3	53	True	F	0	1/4	2.0	True	2	P1-Staff2	1	3	0.5	4	V/bVII	True	('A-', 'C-', 'F-')	A-	F-	1	major triad	(4, 8, 11)	c	B--	5	-7	V	True	4
+600	60	5.0	5	0.5	1/2	3	-3	2	4	3	5.0	C5	72	True	C	0	1/4	2.0	True	2	P1-Staff2	5	3	0.5	4	V/bVII	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	c	B-	5	7	V	True	1
+600	60	5.0	5	0.5	1/2	3	-3	2	4	3	5.0	A2	45	True	A	0	1/4	2.0	True	2	P1-Staff2	1	3	0.5	4	V/bVII	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	c	B-	5	7	V	True	#6
+600	60	5.0	5	0.5	1/2	3	-3	2	4	3	5.0	F3	53	True	F	0	1/4	2.0	True	2	P1-Staff2	1	3	0.5	4	V/bVII	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	c	B-	5	7	V	True	4
 660	45	5.5	11/2	0.375	3/8	3	-3	2	4	3	5.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	5	3	0.5	5	Fr7	True	('A-', 'C', 'D', 'F#')	A-	D	2	French augmented sixth chord	(0, 2, 6, 8)	c	c	2	None	Fr7	True	1
 660	60	5.5	11/2	0.5	1/2	3	-3	2	4	3	5.5	A-2	44	True	A	-1	3/8	2.5	False	0	P1-Staff2	1	3	0.5	5	Fr7	True	('A-', 'C', 'D', 'F#')	A-	D	2	French augmented sixth chord	(0, 2, 6, 8)	c	c	2	None	Fr7	True	6
 660	60	5.5	11/2	0.5	1/2	3	-3	2	4	3	5.5	F#3	54	True	F	1	3/8	2.5	False	0	P1-Staff2	1	3	0.5	5	Fr7	True	('A-', 'C', 'D', 'F#')	A-	D	2	French augmented sixth chord	(0, 2, 6, 8)	c	c	2	None	Fr7	True	#4
@@ -2033,11 +2033,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 75360	120	628.0	628	1.0	1	166	-3	2	2	166	330.0	G5	79	True	G	0	0	1.0	True	1	P1-Staff2	1	166	1.0	274	V	True	('E', 'G', 'C')	E	C	1	major triad	(0, 4, 7)	f	f	5	None	V	True	2
 75360	120	628.0	628	1.0	1	166	-3	2	2	166	330.0	E3	52	True	E	0	0	1.0	True	1	P1-Staff2	1	166	1.0	274	V	True	('E', 'G', 'C')	E	C	1	major triad	(0, 4, 7)	f	f	5	None	V	True	#7
 75360	120	628.0	628	1.0	1	166	-3	2	2	166	330.0	G3	55	True	G	0	0	1.0	True	1	P1-Staff2	1	166	1.0	274	V	True	('E', 'G', 'C')	E	C	1	major triad	(0, 4, 7)	f	f	5	None	V	True	2
-75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	A-4	68	True	A	-1	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D-', 'F-', 'A--', 'C--')	D-	D-	0	diminished seventh chord	(1, 4, 7, 10)	f	E--	7	-7	viio7	True	3
-75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	C5	72	True	C	0	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D-', 'F-', 'A--', 'C--')	D-	D-	0	diminished seventh chord	(1, 4, 7, 10)	f	E--	7	-7	viio7	True	5
-75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	A-5	80	True	A	-1	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D-', 'F-', 'A--', 'C--')	D-	D-	0	diminished seventh chord	(1, 4, 7, 10)	f	E--	7	-7	viio7	True	3
-75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	D3	50	True	D	0	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D-', 'F-', 'A--', 'C--')	D-	D-	0	diminished seventh chord	(1, 4, 7, 10)	f	E--	7	-7	viio7	True	#6
-75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	F3	53	True	F	0	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D-', 'F-', 'A--', 'C--')	D-	D-	0	diminished seventh chord	(1, 4, 7, 10)	f	E--	7	-7	viio7	True	1
+75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	A-4	68	True	A	-1	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	E-	7	7	viio7	True	3
+75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	C5	72	True	C	0	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	E-	7	7	viio7	True	5
+75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	A-5	80	True	A	-1	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	E-	7	7	viio7	True	3
+75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	D3	50	True	D	0	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	E-	7	7	viio7	True	#6
+75480	120	629.0	629	1.0	1	166	-3	2	2	166	330.5	F3	53	True	F	0	1/4	1.5	False	0	P1-Staff2	1	166	1.0	275	viio7/bVII	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	E-	7	7	viio7	True	1
 75600	120	630.0	630	1.0	1	166	-3	2	2	166	331.0	B-4	70	True	B	-1	1/2	2.0	True	2	P1-Staff2	1	166	2.0	276	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	4
 75600	120	630.0	630	1.0	1	166	-3	2	2	166	331.0	C5	72	True	C	0	1/2	2.0	True	2	P1-Staff2	1	166	2.0	276	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
 75600	120	630.0	630	1.0	1	166	-3	2	2	166	331.0	B-5	82	True	B	-1	1/2	2.0	True	2	P1-Staff2	1	166	2.0	276	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	4

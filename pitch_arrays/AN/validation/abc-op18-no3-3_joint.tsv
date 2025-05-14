@@ -964,10 +964,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 778	2	389.0	389	1.0	1	130	2	3	4	130	389.0	G4	67	True	G	0	1/4	2.0	True	2	Violoncello	1	130	3.0	230	IV	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	D	D	4	None	IV	True	4
 780	2	390.0	390	1.0	1	130	2	3	4	130	390.0	F#5	78	True	F	1	1/2	3.0	True	3	Violoncello	1	130	3.0	230	IV	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	D	D	4	None	IV	True	3
 780	2	390.0	390	1.0	1	130	2	3	4	130	390.0	F#4	66	True	F	1	1/2	3.0	True	3	Violoncello	1	130	3.0	230	IV	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	D	D	4	None	IV	True	3
-782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	E#5	77	True	E	1	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('E#', 'G', 'B')	E#	E#	0	incomplete dominant-seventh chord	(5, 7, 11)	D	b	#4	6	Ger	True	#2
-782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	E#4	65	True	E	1	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('E#', 'G', 'B')	E#	E#	0	incomplete dominant-seventh chord	(5, 7, 11)	D	b	#4	6	Ger	True	#2
-782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('E#', 'G', 'B')	E#	E#	0	incomplete dominant-seventh chord	(5, 7, 11)	D	b	#4	6	Ger	True	6
-782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	G3	55	True	G	0	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('E#', 'G', 'B')	E#	E#	0	incomplete dominant-seventh chord	(5, 7, 11)	D	b	#4	6	Ger	True	4
+782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	E#5	77	True	E	1	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('G', 'B', 'D', 'E#')	G	E#	1	German augmented sixth chord	(2, 5, 7, 11)	D	b	#4	6	Ger	True	#2
+782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	E#4	65	True	E	1	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('G', 'B', 'D', 'E#')	G	E#	1	German augmented sixth chord	(2, 5, 7, 11)	D	b	#4	6	Ger	True	#2
+782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('G', 'B', 'D', 'E#')	G	E#	1	German augmented sixth chord	(2, 5, 7, 11)	D	b	#4	6	Ger	True	6
+782	6	391.0	391	3.0	3	131	2	3	4	131	391.0	G3	55	True	G	0	0	1.0	True	1	Violoncello	1	131	3.0	231	Ger/vi	True	('G', 'B', 'D', 'E#')	G	E#	1	German augmented sixth chord	(2, 5, 7, 11)	D	b	#4	6	Ger	True	4
 788	2	394.0	394	1.0	1	132	2	3	4	132	394.0	F#5	78	True	F	1	0	1.0	True	1	Violoncello	1	132	3.0	232	V/vi	True	('F#', 'A#', 'C#')	F#	F#	0	major triad	(1, 6, 10)	D	b	5	6	V	True	3
 788	2	394.0	394	1.0	1	132	2	3	4	132	394.0	F#4	66	True	F	1	0	1.0	True	1	Violoncello	1	132	3.0	232	V/vi	True	('F#', 'A#', 'C#')	F#	F#	0	major triad	(1, 6, 10)	D	b	5	6	V	True	3
 788	2	394.0	394	1.0	1	132	2	3	4	132	394.0	A#3	58	True	A	1	0	1.0	True	1	Violoncello	1	132	3.0	232	V/vi	True	('F#', 'A#', 'C#')	F#	F#	0	major triad	(1, 6, 10)	D	b	5	6	V	True	#5
@@ -1227,8 +1227,8 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 998	2	499.0	499	1.0	1	167	2	3	4	167	499.0	D2	38	True	D	0	0	1.0	True	1	Violoncello	1	167	3.0	290	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	1
 1000	2	500.0	500	1.0	1	167	2	3	4	167	500.0	F#2	42	True	F	1	1/4	2.0	True	2	Violoncello	1	167	3.0	290	I	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	3
 1002	2	501.0	501	1.0	1	167	2	3	4	167	501.0	A2	45	True	A	0	1/2	3.0	True	3	Violoncello	1	167	3.0	290	I	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	5
-1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	D6	86	True	D	0	0	1.0	True	1	Violoncello	1	168	3.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	1
-1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	A3	57	False	A	0	0	1.0	True	1	Violoncello	1	168	3.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	5
-1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	F#4	66	True	F	1	0	1.0	True	1	Violoncello	1	168	3.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	3
-1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	D4	62	True	D	0	0	1.0	True	1	Violoncello	1	168	3.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	1
-1004	2	502.0	502	2.0	1	168	2	3	4	168	502.0	D3	50	True	D	0	0	1.0	True	1	Violoncello	1	168	3.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	1
+1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	D6	86	True	D	0	0	1.0	True	1	Violoncello	1	168	2.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	1
+1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	A3	57	False	A	0	0	1.0	True	1	Violoncello	1	168	2.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	5
+1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	F#4	66	True	F	1	0	1.0	True	1	Violoncello	1	168	2.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	3
+1004	2	502.0	502	1.0	1	168	2	3	4	168	502.0	D4	62	True	D	0	0	1.0	True	1	Violoncello	1	168	2.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	1
+1004	2	502.0	502	2.0	1	168	2	3	4	168	502.0	D3	50	True	D	0	0	1.0	True	1	Violoncello	1	168	2.0	291	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	1	None	I	True	1

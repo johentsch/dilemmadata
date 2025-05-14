@@ -3,7 +3,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 1.0	1	1/4	1.0	1	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	Eb	Eb	E-	5	None	V	True
 2.0	2	0	2.0	2	vi	vi	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	E-	Eb	Eb	E-	6	None	vi	True
 4.0	3	0	1.0	3	viio43/ii	viio7/ii	True	('B-', 'D-', 'E', 'G')	B-	E	2	diminished seventh chord	(1, 4, 7, 10)	E-	Eb	Eb	f	#7	2	viio7	True
-5.0	3	1/4	0.5	4	V6/bVII	V/bVII	True	('A-', 'C-', 'F-')	A-	F-	1	major triad	(4, 8, 11)	c	c	Eb	B--	5	-7	V	True
+5.0	3	1/4	0.5	4	V6/bVII	V/bVII	True	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	c	c	Eb	B-	5	7	V	True
 5.5	3	3/8	0.5	5	Fr43	Fr7	True	('A-', 'C', 'D', 'F#')	A-	D	2	French augmented sixth chord	(0, 2, 6, 8)	c	c	Eb	c	2	None	Fr7	True
 6.0	4	0	0.5	6	i64	i	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	c	c	Eb	c	1	None	i	True
 6.5	4	1/8	0.5	7	viio65/V	viio7/V	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	c	c	Eb	G	7	5	viio7	True
@@ -274,7 +274,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 624.0	165	0	3.0	272	V43	V7	True	('G', 'B-', 'C', 'E')	G	C	2	dominant seventh chord	(0, 4, 7, 10)	f	f	Eb	f	5	None	V7	True
 627.0	165	3/4	1.0	273	i	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	Eb	f	1	None	i	True
 628.0	166	0	1.0	274	V6	V	True	('E', 'G', 'C')	E	C	1	major triad	(0, 4, 7)	f	f	Eb	f	5	None	V	True
-629.0	166	1/4	1.0	275	viio7/bVII	viio7/bVII	True	('D-', 'F-', 'A--', 'C--')	D-	D-	0	diminished seventh chord	(1, 4, 7, 10)	f	f	Eb	E--	7	-7	viio7	True
+629.0	166	1/4	1.0	275	viio7/bVII	viio7/bVII	True	('D', 'F', 'A-', 'C-')	D	D	0	diminished seventh chord	(2, 5, 8, 11)	f	f	Eb	E-	7	7	viio7	True
 630.0	166	1/2	2.0	276	V7	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	Eb	f	5	None	V7	True
 632.0	167	0	4.0	277	i	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	Eb	f	1	None	i	True
 636.0	168	0	4.0	278	V43	V7	True	('G', 'B-', 'C', 'E')	G	C	2	dominant seventh chord	(0, 4, 7, 10)	f	f	Eb	f	5	None	V7	True

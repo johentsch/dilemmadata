@@ -519,14 +519,14 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2232	4	186.0	186	0.3333	1/3	47	-1	4	4	48	186.0	A2	45	True	A	0	1/4	2.0	True	2	P1-Staff2	2	47	2.0	122	I	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	F	F	1	None	I	True	3
 2236	4	186.3333	559/3	0.3333	1/3	47	-1	4	4	48	186.333	C3	48	True	C	0	1/3	2.333	False	0	P1-Staff2	2	47	2.0	122	I	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	F	F	1	None	I	True	5
 2240	4	186.6667	560/3	0.3333	1/3	47	-1	4	4	48	186.667	F3	53	True	F	0	5/12	2.667	False	0	P1-Staff2	2	47	2.0	122	I	False	('A', 'C', 'F')	A	F	1	major triad	(0, 5, 9)	F	F	1	None	I	True	1
-2244	4	187.0	187	0.3333	1/3	47	-1	4	4	48	187.0	A-2	44	True	A	-1	1/2	3.0	True	3	P1-Staff2	2	47	2.0	123	It/V	True	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	b3
-2248	4	187.3333	562/3	0.3333	1/3	47	-1	4	4	48	187.333	C3	48	True	C	0	7/12	3.333	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	5
-2252	4	187.6667	563/3	0.3333	1/3	47	-1	4	4	48	187.667	F#3	54	True	F	1	2/3	3.667	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	#1
-2256	12	188.0	188	1.0	1	47	-1	4	4	48	188.0	C5	72	True	C	0	3/4	4.0	True	4	P1-Staff2	1	47	2.0	123	It/V	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	5
-2256	12	188.0	188	1.0	1	47	-1	4	4	48	188.0	C6	84	True	C	0	3/4	4.0	True	4	P1-Staff2	1	47	2.0	123	It/V	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	5
-2256	4	188.0	188	0.3333	1/3	47	-1	4	4	48	188.0	A-2	44	True	A	-1	3/4	4.0	True	4	P1-Staff2	2	47	2.0	123	It/V	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	b3
-2260	4	188.3333	565/3	0.3333	1/3	47	-1	4	4	48	188.333	C3	48	True	C	0	5/6	4.333	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	5
-2264	4	188.6667	566/3	0.3333	1/3	47	-1	4	4	48	188.667	F#3	54	True	F	1	11/12	4.667	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('F#', 'A-', 'C')	F#	F#	0	incomplete dominant-seventh chord	(0, 6, 8)	F	c	#4	5	It	True	#1
+2244	4	187.0	187	0.3333	1/3	47	-1	4	4	48	187.0	A-2	44	True	A	-1	1/2	3.0	True	3	P1-Staff2	2	47	2.0	123	It/V	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	b3
+2248	4	187.3333	562/3	0.3333	1/3	47	-1	4	4	48	187.333	C3	48	True	C	0	7/12	3.333	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	5
+2252	4	187.6667	563/3	0.3333	1/3	47	-1	4	4	48	187.667	F#3	54	True	F	1	2/3	3.667	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	#1
+2256	12	188.0	188	1.0	1	47	-1	4	4	48	188.0	C5	72	True	C	0	3/4	4.0	True	4	P1-Staff2	1	47	2.0	123	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	5
+2256	12	188.0	188	1.0	1	47	-1	4	4	48	188.0	C6	84	True	C	0	3/4	4.0	True	4	P1-Staff2	1	47	2.0	123	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	5
+2256	4	188.0	188	0.3333	1/3	47	-1	4	4	48	188.0	A-2	44	True	A	-1	3/4	4.0	True	4	P1-Staff2	2	47	2.0	123	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	b3
+2260	4	188.3333	565/3	0.3333	1/3	47	-1	4	4	48	188.333	C3	48	True	C	0	5/6	4.333	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	5
+2264	4	188.6667	566/3	0.3333	1/3	47	-1	4	4	48	188.667	F#3	54	True	F	1	11/12	4.667	False	0	P1-Staff2	2	47	2.0	123	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	#1
 2268	12	189.0	189	1.0	1	48	-1	4	4	49	189.0	C5	72	True	C	0	0	1.0	True	1	P1-Staff2	1	48	2.0	124	Cad/V	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	F	C	1	5	Cad	True	5
 2268	12	189.0	189	1.0	1	48	-1	4	4	49	189.0	C6	84	True	C	0	0	1.0	True	1	P1-Staff2	1	48	2.0	124	Cad/V	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	F	C	1	5	Cad	True	5
 2268	4	189.0	189	0.3333	1/3	48	-1	4	4	49	189.0	G2	43	True	G	0	0	1.0	True	1	P1-Staff2	2	48	2.0	124	Cad/V	True	('G', 'C', 'E')	G	C	2	major triad	(0, 4, 7)	F	C	1	5	Cad	True	2
@@ -989,6 +989,6 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 3732	12	311.0	311	1.0	1	78	-1	4	4	79	311.0	C3	48	True	C	0	1/2	3.0	True	3	P1-Staff2	6	78	2.0	201	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
 3744	6	312.0	312	0.5	1/2	78	-1	4	4	79	312.0	D3	50	True	D	0	3/4	4.0	True	4	P1-Staff2	6	78	2.0	201	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	6
 3750	6	312.5	625/2	0.5	1/2	78	-1	4	4	79	312.5	E3	52	True	E	0	7/8	4.5	False	0	P1-Staff2	6	78	2.0	201	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	7
-3756	12	313.0	313	1.0	1	79	-1	4	4	80	313.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	79	4.0	202	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	3
-3756	12	313.0	313	1.0	1	79	-1	4	4	80	313.0	F2	41	True	F	0	0	1.0	True	1	P1-Staff2	1	79	4.0	202	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	1
-3756	12	313.0	313	4.0	1	79	-1	4	4	80	313.0	F3	53	True	F	0	0	1.0	True	1	P1-Staff2	1	79	4.0	202	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	1
+3756	12	313.0	313	1.0	1	79	-1	4	4	80	313.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	79	3.0	202	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	3
+3756	12	313.0	313	1.0	1	79	-1	4	4	80	313.0	F2	41	True	F	0	0	1.0	True	1	P1-Staff2	1	79	3.0	202	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	1
+3756	12	313.0	313	4.0	1	79	-1	4	4	80	313.0	F3	53	True	F	0	0	1.0	True	1	P1-Staff2	1	79	3.0	202	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	1

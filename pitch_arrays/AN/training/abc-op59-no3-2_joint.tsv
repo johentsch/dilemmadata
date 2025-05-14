@@ -2151,11 +2151,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1632	2	408.0	408	0.5	1/2	137	0	6	8	137	272.0	E2	40	True	E	0	0	1.0	True	1	Cello	2	137	1.5	309	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	1	None	i	True	5
 1634	2	408.5	817/2	0.5	1/2	137	0	6	8	137	272.333	D#2	39	True	D	1	1/8	1.333	False	0	Cello	2	137	1.5	309	i	False	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	1	None	i	True	#4
 1636	2	409.0	409	0.5	1/2	137	0	6	8	137	272.667	E2	40	True	E	0	1/4	1.667	False	0	Cello	2	137	1.5	309	i	False	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	1	None	i	True	5
-1638	6	409.5	819/2	1.5	3/2	137	0	6	8	137	273.0	A4	69	True	A	0	3/8	2.0	True	2	Cello	2	137	1.5	310	#vi7	True	('F#', 'A', 'C#', 'E#')	F#	F#	0	minor-augmented tetrachord	(1, 5, 6, 9)	a	a	#6	None	#vi7	True	1
-1638	6	409.5	819/2	1.5	3/2	137	0	6	8	137	273.0	F#4	66	True	F	1	3/8	2.0	True	2	Cello	2	137	1.5	310	#vi7	True	('F#', 'A', 'C#', 'E#')	F#	F#	0	minor-augmented tetrachord	(1, 5, 6, 9)	a	a	#6	None	#vi7	True	#6
-1638	2	409.5	819/2	0.5	1/2	137	0	6	8	137	273.0	D#2	39	True	D	1	3/8	2.0	True	2	Cello	2	137	1.5	310	#vi7	True	('F#', 'A', 'C#', 'E#')	F#	F#	0	minor-augmented tetrachord	(1, 5, 6, 9)	a	a	#6	None	#vi7	True	#4
-1640	2	410.0	410	0.5	1/2	137	0	6	8	137	273.333	E2	40	True	E	0	1/2	2.333	False	0	Cello	2	137	1.5	310	#vi7	False	('F#', 'A', 'C#', 'E#')	F#	F#	0	minor-augmented tetrachord	(1, 5, 6, 9)	a	a	#6	None	#vi7	True	5
-1642	2	410.5	821/2	0.5	1/2	137	0	6	8	137	273.667	D#2	39	True	D	1	5/8	2.667	False	0	Cello	2	137	1.5	310	#vi7	False	('F#', 'A', 'C#', 'E#')	F#	F#	0	minor-augmented tetrachord	(1, 5, 6, 9)	a	a	#6	None	#vi7	True	#4
+1638	6	409.5	819/2	1.5	3/2	137	0	6	8	137	273.0	A4	69	True	A	0	3/8	2.0	True	2	Cello	2	137	1.5	310	#vi7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	a	a	#6	None	#vi7	True	1
+1638	6	409.5	819/2	1.5	3/2	137	0	6	8	137	273.0	F#4	66	True	F	1	3/8	2.0	True	2	Cello	2	137	1.5	310	#vi7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	a	a	#6	None	#vi7	True	#6
+1638	2	409.5	819/2	0.5	1/2	137	0	6	8	137	273.0	D#2	39	True	D	1	3/8	2.0	True	2	Cello	2	137	1.5	310	#vi7	True	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	a	a	#6	None	#vi7	True	#4
+1640	2	410.0	410	0.5	1/2	137	0	6	8	137	273.333	E2	40	True	E	0	1/2	2.333	False	0	Cello	2	137	1.5	310	#vi7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	a	a	#6	None	#vi7	True	5
+1642	2	410.5	821/2	0.5	1/2	137	0	6	8	137	273.667	D#2	39	True	D	1	5/8	2.667	False	0	Cello	2	137	1.5	310	#vi7	False	('F#', 'A', 'C#', 'E')	F#	F#	0	minor seventh chord	(1, 4, 6, 9)	a	a	#6	None	#vi7	True	#4
 1644	4	411.0	411	1.0	1	138	0	6	8	138	274.0	E5	76	False	E	0	0	1.0	True	1	Cello	2	138	3.0	311	V	True	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	a	a	5	None	V	True	5
 1644	4	411.0	411	1.0	1	138	0	6	8	138	274.0	B4	71	True	B	0	0	1.0	True	1	Cello	2	138	3.0	311	V	True	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	a	a	5	None	V	True	2
 1644	4	411.0	411	1.0	1	138	0	6	8	138	274.0	G#4	68	True	G	1	0	1.0	True	1	Cello	2	138	3.0	311	V	True	('G#', 'B', 'E')	G#	E	1	major triad	(4, 8, 11)	a	a	5	None	V	True	#7

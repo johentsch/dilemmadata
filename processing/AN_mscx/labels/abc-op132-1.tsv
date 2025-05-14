@@ -13,7 +13,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 22.0	6	1/2	2.0	11	i	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	a	a	1	None	i	True
 24.0	7	0	2.0	12	viio7/V	viio7/V	True	('D#', 'F#', 'A', 'C')	D#	D#	0	diminished seventh chord	(0, 3, 6, 9)	a	a	a	E	7	5	viio7	True
 26.0	7	1/2	2.0	13	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	a	a	5	None	V	True
-28.0	8	0	2.0	14	Ger4/3	Ger7	True	('A', 'C', 'D#', 'F')	A	D#	2	enharmonic to dominant seventh chord	(0, 3, 5, 9)	a	a	a	a	#4	None	Ger7	True
+28.0	8	0	2.0	14	Ger4/3	Ger7	True	('A', 'C', 'D#', 'F')	A	D#	2	German augmented sixth chord in second inversion	(0, 3, 5, 9)	a	a	a	a	#4	None	Ger7	True
 30.0	8	1/2	1.0	15	V6/4	V	True	('B', 'E', 'G#')	B	E	2	major triad	(4, 8, 11)	a	a	a	a	5	None	V	True
 31.0	8	3/4	1.0	16	viio6/5	viio7	True	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	a	a	a	a	#7	None	viio7	True
 32.0	9	0	4.0	17	viio6/5	viio7	True	('B', 'D', 'F', 'G#')	B	G#	1	diminished seventh chord	(2, 5, 8, 11)	a	a	a	a	#7	None	viio7	True
@@ -546,7 +546,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 959.0	240	3/4	1.0	544	V7	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	a	A	5	None	V7	True
 960.0	241	0	2.0	545	iv6	iv	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	A	A	a	A	4	None	iv	True
 962.0	241	1/2	2.0	546	VI	VI	True	('F#', 'A#', 'C#')	F#	F#	0	major triad	(1, 6, 10)	A	A	a	A	6	None	VI	True
-964.0	242	0	2.0	547	iv7	iv7	True	('D', 'F', 'A', 'C#')	D	D	0	minor-augmented tetrachord	(1, 2, 5, 9)	A	A	a	A	4	None	iv7	True
+964.0	242	0	2.0	547	iv7	iv7	True	('D', 'F', 'A', 'C')	D	D	0	minor seventh chord	(0, 2, 5, 9)	A	A	a	A	4	None	iv7	True
 966.0	242	1/2	2.0	548	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	a	A	5	None	V	True
 968.0	243	0	2.0	549	viio7/iv	viio7/iv	True	('C#', 'E', 'G', 'B-')	C#	C#	0	diminished seventh chord	(1, 4, 7, 10)	A	A	a	d	#7	4	viio7	True
 970.0	243	1/2	2.0	550	iv	iv	True	('D', 'F', 'A')	D	D	0	minor triad	(2, 5, 9)	A	A	a	A	4	None	iv	True

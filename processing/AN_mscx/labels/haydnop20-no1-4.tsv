@@ -123,8 +123,8 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 172.5	87	0	2.0	121	viio65/v	viio7/v	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	c	c	Eb	g	#7	5	viio7	True
 174.5	88	0	2.0	122	V65/v	V7/v	True	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	c	c	Eb	g	5	5	V7	True
 176.5	89	0	2.0	123	v	v	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	c	c	Eb	c	5	None	v	True
-178.5	90	0	2.0	124	Ger7/V	Ger7/V	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	c	c	Eb	g	#4	5	Ger7	True
-180.5	91	0	2.0	125	Ger7/V	Ger7/V	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	enharmonic to dominant seventh chord	(1, 3, 7, 10)	c	c	Eb	g	#4	5	Ger7	True
+178.5	90	0	2.0	124	Ger7/V	Ger7/V	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	c	c	Eb	g	#4	5	Ger7	True
+180.5	91	0	2.0	125	Ger7/V	Ger7/V	True	('C#', 'E-', 'G', 'B-')	C#	C#	0	German augmented sixth chord in root position	(1, 3, 7, 10)	c	c	Eb	g	#4	5	Ger7	True
 182.5	92	0	2.0	126	V7/VI	V7/VI	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	c	c	Eb	A-	5	6	V7	True
 184.5	93	0	2.0	127	V7/VI	V7/VI	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	c	c	Eb	A-	5	6	V7	True
 186.5	94	0	2.0	128	VI64	VI	True	('E-', 'A-', 'C')	E-	A-	2	major triad	(0, 3, 8)	c	c	Eb	c	6	None	VI	True
@@ -217,4 +217,4 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 312.5	157	0	2.0	215	I	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	Eb	Eb	E-	1	None	I	True
 314.5	158	0	2.0	216	IV	IV	True	('A-', 'C', 'E-')	A-	A-	0	major triad	(0, 3, 8)	E-	Eb	Eb	E-	4	None	IV	True
 316.5	159	0	2.0	217	viio	viio	True	('D', 'F', 'A-')	D	D	0	diminished triad	(2, 5, 8)	E-	Eb	Eb	E-	7	None	viio	True
-318.5	160	0	2.0	218	I	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	Eb	Eb	E-	1	None	I	True
+318.5	160	0	1.5	218	I	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	Eb	Eb	E-	1	None	I	True
