@@ -8,9 +8,9 @@
 #       format_version: '1.3'
 #       jupytext_version: 1.17.1
 #   kernelspec:
-#     display_name: Python 3
+#     display_name: dilemmadata
 #     language: python
-#     name: python3
+#     name: dilemmadata
 # ---
 
 # %%
@@ -25,6 +25,7 @@ import pandas as pd
 REPO_PATH = ms3.resolve_dir("../../corpora/AugmentedNet")
 sys.path.append(REPO_PATH)
 from AugmentedNet import utils
+from processing import utils as processing_utils
 
 # %%
 DATASET_PATH = ms3.resolve_dir("../../pitch_arrays/AN")
@@ -61,7 +62,7 @@ simpleNumeral_dirty = simpleNumeral_dirty.str.replace("-", "b")
 simpleNumeral_dirty = simpleNumeral_dirty.str.replace("ø", "%")
 simpleNumeral_dirty = simpleNumeral_dirty.str.replace("54", "")
 simpleNumeral_dirty = simpleNumeral_dirty.str.replace("NI", "N")
-simpleNumeral_dirty = simpleNumeral_dirty.replace("Vd", "V7")
+simpleNumeral_dirty = simpleNumeral_dirty.replace("Vd", "V42")
 simpleNumeral_dirty = simpleNumeral_dirty.replace("viio3", "viio")
 simpleNumeral_counts = (
     simpleNumeral_dirty.value_counts()
@@ -175,7 +176,7 @@ concat.numeral = concat.numeral.where(
 concat["tonicizedkey_is_minor"] = concat.a_tonicizedKey.str.islower()
 concat["degree1"] = ms3.transform(
     concat,
-    utils.roman_numeral2scale_degree,
+    processing_utils.roman_numeral2scale_degree,
     ["numeral", "tonicizedkey_is_minor"],
     flat_character="-",
 )
@@ -185,3 +186,8 @@ not_matching_mask = (concat.a_degree1 != concat.degree1.fillna("")) & (
     concat.a_degree2 != "None"
 )
 concat[not_matching_mask]
+
+# %%
+concat["degree1"].value_counts()
+
+# %%

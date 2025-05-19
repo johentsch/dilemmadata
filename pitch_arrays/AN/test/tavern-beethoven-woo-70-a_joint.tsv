@@ -1473,14 +1473,14 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 4122	6	343.5	687/2	0.5	1/2	115	1	6	8	115	229.0	D5	74	True	D	0	1/4	1.667	False	0	P1-Staff2	6	115	1.5	204	V7	False	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	5
 4122	6	343.5	687/2	0.5	1/2	115	1	6	8	115	229.0	A4	69	True	A	0	1/4	1.667	False	0	P1-Staff2	1	115	1.5	204	V7	False	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	2
 4122	6	343.5	687/2	0.5	1/2	115	1	6	8	115	229.0	C5	72	True	C	0	1/4	1.667	False	0	P1-Staff2	1	115	1.5	204	V7	False	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	4
-4128	12	344.0	344	1.0	1	115	1	6	8	115	229.333	G4	67	True	G	0	3/8	2.0	True	2	P1-Staff2	1	115	1.5	205	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-4128	12	344.0	344	1.0	1	115	1	6	8	115	229.333	B4	71	True	B	0	3/8	2.0	True	2	P1-Staff2	1	115	1.5	205	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-4134	2	344.5	689/2	0.1667	1/6	115	1	6	8	115	229.666	D5	74	True	D	0	1/2	2.333	False	0	P1-Staff2	6	115	1.5	205	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-4136	2	344.6667	1034/3	0.1667	1/6	115	1	6	8	115	229.777	E5	76	True	E	0	13/24	2.444	False	0	P1-Staff2	6	115	1.5	205	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	6
-4138	2	344.8333	2069/6	0.1667	1/6	115	1	6	8	115	229.889	C#5	73	True	C	1	7/12	2.556	False	0	P1-Staff2	6	115	1.5	205	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	#4
-4140	6	345.0	345	0.5	1/2	115	1	6	8	115	230.0	D5	74	True	D	0	5/8	2.667	False	0	P1-Staff2	6	115	1.5	205	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-4140	6	345.0	345	0.5	1/2	115	1	6	8	115	230.0	G4	67	True	G	0	5/8	2.667	False	0	P1-Staff2	1	115	1.5	205	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-4140	6	345.0	345	0.5	1/2	115	1	6	8	115	230.0	B4	71	True	B	0	5/8	2.667	False	0	P1-Staff2	1	115	1.5	205	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
+4128	12	344.0	344	1.0	1	115	1	6	8	115	229.333	G4	67	True	G	0	3/8	2.0	True	2	P1-Staff2	1	115	1.5	205	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+4128	12	344.0	344	1.0	1	115	1	6	8	115	229.333	B4	71	True	B	0	3/8	2.0	True	2	P1-Staff2	1	115	1.5	205	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+4134	2	344.5	689/2	0.1667	1/6	115	1	6	8	115	229.666	D5	74	True	D	0	1/2	2.333	False	0	P1-Staff2	6	115	1.5	205	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+4136	2	344.6667	1034/3	0.1667	1/6	115	1	6	8	115	229.777	E5	76	True	E	0	13/24	2.444	False	0	P1-Staff2	6	115	1.5	205	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	6
+4138	2	344.8333	2069/6	0.1667	1/6	115	1	6	8	115	229.889	C#5	73	True	C	1	7/12	2.556	False	0	P1-Staff2	6	115	1.5	205	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	#4
+4140	6	345.0	345	0.5	1/2	115	1	6	8	115	230.0	D5	74	True	D	0	5/8	2.667	False	0	P1-Staff2	6	115	1.5	205	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+4140	6	345.0	345	0.5	1/2	115	1	6	8	115	230.0	G4	67	True	G	0	5/8	2.667	False	0	P1-Staff2	1	115	1.5	205	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+4140	6	345.0	345	0.5	1/2	115	1	6	8	115	230.0	B4	71	True	B	0	5/8	2.667	False	0	P1-Staff2	1	115	1.5	205	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
 4146	12	345.5	691/2	1.0	1	116	1	6	8	116	230.333	F#4	66	True	F	1	0	1.0	True	1	P1-Staff2	1	116	3.0	206	V	True	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	G	G	5	None	V	True	7
 4146	12	345.5	691/2	1.0	1	116	1	6	8	116	230.333	A4	69	True	A	0	0	1.0	True	1	P1-Staff2	1	116	3.0	206	V	True	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	G	G	5	None	V	True	2
 4152	2	346.0	346	0.1667	1/6	116	1	6	8	116	230.666	D6	86	True	D	0	1/8	1.333	False	0	P1-Staff2	6	116	3.0	206	V	False	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	G	G	5	None	V	True	5

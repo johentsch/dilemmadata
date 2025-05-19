@@ -5,7 +5,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 6.5	3	0	1.0	3	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	e-	eb	eb	e-	5	None	V	True
 7.5	3	1/4	0.5	4	i	i	True	('E-', 'G-', 'B-')	E-	E-	0	minor triad	(3, 6, 10)	e-	eb	eb	e-	1	None	i	True
 8.0	3	3/8	0.75	5	V7[no5]	V7	True	('B-', 'D', 'A-')	B-	B-	0	incomplete dominant-seventh chord	(2, 8, 10)	e-	eb	eb	e-	5	None	V7	True
-8.75	3	9/16	0.25	6	i64	V	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	V	True
+8.75	3	9/16	0.25	6	i64	Cad	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	Cad	True
 9.0	3	5/8	0.5	7	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	e-	eb	eb	e-	5	None	V	True
 9.5	4	0	2.5	8	i	i	True	('E-', 'G-', 'B-')	E-	E-	0	minor triad	(3, 6, 10)	e-	eb	eb	e-	1	None	i	True
 12.0	4	5/8	0.5	9	V43[no3]	V7	True	('D-', 'F-', 'G-')	D-	G-	2	incomplete dominant-seventh chord	(1, 4, 6)	C-	Cb	eb	C-	5	None	V7	True
@@ -28,7 +28,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 39.5	14	0	1.0	26	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	e-	eb	eb	e-	5	None	V	True
 40.5	14	1/4	0.5	27	i	i	True	('E-', 'G-', 'B-')	E-	E-	0	minor triad	(3, 6, 10)	e-	eb	eb	e-	1	None	i	True
 41.0	14	3/8	0.75	28	V7[no5]	V7	True	('B-', 'D', 'A-')	B-	B-	0	incomplete dominant-seventh chord	(2, 8, 10)	e-	eb	eb	e-	5	None	V7	True
-41.75	14	9/16	0.25	29	i64	V	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	V	True
+41.75	14	9/16	0.25	29	i64	Cad	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	Cad	True
 42.0	14	5/8	0.5	30	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	e-	eb	eb	e-	5	None	V	True
 42.5	15	0	2.5	31	i	i	True	('E-', 'G-', 'B-')	E-	E-	0	minor triad	(3, 6, 10)	e-	eb	eb	e-	1	None	i	True
 45.0	15	5/8	0.5	32	V43[no3]	V7	True	('D-', 'F-', 'G-')	D-	G-	2	incomplete dominant-seventh chord	(1, 4, 6)	C-	Cb	eb	C-	5	None	V7	True
@@ -67,9 +67,9 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 98.0	33	3/8	1.5	65	i	i	True	('A-', 'C-', 'E-')	A-	A-	0	minor triad	(3, 8, 11)	a-	ab	eb	a-	1	None	i	True
 99.5	34	0	3.0	66	i	i	True	('A-', 'C-', 'E-')	A-	A-	0	minor triad	(3, 8, 11)	a-	ab	eb	a-	1	None	i	True
 102.5	35	0	1.0	67	i	i	True	('A-', 'C-', 'E-')	A-	A-	0	minor triad	(3, 8, 11)	a-	ab	eb	a-	1	None	i	True
-103.5	35	1/4	0.5	68	i64	V	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	V	True
+103.5	35	1/4	0.5	68	i64	Cad	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	Cad	True
 104.0	35	3/8	0.75	69	V7[no3]	V7	True	('B-', 'F', 'A-')	B-	B-	0	incomplete dominant-seventh chord	(5, 8, 10)	e-	eb	eb	e-	5	None	V7	True
-104.75	35	9/16	0.25	70	i64	V	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	V	True
+104.75	35	9/16	0.25	70	i64	Cad	True	('B-', 'E-', 'G-')	B-	B-	0	major triad	(3, 6, 10)	e-	eb	eb	e-	5	None	Cad	True
 105.0	35	5/8	0.5	71	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	e-	eb	eb	e-	5	None	V	True
 105.5	36	0	3.0	72	i	i	True	('E-', 'G-', 'B-')	E-	E-	0	minor triad	(3, 6, 10)	e-	eb	eb	e-	1	None	i	True
 108.5	37	0	2.5	73	i	i	True	('E-', 'G-', 'B-')	E-	E-	0	minor triad	(3, 6, 10)	e-	eb	eb	e-	1	None	i	True

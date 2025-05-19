@@ -598,24 +598,24 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 936	4	234.0	234	1.0	1	79	-3	3	4	79	234.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	79	2.0	102	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	5
 940	4	235.0	235	1.0	1	79	-3	3	4	79	235.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	79	2.0	102	V7	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	2
 940	4	235.0	235	1.0	1	79	-3	3	4	79	235.0	B3	59	True	B	0	1/4	2.0	True	2	spine_0	1	79	2.0	102	V7	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	7
-944	4	236.0	236	1.0	1	79	-3	3	4	79	236.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	79	1.0	103	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	b3
-944	4	236.0	236	1.0	1	79	-3	3	4	79	236.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	79	1.0	103	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	1
-948	12	237.0	237	3.0	3	80	-3	3	4	80	237.0	G5	79	False	G	0	0	1.0	True	1	spine_0	1	80	2.0	104	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	5
-948	4	237.0	237	1.0	1	80	-3	3	4	80	237.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	80	2.0	104	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	5
-952	4	238.0	238	1.0	1	80	-3	3	4	80	238.0	C#4	61	True	C	1	1/4	2.0	True	2	spine_0	1	80	2.0	104	V	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	#1
-952	4	238.0	238	1.0	1	80	-3	3	4	80	238.0	A3	57	True	A	0	1/4	2.0	True	2	spine_0	1	80	2.0	104	V	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	6
+944	4	236.0	236	1.0	1	79	-3	3	4	79	236.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	79	1.0	103	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	b3
+944	4	236.0	236	1.0	1	79	-3	3	4	79	236.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	79	1.0	103	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	1
+948	12	237.0	237	3.0	3	80	-3	3	4	80	237.0	G5	79	False	G	0	0	1.0	True	1	spine_0	1	80	2.0	104	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	5
+948	4	237.0	237	1.0	1	80	-3	3	4	80	237.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	80	2.0	104	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	5
+952	4	238.0	238	1.0	1	80	-3	3	4	80	238.0	C#4	61	True	C	1	1/4	2.0	True	2	spine_0	1	80	2.0	104	Cad	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	#1
+952	4	238.0	238	1.0	1	80	-3	3	4	80	238.0	A3	57	True	A	0	1/4	2.0	True	2	spine_0	1	80	2.0	104	Cad	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	6
 956	4	239.0	239	1.0	1	80	-3	3	4	80	239.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	80	1.0	105	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	2
 956	4	239.0	239	1.0	1	80	-3	3	4	80	239.0	B3	59	True	B	0	1/2	3.0	True	3	spine_0	1	80	1.0	105	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	7
 960	12	240.0	240	3.0	3	81	-3	3	4	81	240.0	G4	67	True	G	0	0	1.0	True	1	spine_0	1	81	2.0	106	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	5
 960	4	240.0	240	1.0	1	81	-3	3	4	81	240.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	81	2.0	106	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	5
 964	4	241.0	241	1.0	1	81	-3	3	4	81	241.0	E-4	63	True	E	-1	1/4	2.0	True	2	spine_0	1	81	2.0	106	V	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	b3
 964	4	241.0	241	1.0	1	81	-3	3	4	81	241.0	C4	60	True	C	0	1/4	2.0	True	2	spine_0	1	81	2.0	106	V	False	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	1
-968	4	242.0	242	1.0	1	81	-3	3	4	81	242.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	81	1.0	107	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	b3
-968	4	242.0	242	1.0	1	81	-3	3	4	81	242.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	81	1.0	107	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	1
-972	12	243.0	243	3.0	3	82	-3	3	4	82	243.0	G4	67	False	G	0	0	1.0	True	1	spine_0	1	82	2.0	108	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	5
-972	4	243.0	243	1.0	1	82	-3	3	4	82	243.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	82	2.0	108	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	5
-976	4	244.0	244	1.0	1	82	-3	3	4	82	244.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	82	2.0	108	V	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	2
-976	4	244.0	244	1.0	1	82	-3	3	4	82	244.0	B3	59	True	B	0	1/4	2.0	True	2	spine_0	1	82	2.0	108	V	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	V	True	7
+968	4	242.0	242	1.0	1	81	-3	3	4	81	242.0	E-4	63	True	E	-1	1/2	3.0	True	3	spine_0	1	81	1.0	107	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	b3
+968	4	242.0	242	1.0	1	81	-3	3	4	81	242.0	C4	60	True	C	0	1/2	3.0	True	3	spine_0	1	81	1.0	107	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	1
+972	12	243.0	243	3.0	3	82	-3	3	4	82	243.0	G4	67	False	G	0	0	1.0	True	1	spine_0	1	82	2.0	108	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	5
+972	4	243.0	243	1.0	1	82	-3	3	4	82	243.0	G2	43	True	G	0	0	1.0	True	1	spine_0	1	82	2.0	108	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	5
+976	4	244.0	244	1.0	1	82	-3	3	4	82	244.0	D4	62	True	D	0	1/4	2.0	True	2	spine_0	1	82	2.0	108	Cad	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	2
+976	4	244.0	244	1.0	1	82	-3	3	4	82	244.0	B3	59	True	B	0	1/4	2.0	True	2	spine_0	1	82	2.0	108	Cad	False	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	C	C	5	None	Cad	True	7
 980	4	245.0	245	1.0	1	82	-3	3	4	82	245.0	D4	62	True	D	0	1/2	3.0	True	3	spine_0	1	82	1.0	109	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	2
 980	4	245.0	245	1.0	1	82	-3	3	4	82	245.0	B3	59	True	B	0	1/2	3.0	True	3	spine_0	1	82	1.0	109	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	7
 984	12	246.0	246	3.0	3	83	-3	3	4	83	246.0	F#4	66	True	F	1	0	1.0	True	1	spine_0	1	83	2.0	110	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	5	None	V	True	#4

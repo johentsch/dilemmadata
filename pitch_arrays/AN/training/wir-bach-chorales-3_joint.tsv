@@ -63,11 +63,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 50	1	12.5	25/2	0.25	1/4	3	1	4	4	3	12.5	C5	72	True	C	0	7/8	4.5	False	0	Bass	1	3	1.0	15	iio	False	('D', 'F', 'B')	D	B	1	diminished triad	(2, 5, 11)	a	a	2	None	iio	True	3
 50	2	12.5	25/2	0.5	1/2	3	1	4	4	3	12.5	D3	50	True	D	0	7/8	4.5	False	0	Bass	1	3	1.0	15	iio	False	('D', 'F', 'B')	D	B	1	diminished triad	(2, 5, 11)	a	a	2	None	iio	True	4
 51	1	12.75	51/4	0.25	1/4	3	1	4	4	3	12.75	D5	74	True	D	0	15/16	4.75	False	0	Bass	1	3	1.0	15	iio	False	('D', 'F', 'B')	D	B	1	diminished triad	(2, 5, 11)	a	a	2	None	iio	True	4
-52	4	13.0	13	1.0	1	4	1	4	4	4	13.0	C5	72	True	C	0	0	1.0	True	1	Bass	1	4	1.0	16	V	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	V	True	3
-52	8	13.0	13	2.0	2	4	1	4	4	4	13.0	E4	64	True	E	0	0	1.0	True	1	Bass	1	4	1.0	16	V	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	V	True	5
-52	2	13.0	13	0.5	1/2	4	1	4	4	4	13.0	G#3	56	True	G	1	0	1.0	True	1	Bass	1	4	1.0	16	V	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	V	True	#7
-52	8	13.0	13	2.0	2	4	1	4	4	4	13.0	E3	52	True	E	0	0	1.0	True	1	Bass	1	4	1.0	16	V	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	V	True	5
-54	4	13.5	27/2	1.0	1	4	1	4	4	4	13.5	A3	57	True	A	0	1/8	1.5	False	0	Bass	1	4	1.0	16	V	False	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	V	True	1
+52	4	13.0	13	1.0	1	4	1	4	4	4	13.0	C5	72	True	C	0	0	1.0	True	1	Bass	1	4	1.0	16	Cad	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	Cad	True	3
+52	8	13.0	13	2.0	2	4	1	4	4	4	13.0	E4	64	True	E	0	0	1.0	True	1	Bass	1	4	1.0	16	Cad	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	Cad	True	5
+52	2	13.0	13	0.5	1/2	4	1	4	4	4	13.0	G#3	56	True	G	1	0	1.0	True	1	Bass	1	4	1.0	16	Cad	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	Cad	True	#7
+52	8	13.0	13	2.0	2	4	1	4	4	4	13.0	E3	52	True	E	0	0	1.0	True	1	Bass	1	4	1.0	16	Cad	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	Cad	True	5
+54	4	13.5	27/2	1.0	1	4	1	4	4	4	13.5	A3	57	True	A	0	1/8	1.5	False	0	Bass	1	4	1.0	16	Cad	False	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	5	None	Cad	True	1
 56	4	14.0	14	1.0	1	4	1	4	4	4	14.0	B4	71	True	B	0	1/4	2.0	True	2	Bass	1	4	1.0	17	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	5	None	V	True	2
 58	2	14.5	29/2	0.5	1/2	4	1	4	4	4	14.5	G#3	56	True	G	1	3/8	2.5	False	0	Bass	1	4	1.0	17	V	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	5	None	V	True	#7
 60	4	15.0	15	1.0	1	4	1	4	4	4	15.0	A4	69	True	A	0	1/2	3.0	True	3	Bass	1	4	1.0	18	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	1	None	i	True	1

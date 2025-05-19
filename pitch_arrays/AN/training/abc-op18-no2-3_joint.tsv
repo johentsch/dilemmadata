@@ -211,10 +211,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 546	6	45.5	91/2	0.5	1/2	15	1	3	4	15	45.5	C5	72	True	C	0	5/8	3.5	False	0	Cello	1	15	0.5	27	ii	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	G	G	2	None	ii	True	4
 546	6	45.5	91/2	0.5	1/2	15	1	3	4	15	45.5	E4	64	True	E	0	5/8	3.5	False	0	Cello	1	15	0.5	27	ii	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	G	G	2	None	ii	True	6
 546	6	45.5	91/2	0.5	1/2	15	1	3	4	15	45.5	A2	45	True	A	0	5/8	3.5	False	0	Cello	1	15	0.5	27	ii	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	G	G	2	None	ii	True	2
-552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	B5	83	True	B	0	0	1.0	True	1	Cello	1	16	1.0	28	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	B4	71	True	B	0	0	1.0	True	1	Cello	1	16	1.0	28	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	G4	67	True	G	0	0	1.0	True	1	Cello	1	16	1.0	28	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	D3	50	True	D	0	0	1.0	True	1	Cello	1	16	1.0	28	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
+552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	B5	83	True	B	0	0	1.0	True	1	Cello	1	16	1.0	28	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	B4	71	True	B	0	0	1.0	True	1	Cello	1	16	1.0	28	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	G4	67	True	G	0	0	1.0	True	1	Cello	1	16	1.0	28	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+552	12	46.0	46	1.0	1	16	1	3	4	16	46.0	D3	50	True	D	0	0	1.0	True	1	Cello	1	16	1.0	28	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
 564	6	47.0	47	0.5	1/2	16	1	3	4	16	47.0	A5	81	True	A	0	1/4	2.0	True	2	Cello	1	16	1.0	29	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	G	G	5	None	V	True	2
 564	6	47.0	47	0.5	1/2	16	1	3	4	16	47.0	A4	69	True	A	0	1/4	2.0	True	2	Cello	1	16	1.0	29	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	G	G	5	None	V	True	2
 564	6	47.0	47	0.5	1/2	16	1	3	4	16	47.0	F#4	66	True	F	1	1/4	2.0	True	2	Cello	1	16	1.0	29	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	G	G	5	None	V	True	7
@@ -447,24 +447,24 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1014	3	84.5	169/2	0.25	1/4	28	1	3	4	28	84.5	E4	64	True	E	0	5/8	3.5	False	0	Cello	1	28	3.0	49	ii	False	('C', 'E', 'A')	C	A	1	minor triad	(0, 4, 9)	G	G	2	None	ii	True	6
 1017	3	84.75	339/4	0.25	1/4	28	1	3	4	28	84.75	C5	72	True	C	0	11/16	3.75	False	0	Cello	1	28	3.0	49	ii	False	('C', 'E', 'A')	C	A	1	minor triad	(0, 4, 9)	G	G	2	None	ii	True	4
 1017	3	84.75	339/4	0.25	1/4	28	1	3	4	28	84.75	C4	60	True	C	0	11/16	3.75	False	0	Cello	1	28	3.0	49	ii	False	('C', 'E', 'A')	C	A	1	minor triad	(0, 4, 9)	G	G	2	None	ii	True	4
-1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	B4	71	True	B	0	0	1.0	True	1	Cello	1	29	2.0	50	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	B3	59	True	B	0	0	1.0	True	1	Cello	1	29	2.0	50	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	D3	50	True	D	0	0	1.0	True	1	Cello	1	29	2.0	50	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	D2	38	True	D	0	0	1.0	True	1	Cello	1	29	2.0	50	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-1026	3	85.5	171/2	0.25	1/4	29	1	3	4	29	85.5	C#5	73	True	C	1	1/8	1.5	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	#4
-1026	6	85.5	171/2	0.5	1/2	29	1	3	4	29	85.5	G4	67	True	G	0	1/8	1.5	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-1026	3	85.5	171/2	0.25	1/4	29	1	3	4	29	85.5	G3	55	True	G	0	1/8	1.5	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-1026	3	85.5	171/2	0.25	1/4	29	1	3	4	29	85.5	G2	43	True	G	0	1/8	1.5	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-1029	3	85.75	343/4	0.25	1/4	29	1	3	4	29	85.75	D5	74	True	D	0	3/16	1.75	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-1029	3	85.75	343/4	0.25	1/4	29	1	3	4	29	85.75	B3	59	True	B	0	3/16	1.75	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1029	3	85.75	343/4	0.25	1/4	29	1	3	4	29	85.75	B2	47	True	B	0	3/16	1.75	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1032	6	86.0	86	0.5	1/2	29	1	3	4	29	86.0	B4	71	True	B	0	1/4	2.0	True	2	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1032	6	86.0	86	0.5	1/2	29	1	3	4	29	86.0	B3	59	True	B	0	1/4	2.0	True	2	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1032	12	86.0	86	1.0	1	29	1	3	4	29	86.0	D4	62	True	D	0	1/4	2.0	True	2	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-1032	12	86.0	86	1.0	1	29	1	3	4	29	86.0	D3	50	True	D	0	1/4	2.0	True	2	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-1038	3	86.5	173/2	0.25	1/4	29	1	3	4	29	86.5	C#5	73	True	C	1	3/8	2.5	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	#4
-1038	6	86.5	173/2	0.5	1/2	29	1	3	4	29	86.5	G4	67	True	G	0	3/8	2.5	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-1041	3	86.75	347/4	0.25	1/4	29	1	3	4	29	86.75	D5	74	True	D	0	7/16	2.75	False	0	Cello	1	29	2.0	50	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
+1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	B4	71	True	B	0	0	1.0	True	1	Cello	1	29	2.0	50	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	B3	59	True	B	0	0	1.0	True	1	Cello	1	29	2.0	50	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	D3	50	True	D	0	0	1.0	True	1	Cello	1	29	2.0	50	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+1020	6	85.0	85	0.5	1/2	29	1	3	4	29	85.0	D2	38	True	D	0	0	1.0	True	1	Cello	1	29	2.0	50	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+1026	3	85.5	171/2	0.25	1/4	29	1	3	4	29	85.5	C#5	73	True	C	1	1/8	1.5	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	#4
+1026	6	85.5	171/2	0.5	1/2	29	1	3	4	29	85.5	G4	67	True	G	0	1/8	1.5	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+1026	3	85.5	171/2	0.25	1/4	29	1	3	4	29	85.5	G3	55	True	G	0	1/8	1.5	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+1026	3	85.5	171/2	0.25	1/4	29	1	3	4	29	85.5	G2	43	True	G	0	1/8	1.5	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+1029	3	85.75	343/4	0.25	1/4	29	1	3	4	29	85.75	D5	74	True	D	0	3/16	1.75	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+1029	3	85.75	343/4	0.25	1/4	29	1	3	4	29	85.75	B3	59	True	B	0	3/16	1.75	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1029	3	85.75	343/4	0.25	1/4	29	1	3	4	29	85.75	B2	47	True	B	0	3/16	1.75	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1032	6	86.0	86	0.5	1/2	29	1	3	4	29	86.0	B4	71	True	B	0	1/4	2.0	True	2	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1032	6	86.0	86	0.5	1/2	29	1	3	4	29	86.0	B3	59	True	B	0	1/4	2.0	True	2	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1032	12	86.0	86	1.0	1	29	1	3	4	29	86.0	D4	62	True	D	0	1/4	2.0	True	2	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+1032	12	86.0	86	1.0	1	29	1	3	4	29	86.0	D3	50	True	D	0	1/4	2.0	True	2	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+1038	3	86.5	173/2	0.25	1/4	29	1	3	4	29	86.5	C#5	73	True	C	1	3/8	2.5	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	#4
+1038	6	86.5	173/2	0.5	1/2	29	1	3	4	29	86.5	G4	67	True	G	0	3/8	2.5	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+1041	3	86.75	347/4	0.25	1/4	29	1	3	4	29	86.75	D5	74	True	D	0	7/16	2.75	False	0	Cello	1	29	2.0	50	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
 1044	6	87.0	87	0.5	1/2	29	1	3	4	29	87.0	A4	69	True	A	0	1/2	3.0	True	3	Cello	1	29	1.0	51	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	2
 1044	6	87.0	87	0.5	1/2	29	1	3	4	29	87.0	C4	60	True	C	0	1/2	3.0	True	3	Cello	1	29	1.0	51	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	4
 1044	12	87.0	87	1.0	1	29	1	3	4	29	87.0	D4	62	True	D	0	1/2	3.0	True	3	Cello	1	29	1.0	51	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	5
@@ -595,10 +595,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1326	6	110.5	221/2	0.5	1/2	37	1	3	4	37	110.5	A4	69	True	A	0	3/8	2.5	False	0	Cello	1	37	0.5	73	ii7	True	('C', 'E', 'G', 'A')	C	A	1	minor seventh chord	(0, 4, 7, 9)	G	G	2	None	ii7	True	2
 1326	6	110.5	221/2	0.5	1/2	37	1	3	4	37	110.5	G4	67	True	G	0	3/8	2.5	False	0	Cello	1	37	0.5	73	ii7	True	('C', 'E', 'G', 'A')	C	A	1	minor seventh chord	(0, 4, 7, 9)	G	G	2	None	ii7	True	1
 1326	6	110.5	221/2	0.5	1/2	37	1	3	4	37	110.5	C3	48	True	C	0	3/8	2.5	False	0	Cello	1	37	0.5	73	ii7	True	('C', 'E', 'G', 'A')	C	A	1	minor seventh chord	(0, 4, 7, 9)	G	G	2	None	ii7	True	4
-1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	D6	86	True	D	0	1/2	3.0	True	3	Cello	1	37	0.5	74	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
-1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	B4	71	True	B	0	1/2	3.0	True	3	Cello	1	37	0.5	74	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	G4	67	True	G	0	1/2	3.0	True	3	Cello	1	37	0.5	74	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	D3	50	True	D	0	1/2	3.0	True	3	Cello	1	37	0.5	74	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
+1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	D6	86	True	D	0	1/2	3.0	True	3	Cello	1	37	0.5	74	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
+1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	B4	71	True	B	0	1/2	3.0	True	3	Cello	1	37	0.5	74	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	G4	67	True	G	0	1/2	3.0	True	3	Cello	1	37	0.5	74	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+1332	6	111.0	111	0.5	1/2	37	1	3	4	37	111.0	D3	50	True	D	0	1/2	3.0	True	3	Cello	1	37	0.5	74	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
 1338	6	111.5	223/2	0.5	1/2	37	1	3	4	37	111.5	F#5	78	True	F	1	5/8	3.5	False	0	Cello	1	37	0.5	75	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	7
 1338	6	111.5	223/2	0.5	1/2	37	1	3	4	37	111.5	C5	72	True	C	0	5/8	3.5	False	0	Cello	1	37	0.5	75	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	4
 1338	6	111.5	223/2	0.5	1/2	37	1	3	4	37	111.5	A4	69	True	A	0	5/8	3.5	False	0	Cello	1	37	0.5	75	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	2
@@ -1151,17 +1151,17 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2736	12	228.0	228	1.0	1	76	0	3	4	76	228.0	F#2	42	True	F	1	1/2	3.0	True	3	Cello	1	76	1.0	131	V7/V	True	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	C	G	5	5	V7	True	#4
 2740	4	228.3333	685/3	0.3333	1/3	76	0	3	4	76	228.333	D#4	63	True	D	1	7/12	3.333	False	0	Cello	1	76	1.0	131	V7/V	False	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	C	G	5	5	V7	True	#2
 2744	4	228.6667	686/3	0.3333	1/3	76	0	3	4	76	228.667	D4	62	True	D	0	2/3	3.667	False	0	Cello	1	76	1.0	131	V7/V	False	('F#', 'A', 'C', 'D')	F#	D	1	dominant seventh chord	(0, 2, 6, 9)	C	G	5	5	V7	True	2
-2748	4	229.0	229	0.3333	1/3	77	0	3	4	77	229.0	G4	67	True	G	0	0	1.0	True	1	Cello	1	77	2.0	132	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-2748	12	229.0	229	1.0	1	77	0	3	4	77	229.0	E4	64	True	E	0	0	1.0	True	1	Cello	1	77	2.0	132	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	3
-2748	12	229.0	229	1.0	1	77	0	3	4	77	229.0	G2	43	True	G	0	0	1.0	True	1	Cello	1	77	2.0	132	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-2752	4	229.3333	688/3	0.3333	1/3	77	0	3	4	77	229.333	F#4	66	True	F	1	1/12	1.333	False	0	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	#4
-2756	4	229.6667	689/3	0.3333	1/3	77	0	3	4	77	229.667	A4	69	True	A	0	1/6	1.667	False	0	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	6
-2760	4	230.0	230	0.3333	1/3	77	0	3	4	77	230.0	G4	67	True	G	0	1/4	2.0	True	2	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-2760	6	230.0	230	0.5	1/2	77	0	3	4	77	230.0	G5	79	True	G	0	1/4	2.0	True	2	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-2764	4	230.3333	691/3	0.3333	1/3	77	0	3	4	77	230.333	E4	64	True	E	0	1/3	2.333	False	0	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	3
-2766	3	230.5	461/2	0.25	1/4	77	0	3	4	77	230.5	F#5	78	True	F	1	3/8	2.5	False	0	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	#4
-2768	4	230.6667	692/3	0.3333	1/3	77	0	3	4	77	230.667	C4	60	True	C	0	5/12	2.667	False	0	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	1
-2769	3	230.75	923/4	0.25	1/4	77	0	3	4	77	230.75	G5	79	True	G	0	7/16	2.75	False	0	Cello	1	77	2.0	132	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
+2748	4	229.0	229	0.3333	1/3	77	0	3	4	77	229.0	G4	67	True	G	0	0	1.0	True	1	Cello	1	77	2.0	132	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+2748	12	229.0	229	1.0	1	77	0	3	4	77	229.0	E4	64	True	E	0	0	1.0	True	1	Cello	1	77	2.0	132	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	3
+2748	12	229.0	229	1.0	1	77	0	3	4	77	229.0	G2	43	True	G	0	0	1.0	True	1	Cello	1	77	2.0	132	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+2752	4	229.3333	688/3	0.3333	1/3	77	0	3	4	77	229.333	F#4	66	True	F	1	1/12	1.333	False	0	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	#4
+2756	4	229.6667	689/3	0.3333	1/3	77	0	3	4	77	229.667	A4	69	True	A	0	1/6	1.667	False	0	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	6
+2760	4	230.0	230	0.3333	1/3	77	0	3	4	77	230.0	G4	67	True	G	0	1/4	2.0	True	2	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+2760	6	230.0	230	0.5	1/2	77	0	3	4	77	230.0	G5	79	True	G	0	1/4	2.0	True	2	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+2764	4	230.3333	691/3	0.3333	1/3	77	0	3	4	77	230.333	E4	64	True	E	0	1/3	2.333	False	0	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	3
+2766	3	230.5	461/2	0.25	1/4	77	0	3	4	77	230.5	F#5	78	True	F	1	3/8	2.5	False	0	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	#4
+2768	4	230.6667	692/3	0.3333	1/3	77	0	3	4	77	230.667	C4	60	True	C	0	5/12	2.667	False	0	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	1
+2769	3	230.75	923/4	0.25	1/4	77	0	3	4	77	230.75	G5	79	True	G	0	7/16	2.75	False	0	Cello	1	77	2.0	132	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
 2772	4	231.0	231	0.3333	1/3	77	0	3	4	77	231.0	G3	55	True	G	0	1/2	3.0	True	3	Cello	1	77	1.0	133	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	5
 2772	12	231.0	231	1.0	1	77	0	3	4	77	231.0	F4	65	True	F	0	1/2	3.0	True	3	Cello	1	77	1.0	133	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	4
 2772	12	231.0	231	1.0	1	77	0	3	4	77	231.0	G3	55	True	G	0	1/2	3.0	True	3	Cello	1	77	1.0	133	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	5

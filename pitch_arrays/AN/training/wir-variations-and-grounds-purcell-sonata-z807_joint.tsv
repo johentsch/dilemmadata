@@ -33,9 +33,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 50	2	12.5	25/2	0.5	1/2	5	-2	3	4	5	12.5	G5	79	True	G	0	1/8	1.5	False	0	Basso Continuo	1	5	1.0	9	iiø7	False	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	1
 50	1	12.5	25/2	0.25	1/4	5	-2	3	4	5	12.5	D5	74	True	D	0	1/8	1.5	False	0	Basso Continuo	1	5	1.0	9	iiø7	False	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	5
 51	1	12.75	51/4	0.25	1/4	5	-2	3	4	5	12.75	C5	72	True	C	0	3/16	1.75	False	0	Basso Continuo	1	5	1.0	9	iiø7	False	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	4
-52	6	13.0	13	1.5	3/2	5	-2	3	4	5	13.0	G5	79	True	G	0	1/4	2.0	True	2	Basso Continuo	1	5	1.5	10	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
-52	6	13.0	13	1.5	3/2	5	-2	3	4	5	13.0	B-4	70	True	B	-1	1/4	2.0	True	2	Basso Continuo	1	5	1.5	10	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
-52	8	13.0	13	2.0	2	5	-2	3	4	5	13.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	5	1.5	10	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
+52	6	13.0	13	1.5	3/2	5	-2	3	4	5	13.0	G5	79	True	G	0	1/4	2.0	True	2	Basso Continuo	1	5	1.5	10	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	1
+52	6	13.0	13	1.5	3/2	5	-2	3	4	5	13.0	B-4	70	True	B	-1	1/4	2.0	True	2	Basso Continuo	1	5	1.5	10	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	3
+52	8	13.0	13	2.0	2	5	-2	3	4	5	13.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	5	1.5	10	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	5
 58	2	14.5	29/2	0.5	1/2	5	-2	3	4	5	14.5	F#5	78	True	F	1	5/8	3.5	False	0	Basso Continuo	1	5	0.5	11	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	#7
 58	2	14.5	29/2	0.5	1/2	5	-2	3	4	5	14.5	A4	69	True	A	0	5/8	3.5	False	0	Basso Continuo	1	5	0.5	11	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	2
 60	4	15.0	15	1.0	1	6	-2	3	4	6	15.0	G5	79	True	G	0	0	1.0	True	1	Basso Continuo	1	6	3.0	12	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
@@ -107,11 +107,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 168	2	42.0	42	0.5	1/2	15	-2	3	4	15	42.0	A4	69	True	A	0	0	1.0	True	1	Basso Continuo	1	15	1.0	30	iiø7	True	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	2
 168	4	42.0	42	1.0	1	15	-2	3	4	15	42.0	C3	48	True	C	0	0	1.0	True	1	Basso Continuo	1	15	1.0	30	iiø7	True	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	4
 170	2	42.5	85/2	0.5	1/2	15	-2	3	4	15	42.5	G4	67	True	G	0	1/8	1.5	False	0	Basso Continuo	1	15	1.0	30	iiø7	False	('C', 'E-', 'G', 'A')	C	A	1	half-diminished seventh chord	(0, 3, 7, 9)	g	g	2	None	ii%7	True	1
-172	3	43.0	43	0.75	3/4	15	-2	3	4	15	43.0	F5	77	True	F	0	1/4	2.0	True	2	Basso Continuo	1	15	1.5	31	V	True	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	V	True	7
-172	6	43.0	43	1.5	3/2	15	-2	3	4	15	43.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	15	1.5	31	V	True	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	V	True	1
-172	8	43.0	43	2.0	2	15	-2	3	4	15	43.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	15	1.5	31	V	True	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	V	True	5
-175	1	43.75	175/4	0.25	1/4	15	-2	3	4	15	43.75	E-5	75	True	E	-1	7/16	2.75	False	0	Basso Continuo	1	15	1.5	31	V	False	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	V	True	6
-176	3	44.0	44	0.75	3/4	15	-2	3	4	15	44.0	D5	74	True	D	0	1/2	3.0	True	3	Basso Continuo	1	15	1.5	31	V	False	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	V	True	5
+172	3	43.0	43	0.75	3/4	15	-2	3	4	15	43.0	F5	77	True	F	0	1/4	2.0	True	2	Basso Continuo	1	15	1.5	31	Cad	True	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	Cad	True	7
+172	6	43.0	43	1.5	3/2	15	-2	3	4	15	43.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	15	1.5	31	Cad	True	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	Cad	True	1
+172	8	43.0	43	2.0	2	15	-2	3	4	15	43.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	15	1.5	31	Cad	True	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	Cad	True	5
+175	1	43.75	175/4	0.25	1/4	15	-2	3	4	15	43.75	E-5	75	True	E	-1	7/16	2.75	False	0	Basso Continuo	1	15	1.5	31	Cad	False	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	Cad	True	6
+176	3	44.0	44	0.75	3/4	15	-2	3	4	15	44.0	D5	74	True	D	0	1/2	3.0	True	3	Basso Continuo	1	15	1.5	31	Cad	False	('D', 'F', 'G', 'B-')	D	D	0	major triad	(2, 5, 7, 10)	g	g	5	None	Cad	True	5
 178	2	44.5	89/2	0.5	1/2	15	-2	3	4	15	44.5	F#4	66	True	F	1	5/8	3.5	False	0	Basso Continuo	1	15	0.5	32	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	#7
 179	1	44.75	179/4	0.25	1/4	15	-2	3	4	15	44.75	C5	72	True	C	0	11/16	3.75	False	0	Basso Continuo	1	15	0.5	32	V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	4
 180	4	45.0	45	1.0	1	16	-2	3	4	16	45.0	B4	71	True	B	0	0	1.0	True	1	Basso Continuo	1	16	1.0	33	I	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	g	g	1	None	I	True	#3
@@ -400,7 +400,7 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 588	6	147.0	147	1.5	3/2	50	-2	3	4	50	147.0	B-4	70	True	B	-1	0	1.0	True	1	Basso Continuo	1	50	1.0	95	iv7	True	('C', 'E-', 'G', 'B-')	C	C	0	minor seventh chord	(0, 3, 7, 10)	g	g	4	None	iv7	True	3
 588	6	147.0	147	1.5	3/2	50	-2	3	4	50	147.0	G5	79	True	G	0	0	1.0	True	1	Basso Continuo	1	50	1.0	95	iv7	True	('C', 'E-', 'G', 'B-')	C	C	0	minor seventh chord	(0, 3, 7, 10)	g	g	4	None	iv7	True	1
 588	4	147.0	147	1.0	1	50	-2	3	4	50	147.0	C3	48	True	C	0	0	1.0	True	1	Basso Continuo	1	50	1.0	95	iv7	True	('C', 'E-', 'G', 'B-')	C	C	0	minor seventh chord	(0, 3, 7, 10)	g	g	4	None	iv7	True	4
-592	8	148.0	148	2.0	2	50	-2	3	4	50	148.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	50	0.5	96	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
+592	8	148.0	148	2.0	2	50	-2	3	4	50	148.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	50	0.5	96	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	5
 594	2	148.5	297/2	0.5	1/2	50	-2	3	4	50	148.5	C5	72	True	C	0	3/8	2.5	False	0	Basso Continuo	1	50	1.5	97	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	4
 594	2	148.5	297/2	0.5	1/2	50	-2	3	4	50	148.5	A5	81	True	A	0	3/8	2.5	False	0	Basso Continuo	1	50	1.5	97	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
 596	4	149.0	149	1.0	1	50	-2	3	4	50	149.0	A4	69	True	A	0	1/2	3.0	True	3	Basso Continuo	1	50	1.5	97	V7	False	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	g	g	5	None	V7	True	2
@@ -509,9 +509,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 708	4	177.0	177	1.0	1	60	-2	3	4	60	177.0	C3	48	True	C	0	0	1.0	True	1	Basso Continuo	1	60	1.0	115	ii	True	('C', 'E', 'A')	C	A	1	minor triad	(0, 4, 9)	g	g	2	None	ii	True	4
 710	2	177.5	355/2	0.5	1/2	60	-2	3	4	60	177.5	B-4	70	True	B	-1	1/8	1.5	False	0	Basso Continuo	1	60	1.0	115	ii	False	('C', 'E', 'A')	C	A	1	minor triad	(0, 4, 9)	g	g	2	None	ii	True	3
 710	2	177.5	355/2	0.5	1/2	60	-2	3	4	60	177.5	G4	67	True	G	0	1/8	1.5	False	0	Basso Continuo	1	60	1.0	115	ii	False	('C', 'E', 'A')	C	A	1	minor triad	(0, 4, 9)	g	g	2	None	ii	True	1
-712	6	178.0	178	1.5	3/2	60	-2	3	4	60	178.0	B-4	70	True	B	-1	1/4	2.0	True	2	Basso Continuo	1	60	1.5	116	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
-712	6	178.0	178	1.5	3/2	60	-2	3	4	60	178.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	60	1.5	116	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
-712	8	178.0	178	2.0	2	60	-2	3	4	60	178.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	60	1.5	116	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
+712	6	178.0	178	1.5	3/2	60	-2	3	4	60	178.0	B-4	70	True	B	-1	1/4	2.0	True	2	Basso Continuo	1	60	1.5	116	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	3
+712	6	178.0	178	1.5	3/2	60	-2	3	4	60	178.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	60	1.5	116	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	1
+712	8	178.0	178	2.0	2	60	-2	3	4	60	178.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	60	1.5	116	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	5
 718	2	179.5	359/2	0.5	1/2	60	-2	3	4	60	179.5	A4	69	True	A	0	5/8	3.5	False	0	Basso Continuo	1	60	0.5	117	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	2
 718	2	179.5	359/2	0.5	1/2	60	-2	3	4	60	179.5	F#4	66	True	F	1	5/8	3.5	False	0	Basso Continuo	1	60	0.5	117	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	#7
 720	4	180.0	180	1.0	1	61	-2	3	4	61	180.0	G4	67	True	G	0	0	1.0	True	1	Basso Continuo	1	61	3.0	118	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	1
@@ -568,11 +568,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 770	1	192.5	385/2	0.25	1/4	65	-2	3	4	65	192.5	E-5	75	True	E	-1	1/8	1.5	False	0	Basso Continuo	1	65	1.0	124	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	6
 770	2	192.5	385/2	0.5	1/2	65	-2	3	4	65	192.5	G4	67	True	G	0	1/8	1.5	False	0	Basso Continuo	1	65	1.0	124	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	1
 771	1	192.75	771/4	0.25	1/4	65	-2	3	4	65	192.75	D5	74	True	D	0	3/16	1.75	False	0	Basso Continuo	1	65	1.0	124	iv	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	iv	True	5
-772	2	193.0	193	0.5	1/2	65	-2	3	4	65	193.0	C5	72	True	C	0	1/4	2.0	True	2	Basso Continuo	1	65	1.0	125	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	4
-772	6	193.0	193	1.5	3/2	65	-2	3	4	65	193.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	65	1.0	125	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
-772	8	193.0	193	2.0	2	65	-2	3	4	65	193.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	65	1.0	125	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
-774	1	193.5	387/2	0.25	1/4	65	-2	3	4	65	193.5	B-4	70	True	B	-1	3/8	2.5	False	0	Basso Continuo	1	65	1.0	125	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
-775	1	193.75	775/4	0.25	1/4	65	-2	3	4	65	193.75	C5	72	True	C	0	7/16	2.75	False	0	Basso Continuo	1	65	1.0	125	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	4
+772	2	193.0	193	0.5	1/2	65	-2	3	4	65	193.0	C5	72	True	C	0	1/4	2.0	True	2	Basso Continuo	1	65	1.0	125	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	4
+772	6	193.0	193	1.5	3/2	65	-2	3	4	65	193.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	65	1.0	125	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	1
+772	8	193.0	193	2.0	2	65	-2	3	4	65	193.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	65	1.0	125	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	5
+774	1	193.5	387/2	0.25	1/4	65	-2	3	4	65	193.5	B-4	70	True	B	-1	3/8	2.5	False	0	Basso Continuo	1	65	1.0	125	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	3
+775	1	193.75	775/4	0.25	1/4	65	-2	3	4	65	193.75	C5	72	True	C	0	7/16	2.75	False	0	Basso Continuo	1	65	1.0	125	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	4
 776	2	194.0	194	0.5	1/2	65	-2	3	4	65	194.0	A4	69	True	A	0	1/2	3.0	True	3	Basso Continuo	1	65	1.0	126	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	2
 778	2	194.5	389/2	0.5	1/2	65	-2	3	4	65	194.5	D5	74	True	D	0	5/8	3.5	False	0	Basso Continuo	1	65	1.0	126	V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	5
 778	2	194.5	389/2	0.5	1/2	65	-2	3	4	65	194.5	F#4	66	True	F	1	5/8	3.5	False	0	Basso Continuo	1	65	1.0	126	V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	#7
@@ -1139,9 +1139,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1608	4	402.0	402	1.0	1	135	-2	3	4	135	402.0	C3	48	True	C	0	0	1.0	True	1	Basso Continuo	1	135	1.0	264	iv5	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	none	False	4
 1610	2	402.5	805/2	0.5	1/2	135	-2	3	4	135	402.5	G4	67	True	G	0	1/8	1.5	False	0	Basso Continuo	1	135	1.0	264	iv5	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	none	False	1
 1610	2	402.5	805/2	0.5	1/2	135	-2	3	4	135	402.5	B-4	70	True	B	-1	1/8	1.5	False	0	Basso Continuo	1	135	1.0	264	iv5	False	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	g	g	4	None	none	False	3
-1612	4	403.0	403	1.0	1	135	-2	3	4	135	403.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	135	1.0	265	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
-1612	4	403.0	403	1.0	1	135	-2	3	4	135	403.0	B-4	70	True	B	-1	1/4	2.0	True	2	Basso Continuo	1	135	1.0	265	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
-1612	8	403.0	403	2.0	2	135	-2	3	4	135	403.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	135	1.0	265	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
+1612	4	403.0	403	1.0	1	135	-2	3	4	135	403.0	G4	67	True	G	0	1/4	2.0	True	2	Basso Continuo	1	135	1.0	265	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	1
+1612	4	403.0	403	1.0	1	135	-2	3	4	135	403.0	B-4	70	True	B	-1	1/4	2.0	True	2	Basso Continuo	1	135	1.0	265	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	3
+1612	8	403.0	403	2.0	2	135	-2	3	4	135	403.0	D3	50	True	D	0	1/4	2.0	True	2	Basso Continuo	1	135	1.0	265	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	5
 1616	4	404.0	404	1.0	1	135	-2	3	4	135	404.0	F#4	66	True	F	1	1/2	3.0	True	3	Basso Continuo	1	135	1.0	266	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	#7
 1616	2	404.0	404	0.5	1/2	135	-2	3	4	135	404.0	A4	69	True	A	0	1/2	3.0	True	3	Basso Continuo	1	135	1.0	266	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	2
 1618	2	404.5	809/2	0.5	1/2	135	-2	3	4	135	404.5	G4	67	True	G	0	5/8	3.5	False	0	Basso Continuo	1	135	1.0	266	V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	1
@@ -1507,15 +1507,15 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2052	6	513.0	513	1.5	3/2	170	-2	9	8	170	507.0	C3	48	True	C	0	0	1.0	True	1	Basso Continuo	1	170	1.5	327	iio	True	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	4
 2054	2	513.5	1027/2	0.5	1/2	170	-2	9	8	170	507.333	C5	72	True	C	0	1/8	1.333	False	0	Basso Continuo	1	170	1.5	327	iio	False	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	4
 2056	2	514.0	514	0.5	1/2	170	-2	9	8	170	507.667	B-4	70	True	B	-1	1/4	1.667	False	0	Basso Continuo	1	170	1.5	327	iio	False	('C', 'E-', 'A')	C	A	1	diminished triad	(0, 3, 9)	g	g	2	None	iio	True	3
-2058	2	514.5	1029/2	0.5	1/2	170	-2	9	8	170	508.0	E-5	75	False	E	-1	3/8	2.0	True	2	Basso Continuo	1	170	2.5	328	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	6
-2058	2	514.5	1029/2	0.5	1/2	170	-2	9	8	170	508.0	A4	69	True	A	0	3/8	2.0	True	2	Basso Continuo	1	170	2.5	328	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	2
-2058	12	514.5	1029/2	3.0	3	170	-2	9	8	170	508.0	D3	50	True	D	0	3/8	2.0	True	2	Basso Continuo	1	170	2.5	328	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
-2060	2	515.0	515	0.5	1/2	170	-2	9	8	170	508.333	D5	74	True	D	0	1/2	2.333	False	0	Basso Continuo	1	170	2.5	328	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	5
-2060	2	515.0	515	0.5	1/2	170	-2	9	8	170	508.333	B-4	70	True	B	-1	1/2	2.333	False	0	Basso Continuo	1	170	2.5	328	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
-2062	2	515.5	1031/2	0.5	1/2	170	-2	9	8	170	508.667	C5	72	True	C	0	5/8	2.667	False	0	Basso Continuo	1	170	2.5	328	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	4
-2062	2	515.5	1031/2	0.5	1/2	170	-2	9	8	170	508.667	G4	67	True	G	0	5/8	2.667	False	0	Basso Continuo	1	170	2.5	328	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
-2064	4	516.0	516	1.0	1	170	-2	9	8	170	509.0	B-4	70	True	B	-1	3/4	3.0	True	3	Basso Continuo	1	170	2.5	328	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
-2064	4	516.0	516	1.0	1	170	-2	9	8	170	509.0	G4	67	True	G	0	3/4	3.0	True	3	Basso Continuo	1	170	2.5	328	V	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
+2058	2	514.5	1029/2	0.5	1/2	170	-2	9	8	170	508.0	E-5	75	False	E	-1	3/8	2.0	True	2	Basso Continuo	1	170	2.5	328	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	6
+2058	2	514.5	1029/2	0.5	1/2	170	-2	9	8	170	508.0	A4	69	True	A	0	3/8	2.0	True	2	Basso Continuo	1	170	2.5	328	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	2
+2058	12	514.5	1029/2	3.0	3	170	-2	9	8	170	508.0	D3	50	True	D	0	3/8	2.0	True	2	Basso Continuo	1	170	2.5	328	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	5
+2060	2	515.0	515	0.5	1/2	170	-2	9	8	170	508.333	D5	74	True	D	0	1/2	2.333	False	0	Basso Continuo	1	170	2.5	328	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	5
+2060	2	515.0	515	0.5	1/2	170	-2	9	8	170	508.333	B-4	70	True	B	-1	1/2	2.333	False	0	Basso Continuo	1	170	2.5	328	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	3
+2062	2	515.5	1031/2	0.5	1/2	170	-2	9	8	170	508.667	C5	72	True	C	0	5/8	2.667	False	0	Basso Continuo	1	170	2.5	328	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	4
+2062	2	515.5	1031/2	0.5	1/2	170	-2	9	8	170	508.667	G4	67	True	G	0	5/8	2.667	False	0	Basso Continuo	1	170	2.5	328	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	1
+2064	4	516.0	516	1.0	1	170	-2	9	8	170	509.0	B-4	70	True	B	-1	3/4	3.0	True	3	Basso Continuo	1	170	2.5	328	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	3
+2064	4	516.0	516	1.0	1	170	-2	9	8	170	509.0	G4	67	True	G	0	3/4	3.0	True	3	Basso Continuo	1	170	2.5	328	Cad	False	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	1
 2068	2	517.0	517	0.5	1/2	170	-2	9	8	170	509.667	A4	69	True	A	0	1	3.667	False	0	Basso Continuo	1	170	0.5	329	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	2
 2068	2	517.0	517	0.5	1/2	170	-2	9	8	170	509.667	F#4	66	True	F	1	1	3.667	False	0	Basso Continuo	1	170	0.5	329	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	#7
 2070	4	517.5	1035/2	1.0	1	171	-2	9	8	171	510.0	G4	67	True	G	0	0	1.0	True	1	Basso Continuo	1	171	4.5	330	i5	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	none	False	1
@@ -1582,8 +1582,8 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2150	2	537.5	1075/2	0.5	1/2	175	-2	9	8	175	523.333	D5	74	True	D	0	1/2	2.333	False	0	Basso Continuo	1	175	1.5	338	V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	5
 2152	2	538.0	538	0.5	1/2	175	-2	9	8	175	523.667	B-4	70	True	B	-1	5/8	2.667	False	0	Basso Continuo	1	175	1.5	338	V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	3
 2152	2	538.0	538	0.5	1/2	175	-2	9	8	175	523.667	G5	79	True	G	0	5/8	2.667	False	0	Basso Continuo	1	175	1.5	338	V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	1
-2154	4	538.5	1077/2	1.0	1	175	-2	9	8	175	524.0	B-4	70	True	B	-1	3/4	3.0	True	3	Basso Continuo	1	175	1.0	339	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	3
-2154	4	538.5	1077/2	1.0	1	175	-2	9	8	175	524.0	G5	79	True	G	0	3/4	3.0	True	3	Basso Continuo	1	175	1.0	339	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	V	True	1
+2154	4	538.5	1077/2	1.0	1	175	-2	9	8	175	524.0	B-4	70	True	B	-1	3/4	3.0	True	3	Basso Continuo	1	175	1.0	339	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	3
+2154	4	538.5	1077/2	1.0	1	175	-2	9	8	175	524.0	G5	79	True	G	0	3/4	3.0	True	3	Basso Continuo	1	175	1.0	339	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	5	None	Cad	True	1
 2158	2	539.5	1079/2	0.5	1/2	175	-2	9	8	175	524.667	A4	69	True	A	0	1	3.667	False	0	Basso Continuo	1	175	0.5	340	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	2
 2158	2	539.5	1079/2	0.5	1/2	175	-2	9	8	175	524.667	F#5	78	True	F	1	1	3.667	False	0	Basso Continuo	1	175	0.5	340	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	5	None	V	True	#7
 2160	6	540.0	540	1.5	3/2	176	-2	9	8	176	525.0	B-4	70	True	B	-1	0	1.0	True	1	Basso Continuo	1	176	4.5	341	i	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	g	g	1	None	i	True	3

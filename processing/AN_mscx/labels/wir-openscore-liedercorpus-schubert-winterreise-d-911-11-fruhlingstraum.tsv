@@ -36,7 +36,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 58.5	20	1/4	0.5	34	Fr7	Fr7	True	('A', 'C#', 'E-', 'G')	A	A	0	French augmented sixth chord in root position	(1, 3, 7, 9)	g	g	A	g	2	None	Fr7	True
 59.0	20	3/8	1.0	35	i6	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	A	g	1	None	i	True
 60.0	20	5/8	0.5	36	iv6	iv	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	a	a	A	a	4	None	iv	True
-60.5	21	0	1.5	37	i64	V	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	A	a	5	None	V	True
+60.5	21	0	1.5	37	i64	Cad	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	A	a	5	None	Cad	True
 62.0	21	3/8	1.5	38	V7	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	a	a	A	a	5	None	V7	True
 63.5	22	0	1.0	39	i	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	A	a	1	None	i	True
 64.5	22	1/4	0.5	40	Fr42	Fr7	True	('A', 'B', 'D#', 'F')	A	B	3	French augmented sixth chord in third inversion	(3, 5, 9, 11)	a	a	A	a	2	None	Fr7	True
@@ -57,7 +57,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 85.5	30	1/4	0.5	55	IV6	IV	True	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	A	A	A	A	4	None	IV	True
 86.0	30	3/8	0.5	56	I64	I	True	('E', 'A', 'C#')	E	A	2	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True
 86.5	31	0	1.0	57	IV	IV	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	A	A	4	None	IV	True
-87.5	31	1/4	0.5	58	I64	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	A	A	5	None	V	True
+87.5	31	1/4	0.5	58	I64	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	A	A	5	None	Cad	True
 88.0	31	3/8	0.5	59	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	A	A	5	None	V	True
 88.5	32	0	2.0	60	I	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True
 90.5	33	0	2.0	61	V42	V7	True	('D', 'E', 'G#', 'B')	D	E	3	dominant seventh chord	(2, 4, 8, 11)	A	A	A	A	5	None	V7	True
@@ -111,7 +111,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 173.5	64	1/4	0.5	109	Fr7	Fr7	True	('A', 'C#', 'E-', 'G')	A	A	0	French augmented sixth chord in root position	(1, 3, 7, 9)	g	g	A	g	2	None	Fr7	True
 174.0	64	3/8	1.0	110	i6	i	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	g	g	A	g	1	None	i	True
 175.0	64	5/8	0.5	111	iv6	iv	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	a	a	A	a	4	None	iv	True
-175.5	65	0	1.5	112	i64	V	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	A	a	5	None	V	True
+175.5	65	0	1.5	112	i64	Cad	True	('E', 'A', 'C')	E	E	0	major triad	(0, 4, 9)	a	a	A	a	5	None	Cad	True
 177.0	65	3/8	1.5	113	V7	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	a	a	A	a	5	None	V7	True
 178.5	66	0	1.0	114	i	i	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	a	a	A	a	1	None	i	True
 179.5	66	1/4	0.5	115	Fr42	Fr7	True	('A', 'B', 'D#', 'F')	A	B	3	French augmented sixth chord in third inversion	(3, 5, 9, 11)	a	a	A	a	2	None	Fr7	True
@@ -132,7 +132,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 200.5	74	1/4	0.5	130	IV6	IV	True	('F#', 'A', 'D')	F#	D	1	major triad	(2, 6, 9)	A	A	A	A	4	None	IV	True
 201.0	74	3/8	0.5	131	I64	I	True	('E', 'A', 'C#')	E	A	2	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True
 201.5	75	0	1.0	132	IV	IV	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	A	A	4	None	IV	True
-202.5	75	1/4	0.5	133	I64	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	A	A	5	None	V	True
+202.5	75	1/4	0.5	133	I64	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	A	A	5	None	Cad	True
 203.0	75	3/8	0.5	134	V	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	A	A	5	None	V	True
 203.5	76	0	2.0	135	I	I	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	A	A	1	None	I	True
 205.5	77	0	2.0	136	V42	V7	True	('D', 'E', 'G#', 'B')	D	E	3	dominant seventh chord	(2, 4, 8, 11)	A	A	A	A	5	None	V7	True

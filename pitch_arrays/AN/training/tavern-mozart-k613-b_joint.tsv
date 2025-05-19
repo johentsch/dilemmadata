@@ -322,9 +322,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 12096	96	126.0	126	1.0	1	42	-1	3	4	42	126.0	G4	67	True	G	0	1/2	3.0	True	3	P1-Staff2	2	42	1.0	61	ii	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	F	F	2	None	ii	True	2
 12096	96	126.0	126	1.0	1	42	-1	3	4	42	126.0	B-3	58	True	B	-1	1/2	3.0	True	3	P1-Staff2	2	42	1.0	61	ii	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	F	F	2	None	ii	True	4
 12096	96	126.0	126	1.0	1	42	-1	3	4	42	126.0	B-2	46	True	B	-1	1/2	3.0	True	3	P1-Staff2	2	42	1.0	61	ii	True	('B-', 'D', 'G')	B-	G	1	minor triad	(2, 7, 10)	F	F	2	None	ii	True	4
-12192	96	127.0	127	1.0	1	43	-1	3	4	43	127.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	6	43	1.0	62	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-12192	96	127.0	127	1.0	1	43	-1	3	4	43	127.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	43	1.0	62	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-12192	192	127.0	127	2.0	2	43	-1	3	4	43	127.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	43	1.0	62	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+12192	96	127.0	127	1.0	1	43	-1	3	4	43	127.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	6	43	1.0	62	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+12192	96	127.0	127	1.0	1	43	-1	3	4	43	127.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	43	1.0	62	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+12192	192	127.0	127	2.0	2	43	-1	3	4	43	127.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	43	1.0	62	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 12288	96	128.0	128	1.0	1	43	-1	3	4	43	128.0	G4	67	True	G	0	1/4	2.0	True	2	P1-Staff2	6	43	2.0	63	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	2
 12288	96	128.0	128	1.0	1	43	-1	3	4	43	128.0	B-3	58	True	B	-1	1/4	2.0	True	2	P1-Staff2	6	43	2.0	63	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	4
 12384	96	129.0	129	1.0	1	43	-1	3	4	43	129.0	E4	64	True	E	0	1/2	3.0	True	3	P1-Staff2	6	43	2.0	63	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	7
@@ -2780,40 +2780,40 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 74328	24	774.25	3097/4	0.25	1/4	258	-1	3	4	258	774.25	G4	67	True	G	0	9/16	3.25	False	0	P1-Staff2	6	258	1.0	394	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	2
 74352	24	774.5	1549/2	0.25	1/4	258	-1	3	4	258	774.5	C5	72	True	C	0	5/8	3.5	False	0	P1-Staff2	6	258	1.0	394	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
 74376	24	774.75	3099/4	0.25	1/4	258	-1	3	4	258	774.75	E5	76	True	E	0	11/16	3.75	False	0	P1-Staff2	6	258	1.0	394	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	7
-74400	24	775.0	775	0.25	1/4	259	-1	3	4	259	775.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	6	259	3.0	395	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-74400	96	775.0	775	1.0	1	259	-1	3	4	259	775.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	259	3.0	395	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74400	288	775.0	775	3.0	3	259	-1	3	4	259	775.0	C3	48	False	C	0	0	1.0	True	1	P1-Staff2	6	259	3.0	395	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74424	24	775.25	3101/4	0.25	1/4	259	-1	3	4	259	775.25	A4	69	True	A	0	1/16	1.25	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74448	24	775.5	1551/2	0.25	1/4	259	-1	3	4	259	775.5	C5	72	True	C	0	1/8	1.5	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74472	24	775.75	3103/4	0.25	1/4	259	-1	3	4	259	775.75	F5	77	True	F	0	3/16	1.75	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-74496	24	776.0	776	0.25	1/4	259	-1	3	4	259	776.0	E4	64	True	E	0	1/4	2.0	True	2	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	7
-74496	96	776.0	776	1.0	1	259	-1	3	4	259	776.0	G#3	56	True	G	1	1/4	2.0	True	2	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	#2
-74520	24	776.25	3105/4	0.25	1/4	259	-1	3	4	259	776.25	G#4	68	True	G	1	5/16	2.25	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	#2
-74544	24	776.5	1553/2	0.25	1/4	259	-1	3	4	259	776.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74568	24	776.75	3107/4	0.25	1/4	259	-1	3	4	259	776.75	E5	76	True	E	0	7/16	2.75	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	7
-74592	24	777.0	777	0.25	1/4	259	-1	3	4	259	777.0	F4	65	True	F	0	1/2	3.0	True	3	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-74592	96	777.0	777	1.0	1	259	-1	3	4	259	777.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74616	24	777.25	3109/4	0.25	1/4	259	-1	3	4	259	777.25	A4	69	True	A	0	9/16	3.25	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74640	24	777.5	1555/2	0.25	1/4	259	-1	3	4	259	777.5	C5	72	True	C	0	5/8	3.5	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74664	24	777.75	3111/4	0.25	1/4	259	-1	3	4	259	777.75	F5	77	True	F	0	11/16	3.75	False	0	P1-Staff2	6	259	3.0	395	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-74688	24	778.0	778	0.25	1/4	260	-1	3	4	260	778.0	C4	60	True	C	0	0	1.0	True	1	P1-Staff2	6	260	3.0	396	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74688	96	778.0	778	1.0	1	260	-1	3	4	260	778.0	A3	57	False	A	0	0	1.0	True	1	P1-Staff2	6	260	3.0	396	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74688	288	778.0	778	3.0	3	260	-1	3	4	260	778.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	260	3.0	396	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74712	24	778.25	3113/4	0.25	1/4	260	-1	3	4	260	778.25	F4	65	True	F	0	1/16	1.25	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-74736	24	778.5	1557/2	0.25	1/4	260	-1	3	4	260	778.5	A4	69	True	A	0	1/8	1.5	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74760	24	778.75	3115/4	0.25	1/4	260	-1	3	4	260	778.75	C5	72	True	C	0	3/16	1.75	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74784	24	779.0	779	0.25	1/4	260	-1	3	4	260	779.0	E4	64	True	E	0	1/4	2.0	True	2	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	7
-74784	96	779.0	779	1.0	1	260	-1	3	4	260	779.0	G3	55	True	G	0	1/4	2.0	True	2	P1-Staff2	1	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	2
-74784	96	779.0	779	1.0	1	260	-1	3	4	260	779.0	B-3	58	True	B	-1	1/4	2.0	True	2	P1-Staff2	1	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	4
-74808	24	779.25	3117/4	0.25	1/4	260	-1	3	4	260	779.25	G4	67	True	G	0	5/16	2.25	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	2
-74832	24	779.5	1559/2	0.25	1/4	260	-1	3	4	260	779.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74856	24	779.75	3119/4	0.25	1/4	260	-1	3	4	260	779.75	E5	76	True	E	0	7/16	2.75	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	7
-74880	24	780.0	780	0.25	1/4	260	-1	3	4	260	780.0	F4	65	True	F	0	1/2	3.0	True	3	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-74880	96	780.0	780	1.0	1	260	-1	3	4	260	780.0	F3	53	True	F	0	1/2	3.0	True	3	P1-Staff2	1	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-74880	96	780.0	780	1.0	1	260	-1	3	4	260	780.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	1	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74904	24	780.25	3121/4	0.25	1/4	260	-1	3	4	260	780.25	A4	69	True	A	0	9/16	3.25	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-74928	24	780.5	1561/2	0.25	1/4	260	-1	3	4	260	780.5	C5	72	True	C	0	5/8	3.5	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-74952	24	780.75	3123/4	0.25	1/4	260	-1	3	4	260	780.75	F5	77	True	F	0	11/16	3.75	False	0	P1-Staff2	6	260	3.0	396	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
+74400	24	775.0	775	0.25	1/4	259	-1	3	4	259	775.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	6	259	3.0	395	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+74400	96	775.0	775	1.0	1	259	-1	3	4	259	775.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	259	3.0	395	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74400	288	775.0	775	3.0	3	259	-1	3	4	259	775.0	C3	48	False	C	0	0	1.0	True	1	P1-Staff2	6	259	3.0	395	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74424	24	775.25	3101/4	0.25	1/4	259	-1	3	4	259	775.25	A4	69	True	A	0	1/16	1.25	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74448	24	775.5	1551/2	0.25	1/4	259	-1	3	4	259	775.5	C5	72	True	C	0	1/8	1.5	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74472	24	775.75	3103/4	0.25	1/4	259	-1	3	4	259	775.75	F5	77	True	F	0	3/16	1.75	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+74496	24	776.0	776	0.25	1/4	259	-1	3	4	259	776.0	E4	64	True	E	0	1/4	2.0	True	2	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	7
+74496	96	776.0	776	1.0	1	259	-1	3	4	259	776.0	G#3	56	True	G	1	1/4	2.0	True	2	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	#2
+74520	24	776.25	3105/4	0.25	1/4	259	-1	3	4	259	776.25	G#4	68	True	G	1	5/16	2.25	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	#2
+74544	24	776.5	1553/2	0.25	1/4	259	-1	3	4	259	776.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74568	24	776.75	3107/4	0.25	1/4	259	-1	3	4	259	776.75	E5	76	True	E	0	7/16	2.75	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	7
+74592	24	777.0	777	0.25	1/4	259	-1	3	4	259	777.0	F4	65	True	F	0	1/2	3.0	True	3	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+74592	96	777.0	777	1.0	1	259	-1	3	4	259	777.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74616	24	777.25	3109/4	0.25	1/4	259	-1	3	4	259	777.25	A4	69	True	A	0	9/16	3.25	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74640	24	777.5	1555/2	0.25	1/4	259	-1	3	4	259	777.5	C5	72	True	C	0	5/8	3.5	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74664	24	777.75	3111/4	0.25	1/4	259	-1	3	4	259	777.75	F5	77	True	F	0	11/16	3.75	False	0	P1-Staff2	6	259	3.0	395	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+74688	24	778.0	778	0.25	1/4	260	-1	3	4	260	778.0	C4	60	True	C	0	0	1.0	True	1	P1-Staff2	6	260	3.0	396	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74688	96	778.0	778	1.0	1	260	-1	3	4	260	778.0	A3	57	False	A	0	0	1.0	True	1	P1-Staff2	6	260	3.0	396	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74688	288	778.0	778	3.0	3	260	-1	3	4	260	778.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	260	3.0	396	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74712	24	778.25	3113/4	0.25	1/4	260	-1	3	4	260	778.25	F4	65	True	F	0	1/16	1.25	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+74736	24	778.5	1557/2	0.25	1/4	260	-1	3	4	260	778.5	A4	69	True	A	0	1/8	1.5	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74760	24	778.75	3115/4	0.25	1/4	260	-1	3	4	260	778.75	C5	72	True	C	0	3/16	1.75	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74784	24	779.0	779	0.25	1/4	260	-1	3	4	260	779.0	E4	64	True	E	0	1/4	2.0	True	2	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	7
+74784	96	779.0	779	1.0	1	260	-1	3	4	260	779.0	G3	55	True	G	0	1/4	2.0	True	2	P1-Staff2	1	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	2
+74784	96	779.0	779	1.0	1	260	-1	3	4	260	779.0	B-3	58	True	B	-1	1/4	2.0	True	2	P1-Staff2	1	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	4
+74808	24	779.25	3117/4	0.25	1/4	260	-1	3	4	260	779.25	G4	67	True	G	0	5/16	2.25	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	2
+74832	24	779.5	1559/2	0.25	1/4	260	-1	3	4	260	779.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74856	24	779.75	3119/4	0.25	1/4	260	-1	3	4	260	779.75	E5	76	True	E	0	7/16	2.75	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	7
+74880	24	780.0	780	0.25	1/4	260	-1	3	4	260	780.0	F4	65	True	F	0	1/2	3.0	True	3	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+74880	96	780.0	780	1.0	1	260	-1	3	4	260	780.0	F3	53	True	F	0	1/2	3.0	True	3	P1-Staff2	1	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+74880	96	780.0	780	1.0	1	260	-1	3	4	260	780.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	1	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74904	24	780.25	3121/4	0.25	1/4	260	-1	3	4	260	780.25	A4	69	True	A	0	9/16	3.25	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+74928	24	780.5	1561/2	0.25	1/4	260	-1	3	4	260	780.5	C5	72	True	C	0	5/8	3.5	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+74952	24	780.75	3123/4	0.25	1/4	260	-1	3	4	260	780.75	F5	77	True	F	0	11/16	3.75	False	0	P1-Staff2	6	260	3.0	396	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
 74976	24	781.0	781	0.25	1/4	261	-1	3	4	261	781.0	G4	67	True	G	0	0	1.0	True	1	P1-Staff2	6	261	3.0	397	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	2
 74976	96	781.0	781	1.0	1	261	-1	3	4	261	781.0	E3	52	True	E	0	0	1.0	True	1	P1-Staff2	1	261	3.0	397	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	7
 74976	96	781.0	781	1.0	1	261	-1	3	4	261	781.0	G3	55	True	G	0	0	1.0	True	1	P1-Staff2	1	261	3.0	397	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	2
@@ -2840,12 +2840,12 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 75288	24	784.25	3137/4	0.25	1/4	262	-1	3	4	262	784.25	E4	64	True	E	0	1/16	1.25	False	0	P1-Staff2	6	262	1.0	398	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	7
 75312	24	784.5	1569/2	0.25	1/4	262	-1	3	4	262	784.5	G4	67	True	G	0	1/8	1.5	False	0	P1-Staff2	6	262	1.0	398	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	2
 75336	24	784.75	3139/4	0.25	1/4	262	-1	3	4	262	784.75	C5	72	True	C	0	3/16	1.75	False	0	P1-Staff2	6	262	1.0	398	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
-75360	24	785.0	785	0.25	1/4	262	-1	3	4	262	785.0	F4	65	True	F	0	1/4	2.0	True	2	P1-Staff2	6	262	1.0	399	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-75360	96	785.0	785	1.0	1	262	-1	3	4	262	785.0	F3	53	True	F	0	1/4	2.0	True	2	P1-Staff2	1	262	1.0	399	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-75360	96	785.0	785	1.0	1	262	-1	3	4	262	785.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	1	262	1.0	399	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-75384	24	785.25	3141/4	0.25	1/4	262	-1	3	4	262	785.25	A4	69	True	A	0	5/16	2.25	False	0	P1-Staff2	6	262	1.0	399	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-75408	24	785.5	1571/2	0.25	1/4	262	-1	3	4	262	785.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	262	1.0	399	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-75432	24	785.75	3143/4	0.25	1/4	262	-1	3	4	262	785.75	F5	77	True	F	0	7/16	2.75	False	0	P1-Staff2	6	262	1.0	399	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
+75360	24	785.0	785	0.25	1/4	262	-1	3	4	262	785.0	F4	65	True	F	0	1/4	2.0	True	2	P1-Staff2	6	262	1.0	399	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+75360	96	785.0	785	1.0	1	262	-1	3	4	262	785.0	F3	53	True	F	0	1/4	2.0	True	2	P1-Staff2	1	262	1.0	399	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+75360	96	785.0	785	1.0	1	262	-1	3	4	262	785.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	1	262	1.0	399	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+75384	24	785.25	3141/4	0.25	1/4	262	-1	3	4	262	785.25	A4	69	True	A	0	5/16	2.25	False	0	P1-Staff2	6	262	1.0	399	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+75408	24	785.5	1571/2	0.25	1/4	262	-1	3	4	262	785.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	262	1.0	399	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+75432	24	785.75	3143/4	0.25	1/4	262	-1	3	4	262	785.75	F5	77	True	F	0	7/16	2.75	False	0	P1-Staff2	6	262	1.0	399	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
 75456	24	786.0	786	0.25	1/4	262	-1	3	4	262	786.0	G4	67	True	G	0	1/2	3.0	True	3	P1-Staff2	6	262	1.0	400	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	2
 75456	96	786.0	786	1.0	1	262	-1	3	4	262	786.0	E3	52	True	E	0	1/2	3.0	True	3	P1-Staff2	1	262	1.0	400	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	7
 75456	96	786.0	786	1.0	1	262	-1	3	4	262	786.0	G3	55	True	G	0	1/2	3.0	True	3	P1-Staff2	1	262	1.0	400	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	2
@@ -3155,19 +3155,19 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 80736	96	841.0	841	1.0	1	281	-1	3	4	281	841.0	F3	53	True	F	0	0	1.0	True	1	P1-Staff2	6	281	2.0	432	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	1
 80832	96	842.0	842	1.0	1	281	-1	3	4	281	842.0	F2	41	True	F	0	1/4	2.0	True	2	P1-Staff2	6	281	2.0	432	I	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	1
 80928	96	843.0	843	1.0	1	281	-1	3	4	281	843.0	C5	72	True	C	0	1/2	3.0	True	3	P1-Staff2	6	281	1.0	433	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
-81024	24	844.0	844	0.25	1/4	282	-1	3	4	282	844.0	B4	71	True	B	0	0	1.0	True	1	P1-Staff2	6	282	3.0	434	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	#4
-81024	48	844.0	844	0.5	1/2	282	-1	3	4	282	844.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	282	3.0	434	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81024	288	844.0	844	3.0	3	282	-1	3	4	282	844.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	282	3.0	434	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81048	24	844.25	3377/4	0.25	1/4	282	-1	3	4	282	844.25	C5	72	True	C	0	1/16	1.25	False	0	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81072	48	844.5	1689/2	0.5	1/2	282	-1	3	4	282	844.5	C4	60	True	C	0	1/8	1.5	False	0	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81120	24	845.0	845	0.25	1/4	282	-1	3	4	282	845.0	D5	74	True	D	0	1/4	2.0	True	2	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	6
-81120	48	845.0	845	0.5	1/2	282	-1	3	4	282	845.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81144	24	845.25	3381/4	0.25	1/4	282	-1	3	4	282	845.25	C5	72	True	C	0	5/16	2.25	False	0	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81168	48	845.5	1691/2	0.5	1/2	282	-1	3	4	282	845.5	C4	60	True	C	0	3/8	2.5	False	0	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81216	24	846.0	846	0.25	1/4	282	-1	3	4	282	846.0	B-4	70	True	B	-1	1/2	3.0	True	3	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	4
-81216	48	846.0	846	0.5	1/2	282	-1	3	4	282	846.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81240	24	846.25	3385/4	0.25	1/4	282	-1	3	4	282	846.25	A4	69	True	A	0	9/16	3.25	False	0	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81264	48	846.5	1693/2	0.5	1/2	282	-1	3	4	282	846.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	282	3.0	434	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+81024	24	844.0	844	0.25	1/4	282	-1	3	4	282	844.0	B4	71	True	B	0	0	1.0	True	1	P1-Staff2	6	282	3.0	434	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	#4
+81024	48	844.0	844	0.5	1/2	282	-1	3	4	282	844.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	282	3.0	434	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81024	288	844.0	844	3.0	3	282	-1	3	4	282	844.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	282	3.0	434	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81048	24	844.25	3377/4	0.25	1/4	282	-1	3	4	282	844.25	C5	72	True	C	0	1/16	1.25	False	0	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81072	48	844.5	1689/2	0.5	1/2	282	-1	3	4	282	844.5	C4	60	True	C	0	1/8	1.5	False	0	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81120	24	845.0	845	0.25	1/4	282	-1	3	4	282	845.0	D5	74	True	D	0	1/4	2.0	True	2	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	6
+81120	48	845.0	845	0.5	1/2	282	-1	3	4	282	845.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81144	24	845.25	3381/4	0.25	1/4	282	-1	3	4	282	845.25	C5	72	True	C	0	5/16	2.25	False	0	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81168	48	845.5	1691/2	0.5	1/2	282	-1	3	4	282	845.5	C4	60	True	C	0	3/8	2.5	False	0	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81216	24	846.0	846	0.25	1/4	282	-1	3	4	282	846.0	B-4	70	True	B	-1	1/2	3.0	True	3	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	4
+81216	48	846.0	846	0.5	1/2	282	-1	3	4	282	846.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81240	24	846.25	3385/4	0.25	1/4	282	-1	3	4	282	846.25	A4	69	True	A	0	9/16	3.25	False	0	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81264	48	846.5	1693/2	0.5	1/2	282	-1	3	4	282	846.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	282	3.0	434	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 81312	24	847.0	847	0.25	1/4	283	-1	3	4	283	847.0	G4	67	True	G	0	0	1.0	True	1	P1-Staff2	6	283	3.0	435	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	2
 81312	48	847.0	847	0.5	1/2	283	-1	3	4	283	847.0	B-3	58	True	B	-1	0	1.0	True	1	P1-Staff2	6	283	3.0	435	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	4
 81312	288	847.0	847	3.0	3	283	-1	3	4	283	847.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	283	3.0	435	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
@@ -3181,19 +3181,19 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 81504	48	849.0	849	0.5	1/2	283	-1	3	4	283	849.0	B-3	58	True	B	-1	1/2	3.0	True	3	P1-Staff2	6	283	3.0	435	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	4
 81528	24	849.25	3397/4	0.25	1/4	283	-1	3	4	283	849.25	E4	64	True	E	0	9/16	3.25	False	0	P1-Staff2	6	283	3.0	435	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	7
 81552	48	849.5	1699/2	0.5	1/2	283	-1	3	4	283	849.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	283	3.0	435	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
-81600	96	850.0	850	1.0	1	284	-1	3	4	284	850.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	6	284	3.0	436	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-81600	48	850.0	850	0.5	1/2	284	-1	3	4	284	850.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	284	3.0	436	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81600	288	850.0	850	3.0	3	284	-1	3	4	284	850.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	284	3.0	436	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81648	48	850.5	1701/2	0.5	1/2	284	-1	3	4	284	850.5	C4	60	True	C	0	1/8	1.5	False	0	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81696	0	851.0	851	0.0	0	284	-1	3	4	284	851.0	G4	67	True	G	0	1/4	2.0	True	2	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	2
-81696	48	851.0	851	0.5	1/2	284	-1	3	4	284	851.0	F4	65	True	F	0	1/4	2.0	True	2	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-81696	48	851.0	851	0.5	1/2	284	-1	3	4	284	851.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81744	48	851.5	1703/2	0.5	1/2	284	-1	3	4	284	851.5	E4	64	True	E	0	3/8	2.5	False	0	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	7
-81744	48	851.5	1703/2	0.5	1/2	284	-1	3	4	284	851.5	C4	60	True	C	0	3/8	2.5	False	0	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-81792	48	852.0	852	0.5	1/2	284	-1	3	4	284	852.0	F4	65	True	F	0	1/2	3.0	True	3	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-81792	48	852.0	852	0.5	1/2	284	-1	3	4	284	852.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81840	48	852.5	1705/2	0.5	1/2	284	-1	3	4	284	852.5	A4	69	True	A	0	5/8	3.5	False	0	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-81840	48	852.5	1705/2	0.5	1/2	284	-1	3	4	284	852.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	284	3.0	436	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+81600	96	850.0	850	1.0	1	284	-1	3	4	284	850.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	6	284	3.0	436	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+81600	48	850.0	850	0.5	1/2	284	-1	3	4	284	850.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	284	3.0	436	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81600	288	850.0	850	3.0	3	284	-1	3	4	284	850.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	284	3.0	436	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81648	48	850.5	1701/2	0.5	1/2	284	-1	3	4	284	850.5	C4	60	True	C	0	1/8	1.5	False	0	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81696	0	851.0	851	0.0	0	284	-1	3	4	284	851.0	G4	67	True	G	0	1/4	2.0	True	2	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	2
+81696	48	851.0	851	0.5	1/2	284	-1	3	4	284	851.0	F4	65	True	F	0	1/4	2.0	True	2	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+81696	48	851.0	851	0.5	1/2	284	-1	3	4	284	851.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81744	48	851.5	1703/2	0.5	1/2	284	-1	3	4	284	851.5	E4	64	True	E	0	3/8	2.5	False	0	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	7
+81744	48	851.5	1703/2	0.5	1/2	284	-1	3	4	284	851.5	C4	60	True	C	0	3/8	2.5	False	0	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+81792	48	852.0	852	0.5	1/2	284	-1	3	4	284	852.0	F4	65	True	F	0	1/2	3.0	True	3	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+81792	48	852.0	852	0.5	1/2	284	-1	3	4	284	852.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81840	48	852.5	1705/2	0.5	1/2	284	-1	3	4	284	852.5	A4	69	True	A	0	5/8	3.5	False	0	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+81840	48	852.5	1705/2	0.5	1/2	284	-1	3	4	284	852.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	284	3.0	436	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 81888	96	853.0	853	1.0	1	285	-1	3	4	285	853.0	F#4	66	True	F	1	0	1.0	True	1	P1-Staff2	6	285	3.0	437	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	#1
 81888	48	853.0	853	0.5	1/2	285	-1	3	4	285	853.0	B-3	58	True	B	-1	0	1.0	True	1	P1-Staff2	6	285	3.0	437	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	4
 81888	288	853.0	853	3.0	3	285	-1	3	4	285	853.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	285	3.0	437	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
@@ -3204,19 +3204,19 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 82080	96	855.0	855	1.0	1	285	-1	3	4	285	855.0	C6	84	True	C	0	1/2	3.0	True	3	P1-Staff2	6	285	3.0	437	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
 82080	48	855.0	855	0.5	1/2	285	-1	3	4	285	855.0	B-3	58	True	B	-1	1/2	3.0	True	3	P1-Staff2	6	285	3.0	437	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	4
 82128	48	855.5	1711/2	0.5	1/2	285	-1	3	4	285	855.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	285	3.0	437	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
-82176	24	856.0	856	0.25	1/4	286	-1	3	4	286	856.0	B5	83	True	B	0	0	1.0	True	1	P1-Staff2	6	286	3.0	438	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	#4
-82176	48	856.0	856	0.5	1/2	286	-1	3	4	286	856.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	286	3.0	438	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-82176	288	856.0	856	3.0	3	286	-1	3	4	286	856.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	286	3.0	438	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-82200	24	856.25	3425/4	0.25	1/4	286	-1	3	4	286	856.25	C6	84	True	C	0	1/16	1.25	False	0	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-82224	48	856.5	1713/2	0.5	1/2	286	-1	3	4	286	856.5	C4	60	True	C	0	1/8	1.5	False	0	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-82272	24	857.0	857	0.25	1/4	286	-1	3	4	286	857.0	D6	86	True	D	0	1/4	2.0	True	2	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	6
-82272	48	857.0	857	0.5	1/2	286	-1	3	4	286	857.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-82296	24	857.25	3429/4	0.25	1/4	286	-1	3	4	286	857.25	C6	84	True	C	0	5/16	2.25	False	0	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-82320	48	857.5	1715/2	0.5	1/2	286	-1	3	4	286	857.5	C4	60	True	C	0	3/8	2.5	False	0	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-82368	24	858.0	858	0.25	1/4	286	-1	3	4	286	858.0	B-5	82	True	B	-1	1/2	3.0	True	3	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	4
-82368	48	858.0	858	0.5	1/2	286	-1	3	4	286	858.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-82392	24	858.25	3433/4	0.25	1/4	286	-1	3	4	286	858.25	A5	81	True	A	0	9/16	3.25	False	0	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-82416	48	858.5	1717/2	0.5	1/2	286	-1	3	4	286	858.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	286	3.0	438	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+82176	24	856.0	856	0.25	1/4	286	-1	3	4	286	856.0	B5	83	True	B	0	0	1.0	True	1	P1-Staff2	6	286	3.0	438	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	#4
+82176	48	856.0	856	0.5	1/2	286	-1	3	4	286	856.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	286	3.0	438	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+82176	288	856.0	856	3.0	3	286	-1	3	4	286	856.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	286	3.0	438	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+82200	24	856.25	3425/4	0.25	1/4	286	-1	3	4	286	856.25	C6	84	True	C	0	1/16	1.25	False	0	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+82224	48	856.5	1713/2	0.5	1/2	286	-1	3	4	286	856.5	C4	60	True	C	0	1/8	1.5	False	0	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+82272	24	857.0	857	0.25	1/4	286	-1	3	4	286	857.0	D6	86	True	D	0	1/4	2.0	True	2	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	6
+82272	48	857.0	857	0.5	1/2	286	-1	3	4	286	857.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+82296	24	857.25	3429/4	0.25	1/4	286	-1	3	4	286	857.25	C6	84	True	C	0	5/16	2.25	False	0	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+82320	48	857.5	1715/2	0.5	1/2	286	-1	3	4	286	857.5	C4	60	True	C	0	3/8	2.5	False	0	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+82368	24	858.0	858	0.25	1/4	286	-1	3	4	286	858.0	B-5	82	True	B	-1	1/2	3.0	True	3	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	4
+82368	48	858.0	858	0.5	1/2	286	-1	3	4	286	858.0	A3	57	True	A	0	1/2	3.0	True	3	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+82392	24	858.25	3433/4	0.25	1/4	286	-1	3	4	286	858.25	A5	81	True	A	0	9/16	3.25	False	0	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+82416	48	858.5	1717/2	0.5	1/2	286	-1	3	4	286	858.5	C4	60	True	C	0	5/8	3.5	False	0	P1-Staff2	6	286	3.0	438	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 82464	24	859.0	859	0.25	1/4	287	-1	3	4	287	859.0	G5	79	True	G	0	0	1.0	True	1	P1-Staff2	6	287	3.0	439	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	2
 82464	48	859.0	859	0.5	1/2	287	-1	3	4	287	859.0	B-3	58	True	B	-1	0	1.0	True	1	P1-Staff2	6	287	3.0	439	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	4
 82464	288	859.0	859	3.0	3	287	-1	3	4	287	859.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	287	3.0	439	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	5
@@ -3569,11 +3569,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 93408	288	973.0	973	3.0	3	325	-4	3	4	325	973.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	6	325	1.0	502	iv	True	('B-', 'D-', 'F')	B-	B-	0	minor triad	(1, 5, 10)	f	f	4	None	iv	True	1
 93408	96	973.0	973	1.0	1	325	-4	3	4	325	973.0	B-3	58	True	B	-1	0	1.0	True	1	P1-Staff2	6	325	1.0	502	iv	True	('B-', 'D-', 'F')	B-	B-	0	minor triad	(1, 5, 10)	f	f	4	None	iv	True	4
 93456	96	973.5	1947/2	1.0	1	325	-4	3	4	325	973.5	D-5	73	True	D	-1	1/8	1.5	False	0	P1-Staff2	6	325	1.0	502	iv	False	('B-', 'D-', 'F')	B-	B-	0	minor triad	(1, 5, 10)	f	f	4	None	iv	True	6
-93504	192	974.0	974	2.0	2	325	-4	3	4	325	974.0	A-4	68	True	A	-1	1/4	2.0	True	2	P1-Staff2	6	325	2.0	503	V	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	V	True	3
-93504	96	974.0	974	1.0	1	325	-4	3	4	325	974.0	C4	60	True	C	0	1/4	2.0	True	2	P1-Staff2	6	325	2.0	503	V	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	V	True	5
-93552	96	974.5	1949/2	1.0	1	325	-4	3	4	325	974.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	325	2.0	503	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	V	True	5
-93600	96	975.0	975	1.0	1	325	-4	3	4	325	975.0	D-4	61	True	D	-1	1/2	3.0	True	3	P1-Staff2	6	325	2.0	503	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	V	True	6
-93648	48	975.5	1951/2	0.5	1/2	325	-4	3	4	325	975.5	B4	71	True	B	0	5/8	3.5	False	0	P1-Staff2	6	325	2.0	503	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	V	True	#4
+93504	192	974.0	974	2.0	2	325	-4	3	4	325	974.0	A-4	68	True	A	-1	1/4	2.0	True	2	P1-Staff2	6	325	2.0	503	Cad	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	Cad	True	3
+93504	96	974.0	974	1.0	1	325	-4	3	4	325	974.0	C4	60	True	C	0	1/4	2.0	True	2	P1-Staff2	6	325	2.0	503	Cad	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	Cad	True	5
+93552	96	974.5	1949/2	1.0	1	325	-4	3	4	325	974.5	C5	72	True	C	0	3/8	2.5	False	0	P1-Staff2	6	325	2.0	503	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	Cad	True	5
+93600	96	975.0	975	1.0	1	325	-4	3	4	325	975.0	D-4	61	True	D	-1	1/2	3.0	True	3	P1-Staff2	6	325	2.0	503	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	Cad	True	6
+93648	48	975.5	1951/2	0.5	1/2	325	-4	3	4	325	975.5	B4	71	True	B	0	5/8	3.5	False	0	P1-Staff2	6	325	2.0	503	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	f	f	5	None	Cad	True	#4
 93696	96	976.0	976	1.0	1	326	-4	3	4	326	976.0	F4	65	True	F	0	0	1.0	True	1	P1-Staff2	1	326	3.0	504	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	1
 93696	96	976.0	976	1.0	1	326	-4	3	4	326	976.0	A-4	68	True	A	-1	0	1.0	True	1	P1-Staff2	1	326	3.0	504	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	3
 93696	96	976.0	976	1.0	1	326	-4	3	4	326	976.0	C4	60	True	C	0	0	1.0	True	1	P1-Staff2	6	326	3.0	504	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	f	f	5	None	V7	True	5
@@ -3592,10 +3592,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 93984	96	979.0	979	1.0	1	327	-4	3	4	327	979.0	A-3	56	True	A	-1	0	1.0	True	1	P1-Staff2	6	327	2.0	505	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	3
 93984	96	979.0	979	1.0	1	327	-4	3	4	327	979.0	F3	53	True	F	0	0	1.0	True	1	P1-Staff2	6	327	2.0	505	i	True	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
 94080	96	980.0	980	1.0	1	327	-4	3	4	327	980.0	F2	41	True	F	0	1/4	2.0	True	2	P1-Staff2	6	327	2.0	505	i	False	('F', 'A-', 'C')	F	F	0	minor triad	(0, 5, 8)	f	f	1	None	i	True	1
-94176	24	981.0	981	0.25	1/4	327	-4	3	4	327	981.0	C5	72	True	C	0	1/2	3.0	True	3	P1-Staff2	6	327	1.0	506	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-94200	24	981.25	3925/4	0.25	1/4	327	-4	3	4	327	981.25	F5	77	True	F	0	9/16	3.25	False	0	P1-Staff2	6	327	1.0	506	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-94224	24	981.5	1963/2	0.25	1/4	327	-4	3	4	327	981.5	A5	81	True	A	0	5/8	3.5	False	0	P1-Staff2	6	327	1.0	506	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-94248	24	981.75	3927/4	0.25	1/4	327	-4	3	4	327	981.75	C6	84	True	C	0	11/16	3.75	False	0	P1-Staff2	6	327	1.0	506	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+94176	24	981.0	981	0.25	1/4	327	-4	3	4	327	981.0	C5	72	True	C	0	1/2	3.0	True	3	P1-Staff2	6	327	1.0	506	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+94200	24	981.25	3925/4	0.25	1/4	327	-4	3	4	327	981.25	F5	77	True	F	0	9/16	3.25	False	0	P1-Staff2	6	327	1.0	506	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+94224	24	981.5	1963/2	0.25	1/4	327	-4	3	4	327	981.5	A5	81	True	A	0	5/8	3.5	False	0	P1-Staff2	6	327	1.0	506	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+94248	24	981.75	3927/4	0.25	1/4	327	-4	3	4	327	981.75	C6	84	True	C	0	11/16	3.75	False	0	P1-Staff2	6	327	1.0	506	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 94272	24	982.0	982	0.25	1/4	328	-1	3	4	328	982.0	B4	71	True	B	0	0	1.0	True	1	P1-Staff2	6	328	3.0	507	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	#4
 94296	24	982.25	3929/4	0.25	1/4	328	-1	3	4	328	982.25	B5	83	True	B	0	1/16	1.25	False	0	P1-Staff2	6	328	3.0	507	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	#4
 94320	24	982.5	1965/2	0.25	1/4	328	-1	3	4	328	982.5	C5	72	True	C	0	1/8	1.5	False	0	P1-Staff2	6	328	3.0	507	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
@@ -3637,12 +3637,12 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 95136	96	991.0	991	1.0	1	331	-1	3	4	331	991.0	A5	81	True	A	0	0	1.0	True	1	P1-Staff2	1	331	1.0	513	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	3
 95136	192	991.0	991	2.0	2	331	-1	3	4	331	991.0	C4	60	True	C	0	0	1.0	True	1	P1-Staff2	6	331	1.0	513	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
 95136	192	991.0	991	2.0	2	331	-1	3	4	331	991.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	331	1.0	513	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
-95232	96	992.0	992	1.0	1	331	-1	3	4	331	992.0	E5	76	True	E	0	1/4	2.0	True	2	P1-Staff2	1	331	2.0	514	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	7
-95232	96	992.0	992	1.0	1	331	-1	3	4	331	992.0	G5	79	True	G	0	1/4	2.0	True	2	P1-Staff2	1	331	2.0	514	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	2
-95328	24	993.0	993	0.25	1/4	331	-1	3	4	331	993.0	C3	48	True	C	0	1/2	3.0	True	3	P1-Staff2	6	331	2.0	514	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-95352	24	993.25	3973/4	0.25	1/4	331	-1	3	4	331	993.25	F3	53	True	F	0	9/16	3.25	False	0	P1-Staff2	6	331	2.0	514	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-95376	24	993.5	1987/2	0.25	1/4	331	-1	3	4	331	993.5	A3	57	True	A	0	5/8	3.5	False	0	P1-Staff2	6	331	2.0	514	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-95400	24	993.75	3975/4	0.25	1/4	331	-1	3	4	331	993.75	C4	60	True	C	0	11/16	3.75	False	0	P1-Staff2	6	331	2.0	514	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+95232	96	992.0	992	1.0	1	331	-1	3	4	331	992.0	E5	76	True	E	0	1/4	2.0	True	2	P1-Staff2	1	331	2.0	514	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	7
+95232	96	992.0	992	1.0	1	331	-1	3	4	331	992.0	G5	79	True	G	0	1/4	2.0	True	2	P1-Staff2	1	331	2.0	514	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	2
+95328	24	993.0	993	0.25	1/4	331	-1	3	4	331	993.0	C3	48	True	C	0	1/2	3.0	True	3	P1-Staff2	6	331	2.0	514	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+95352	24	993.25	3973/4	0.25	1/4	331	-1	3	4	331	993.25	F3	53	True	F	0	9/16	3.25	False	0	P1-Staff2	6	331	2.0	514	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+95376	24	993.5	1987/2	0.25	1/4	331	-1	3	4	331	993.5	A3	57	True	A	0	5/8	3.5	False	0	P1-Staff2	6	331	2.0	514	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+95400	24	993.75	3975/4	0.25	1/4	331	-1	3	4	331	993.75	C4	60	True	C	0	11/16	3.75	False	0	P1-Staff2	6	331	2.0	514	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 95424	24	994.0	994	0.25	1/4	332	-1	3	4	332	994.0	B2	47	True	B	0	0	1.0	True	1	P1-Staff2	6	332	3.0	515	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	#4
 95448	24	994.25	3977/4	0.25	1/4	332	-1	3	4	332	994.25	B3	59	True	B	0	1/16	1.25	False	0	P1-Staff2	6	332	3.0	515	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	#4
 95472	24	994.5	1989/2	0.25	1/4	332	-1	3	4	332	994.5	C3	48	True	C	0	1/8	1.5	False	0	P1-Staff2	6	332	3.0	515	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
@@ -3849,22 +3849,22 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 99432	12	1035.75	4143/4	0.125	1/8	345	-1	3	4	345	1035.75	A4	69	True	A	0	11/16	3.75	False	0	P1-Staff2	6	345	3.0	537	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	3
 99432	24	1035.75	4143/4	0.25	1/4	345	-1	3	4	345	1035.75	E3	52	True	E	0	11/16	3.75	False	0	P1-Staff2	6	345	3.0	537	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	7
 99444	12	1035.875	8287/8	0.125	1/8	345	-1	3	4	345	1035.875	E4	64	True	E	0	23/32	3.875	False	0	P1-Staff2	6	345	3.0	537	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	7
-99456	96	1036.0	1036	1.0	1	346	-1	3	4	346	1036.0	G4	67	True	G	0	0	1.0	True	1	P1-Staff2	6	346	2.0	538	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-99456	24	1036.0	1036	0.25	1/4	346	-1	3	4	346	1036.0	G2	43	True	G	0	0	1.0	True	1	P1-Staff2	6	346	2.0	538	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-99480	24	1036.25	4145/4	0.25	1/4	346	-1	3	4	346	1036.25	C3	48	True	C	0	1/16	1.25	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
-99504	24	1036.5	2073/2	0.25	1/4	346	-1	3	4	346	1036.5	E3	52	True	E	0	1/8	1.5	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	7
-99528	24	1036.75	4147/4	0.25	1/4	346	-1	3	4	346	1036.75	C3	48	True	C	0	3/16	1.75	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
-99552	24	1037.0	1037	0.25	1/4	346	-1	3	4	346	1037.0	G4	67	False	G	0	1/4	2.0	True	2	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-99552	24	1037.0	1037	0.25	1/4	346	-1	3	4	346	1037.0	G2	43	True	G	0	1/4	2.0	True	2	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-99576	0	1037.25	4149/4	0.0	0	346	-1	3	4	346	1037.25	A4	69	True	A	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	3
-99576	0	1037.25	4149/4	0.0	0	346	-1	3	4	346	1037.25	G4	67	True	G	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-99576	0	1037.25	4149/4	0.0	0	346	-1	3	4	346	1037.25	F#4	66	True	F	1	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	#1
-99576	24	1037.25	4149/4	0.25	1/4	346	-1	3	4	346	1037.25	G4	67	True	G	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-99576	24	1037.25	4149/4	0.25	1/4	346	-1	3	4	346	1037.25	C3	48	True	C	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
-99600	24	1037.5	2075/2	0.25	1/4	346	-1	3	4	346	1037.5	A4	69	True	A	0	3/8	2.5	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	3
-99600	24	1037.5	2075/2	0.25	1/4	346	-1	3	4	346	1037.5	E3	52	True	E	0	3/8	2.5	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	7
-99624	24	1037.75	4151/4	0.25	1/4	346	-1	3	4	346	1037.75	G4	67	True	G	0	7/16	2.75	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-99624	24	1037.75	4151/4	0.25	1/4	346	-1	3	4	346	1037.75	C3	48	True	C	0	7/16	2.75	False	0	P1-Staff2	6	346	2.0	538	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
+99456	96	1036.0	1036	1.0	1	346	-1	3	4	346	1036.0	G4	67	True	G	0	0	1.0	True	1	P1-Staff2	6	346	2.0	538	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+99456	24	1036.0	1036	0.25	1/4	346	-1	3	4	346	1036.0	G2	43	True	G	0	0	1.0	True	1	P1-Staff2	6	346	2.0	538	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+99480	24	1036.25	4145/4	0.25	1/4	346	-1	3	4	346	1036.25	C3	48	True	C	0	1/16	1.25	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
+99504	24	1036.5	2073/2	0.25	1/4	346	-1	3	4	346	1036.5	E3	52	True	E	0	1/8	1.5	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	7
+99528	24	1036.75	4147/4	0.25	1/4	346	-1	3	4	346	1036.75	C3	48	True	C	0	3/16	1.75	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
+99552	24	1037.0	1037	0.25	1/4	346	-1	3	4	346	1037.0	G4	67	False	G	0	1/4	2.0	True	2	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+99552	24	1037.0	1037	0.25	1/4	346	-1	3	4	346	1037.0	G2	43	True	G	0	1/4	2.0	True	2	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+99576	0	1037.25	4149/4	0.0	0	346	-1	3	4	346	1037.25	A4	69	True	A	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	3
+99576	0	1037.25	4149/4	0.0	0	346	-1	3	4	346	1037.25	G4	67	True	G	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+99576	0	1037.25	4149/4	0.0	0	346	-1	3	4	346	1037.25	F#4	66	True	F	1	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	#1
+99576	24	1037.25	4149/4	0.25	1/4	346	-1	3	4	346	1037.25	G4	67	True	G	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+99576	24	1037.25	4149/4	0.25	1/4	346	-1	3	4	346	1037.25	C3	48	True	C	0	5/16	2.25	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
+99600	24	1037.5	2075/2	0.25	1/4	346	-1	3	4	346	1037.5	A4	69	True	A	0	3/8	2.5	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	3
+99600	24	1037.5	2075/2	0.25	1/4	346	-1	3	4	346	1037.5	E3	52	True	E	0	3/8	2.5	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	7
+99624	24	1037.75	4151/4	0.25	1/4	346	-1	3	4	346	1037.75	G4	67	True	G	0	7/16	2.75	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+99624	24	1037.75	4151/4	0.25	1/4	346	-1	3	4	346	1037.75	C3	48	True	C	0	7/16	2.75	False	0	P1-Staff2	6	346	2.0	538	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
 99648	24	1038.0	1038	0.25	1/4	346	-1	3	4	346	1038.0	G4	67	True	G	0	1/2	3.0	True	3	P1-Staff2	6	346	1.0	539	V7/V	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	2
 99648	24	1038.0	1038	0.25	1/4	346	-1	3	4	346	1038.0	G2	43	True	G	0	1/2	3.0	True	3	P1-Staff2	6	346	1.0	539	V7/V	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	2
 99672	24	1038.25	4153/4	0.25	1/4	346	-1	3	4	346	1038.25	F4	65	True	F	0	9/16	3.25	False	0	P1-Staff2	6	346	1.0	539	V7/V	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	1
@@ -3891,11 +3891,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 100080	16	1042.5	2085/2	0.1667	1/6	348	-1	3	4	348	1042.5	D4	62	True	D	0	1/8	1.5	False	0	P1-Staff2	6	348	1.0	541	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	6
 100096	16	1042.6667	3128/3	0.1667	1/6	348	-1	3	4	348	1042.667	E-4	63	True	E	-1	1/6	1.667	False	0	P1-Staff2	6	348	1.0	541	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	b7
 100112	16	1042.8333	6257/6	0.1667	1/6	348	-1	3	4	348	1042.833	E4	64	True	E	0	5/24	1.833	False	0	P1-Staff2	6	348	1.0	541	V7	False	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	5	None	V7	True	7
-100128	48	1043.0	1043	0.5	1/2	348	-1	3	4	348	1043.0	F4	65	True	F	0	1/4	2.0	True	2	P1-Staff2	6	348	2.0	542	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-100128	48	1043.0	1043	0.5	1/2	348	-1	3	4	348	1043.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	348	2.0	542	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-100128	48	1043.0	1043	0.5	1/2	348	-1	3	4	348	1043.0	C3	48	False	C	0	1/4	2.0	True	2	P1-Staff2	6	348	2.0	542	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-100224	72	1044.0	1044	0.75	3/4	348	-1	3	4	348	1044.0	C4	60	True	C	0	1/2	3.0	True	3	P1-Staff2	6	348	2.0	542	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
-100296	24	1044.75	4179/4	0.25	1/4	348	-1	3	4	348	1044.75	C4	60	True	C	0	11/16	3.75	False	0	P1-Staff2	6	348	2.0	542	V	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+100128	48	1043.0	1043	0.5	1/2	348	-1	3	4	348	1043.0	F4	65	True	F	0	1/4	2.0	True	2	P1-Staff2	6	348	2.0	542	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+100128	48	1043.0	1043	0.5	1/2	348	-1	3	4	348	1043.0	A3	57	True	A	0	1/4	2.0	True	2	P1-Staff2	6	348	2.0	542	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+100128	48	1043.0	1043	0.5	1/2	348	-1	3	4	348	1043.0	C3	48	False	C	0	1/4	2.0	True	2	P1-Staff2	6	348	2.0	542	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+100224	72	1044.0	1044	0.75	3/4	348	-1	3	4	348	1044.0	C4	60	True	C	0	1/2	3.0	True	3	P1-Staff2	6	348	2.0	542	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
+100296	24	1044.75	4179/4	0.25	1/4	348	-1	3	4	348	1044.75	C4	60	True	C	0	11/16	3.75	False	0	P1-Staff2	6	348	2.0	542	Cad	False	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 100320	16	1045.0	1045	0.1667	1/6	349	-1	3	4	349	1045.0	C4	60	True	C	0	0	1.0	True	1	P1-Staff2	6	349	3.0	543	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
 100320	96	1045.0	1045	1.0	1	349	-1	3	4	349	1045.0	A3	57	True	A	0	0	1.0	True	1	P1-Staff2	6	349	3.0	543	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	3
 100320	96	1045.0	1045	1.0	1	349	-1	3	4	349	1045.0	C3	48	True	C	0	0	1.0	True	1	P1-Staff2	6	349	3.0	543	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5

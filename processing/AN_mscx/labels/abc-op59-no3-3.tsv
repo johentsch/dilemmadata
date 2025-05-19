@@ -75,7 +75,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 92.0	31	1/2	1.0	73	I	I	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	C	C	1	None	I	True
 93.0	32	0	0.5	74	IV6/4	IV	True	('C', 'F', 'A')	C	F	2	major triad	(0, 5, 9)	C	C	C	C	4	None	IV	True
 93.5	32	1/8	0.5	75	IV	IV	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	C	C	C	C	4	None	IV	True
-94.0	32	1/4	1.0	76	I6/4	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	C	C	5	None	V	True
+94.0	32	1/4	1.0	76	I6/4	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	C	C	5	None	Cad	True
 95.0	32	1/2	0.5	77	V7	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	C	C	5	None	V7	True
 95.5	32	5/8	0.5	78	V2	V7	True	('F', 'G', 'B', 'D')	F	G	3	dominant seventh chord	(2, 5, 7, 11)	C	C	C	C	5	None	V7	True
 96.0	33	0	1.0	79	I6	I	True	('E', 'G', 'C')	E	C	1	major triad	(0, 4, 7)	C	C	C	C	1	None	I	True
@@ -144,16 +144,16 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 192.0	65	0	3.0	142	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
 195.0	66	0	3.0	143	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
 198.0	67	0	3.0	144	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
-201.0	68	0	2.0	145	I6/4	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	V	True
+201.0	68	0	2.0	145	I6/4	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	Cad	True
 203.0	68	1/2	1.0	146	V7	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	C	F	5	None	V7	True
 204.0	69	0	3.0	147	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
 207.0	70	0	3.0	148	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
 210.0	71	0	3.0	149	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
-213.0	72	0	2.0	150	I6/4	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	V	True
+213.0	72	0	2.0	150	I6/4	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	Cad	True
 215.0	72	1/2	1.0	151	V7	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	C	F	5	None	V7	True
-216.0	73	0	2.0	152	I6/4	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	V	True
+216.0	73	0	2.0	152	I6/4	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	Cad	True
 218.0	73	1/2	1.0	153	V7	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	C	F	5	None	V7	True
-219.0	74	0	2.0	154	I6/4	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	V	True
+219.0	74	0	2.0	154	I6/4	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	C	F	5	None	Cad	True
 221.0	74	1/2	1.0	155	V7	V7	True	('C', 'E', 'G', 'B-')	C	C	0	dominant seventh chord	(0, 4, 7, 10)	F	F	C	F	5	None	V7	True
 222.0	75	0	3.0	156	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
 225.0	76	0	3.0	157	I	I	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	C	F	1	None	I	True
@@ -176,7 +176,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 270.0	91	0	2.0	174	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
 272.0	91	1/2	1.0	175	i6/4	i	True	('G', 'C', 'E-')	G	C	2	minor triad	(0, 3, 7)	c	c	C	c	1	None	i	True
 273.0	92	0	3.0	176	i	i	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	c	c	C	c	1	None	i	True
-276.0	93	0	1.0	177	i6/4	V	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	c	c	C	c	5	None	V	True
+276.0	93	0	1.0	177	i6/4	Cad	True	('G', 'C', 'E-')	G	G	0	major triad	(0, 3, 7)	c	c	C	c	5	None	Cad	True
 277.0	93	1/4	1.0	178	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	c	c	C	c	5	None	V	True
 278.0	93	1/2	1.0	179	It6	It	True	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	c	c	C	c	#4	None	It	True
 279.0	94	0	1.0	180	viio6/5/V	viio7/V	True	('A', 'C', 'E-', 'F#')	A	F#	1	diminished seventh chord	(0, 3, 6, 9)	c	c	C	G	7	5	viio7	True

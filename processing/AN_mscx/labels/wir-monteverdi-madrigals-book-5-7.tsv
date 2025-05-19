@@ -35,8 +35,8 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 64.0	17	0	1.0	33	V	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	g	g	5	None	V	True
 65.0	17	1/4	1.0	34	iv6	iv	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	g	g	g	g	4	None	iv	True
 66.0	17	1/2	1.0	35	V	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	g	g	5	None	V	True
-67.0	17	3/4	1.0	36	i6/4	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	g	g	5	None	V	True
-68.0	18	0	1.0	37	i6/4	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	g	g	5	None	V	True
+67.0	17	3/4	1.0	36	i6/4	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	g	g	5	None	Cad	True
+68.0	18	0	1.0	37	i6/4	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	g	g	g	g	5	None	Cad	True
 69.0	18	1/4	3.0	38	V	V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	g	g	g	g	5	None	V	True
 72.0	19	0	4.0	39	i[no3]	i	True	('G', 'D')	G	G	0	Perfect Fifth	(2, 7)	g	g	g	g	1	None	i	True
 76.0	20	0	4.0	40	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	g	C	5	None	V	True
@@ -57,7 +57,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 108.0	28	0	2.0	55	V/ii	V/ii	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	C	C	g	d	5	2	V	True
 110.0	28	1/2	1.0	56	i	i	True	('C', 'E-', 'G')	C	C	0	minor triad	(0, 3, 7)	C	C	g	C	1	None	i	True
 111.0	28	3/4	1.0	57	bVII	bVII	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	C	C	g	C	-7	None	bVII	True
-112.0	29	0	2.0	58	i6/4/v	V	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	C	C	g	g	5	5	V	True
+112.0	29	0	2.0	58	i6/4/v	Cad	True	('D', 'G', 'B-')	D	D	0	major triad	(2, 7, 10)	C	C	g	g	5	5	Cad	True
 114.0	29	1/2	2.0	59	V/v	V/v	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	C	C	g	g	5	5	V	True
 116.0	30	0	2.0	60	v	v	True	('G', 'B-', 'D')	G	G	0	minor triad	(2, 7, 10)	C	C	g	C	5	None	v	True
 118.0	30	1/2	2.0	61	V	V	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	C	C	g	C	5	None	V	True
@@ -110,6 +110,6 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 224.0	57	0	2.0	108	bIII	NI	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	D	D	g	D	-3	None	N	True
 226.0	57	1/2	1.0	109	i6	i	True	('F', 'A', 'D')	F	D	1	minor triad	(2, 5, 9)	D	D	g	D	1	None	i	True
 227.0	57	3/4	1.0	110	IV	IV	True	('G', 'B', 'D')	G	G	0	major triad	(2, 7, 11)	D	D	g	D	4	None	IV	True
-228.0	58	0	2.0	111	i6/4	V	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	D	D	g	D	5	None	V	True
+228.0	58	0	2.0	111	i6/4	Cad	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	D	D	g	D	5	None	Cad	True
 230.0	58	1/2	2.0	112	V	V	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	D	D	g	D	5	None	V	True
 232.0	59	0	4.0	113	I	I	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	D	D	g	D	1	None	I	True

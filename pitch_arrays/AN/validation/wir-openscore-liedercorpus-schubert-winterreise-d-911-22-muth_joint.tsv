@@ -92,18 +92,18 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 48	8	12.0	12	2.0	2	7	0	2	4	7	12.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	7	2.0	9	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	5	None	V	True	5
 48	8	12.0	12	2.0	2	7	0	2	4	7	12.0	E3	52	True	E	0	0	1.0	True	1	P2-Staff2	1	7	2.0	9	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	5	None	V	True	5
 48	8	12.0	12	2.0	2	7	0	2	4	7	12.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	7	2.0	9	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	a	a	5	None	V	True	#7
-56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	8	1.0	10	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	8	1.0	10	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	8	1.0	10	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	6
-59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	B3	59	True	B	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	B4	71	True	B	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	B2	47	True	B	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	G#3	56	True	G	1	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
+56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	8	1.0	10	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	8	1.0	10	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+56	3	14.0	14	0.75	3/4	8	0	2	4	8	14.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	8	1.0	10	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	8	1.0	10	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	6
+59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	B3	59	True	B	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	B4	71	True	B	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	B2	47	True	B	0	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+59	1	14.75	59/4	0.25	1/4	8	0	2	4	8	14.75	G#3	56	True	G	1	3/16	1.75	False	0	P2-Staff2	1	8	1.0	10	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
 60	1	15.0	15	0.25	1/4	8	0	2	4	8	15.0	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	2	8	1.0	11	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 60	2	15.0	15	0.5	1/2	8	0	2	4	8	15.0	B3	59	True	B	0	1/4	2.0	True	2	P2-Staff2	1	8	1.0	11	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 60	2	15.0	15	0.5	1/2	8	0	2	4	8	15.0	D#4	63	True	D	1	1/4	2.0	True	2	P2-Staff2	1	8	1.0	11	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	7
@@ -131,13 +131,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 68	4	17.0	17	1.0	1	9	0	2	4	9	17.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	1	9	2.0	12	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
 68	4	17.0	17	1.0	1	9	0	2	4	9	17.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	9	2.0	12	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
 68	4	17.0	17	1.0	1	9	0	2	4	9	17.0	G#3	56	True	G	1	1/4	2.0	True	2	P2-Staff2	1	9	2.0	12	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	3
-72	1	18.0	18	0.25	1/4	10	0	2	4	10	18.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	10	1.0	13	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-72	4	18.0	18	1.0	1	10	0	2	4	10	18.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	2	10	1.0	13	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-72	4	18.0	18	1.0	1	10	0	2	4	10	18.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	10	1.0	13	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-72	4	18.0	18	1.0	1	10	0	2	4	10	18.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	10	1.0	13	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-73	1	18.25	73/4	0.25	1/4	10	0	2	4	10	18.25	E5	76	True	E	0	1/16	1.25	False	0	P2-Staff2	2	10	1.0	13	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-74	1	18.5	37/2	0.25	1/4	10	0	2	4	10	18.5	D#5	75	True	D	1	1/8	1.5	False	0	P2-Staff2	2	10	1.0	13	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	7
-75	1	18.75	75/4	0.25	1/4	10	0	2	4	10	18.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	10	1.0	13	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	6
+72	1	18.0	18	0.25	1/4	10	0	2	4	10	18.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	10	1.0	13	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+72	4	18.0	18	1.0	1	10	0	2	4	10	18.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	2	10	1.0	13	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+72	4	18.0	18	1.0	1	10	0	2	4	10	18.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	10	1.0	13	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+72	4	18.0	18	1.0	1	10	0	2	4	10	18.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	10	1.0	13	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+73	1	18.25	73/4	0.25	1/4	10	0	2	4	10	18.25	E5	76	True	E	0	1/16	1.25	False	0	P2-Staff2	2	10	1.0	13	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+74	1	18.5	37/2	0.25	1/4	10	0	2	4	10	18.5	D#5	75	True	D	1	1/8	1.5	False	0	P2-Staff2	2	10	1.0	13	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	7
+75	1	18.75	75/4	0.25	1/4	10	0	2	4	10	18.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	10	1.0	13	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	6
 76	1	19.0	19	0.25	1/4	10	0	2	4	10	19.0	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	2	10	1.0	14	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 76	2	19.0	19	0.5	1/2	10	0	2	4	10	19.0	D#4	63	True	D	1	1/4	2.0	True	2	P2-Staff2	2	10	1.0	14	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	7
 76	2	19.0	19	0.5	1/2	10	0	2	4	10	19.0	B2	47	True	B	0	1/4	2.0	True	2	P2-Staff2	1	10	1.0	14	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
@@ -194,28 +194,28 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 112	3	28.0	28	0.75	3/4	15	0	2	4	15	28.0	C#3	49	True	C	1	0	1.0	True	1	P2-Staff2	1	15	0.75	21	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
 112	3	28.0	28	0.75	3/4	15	0	2	4	15	28.0	A3	57	True	A	0	0	1.0	True	1	P2-Staff2	1	15	0.75	21	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 112	3	28.0	28	0.75	3/4	15	0	2	4	15	28.0	C#4	61	True	C	1	0	1.0	True	1	P2-Staff2	1	15	0.75	21	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
-115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	15	1.25	22	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	A4	69	True	A	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	E5	76	True	E	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-116	1	29.0	29	0.25	1/4	15	0	2	4	15	29.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	6
-116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	C#5	73	True	C	1	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-117	1	29.25	117/4	0.25	1/4	15	0	2	4	15	29.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-118	1	29.5	59/2	0.25	1/4	15	0	2	4	15	29.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	E4	64	True	E	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	A4	69	True	A	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-119	1	29.75	119/4	0.25	1/4	15	0	2	4	15	29.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	15	1.25	22	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
+115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	15	1.25	22	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	A4	69	True	A	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	E5	76	True	E	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+115	1	28.75	115/4	0.25	1/4	15	0	2	4	15	28.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	15	1.25	22	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+116	1	29.0	29	0.25	1/4	15	0	2	4	15	29.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	6
+116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	C#5	73	True	C	1	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+116	2	29.0	29	0.5	1/2	15	0	2	4	15	29.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+117	1	29.25	117/4	0.25	1/4	15	0	2	4	15	29.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+118	1	29.5	59/2	0.25	1/4	15	0	2	4	15	29.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	E4	64	True	E	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	A4	69	True	A	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+118	2	29.5	59/2	0.5	1/2	15	0	2	4	15	29.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+119	1	29.75	119/4	0.25	1/4	15	0	2	4	15	29.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	15	1.25	22	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
 120	4	30.0	30	1.0	1	16	0	2	4	16	30.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	16	1.0	23	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 120	4	30.0	30	1.0	1	16	0	2	4	16	30.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	16	1.0	23	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
 120	4	30.0	30	1.0	1	16	0	2	4	16	30.0	G#4	68	True	G	1	0	1.0	True	1	P2-Staff2	1	16	1.0	23	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	7
@@ -233,20 +233,20 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 128	3	32.0	32	0.75	3/4	17	0	2	4	17	32.0	A3	57	True	A	0	0	1.0	True	1	P2-Staff2	1	17	0.75	25	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 128	3	32.0	32	0.75	3/4	17	0	2	4	17	32.0	C#4	61	True	C	1	0	1.0	True	1	P2-Staff2	1	17	0.75	25	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
 130	1	32.5	65/2	0.25	1/4	17	0	2	4	17	32.5	A4	69	True	A	0	1/8	1.5	False	0	P2-Staff2	2	17	0.75	25	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
-131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	17	1.25	26	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	17	1.25	26	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	17	1.25	26	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	17	1.25	26	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-132	1	33.0	33	0.25	1/4	17	0	2	4	17	33.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	6
-132	2	33.0	33	0.5	1/2	17	0	2	4	17	33.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-132	2	33.0	33	0.5	1/2	17	0	2	4	17	33.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-132	2	33.0	33	0.5	1/2	17	0	2	4	17	33.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-133	1	33.25	133/4	0.25	1/4	17	0	2	4	17	33.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-134	1	33.5	67/2	0.25	1/4	17	0	2	4	17	33.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-134	2	33.5	67/2	0.5	1/2	17	0	2	4	17	33.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-134	2	33.5	67/2	0.5	1/2	17	0	2	4	17	33.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-134	2	33.5	67/2	0.5	1/2	17	0	2	4	17	33.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-135	1	33.75	135/4	0.25	1/4	17	0	2	4	17	33.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	17	1.25	26	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
+131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	17	1.25	26	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	17	1.25	26	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	17	1.25	26	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+131	1	32.75	131/4	0.25	1/4	17	0	2	4	17	32.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	17	1.25	26	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+132	1	33.0	33	0.25	1/4	17	0	2	4	17	33.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	6
+132	2	33.0	33	0.5	1/2	17	0	2	4	17	33.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+132	2	33.0	33	0.5	1/2	17	0	2	4	17	33.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+132	2	33.0	33	0.5	1/2	17	0	2	4	17	33.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+133	1	33.25	133/4	0.25	1/4	17	0	2	4	17	33.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+134	1	33.5	67/2	0.25	1/4	17	0	2	4	17	33.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+134	2	33.5	67/2	0.5	1/2	17	0	2	4	17	33.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+134	2	33.5	67/2	0.5	1/2	17	0	2	4	17	33.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+134	2	33.5	67/2	0.5	1/2	17	0	2	4	17	33.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+135	1	33.75	135/4	0.25	1/4	17	0	2	4	17	33.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	17	1.25	26	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
 136	4	34.0	34	1.0	1	18	0	2	4	18	34.0	G#4	68	True	G	1	0	1.0	True	1	P2-Staff2	1	18	1.0	27	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	7
 136	4	34.0	34	1.0	1	18	0	2	4	18	34.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	18	1.0	27	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 136	4	34.0	34	1.0	1	18	0	2	4	18	34.0	E5	76	True	E	0	0	1.0	True	1	P2-Staff2	1	18	1.0	27	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
@@ -298,22 +298,22 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 156	4	39.0	39	1.0	1	20	3	2	4	20	39.0	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	1	20	1.0	32	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	2
 156	4	39.0	39	1.0	1	20	3	2	4	20	39.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	20	1.0	32	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	5
 156	4	39.0	39	1.0	1	20	3	2	4	20	39.0	B3	59	True	B	0	1/4	2.0	True	2	P2-Staff2	1	20	1.0	32	V	True	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	A	A	5	None	V	True	2
-160	1	40.0	40	0.25	1/4	21	3	2	4	21	40.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	21	1.0	33	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	E5	76	True	E	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	21	1.0	33	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-161	1	40.25	161/4	0.25	1/4	21	3	2	4	21	40.25	E5	76	True	E	0	1/16	1.25	False	0	P2-Staff2	2	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-162	1	40.5	81/2	0.25	1/4	21	3	2	4	21	40.5	D#5	75	True	D	1	1/8	1.5	False	0	P2-Staff2	2	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	7
-163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	6
-163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	B4	71	True	B	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	E5	76	True	E	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	B2	47	True	B	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	G#3	56	True	G	1	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	B3	59	True	B	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
+160	1	40.0	40	0.25	1/4	21	3	2	4	21	40.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	21	1.0	33	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	E5	76	True	E	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	21	1.0	33	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+160	3	40.0	40	0.75	3/4	21	3	2	4	21	40.0	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	21	1.0	33	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+161	1	40.25	161/4	0.25	1/4	21	3	2	4	21	40.25	E5	76	True	E	0	1/16	1.25	False	0	P2-Staff2	2	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+162	1	40.5	81/2	0.25	1/4	21	3	2	4	21	40.5	D#5	75	True	D	1	1/8	1.5	False	0	P2-Staff2	2	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	7
+163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	6
+163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	B4	71	True	B	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	E5	76	True	E	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	B2	47	True	B	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	G#3	56	True	G	1	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+163	1	40.75	163/4	0.25	1/4	21	3	2	4	21	40.75	B3	59	True	B	0	3/16	1.75	False	0	P2-Staff2	1	21	1.0	33	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
 164	1	41.0	41	0.25	1/4	21	3	2	4	21	41.0	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	2	21	1.0	34	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 164	2	41.0	41	0.5	1/2	21	3	2	4	21	41.0	F#4	66	True	F	1	1/4	2.0	True	2	P2-Staff2	1	21	1.0	34	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	2
 164	2	41.0	41	0.5	1/2	21	3	2	4	21	41.0	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	1	21	1.0	34	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
@@ -340,14 +340,14 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 172	4	43.0	43	1.0	1	22	3	2	4	22	43.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	2	22	2.0	35	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
 172	4	43.0	43	1.0	1	22	3	2	4	22	43.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	2	22	2.0	35	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
 172	4	43.0	43	1.0	1	22	3	2	4	22	43.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	2	22	2.0	35	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
-176	3	44.0	44	0.75	3/4	23	3	2	4	23	44.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-176	3	44.0	44	0.75	3/4	23	3	2	4	23	44.0	B5	83	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	E3	52	True	E	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	23	1.0	36	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-179	1	44.75	179/4	0.25	1/4	23	3	2	4	23	44.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	1	23	1.0	36	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	6
-179	1	44.75	179/4	0.25	1/4	23	3	2	4	23	44.75	C#6	85	True	C	1	3/16	1.75	False	0	P2-Staff2	1	23	1.0	36	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	6
+176	3	44.0	44	0.75	3/4	23	3	2	4	23	44.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+176	3	44.0	44	0.75	3/4	23	3	2	4	23	44.0	B5	83	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	B2	47	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	E3	52	True	E	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	G#3	56	True	G	1	0	1.0	True	1	P2-Staff2	1	23	1.0	36	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+176	4	44.0	44	1.0	1	23	3	2	4	23	44.0	B3	59	True	B	0	0	1.0	True	1	P2-Staff2	1	23	1.0	36	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+179	1	44.75	179/4	0.25	1/4	23	3	2	4	23	44.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	1	23	1.0	36	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	6
+179	1	44.75	179/4	0.25	1/4	23	3	2	4	23	44.75	C#6	85	True	C	1	3/16	1.75	False	0	P2-Staff2	1	23	1.0	36	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	6
 180	2	45.0	45	0.5	1/2	23	3	2	4	23	45.0	B4	71	True	B	0	1/4	2.0	True	2	P2-Staff2	1	23	1.0	37	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 180	2	45.0	45	0.5	1/2	23	3	2	4	23	45.0	B5	83	True	B	0	1/4	2.0	True	2	P2-Staff2	1	23	1.0	37	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 180	2	45.0	45	0.5	1/2	23	3	2	4	23	45.0	B2	47	True	B	0	1/4	2.0	True	2	P2-Staff2	1	23	1.0	37	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
@@ -414,28 +414,28 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 208	3	52.0	52	0.75	3/4	27	3	2	4	27	52.0	C#3	49	True	C	1	0	1.0	True	1	P2-Staff2	1	27	0.75	43	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
 208	3	52.0	52	0.75	3/4	27	3	2	4	27	52.0	A3	57	True	A	0	0	1.0	True	1	P2-Staff2	1	27	0.75	43	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 208	3	52.0	52	0.75	3/4	27	3	2	4	27	52.0	C#4	61	True	C	1	0	1.0	True	1	P2-Staff2	1	27	0.75	43	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
-211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	27	1.25	44	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	A4	69	True	A	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	E5	76	True	E	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-212	1	53.0	53	0.25	1/4	27	3	2	4	27	53.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	6
-212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	C#5	73	True	C	1	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-213	1	53.25	213/4	0.25	1/4	27	3	2	4	27	53.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-214	1	53.5	107/2	0.25	1/4	27	3	2	4	27	53.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	E4	64	True	E	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	A4	69	True	A	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-215	1	53.75	215/4	0.25	1/4	27	3	2	4	27	53.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	27	1.25	44	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
+211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	27	1.25	44	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	E4	64	True	E	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	A4	69	True	A	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	E5	76	True	E	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+211	1	52.75	211/4	0.25	1/4	27	3	2	4	27	52.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	27	1.25	44	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+212	1	53.0	53	0.25	1/4	27	3	2	4	27	53.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	6
+212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	C#5	73	True	C	1	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+212	2	53.0	53	0.5	1/2	27	3	2	4	27	53.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+213	1	53.25	213/4	0.25	1/4	27	3	2	4	27	53.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+214	1	53.5	107/2	0.25	1/4	27	3	2	4	27	53.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	E4	64	True	E	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	A4	69	True	A	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+214	2	53.5	107/2	0.5	1/2	27	3	2	4	27	53.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+215	1	53.75	215/4	0.25	1/4	27	3	2	4	27	53.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	27	1.25	44	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
 216	4	54.0	54	1.0	1	28	3	2	4	28	54.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	28	1.0	45	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 216	4	54.0	54	1.0	1	28	3	2	4	28	54.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	28	1.0	45	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
 216	4	54.0	54	1.0	1	28	3	2	4	28	54.0	G#4	68	True	G	1	0	1.0	True	1	P2-Staff2	1	28	1.0	45	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	7
@@ -453,20 +453,20 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 224	3	56.0	56	0.75	3/4	29	3	2	4	29	56.0	A3	57	True	A	0	0	1.0	True	1	P2-Staff2	1	29	0.75	47	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 224	3	56.0	56	0.75	3/4	29	3	2	4	29	56.0	C#4	61	True	C	1	0	1.0	True	1	P2-Staff2	1	29	0.75	47	I	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
 226	1	56.5	113/2	0.25	1/4	29	3	2	4	29	56.5	A4	69	True	A	0	1/8	1.5	False	0	P2-Staff2	2	29	0.75	47	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
-227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	29	1.25	48	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	29	1.25	48	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	29	1.25	48	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	29	1.25	48	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-228	1	57.0	57	0.25	1/4	29	3	2	4	29	57.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	6
-228	2	57.0	57	0.5	1/2	29	3	2	4	29	57.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-228	2	57.0	57	0.5	1/2	29	3	2	4	29	57.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-228	2	57.0	57	0.5	1/2	29	3	2	4	29	57.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-229	1	57.25	229/4	0.25	1/4	29	3	2	4	29	57.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-230	1	57.5	115/2	0.25	1/4	29	3	2	4	29	57.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-230	2	57.5	115/2	0.5	1/2	29	3	2	4	29	57.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-230	2	57.5	115/2	0.5	1/2	29	3	2	4	29	57.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-230	2	57.5	115/2	0.5	1/2	29	3	2	4	29	57.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-231	1	57.75	231/4	0.25	1/4	29	3	2	4	29	57.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	29	1.25	48	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
+227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	C#5	73	True	C	1	3/16	1.75	False	0	P2-Staff2	2	29	1.25	48	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	29	1.25	48	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	29	1.25	48	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+227	1	56.75	227/4	0.25	1/4	29	3	2	4	29	56.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	29	1.25	48	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+228	1	57.0	57	0.25	1/4	29	3	2	4	29	57.0	F#5	78	True	F	1	1/4	2.0	True	2	P2-Staff2	2	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	6
+228	2	57.0	57	0.5	1/2	29	3	2	4	29	57.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+228	2	57.0	57	0.5	1/2	29	3	2	4	29	57.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+228	2	57.0	57	0.5	1/2	29	3	2	4	29	57.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+229	1	57.25	229/4	0.25	1/4	29	3	2	4	29	57.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+230	1	57.5	115/2	0.25	1/4	29	3	2	4	29	57.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+230	2	57.5	115/2	0.5	1/2	29	3	2	4	29	57.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+230	2	57.5	115/2	0.5	1/2	29	3	2	4	29	57.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+230	2	57.5	115/2	0.5	1/2	29	3	2	4	29	57.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+231	1	57.75	231/4	0.25	1/4	29	3	2	4	29	57.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	29	1.25	48	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
 232	4	58.0	58	1.0	1	30	3	2	4	30	58.0	G#4	68	True	G	1	0	1.0	True	1	P2-Staff2	1	30	1.0	49	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	7
 232	4	58.0	58	1.0	1	30	3	2	4	30	58.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	1	30	1.0	49	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 232	4	58.0	58	1.0	1	30	3	2	4	30	58.0	E5	76	True	E	0	0	1.0	True	1	P2-Staff2	1	30	1.0	49	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
@@ -572,13 +572,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 268	4	67.0	67	1.0	1	34	3	2	4	34	67.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	34	2.0	57	I	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	1	None	I	True	3
 268	4	67.0	67	1.0	1	34	3	2	4	34	67.0	G3	55	True	G	0	1/4	2.0	True	2	P2-Staff2	1	34	2.0	57	I	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	1	None	I	True	5
 268	4	67.0	67	1.0	1	34	3	2	4	34	67.0	C4	60	True	C	0	1/4	2.0	True	2	P2-Staff2	1	34	2.0	57	I	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	C	C	1	None	I	True	1
-272	3	68.0	68	0.75	3/4	35	3	2	4	35	68.0	G5	79	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-272	3	68.0	68	0.75	3/4	35	3	2	4	35	68.0	G6	91	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-272	4	68.0	68	1.0	1	35	3	2	4	35	68.0	G2	43	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-272	4	68.0	68	1.0	1	35	3	2	4	35	68.0	E3	52	True	E	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	3
-272	4	68.0	68	1.0	1	35	3	2	4	35	68.0	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	5
-275	1	68.75	275/4	0.25	1/4	35	3	2	4	35	68.75	A5	81	True	A	0	3/16	1.75	False	0	P2-Staff2	1	35	1.0	58	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	6
-275	1	68.75	275/4	0.25	1/4	35	3	2	4	35	68.75	A6	93	True	A	0	3/16	1.75	False	0	P2-Staff2	1	35	1.0	58	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	V	True	6
+272	3	68.0	68	0.75	3/4	35	3	2	4	35	68.0	G5	79	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+272	3	68.0	68	0.75	3/4	35	3	2	4	35	68.0	G6	91	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+272	4	68.0	68	1.0	1	35	3	2	4	35	68.0	G2	43	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+272	4	68.0	68	1.0	1	35	3	2	4	35	68.0	E3	52	True	E	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	3
+272	4	68.0	68	1.0	1	35	3	2	4	35	68.0	G3	55	True	G	0	0	1.0	True	1	P2-Staff2	1	35	1.0	58	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	5
+275	1	68.75	275/4	0.25	1/4	35	3	2	4	35	68.75	A5	81	True	A	0	3/16	1.75	False	0	P2-Staff2	1	35	1.0	58	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	6
+275	1	68.75	275/4	0.25	1/4	35	3	2	4	35	68.75	A6	93	True	A	0	3/16	1.75	False	0	P2-Staff2	1	35	1.0	58	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	C	C	5	None	Cad	True	6
 276	2	69.0	69	0.5	1/2	35	3	2	4	35	69.0	G5	79	True	G	0	1/4	2.0	True	2	P2-Staff2	1	35	1.0	59	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	5
 276	2	69.0	69	0.5	1/2	35	3	2	4	35	69.0	G6	91	True	G	0	1/4	2.0	True	2	P2-Staff2	1	35	1.0	59	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	5
 276	2	69.0	69	0.5	1/2	35	3	2	4	35	69.0	G2	43	True	G	0	1/4	2.0	True	2	P2-Staff2	1	35	1.0	59	V7	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	C	C	5	None	V7	True	5
@@ -653,21 +653,21 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 307	1	76.75	307/4	0.25	1/4	39	3	2	4	39	76.75	C#3	49	True	C	1	3/16	1.75	False	0	P2-Staff2	1	39	1.0	65	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
 307	1	76.75	307/4	0.25	1/4	39	3	2	4	39	76.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	39	1.0	65	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 307	1	76.75	307/4	0.25	1/4	39	3	2	4	39	76.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	39	1.0	65	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
-308	1	77.0	77	0.25	1/4	39	3	2	4	39	77.0	A5	81	True	A	0	1/4	2.0	True	2	P2-Staff2	2	39	1.0	66	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	C#5	73	True	C	1	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-309	1	77.25	309/4	0.25	1/4	39	3	2	4	39	77.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-310	1	77.5	155/2	0.25	1/4	39	3	2	4	39	77.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	E4	64	True	E	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	A4	69	True	A	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-311	1	77.75	311/4	0.25	1/4	39	3	2	4	39	77.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	39	1.0	66	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
+308	1	77.0	77	0.25	1/4	39	3	2	4	39	77.0	A5	81	True	A	0	1/4	2.0	True	2	P2-Staff2	2	39	1.0	66	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	E4	64	True	E	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	A4	69	True	A	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	C#5	73	True	C	1	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+308	2	77.0	77	0.5	1/2	39	3	2	4	39	77.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	39	1.0	66	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+309	1	77.25	309/4	0.25	1/4	39	3	2	4	39	77.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+310	1	77.5	155/2	0.25	1/4	39	3	2	4	39	77.5	C#5	73	True	C	1	3/8	2.5	False	0	P2-Staff2	2	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	E4	64	True	E	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	A4	69	True	A	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+310	2	77.5	155/2	0.5	1/2	39	3	2	4	39	77.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+311	1	77.75	311/4	0.25	1/4	39	3	2	4	39	77.75	A4	69	True	A	0	7/16	2.75	False	0	P2-Staff2	2	39	1.0	66	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
 312	4	78.0	78	1.0	1	40	3	2	4	40	78.0	B4	71	True	B	0	0	1.0	True	1	P2-Staff2	2	40	1.0	67	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 312	4	78.0	78	1.0	1	40	3	2	4	40	78.0	E4	64	True	E	0	0	1.0	True	1	P2-Staff2	1	40	1.0	67	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
 312	4	78.0	78	1.0	1	40	3	2	4	40	78.0	G#4	68	True	G	1	0	1.0	True	1	P2-Staff2	1	40	1.0	67	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	7
@@ -690,16 +690,16 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 323	1	80.75	323/4	0.25	1/4	41	3	2	4	41	80.75	E3	52	True	E	0	3/16	1.75	False	0	P2-Staff2	1	41	1.0	69	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	5
 323	1	80.75	323/4	0.25	1/4	41	3	2	4	41	80.75	A3	57	True	A	0	3/16	1.75	False	0	P2-Staff2	1	41	1.0	69	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 323	1	80.75	323/4	0.25	1/4	41	3	2	4	41	80.75	C#4	61	True	C	1	3/16	1.75	False	0	P2-Staff2	1	41	1.0	69	I	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	A	A	1	None	I	True	3
-324	1	81.0	81	0.25	1/4	41	3	2	4	41	81.0	A5	81	True	A	0	1/4	2.0	True	2	P2-Staff2	2	41	1.0	70	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-324	2	81.0	81	0.5	1/2	41	3	2	4	41	81.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	41	1.0	70	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-324	2	81.0	81	0.5	1/2	41	3	2	4	41	81.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	41	1.0	70	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-324	2	81.0	81	0.5	1/2	41	3	2	4	41	81.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	41	1.0	70	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-325	1	81.25	325/4	0.25	1/4	41	3	2	4	41	81.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	41	1.0	70	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-326	1	81.5	163/2	0.25	1/4	41	3	2	4	41	81.5	A5	81	True	A	0	3/8	2.5	False	0	P2-Staff2	2	41	1.0	70	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-326	2	81.5	163/2	0.5	1/2	41	3	2	4	41	81.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	41	1.0	70	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-326	2	81.5	163/2	0.5	1/2	41	3	2	4	41	81.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	41	1.0	70	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-326	2	81.5	163/2	0.5	1/2	41	3	2	4	41	81.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	41	1.0	70	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-327	1	81.75	327/4	0.25	1/4	41	3	2	4	41	81.75	C#6	85	True	C	1	7/16	2.75	False	0	P2-Staff2	2	41	1.0	70	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
+324	1	81.0	81	0.25	1/4	41	3	2	4	41	81.0	A5	81	True	A	0	1/4	2.0	True	2	P2-Staff2	2	41	1.0	70	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+324	2	81.0	81	0.5	1/2	41	3	2	4	41	81.0	E3	52	True	E	0	1/4	2.0	True	2	P2-Staff2	1	41	1.0	70	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+324	2	81.0	81	0.5	1/2	41	3	2	4	41	81.0	A3	57	True	A	0	1/4	2.0	True	2	P2-Staff2	1	41	1.0	70	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+324	2	81.0	81	0.5	1/2	41	3	2	4	41	81.0	C#4	61	True	C	1	1/4	2.0	True	2	P2-Staff2	1	41	1.0	70	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+325	1	81.25	325/4	0.25	1/4	41	3	2	4	41	81.25	E5	76	True	E	0	5/16	2.25	False	0	P2-Staff2	2	41	1.0	70	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+326	1	81.5	163/2	0.25	1/4	41	3	2	4	41	81.5	A5	81	True	A	0	3/8	2.5	False	0	P2-Staff2	2	41	1.0	70	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+326	2	81.5	163/2	0.5	1/2	41	3	2	4	41	81.5	E3	52	True	E	0	3/8	2.5	False	0	P2-Staff2	1	41	1.0	70	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+326	2	81.5	163/2	0.5	1/2	41	3	2	4	41	81.5	A3	57	True	A	0	3/8	2.5	False	0	P2-Staff2	1	41	1.0	70	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+326	2	81.5	163/2	0.5	1/2	41	3	2	4	41	81.5	C#4	61	True	C	1	3/8	2.5	False	0	P2-Staff2	1	41	1.0	70	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+327	1	81.75	327/4	0.25	1/4	41	3	2	4	41	81.75	C#6	85	True	C	1	7/16	2.75	False	0	P2-Staff2	2	41	1.0	70	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
 328	4	82.0	82	1.0	1	42	3	2	4	42	82.0	E5	76	True	E	0	0	1.0	True	1	P2-Staff2	1	42	1.0	71	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
 328	4	82.0	82	1.0	1	42	3	2	4	42	82.0	G#5	80	True	G	1	0	1.0	True	1	P2-Staff2	1	42	1.0	71	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	7
 328	4	82.0	82	1.0	1	42	3	2	4	42	82.0	B5	83	True	B	0	0	1.0	True	1	P2-Staff2	1	42	1.0	71	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2

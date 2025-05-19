@@ -406,9 +406,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 290	3	145.0	145	1.5	3/2	37	0	4	4	37	145.0	C4	60	True	C	0	1/4	2.0	True	2	Basso	1	37	1.0	56	VII	True	('E', 'G', 'C')	E	C	1	major triad	(0, 4, 7)	d	d	7	None	VII	True	7
 292	4	146.0	146	2.0	2	37	0	4	4	37	146.0	A3	57	True	A	0	1/2	3.0	True	3	Basso	1	37	1.0	57	v	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	d	d	5	None	v	True	5
 293	1	146.5	293/2	0.5	1/2	37	0	4	4	37	146.5	A3	57	True	A	0	5/8	3.5	False	0	Basso	1	37	1.0	57	v	False	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	d	d	5	None	v	True	5
-294	2	147.0	147	1.0	1	37	0	4	4	37	147.0	F4	65	True	F	0	3/4	4.0	True	4	Basso	1	37	1.0	58	V	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	d	d	5	None	V	True	3
-294	2	147.0	147	1.0	1	37	0	4	4	37	147.0	A4	69	True	A	0	3/4	4.0	True	4	Basso	1	37	1.0	58	V	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	d	d	5	None	V	True	5
-294	2	147.0	147	1.0	1	37	0	4	4	37	147.0	D4	62	True	D	0	3/4	4.0	True	4	Basso	1	37	1.0	58	V	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	d	d	5	None	V	True	1
+294	2	147.0	147	1.0	1	37	0	4	4	37	147.0	F4	65	True	F	0	3/4	4.0	True	4	Basso	1	37	1.0	58	Cad	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	d	d	5	None	Cad	True	3
+294	2	147.0	147	1.0	1	37	0	4	4	37	147.0	A4	69	True	A	0	3/4	4.0	True	4	Basso	1	37	1.0	58	Cad	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	d	d	5	None	Cad	True	5
+294	2	147.0	147	1.0	1	37	0	4	4	37	147.0	D4	62	True	D	0	3/4	4.0	True	4	Basso	1	37	1.0	58	Cad	True	('A', 'D', 'F')	A	A	0	major triad	(2, 5, 9)	d	d	5	None	Cad	True	1
 296	4	148.0	148	2.0	2	38	0	4	4	38	148.0	E4	64	True	E	0	0	1.0	True	1	Basso	1	38	2.0	59	V	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	d	d	5	None	V	True	2
 296	2	148.0	148	1.0	1	38	0	4	4	38	148.0	A4	69	False	A	0	0	1.0	True	1	Basso	1	38	2.0	59	V	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	d	d	5	None	V	True	5
 296	2	148.0	148	1.0	1	38	0	4	4	38	148.0	D4	62	False	D	0	0	1.0	True	1	Basso	1	38	2.0	59	V	True	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	d	d	5	None	V	True	1
@@ -465,9 +465,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 324	4	162.0	162	2.0	2	41	0	4	4	41	162.0	C5	72	True	C	0	1/2	3.0	True	3	Basso	1	41	1.0	67	V7	True	('C', 'G', 'B-')	C	C	0	incomplete dominant-seventh chord	(0, 7, 10)	F	F	5	None	V7	True	5
 324	4	162.0	162	2.0	2	41	0	4	4	41	162.0	C4	60	True	C	0	1/2	3.0	True	3	Basso	1	41	1.0	67	V7	True	('C', 'G', 'B-')	C	C	0	incomplete dominant-seventh chord	(0, 7, 10)	F	F	5	None	V7	True	5
 325	1	162.5	325/2	0.5	1/2	41	0	4	4	41	162.5	B-4	70	True	B	-1	5/8	3.5	False	0	Basso	1	41	1.0	67	V7	False	('C', 'G', 'B-')	C	C	0	incomplete dominant-seventh chord	(0, 7, 10)	F	F	5	None	V7	True	4
-326	2	163.0	163	1.0	1	41	0	4	4	41	163.0	F5	77	True	F	0	3/4	4.0	True	4	Basso	1	41	1.0	68	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	1
-326	2	163.0	163	1.0	1	41	0	4	4	41	163.0	A4	69	True	A	0	3/4	4.0	True	4	Basso	1	41	1.0	68	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	3
-326	2	163.0	163	1.0	1	41	0	4	4	41	163.0	C4	60	True	C	0	3/4	4.0	True	4	Basso	1	41	1.0	68	V	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	V	True	5
+326	2	163.0	163	1.0	1	41	0	4	4	41	163.0	F5	77	True	F	0	3/4	4.0	True	4	Basso	1	41	1.0	68	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	1
+326	2	163.0	163	1.0	1	41	0	4	4	41	163.0	A4	69	True	A	0	3/4	4.0	True	4	Basso	1	41	1.0	68	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	3
+326	2	163.0	163	1.0	1	41	0	4	4	41	163.0	C4	60	True	C	0	3/4	4.0	True	4	Basso	1	41	1.0	68	Cad	True	('C', 'F', 'A')	C	C	0	major triad	(0, 5, 9)	F	F	5	None	Cad	True	5
 328	2	164.0	164	1.0	1	42	0	4	4	42	164.0	F5	77	False	F	0	0	1.0	True	1	Basso	1	42	2.0	69	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	1
 328	4	164.0	164	2.0	2	42	0	4	4	42	164.0	G4	67	True	G	0	0	1.0	True	1	Basso	1	42	2.0	69	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	2
 328	6	164.0	164	3.0	3	42	0	4	4	42	164.0	C5	72	True	C	0	0	1.0	True	1	Basso	1	42	2.0	69	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5

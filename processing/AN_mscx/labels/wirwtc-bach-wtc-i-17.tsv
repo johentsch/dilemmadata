@@ -1,7 +1,7 @@
 quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_isOnset	a_pitchNames	a_bass	a_root	a_inversion	a_quality	a_pcset	a_localKey	localkey_abs	globalkey	a_tonicizedKey	a_degree1	a_degree2	a_simpleNumeral	valid_chord_label
 0.0	1	0	3.0	0	I	I	True	('A-', 'C', 'E-')	A-	A-	0	major triad	(0, 3, 8)	A-	Ab	Ab	A-	1	None	I	True
 3.0	2	0	3.0	1	V65	V7	True	('G', 'B-', 'D-', 'E-')	G	E-	1	dominant seventh chord	(1, 3, 7, 10)	A-	Ab	Ab	A-	5	None	V7	True
-6.0	3	0	3.0	2	I64	V	True	('E-', 'A-', 'C')	E-	E-	0	major triad	(0, 3, 8)	A-	Ab	Ab	A-	5	None	V	True
+6.0	3	0	3.0	2	I64	Cad	True	('E-', 'A-', 'C')	E-	E-	0	major triad	(0, 3, 8)	A-	Ab	Ab	A-	5	None	Cad	True
 9.0	4	0	3.0	3	V7	V7	True	('E-', 'G', 'B-', 'D-')	E-	E-	0	dominant seventh chord	(1, 3, 7, 10)	A-	Ab	Ab	A-	5	None	V7	True
 12.0	5	0	3.0	4	I	I	True	('A-', 'C', 'E-')	A-	A-	0	major triad	(0, 3, 8)	A-	Ab	Ab	A-	1	None	I	True
 15.0	6	0	3.0	5	vi7	vi7	True	('F', 'A-', 'C', 'E-')	F	F	0	minor seventh chord	(0, 3, 5, 8)	A-	Ab	Ab	A-	6	None	vi7	True
@@ -23,7 +23,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 48.0	17	0	1.5	21	I6	I	True	('G', 'B-', 'E-')	G	E-	1	major triad	(3, 7, 10)	E-	Eb	Ab	E-	1	None	I	True
 49.5	17	3/8	0.5	22	IV	IV	True	('A-', 'C', 'E-')	A-	A-	0	major triad	(0, 3, 8)	E-	Eb	Ab	E-	4	None	IV	True
 50.0	17	1/2	1.0	23	V	V	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	E-	Eb	Ab	E-	5	None	V	True
-51.0	18	0	3.0	24	I64	V	True	('B-', 'E-', 'G')	B-	B-	0	major triad	(3, 7, 10)	E-	Eb	Ab	E-	5	None	V	True
+51.0	18	0	3.0	24	I64	Cad	True	('B-', 'E-', 'G')	B-	B-	0	major triad	(3, 7, 10)	E-	Eb	Ab	E-	5	None	Cad	True
 54.0	19	0	3.0	25	V7	V7	True	('B-', 'D', 'F', 'A-')	B-	B-	0	dominant seventh chord	(2, 5, 8, 10)	E-	Eb	Ab	E-	5	None	V7	True
 57.0	20	0	3.0	26	I	I	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	E-	Eb	Ab	E-	1	None	I	True
 60.0	21	0	3.0	27	V7	V7	True	('B-', 'D', 'F', 'A-')	B-	B-	0	dominant seventh chord	(2, 5, 8, 10)	E-	Eb	Ab	E-	5	None	V7	True

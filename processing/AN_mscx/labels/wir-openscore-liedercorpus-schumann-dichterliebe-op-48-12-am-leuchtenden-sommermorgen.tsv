@@ -1,6 +1,6 @@
 quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_isOnset	a_pitchNames	a_bass	a_root	a_inversion	a_quality	a_pcset	a_localKey	localkey_abs	globalkey	a_tonicizedKey	a_degree1	a_degree2	a_simpleNumeral	valid_chord_label
 0.0	1	0	3.0	0	Ger65	Ger7	True	('G-', 'B-', 'D-', 'E')	G-	E	1	German augmented sixth chord	(1, 4, 6, 10)	B-	Bb	Bb	B-	#4	None	Ger7	True
-3.0	2	0	1.5	1	I64	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	V	True
+3.0	2	0	1.5	1	I64	Cad	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	Cad	True
 4.5	2	3/8	1.5	2	V	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	Bb	Bb	B-	5	None	V	True
 6.0	3	0	3.0	3	I	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	1	None	I	True
 9.0	4	0	1.5	4	IV	IV	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	B-	Bb	Bb	B-	4	None	IV	True
@@ -9,7 +9,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 13.5	5	3/8	1.5	7	V	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	Bb	Bb	B-	5	None	V	True
 15.0	6	0	1.5	8	I	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	1	None	I	True
 16.5	6	3/8	1.5	9	Ger65	Ger7	True	('G-', 'B-', 'D-', 'E')	G-	E	1	German augmented sixth chord	(1, 4, 6, 10)	B-	Bb	Bb	B-	#4	None	Ger7	True
-18.0	7	0	1.5	10	I64	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	V	True
+18.0	7	0	1.5	10	I64	Cad	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	Cad	True
 19.5	7	3/8	1.5	11	V	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	Bb	Bb	B-	5	None	V	True
 21.0	8	0	1.5	12	I	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	1	None	I	True
 22.5	8	3/8	1.5	13	V7	V7	True	('F#', 'A#', 'C#', 'E')	F#	F#	0	dominant seventh chord	(1, 4, 6, 10)	B	B	Bb	B	5	None	V7	True
@@ -19,7 +19,7 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 28.5	10	3/8	1.5	17	V7	V7	True	('F', 'A', 'C', 'E-')	F	F	0	dominant seventh chord	(0, 3, 5, 9)	B-	Bb	Bb	B-	5	None	V7	True
 30.0	11	0	1.5	18	I	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	1	None	I	True
 31.5	11	3/8	1.5	19	Ger65	Ger7	True	('G-', 'B-', 'D-', 'E')	G-	E	1	German augmented sixth chord	(1, 4, 6, 10)	B-	Bb	Bb	B-	#4	None	Ger7	True
-33.0	12	0	1.5	20	I64	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	V	True
+33.0	12	0	1.5	20	I64	Cad	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	Cad	True
 34.5	12	3/8	1.5	21	V	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	Bb	Bb	B-	5	None	V	True
 36.0	13	0	3.0	22	I	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	1	None	I	True
 39.0	14	0	1.5	23	IV	IV	True	('E-', 'G', 'B-')	E-	E-	0	major triad	(3, 7, 10)	B-	Bb	Bb	B-	4	None	IV	True
@@ -47,8 +47,8 @@ quarterbeats	mn	mn_onset	a_duration	a_annotationNumber	label	a_romanNumeral	a_is
 73.5	25	3/8	1.5	45	ii6	ii	True	('E-', 'G', 'C')	E-	C	1	minor triad	(0, 3, 7)	B-	Bb	Bb	B-	2	None	ii	True
 75.0	26	0	1.5	46	I6	I	True	('D', 'F', 'B-')	D	B-	1	major triad	(2, 5, 10)	B-	Bb	Bb	B-	1	None	I	True
 76.5	26	3/8	1.5	47	Ger65	Ger7	True	('G-', 'B-', 'D-', 'E')	G-	E	1	German augmented sixth chord	(1, 4, 6, 10)	B-	Bb	Bb	B-	#4	None	Ger7	True
-78.0	27	0	1.5	48	I64	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	V	True
+78.0	27	0	1.5	48	I64	Cad	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	Cad	True
 79.5	27	3/8	1.5	49	V	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	Bb	Bb	B-	5	None	V	True
-81.0	28	0	1.5	50	I64	V	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	V	True
+81.0	28	0	1.5	50	I64	Cad	True	('F', 'B-', 'D')	F	F	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	5	None	Cad	True
 82.5	28	3/8	1.5	51	V	V	True	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	B-	Bb	Bb	B-	5	None	V	True
 84.0	29	0	3.0	52	I	I	True	('B-', 'D', 'F')	B-	B-	0	major triad	(2, 5, 10)	B-	Bb	Bb	B-	1	None	I	True

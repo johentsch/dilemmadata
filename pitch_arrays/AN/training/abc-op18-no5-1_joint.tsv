@@ -426,9 +426,9 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1098	6	91.5	183/2	0.5	1/2	31	3	6	8	31	61.0	A4	69	True	A	0	3/8	2.0	True	2	Violoncello	1	31	0.5	59	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	2
 1098	6	91.5	183/2	0.5	1/2	31	3	6	8	31	61.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	31	0.5	59	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	6
 1098	12	91.5	183/2	1.0	1	31	3	6	8	31	61.0	D3	50	True	D	0	3/8	2.0	True	2	Violoncello	1	31	0.5	59	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	5
-1104	6	92.0	92	0.5	1/2	31	3	6	8	31	61.333	B4	71	True	B	0	1/2	2.333	False	0	Violoncello	1	31	0.5	60	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	3
-1104	6	92.0	92	0.5	1/2	31	3	6	8	31	61.333	G4	67	True	G	0	1/2	2.333	False	0	Violoncello	1	31	0.5	60	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	1
-1104	6	92.0	92	0.5	1/2	31	3	6	8	31	61.333	D4	62	True	D	0	1/2	2.333	False	0	Violoncello	1	31	0.5	60	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	V	True	5
+1104	6	92.0	92	0.5	1/2	31	3	6	8	31	61.333	B4	71	True	B	0	1/2	2.333	False	0	Violoncello	1	31	0.5	60	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	3
+1104	6	92.0	92	0.5	1/2	31	3	6	8	31	61.333	G4	67	True	G	0	1/2	2.333	False	0	Violoncello	1	31	0.5	60	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	1
+1104	6	92.0	92	0.5	1/2	31	3	6	8	31	61.333	D4	62	True	D	0	1/2	2.333	False	0	Violoncello	1	31	0.5	60	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	G	G	5	None	Cad	True	5
 1110	6	92.5	185/2	0.5	1/2	31	3	6	8	31	61.667	A4	69	True	A	0	5/8	2.667	False	0	Violoncello	1	31	0.5	61	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	2
 1110	6	92.5	185/2	0.5	1/2	31	3	6	8	31	61.667	F#4	66	True	F	1	5/8	2.667	False	0	Violoncello	1	31	0.5	61	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	7
 1110	6	92.5	185/2	0.5	1/2	31	3	6	8	31	61.667	C4	60	True	C	0	5/8	2.667	False	0	Violoncello	1	31	0.5	61	V7	True	('D', 'F#', 'A', 'C')	D	D	0	dominant seventh chord	(0, 2, 6, 9)	G	G	5	None	V7	True	4
@@ -641,16 +641,16 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 1752	6	146.0	146	0.5	1/2	49	3	6	8	49	97.333	C#4	61	True	C	1	1/2	2.333	False	0	Violoncello	1	49	1.0	104	IV	True	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	E	E	4	None	IV	True	6
 1758	6	146.5	293/2	0.5	1/2	49	3	6	8	49	97.667	C#5	73	True	C	1	5/8	2.667	False	0	Violoncello	1	49	1.0	104	IV	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	E	E	4	None	IV	True	6
 1758	6	146.5	293/2	0.5	1/2	49	3	6	8	49	97.667	A4	69	True	A	0	5/8	2.667	False	0	Violoncello	1	49	1.0	104	IV	False	('C#', 'E', 'A')	C#	A	1	major triad	(1, 4, 9)	E	E	4	None	IV	True	4
-1764	6	147.0	147	0.5	1/2	50	3	6	8	50	98.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	50	2.0	105	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-1764	6	147.0	147	0.5	1/2	50	3	6	8	50	98.0	B2	47	True	B	0	0	1.0	True	1	Violoncello	1	50	2.0	105	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	B4	71	True	B	0	1/8	1.333	False	0	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	G#4	68	True	G	1	1/8	1.333	False	0	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	E3	52	True	E	0	1/8	1.333	False	0	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-1776	6	148.0	148	0.5	1/2	50	3	6	8	50	98.667	G#4	68	True	G	1	1/4	1.667	False	0	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-1776	6	148.0	148	0.5	1/2	50	3	6	8	50	98.667	E4	64	True	E	0	1/4	1.667	False	0	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-1782	6	148.5	297/2	0.5	1/2	50	3	6	8	50	99.0	F#3	54	True	F	1	3/8	2.0	True	2	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	2
-1782	6	148.5	297/2	0.5	1/2	50	3	6	8	50	99.0	B2	47	True	B	0	3/8	2.0	True	2	Violoncello	1	50	2.0	105	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
+1764	6	147.0	147	0.5	1/2	50	3	6	8	50	98.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	50	2.0	105	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+1764	6	147.0	147	0.5	1/2	50	3	6	8	50	98.0	B2	47	True	B	0	0	1.0	True	1	Violoncello	1	50	2.0	105	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	B4	71	True	B	0	1/8	1.333	False	0	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	G#4	68	True	G	1	1/8	1.333	False	0	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+1770	6	147.5	295/2	0.5	1/2	50	3	6	8	50	98.333	E3	52	True	E	0	1/8	1.333	False	0	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+1776	6	148.0	148	0.5	1/2	50	3	6	8	50	98.667	G#4	68	True	G	1	1/4	1.667	False	0	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+1776	6	148.0	148	0.5	1/2	50	3	6	8	50	98.667	E4	64	True	E	0	1/4	1.667	False	0	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+1782	6	148.5	297/2	0.5	1/2	50	3	6	8	50	99.0	F#3	54	True	F	1	3/8	2.0	True	2	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	2
+1782	6	148.5	297/2	0.5	1/2	50	3	6	8	50	99.0	B2	47	True	B	0	3/8	2.0	True	2	Violoncello	1	50	2.0	105	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
 1788	6	149.0	149	0.5	1/2	50	3	6	8	50	99.333	A4	69	True	A	0	1/2	2.333	False	0	Violoncello	1	50	1.0	106	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	4
 1788	6	149.0	149	0.5	1/2	50	3	6	8	50	99.333	F#4	66	True	F	1	1/2	2.333	False	0	Violoncello	1	50	1.0	106	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	2
 1788	6	149.0	149	0.5	1/2	50	3	6	8	50	99.333	A3	57	True	A	0	1/2	2.333	False	0	Violoncello	1	50	1.0	106	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	4
@@ -812,12 +812,12 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2142	12	178.5	357/2	1.0	1	60	3	6	8	60	119.0	A#2	46	True	A	1	3/8	2.0	True	2	Violoncello	1	60	1.5	126	viio/V	True	('A#', 'C#', 'E')	A#	A#	0	diminished triad	(1, 4, 10)	E	B	7	5	viio	True	#4
 2148	6	179.0	179	0.5	1/2	60	3	6	8	60	119.333	E4	64	True	E	0	1/2	2.333	False	0	Violoncello	1	60	1.5	126	viio/V	False	('A#', 'C#', 'E')	A#	A#	0	diminished triad	(1, 4, 10)	E	B	7	5	viio	True	1
 2154	6	179.5	359/2	0.5	1/2	60	3	6	8	60	119.667	E5	76	True	E	0	5/8	2.667	False	0	Violoncello	1	60	1.5	126	viio/V	False	('A#', 'C#', 'E')	A#	A#	0	diminished triad	(1, 4, 10)	E	B	7	5	viio	True	1
-2160	18	180.0	180	1.5	3/2	61	3	6	8	61	120.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	61	1.5	127	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2160	18	180.0	180	1.5	3/2	61	3	6	8	61	120.0	G#4	68	True	G	1	0	1.0	True	1	Violoncello	1	61	1.5	127	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2160	18	180.0	180	1.5	3/2	61	3	6	8	61	120.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	61	1.5	127	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-2160	6	180.0	180	0.5	1/2	61	3	6	8	61	120.0	B2	47	True	B	0	0	1.0	True	1	Violoncello	1	61	1.5	127	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2166	6	180.5	361/2	0.5	1/2	61	3	6	8	61	120.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	61	1.5	127	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2172	6	181.0	181	0.5	1/2	61	3	6	8	61	120.667	E3	52	True	E	0	1/4	1.667	False	0	Violoncello	1	61	1.5	127	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
+2160	18	180.0	180	1.5	3/2	61	3	6	8	61	120.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	61	1.5	127	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2160	18	180.0	180	1.5	3/2	61	3	6	8	61	120.0	G#4	68	True	G	1	0	1.0	True	1	Violoncello	1	61	1.5	127	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2160	18	180.0	180	1.5	3/2	61	3	6	8	61	120.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	61	1.5	127	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+2160	6	180.0	180	0.5	1/2	61	3	6	8	61	120.0	B2	47	True	B	0	0	1.0	True	1	Violoncello	1	61	1.5	127	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2166	6	180.5	361/2	0.5	1/2	61	3	6	8	61	120.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	61	1.5	127	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2172	6	181.0	181	0.5	1/2	61	3	6	8	61	120.667	E3	52	True	E	0	1/4	1.667	False	0	Violoncello	1	61	1.5	127	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
 2178	6	181.5	363/2	0.5	1/2	61	3	6	8	61	121.0	B3	59	False	B	0	3/8	2.0	True	2	Violoncello	1	61	1.5	128	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 2178	6	181.5	363/2	0.5	1/2	61	3	6	8	61	121.0	G#4	68	False	G	1	3/8	2.0	True	2	Violoncello	1	61	1.5	128	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	3
 2178	6	181.5	363/2	0.5	1/2	61	3	6	8	61	121.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	61	1.5	128	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	1
@@ -845,12 +845,12 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2223	3	185.25	741/4	0.25	1/4	62	3	6	8	62	123.5	B4	71	True	B	0	9/16	2.5	False	0	Violoncello	1	62	3.0	129	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	5
 2226	3	185.5	371/2	0.25	1/4	62	3	6	8	62	123.667	E4	64	True	E	0	5/8	2.667	False	0	Violoncello	1	62	3.0	129	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
 2229	3	185.75	743/4	0.25	1/4	62	3	6	8	62	123.833	G#4	68	True	G	1	11/16	2.833	False	0	Violoncello	1	62	3.0	129	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	3
-2232	18	186.0	186	1.5	3/2	63	3	6	8	63	124.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	63	1.5	130	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2232	18	186.0	186	1.5	3/2	63	3	6	8	63	124.0	G#4	68	True	G	1	0	1.0	True	1	Violoncello	1	63	1.5	130	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2232	18	186.0	186	1.5	3/2	63	3	6	8	63	124.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	63	1.5	130	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-2232	6	186.0	186	0.5	1/2	63	3	6	8	63	124.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	63	1.5	130	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2238	6	186.5	373/2	0.5	1/2	63	3	6	8	63	124.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	63	1.5	130	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2244	6	187.0	187	0.5	1/2	63	3	6	8	63	124.667	E3	52	True	E	0	1/4	1.667	False	0	Violoncello	1	63	1.5	130	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
+2232	18	186.0	186	1.5	3/2	63	3	6	8	63	124.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	63	1.5	130	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2232	18	186.0	186	1.5	3/2	63	3	6	8	63	124.0	G#4	68	True	G	1	0	1.0	True	1	Violoncello	1	63	1.5	130	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2232	18	186.0	186	1.5	3/2	63	3	6	8	63	124.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	63	1.5	130	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+2232	6	186.0	186	0.5	1/2	63	3	6	8	63	124.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	63	1.5	130	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2238	6	186.5	373/2	0.5	1/2	63	3	6	8	63	124.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	63	1.5	130	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2244	6	187.0	187	0.5	1/2	63	3	6	8	63	124.667	E3	52	True	E	0	1/4	1.667	False	0	Violoncello	1	63	1.5	130	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
 2250	6	187.5	375/2	0.5	1/2	63	3	6	8	63	125.0	B3	59	False	B	0	3/8	2.0	True	2	Violoncello	1	63	1.5	131	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 2250	6	187.5	375/2	0.5	1/2	63	3	6	8	63	125.0	G#4	68	False	G	1	3/8	2.0	True	2	Violoncello	1	63	1.5	131	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	3
 2250	6	187.5	375/2	0.5	1/2	63	3	6	8	63	125.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	63	1.5	131	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	1
@@ -878,12 +878,12 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2295	3	191.25	765/4	0.25	1/4	64	3	6	8	64	127.5	B4	71	True	B	0	9/16	2.5	False	0	Violoncello	1	64	3.0	132	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	5
 2298	3	191.5	383/2	0.25	1/4	64	3	6	8	64	127.667	E4	64	True	E	0	5/8	2.667	False	0	Violoncello	1	64	3.0	132	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	1
 2301	3	191.75	767/4	0.25	1/4	64	3	6	8	64	127.833	G#4	68	True	G	1	11/16	2.833	False	0	Violoncello	1	64	3.0	132	I	False	('E', 'G#', 'B')	E	E	0	major triad	(4, 8, 11)	E	E	1	None	I	True	3
-2304	18	192.0	192	1.5	3/2	65	3	6	8	65	128.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	65	1.5	133	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2304	18	192.0	192	1.5	3/2	65	3	6	8	65	128.0	G#4	68	True	G	1	0	1.0	True	1	Violoncello	1	65	1.5	133	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2304	18	192.0	192	1.5	3/2	65	3	6	8	65	128.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	65	1.5	133	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-2304	6	192.0	192	0.5	1/2	65	3	6	8	65	128.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	65	1.5	133	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2310	6	192.5	385/2	0.5	1/2	65	3	6	8	65	128.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	65	1.5	133	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2316	6	193.0	193	0.5	1/2	65	3	6	8	65	128.667	E3	52	True	E	0	1/4	1.667	False	0	Violoncello	1	65	1.5	133	V	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
+2304	18	192.0	192	1.5	3/2	65	3	6	8	65	128.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	65	1.5	133	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2304	18	192.0	192	1.5	3/2	65	3	6	8	65	128.0	G#4	68	True	G	1	0	1.0	True	1	Violoncello	1	65	1.5	133	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2304	18	192.0	192	1.5	3/2	65	3	6	8	65	128.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	65	1.5	133	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+2304	6	192.0	192	0.5	1/2	65	3	6	8	65	128.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	65	1.5	133	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2310	6	192.5	385/2	0.5	1/2	65	3	6	8	65	128.333	G#3	56	True	G	1	1/8	1.333	False	0	Violoncello	1	65	1.5	133	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2316	6	193.0	193	0.5	1/2	65	3	6	8	65	128.667	E3	52	True	E	0	1/4	1.667	False	0	Violoncello	1	65	1.5	133	Cad	False	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
 2322	6	193.5	387/2	0.5	1/2	65	3	6	8	65	129.0	B3	59	False	B	0	3/8	2.0	True	2	Violoncello	1	65	1.5	134	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
 2322	12	193.5	387/2	1.0	1	65	3	6	8	65	129.0	G#4	68	False	G	1	3/8	2.0	True	2	Violoncello	1	65	1.5	134	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	3
 2322	6	193.5	387/2	0.5	1/2	65	3	6	8	65	129.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	65	1.5	134	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	1
@@ -933,10 +933,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2460	6	205.0	205	0.5	1/2	69	3	6	8	69	136.667	F#4	66	True	F	1	1/4	1.667	False	0	Violoncello	1	69	0.5	142	ii	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	E	E	2	None	ii	True	2
 2460	6	205.0	205	0.5	1/2	69	3	6	8	69	136.667	C#4	61	True	C	1	1/4	1.667	False	0	Violoncello	1	69	0.5	142	ii	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	E	E	2	None	ii	True	6
 2460	6	205.0	205	0.5	1/2	69	3	6	8	69	136.667	F#3	54	True	F	1	1/4	1.667	False	0	Violoncello	1	69	0.5	142	ii	True	('F#', 'A', 'C#')	F#	F#	0	minor triad	(1, 6, 9)	E	E	2	None	ii	True	2
-2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	G#4	68	True	G	1	3/8	2.0	True	2	Violoncello	1	69	0.5	143	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	69	0.5	143	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	69	0.5	143	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	69	0.5	143	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
+2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	G#4	68	True	G	1	3/8	2.0	True	2	Violoncello	1	69	0.5	143	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	69	0.5	143	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	69	0.5	143	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2466	6	205.5	411/2	0.5	1/2	69	3	6	8	69	137.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	69	0.5	143	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
 2472	6	206.0	206	0.5	1/2	69	3	6	8	69	137.333	A4	69	True	A	0	1/2	2.333	False	0	Violoncello	1	69	1.0	144	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	4
 2472	6	206.0	206	0.5	1/2	69	3	6	8	69	137.333	F#4	66	True	F	1	1/2	2.333	False	0	Violoncello	1	69	1.0	144	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	2
 2472	6	206.0	206	0.5	1/2	69	3	6	8	69	137.333	B3	59	True	B	0	1/2	2.333	False	0	Violoncello	1	69	1.0	144	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
@@ -1003,10 +1003,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 2604	6	217.0	217	0.5	1/2	73	3	6	8	73	144.667	A4	69	True	A	0	1/4	1.667	False	0	Violoncello	1	73	0.5	149	ii	True	('A', 'C#', 'F#')	A	F#	1	minor triad	(1, 6, 9)	E	E	2	None	ii	True	4
 2604	6	217.0	217	0.5	1/2	73	3	6	8	73	144.667	C#4	61	True	C	1	1/4	1.667	False	0	Violoncello	1	73	0.5	149	ii	True	('A', 'C#', 'F#')	A	F#	1	minor triad	(1, 6, 9)	E	E	2	None	ii	True	6
 2604	6	217.0	217	0.5	1/2	73	3	6	8	73	144.667	A3	57	True	A	0	1/4	1.667	False	0	Violoncello	1	73	0.5	149	ii	True	('A', 'C#', 'F#')	A	F#	1	minor triad	(1, 6, 9)	E	E	2	None	ii	True	4
-2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	E5	76	True	E	0	3/8	2.0	True	2	Violoncello	1	73	0.5	150	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	1
-2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	G#4	68	True	G	1	3/8	2.0	True	2	Violoncello	1	73	0.5	150	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	3
-2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	73	0.5	150	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
-2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	73	0.5	150	V	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	V	True	5
+2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	E5	76	True	E	0	3/8	2.0	True	2	Violoncello	1	73	0.5	150	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	1
+2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	G#4	68	True	G	1	3/8	2.0	True	2	Violoncello	1	73	0.5	150	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	3
+2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	73	0.5	150	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
+2610	6	217.5	435/2	0.5	1/2	73	3	6	8	73	145.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	73	0.5	150	Cad	True	('B', 'E', 'G#')	B	B	0	major triad	(4, 8, 11)	E	E	5	None	Cad	True	5
 2616	6	218.0	218	0.5	1/2	73	3	6	8	73	145.333	F#5	78	True	F	1	1/2	2.333	False	0	Violoncello	1	73	1.0	151	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	2
 2616	6	218.0	218	0.5	1/2	73	3	6	8	73	145.333	A4	69	True	A	0	1/2	2.333	False	0	Violoncello	1	73	1.0	151	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	4
 2616	6	218.0	218	0.5	1/2	73	3	6	8	73	145.333	B3	59	True	B	0	1/2	2.333	False	0	Violoncello	1	73	1.0	151	V7	True	('B', 'D#', 'F#', 'A')	B	B	0	dominant seventh chord	(3, 6, 9, 11)	E	E	5	None	V7	True	5
@@ -1268,14 +1268,14 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 3228	6	269.0	269	0.5	1/2	90	3	6	8	90	179.333	B3	59	True	B	0	1/2	2.333	False	0	Violoncello	1	90	1.0	183	IV	True	('B', 'D', 'G')	B	G	1	major triad	(2, 7, 11)	D	D	4	None	IV	True	6
 3234	6	269.5	539/2	0.5	1/2	90	3	6	8	90	179.667	B4	71	True	B	0	5/8	2.667	False	0	Violoncello	1	90	1.0	183	IV	False	('B', 'D', 'G')	B	G	1	major triad	(2, 7, 11)	D	D	4	None	IV	True	6
 3234	6	269.5	539/2	0.5	1/2	90	3	6	8	90	179.667	G4	67	True	G	0	5/8	2.667	False	0	Violoncello	1	90	1.0	183	IV	False	('B', 'D', 'G')	B	G	1	major triad	(2, 7, 11)	D	D	4	None	IV	True	4
-3240	6	270.0	270	0.5	1/2	91	3	6	8	91	180.0	D3	50	True	D	0	0	1.0	True	1	Violoncello	1	91	1.5	184	V	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	1
-3240	6	270.0	270	0.5	1/2	91	3	6	8	91	180.0	A2	45	True	A	0	0	1.0	True	1	Violoncello	1	91	1.5	184	V	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	5
-3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	A4	69	True	A	0	1/8	1.333	False	0	Violoncello	1	91	1.5	184	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	5
-3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	F#4	66	True	F	1	1/8	1.333	False	0	Violoncello	1	91	1.5	184	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	3
-3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	F#3	54	True	F	1	1/8	1.333	False	0	Violoncello	1	91	1.5	184	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	3
-3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	D3	50	True	D	0	1/8	1.333	False	0	Violoncello	1	91	1.5	184	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	1
-3252	6	271.0	271	0.5	1/2	91	3	6	8	91	180.667	F#4	66	True	F	1	1/4	1.667	False	0	Violoncello	1	91	1.5	184	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	3
-3252	6	271.0	271	0.5	1/2	91	3	6	8	91	180.667	D4	62	True	D	0	1/4	1.667	False	0	Violoncello	1	91	1.5	184	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	V	True	1
+3240	6	270.0	270	0.5	1/2	91	3	6	8	91	180.0	D3	50	True	D	0	0	1.0	True	1	Violoncello	1	91	1.5	184	Cad	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	1
+3240	6	270.0	270	0.5	1/2	91	3	6	8	91	180.0	A2	45	True	A	0	0	1.0	True	1	Violoncello	1	91	1.5	184	Cad	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	5
+3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	A4	69	True	A	0	1/8	1.333	False	0	Violoncello	1	91	1.5	184	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	5
+3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	F#4	66	True	F	1	1/8	1.333	False	0	Violoncello	1	91	1.5	184	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	3
+3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	F#3	54	True	F	1	1/8	1.333	False	0	Violoncello	1	91	1.5	184	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	3
+3246	6	270.5	541/2	0.5	1/2	91	3	6	8	91	180.333	D3	50	True	D	0	1/8	1.333	False	0	Violoncello	1	91	1.5	184	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	1
+3252	6	271.0	271	0.5	1/2	91	3	6	8	91	180.667	F#4	66	True	F	1	1/4	1.667	False	0	Violoncello	1	91	1.5	184	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	3
+3252	6	271.0	271	0.5	1/2	91	3	6	8	91	180.667	D4	62	True	D	0	1/4	1.667	False	0	Violoncello	1	91	1.5	184	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	D	D	5	None	Cad	True	1
 3258	6	271.5	543/2	0.5	1/2	91	3	6	8	91	181.0	E3	52	True	E	0	3/8	2.0	True	2	Violoncello	1	91	1.5	185	V7	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	D	D	5	None	V7	True	2
 3258	6	271.5	543/2	0.5	1/2	91	3	6	8	91	181.0	A2	45	True	A	0	3/8	2.0	True	2	Violoncello	1	91	1.5	185	V7	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	D	D	5	None	V7	True	5
 3264	6	272.0	272	0.5	1/2	91	3	6	8	91	181.333	G4	67	True	G	0	1/2	2.333	False	0	Violoncello	1	91	1.5	185	V7	False	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	D	D	5	None	V7	True	4
@@ -1878,21 +1878,21 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 4818	2	401.5	803/2	0.1667	1/6	134	3	6	8	134	267.667	D3	50	True	D	0	5/8	2.667	False	0	Violoncello	1	134	3.0	254	IV	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	4	None	IV	True	4
 4820	2	401.6667	1205/3	0.1667	1/6	134	3	6	8	134	267.778	E3	52	True	E	0	2/3	2.778	False	0	Violoncello	1	134	3.0	254	IV	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	4	None	IV	True	5
 4822	2	401.8333	2411/6	0.1667	1/6	134	3	6	8	134	267.889	F#3	54	True	F	1	17/24	2.889	False	0	Violoncello	1	134	3.0	254	IV	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	4	None	IV	True	6
-4824	3	402.0	402	0.25	1/4	135	3	6	8	135	268.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	135	3.0	255	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-4824	36	402.0	402	3.0	3	135	3	6	8	135	268.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	135	3.0	255	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-4824	36	402.0	402	3.0	3	135	3	6	8	135	268.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	135	3.0	255	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-4824	36	402.0	402	3.0	3	135	3	6	8	135	268.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	135	3.0	255	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-4827	3	402.25	1609/4	0.25	1/4	135	3	6	8	135	268.167	E4	64	True	E	0	1/16	1.167	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-4830	3	402.5	805/2	0.25	1/4	135	3	6	8	135	268.333	A4	69	True	A	0	1/8	1.333	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-4833	3	402.75	1611/4	0.25	1/4	135	3	6	8	135	268.5	C#5	73	True	C	1	3/16	1.5	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-4836	3	403.0	403	0.25	1/4	135	3	6	8	135	268.667	E5	76	True	E	0	1/4	1.667	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-4839	3	403.25	1613/4	0.25	1/4	135	3	6	8	135	268.833	A5	81	True	A	0	5/16	1.833	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-4842	3	403.5	807/2	0.25	1/4	135	3	6	8	135	269.0	C#6	85	True	C	1	3/8	2.0	True	2	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-4845	3	403.75	1615/4	0.25	1/4	135	3	6	8	135	269.167	A5	81	True	A	0	7/16	2.167	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-4848	3	404.0	404	0.25	1/4	135	3	6	8	135	269.333	E6	88	True	E	0	1/2	2.333	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-4851	3	404.25	1617/4	0.25	1/4	135	3	6	8	135	269.5	C#6	85	True	C	1	9/16	2.5	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-4854	3	404.5	809/2	0.25	1/4	135	3	6	8	135	269.667	B5	83	True	B	0	5/8	2.667	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	2
-4857	3	404.75	1619/4	0.25	1/4	135	3	6	8	135	269.833	A5	81	True	A	0	11/16	2.833	False	0	Violoncello	1	135	3.0	255	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
+4824	3	402.0	402	0.25	1/4	135	3	6	8	135	268.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	135	3.0	255	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+4824	36	402.0	402	3.0	3	135	3	6	8	135	268.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	135	3.0	255	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+4824	36	402.0	402	3.0	3	135	3	6	8	135	268.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	135	3.0	255	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+4824	36	402.0	402	3.0	3	135	3	6	8	135	268.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	135	3.0	255	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+4827	3	402.25	1609/4	0.25	1/4	135	3	6	8	135	268.167	E4	64	True	E	0	1/16	1.167	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+4830	3	402.5	805/2	0.25	1/4	135	3	6	8	135	268.333	A4	69	True	A	0	1/8	1.333	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+4833	3	402.75	1611/4	0.25	1/4	135	3	6	8	135	268.5	C#5	73	True	C	1	3/16	1.5	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+4836	3	403.0	403	0.25	1/4	135	3	6	8	135	268.667	E5	76	True	E	0	1/4	1.667	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+4839	3	403.25	1613/4	0.25	1/4	135	3	6	8	135	268.833	A5	81	True	A	0	5/16	1.833	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+4842	3	403.5	807/2	0.25	1/4	135	3	6	8	135	269.0	C#6	85	True	C	1	3/8	2.0	True	2	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+4845	3	403.75	1615/4	0.25	1/4	135	3	6	8	135	269.167	A5	81	True	A	0	7/16	2.167	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+4848	3	404.0	404	0.25	1/4	135	3	6	8	135	269.333	E6	88	True	E	0	1/2	2.333	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+4851	3	404.25	1617/4	0.25	1/4	135	3	6	8	135	269.5	C#6	85	True	C	1	9/16	2.5	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+4854	3	404.5	809/2	0.25	1/4	135	3	6	8	135	269.667	B5	83	True	B	0	5/8	2.667	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	2
+4857	3	404.75	1619/4	0.25	1/4	135	3	6	8	135	269.833	A5	81	True	A	0	11/16	2.833	False	0	Violoncello	1	135	3.0	255	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
 4860	3	405.0	405	0.25	1/4	136	3	6	8	136	270.0	G#5	80	True	G	1	0	1.0	True	1	Violoncello	1	136	3.0	256	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	7
 4860	18	405.0	405	1.5	3/2	136	3	6	8	136	270.0	D4	62	True	D	0	0	1.0	True	1	Violoncello	1	136	3.0	256	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 4860	18	405.0	405	1.5	3/2	136	3	6	8	136	270.0	B3	59	True	B	0	0	1.0	True	1	Violoncello	1	136	3.0	256	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
@@ -2622,14 +2622,14 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 6828	6	569.0	569	0.5	1/2	190	3	6	8	190	379.333	F#3	54	True	F	1	1/2	2.333	False	0	Violoncello	1	190	1.5	373	IV	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	4	None	IV	True	6
 6834	6	569.5	1139/2	0.5	1/2	190	3	6	8	190	379.667	F#5	78	True	F	1	5/8	2.667	False	0	Violoncello	1	190	1.5	373	IV	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	4	None	IV	True	6
 6834	6	569.5	1139/2	0.5	1/2	190	3	6	8	190	379.667	D5	74	True	D	0	5/8	2.667	False	0	Violoncello	1	190	1.5	373	IV	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	A	A	4	None	IV	True	4
-6840	6	570.0	570	0.5	1/2	191	3	6	8	191	380.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	191	1.5	374	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-6840	6	570.0	570	0.5	1/2	191	3	6	8	191	380.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	191	1.5	374	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	E5	76	True	E	0	1/8	1.333	False	0	Violoncello	1	191	1.5	374	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	C#5	73	True	C	1	1/8	1.333	False	0	Violoncello	1	191	1.5	374	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	C#4	61	True	C	1	1/8	1.333	False	0	Violoncello	1	191	1.5	374	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	A3	57	True	A	0	1/8	1.333	False	0	Violoncello	1	191	1.5	374	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-6852	6	571.0	571	0.5	1/2	191	3	6	8	191	380.667	C#5	73	True	C	1	1/4	1.667	False	0	Violoncello	1	191	1.5	374	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-6852	6	571.0	571	0.5	1/2	191	3	6	8	191	380.667	A4	69	True	A	0	1/4	1.667	False	0	Violoncello	1	191	1.5	374	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
+6840	6	570.0	570	0.5	1/2	191	3	6	8	191	380.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	191	1.5	374	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+6840	6	570.0	570	0.5	1/2	191	3	6	8	191	380.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	191	1.5	374	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	E5	76	True	E	0	1/8	1.333	False	0	Violoncello	1	191	1.5	374	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	C#5	73	True	C	1	1/8	1.333	False	0	Violoncello	1	191	1.5	374	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	C#4	61	True	C	1	1/8	1.333	False	0	Violoncello	1	191	1.5	374	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+6846	6	570.5	1141/2	0.5	1/2	191	3	6	8	191	380.333	A3	57	True	A	0	1/8	1.333	False	0	Violoncello	1	191	1.5	374	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+6852	6	571.0	571	0.5	1/2	191	3	6	8	191	380.667	C#5	73	True	C	1	1/4	1.667	False	0	Violoncello	1	191	1.5	374	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+6852	6	571.0	571	0.5	1/2	191	3	6	8	191	380.667	A4	69	True	A	0	1/4	1.667	False	0	Violoncello	1	191	1.5	374	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
 6858	6	571.5	1143/2	0.5	1/2	191	3	6	8	191	381.0	B3	59	True	B	0	3/8	2.0	True	2	Violoncello	1	191	1.5	375	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 6858	6	571.5	1143/2	0.5	1/2	191	3	6	8	191	381.0	E3	52	True	E	0	3/8	2.0	True	2	Violoncello	1	191	1.5	375	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
 6864	6	572.0	572	0.5	1/2	191	3	6	8	191	381.333	D5	74	True	D	0	1/2	2.333	False	0	Violoncello	1	191	1.5	375	V7	False	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
@@ -2793,16 +2793,16 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 7218	12	601.5	1203/2	1.0	1	201	3	6	8	201	401.0	D#3	51	True	D	1	3/8	2.0	True	2	Violoncello	1	201	1.5	394	V7/V	True	('D#', 'F#', 'A', 'B')	D#	B	1	dominant seventh chord	(3, 6, 9, 11)	A	E	5	5	V7	True	#4
 7224	6	602.0	602	0.5	1/2	201	3	6	8	201	401.333	A4	69	True	A	0	1/2	2.333	False	0	Violoncello	1	201	1.5	394	V7/V	False	('D#', 'F#', 'A', 'B')	D#	B	1	dominant seventh chord	(3, 6, 9, 11)	A	E	5	5	V7	True	1
 7230	6	602.5	1205/2	0.5	1/2	201	3	6	8	201	401.667	A5	81	True	A	0	5/8	2.667	False	0	Violoncello	1	201	1.5	394	V7/V	False	('D#', 'F#', 'A', 'B')	D#	B	1	dominant seventh chord	(3, 6, 9, 11)	A	E	5	5	V7	True	1
-7236	18	603.0	603	1.5	3/2	202	3	6	8	202	402.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	202	2.0	395	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7236	18	603.0	603	1.5	3/2	202	3	6	8	202	402.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	202	2.0	395	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7236	18	603.0	603	1.5	3/2	202	3	6	8	202	402.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	202	2.0	395	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7236	6	603.0	603	0.5	1/2	202	3	6	8	202	402.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	202	2.0	395	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7242	6	603.5	1207/2	0.5	1/2	202	3	6	8	202	402.333	C#3	49	True	C	1	1/8	1.333	False	0	Violoncello	1	202	2.0	395	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7248	6	604.0	604	0.5	1/2	202	3	6	8	202	402.667	A2	45	True	A	0	1/4	1.667	False	0	Violoncello	1	202	2.0	395	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	202	2.0	395	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	C#4	61	False	C	1	3/8	2.0	True	2	Violoncello	1	202	2.0	395	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	A3	57	False	A	0	3/8	2.0	True	2	Violoncello	1	202	2.0	395	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	E2	40	True	E	0	3/8	2.0	True	2	Violoncello	1	202	2.0	395	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
+7236	18	603.0	603	1.5	3/2	202	3	6	8	202	402.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	202	2.0	395	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7236	18	603.0	603	1.5	3/2	202	3	6	8	202	402.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	202	2.0	395	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7236	18	603.0	603	1.5	3/2	202	3	6	8	202	402.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	202	2.0	395	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7236	6	603.0	603	0.5	1/2	202	3	6	8	202	402.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	202	2.0	395	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7242	6	603.5	1207/2	0.5	1/2	202	3	6	8	202	402.333	C#3	49	True	C	1	1/8	1.333	False	0	Violoncello	1	202	2.0	395	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7248	6	604.0	604	0.5	1/2	202	3	6	8	202	402.667	A2	45	True	A	0	1/4	1.667	False	0	Violoncello	1	202	2.0	395	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	202	2.0	395	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	C#4	61	False	C	1	3/8	2.0	True	2	Violoncello	1	202	2.0	395	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	A3	57	False	A	0	3/8	2.0	True	2	Violoncello	1	202	2.0	395	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7254	6	604.5	1209/2	0.5	1/2	202	3	6	8	202	403.0	E2	40	True	E	0	3/8	2.0	True	2	Violoncello	1	202	2.0	395	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
 7260	6	605.0	605	0.5	1/2	202	3	6	8	202	403.333	D6	86	True	D	0	1/2	2.333	False	0	Violoncello	1	202	1.0	396	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7260	6	605.0	605	0.5	1/2	202	3	6	8	202	403.333	D4	62	True	D	0	1/2	2.333	False	0	Violoncello	1	202	1.0	396	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7260	6	605.0	605	0.5	1/2	202	3	6	8	202	403.333	B3	59	True	B	0	1/2	2.333	False	0	Violoncello	1	202	1.0	396	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
@@ -2826,16 +2826,16 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 7299	3	608.25	2433/4	0.25	1/4	203	3	6	8	203	405.5	E5	76	True	E	0	9/16	2.5	False	0	Violoncello	1	203	3.0	397	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	5
 7302	3	608.5	1217/2	0.25	1/4	203	3	6	8	203	405.667	A4	69	True	A	0	5/8	2.667	False	0	Violoncello	1	203	3.0	397	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 7305	3	608.75	2435/4	0.25	1/4	203	3	6	8	203	405.833	C#5	73	True	C	1	11/16	2.833	False	0	Violoncello	1	203	3.0	397	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	3
-7308	18	609.0	609	1.5	3/2	204	3	6	8	204	406.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	204	2.0	398	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7308	18	609.0	609	1.5	3/2	204	3	6	8	204	406.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	204	2.0	398	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7308	18	609.0	609	1.5	3/2	204	3	6	8	204	406.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	204	2.0	398	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7308	6	609.0	609	0.5	1/2	204	3	6	8	204	406.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	204	2.0	398	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7314	6	609.5	1219/2	0.5	1/2	204	3	6	8	204	406.333	C#3	49	True	C	1	1/8	1.333	False	0	Violoncello	1	204	2.0	398	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7320	6	610.0	610	0.5	1/2	204	3	6	8	204	406.667	A2	45	True	A	0	1/4	1.667	False	0	Violoncello	1	204	2.0	398	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	204	2.0	398	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	C#4	61	False	C	1	3/8	2.0	True	2	Violoncello	1	204	2.0	398	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	A3	57	False	A	0	3/8	2.0	True	2	Violoncello	1	204	2.0	398	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	E2	40	True	E	0	3/8	2.0	True	2	Violoncello	1	204	2.0	398	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
+7308	18	609.0	609	1.5	3/2	204	3	6	8	204	406.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	204	2.0	398	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7308	18	609.0	609	1.5	3/2	204	3	6	8	204	406.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	204	2.0	398	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7308	18	609.0	609	1.5	3/2	204	3	6	8	204	406.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	204	2.0	398	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7308	6	609.0	609	0.5	1/2	204	3	6	8	204	406.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	204	2.0	398	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7314	6	609.5	1219/2	0.5	1/2	204	3	6	8	204	406.333	C#3	49	True	C	1	1/8	1.333	False	0	Violoncello	1	204	2.0	398	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7320	6	610.0	610	0.5	1/2	204	3	6	8	204	406.667	A2	45	True	A	0	1/4	1.667	False	0	Violoncello	1	204	2.0	398	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	204	2.0	398	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	C#4	61	False	C	1	3/8	2.0	True	2	Violoncello	1	204	2.0	398	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	A3	57	False	A	0	3/8	2.0	True	2	Violoncello	1	204	2.0	398	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7326	6	610.5	1221/2	0.5	1/2	204	3	6	8	204	407.0	E2	40	True	E	0	3/8	2.0	True	2	Violoncello	1	204	2.0	398	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
 7332	6	611.0	611	0.5	1/2	204	3	6	8	204	407.333	D6	86	True	D	0	1/2	2.333	False	0	Violoncello	1	204	1.0	399	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7332	6	611.0	611	0.5	1/2	204	3	6	8	204	407.333	D4	62	True	D	0	1/2	2.333	False	0	Violoncello	1	204	1.0	399	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7332	6	611.0	611	0.5	1/2	204	3	6	8	204	407.333	B3	59	True	B	0	1/2	2.333	False	0	Violoncello	1	204	1.0	399	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
@@ -2859,16 +2859,16 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 7371	3	614.25	2457/4	0.25	1/4	205	3	6	8	205	409.5	E5	76	True	E	0	9/16	2.5	False	0	Violoncello	1	205	3.0	400	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	5
 7374	3	614.5	1229/2	0.25	1/4	205	3	6	8	205	409.667	A4	69	True	A	0	5/8	2.667	False	0	Violoncello	1	205	3.0	400	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	1
 7377	3	614.75	2459/4	0.25	1/4	205	3	6	8	205	409.833	C#5	73	True	C	1	11/16	2.833	False	0	Violoncello	1	205	3.0	400	I	False	('A', 'C#', 'E')	A	A	0	major triad	(1, 4, 9)	A	A	1	None	I	True	3
-7380	18	615.0	615	1.5	3/2	206	3	6	8	206	410.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	206	2.0	401	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7380	18	615.0	615	1.5	3/2	206	3	6	8	206	410.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	206	2.0	401	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7380	18	615.0	615	1.5	3/2	206	3	6	8	206	410.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	206	2.0	401	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7380	6	615.0	615	0.5	1/2	206	3	6	8	206	410.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	206	2.0	401	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7386	6	615.5	1231/2	0.5	1/2	206	3	6	8	206	410.333	C#3	49	True	C	1	1/8	1.333	False	0	Violoncello	1	206	2.0	401	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7392	6	616.0	616	0.5	1/2	206	3	6	8	206	410.667	A2	45	True	A	0	1/4	1.667	False	0	Violoncello	1	206	2.0	401	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	206	2.0	401	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	C#4	61	False	C	1	3/8	2.0	True	2	Violoncello	1	206	2.0	401	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	A3	57	False	A	0	3/8	2.0	True	2	Violoncello	1	206	2.0	401	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	E2	40	True	E	0	3/8	2.0	True	2	Violoncello	1	206	2.0	401	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
+7380	18	615.0	615	1.5	3/2	206	3	6	8	206	410.0	E4	64	True	E	0	0	1.0	True	1	Violoncello	1	206	2.0	401	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7380	18	615.0	615	1.5	3/2	206	3	6	8	206	410.0	C#4	61	True	C	1	0	1.0	True	1	Violoncello	1	206	2.0	401	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7380	18	615.0	615	1.5	3/2	206	3	6	8	206	410.0	A3	57	True	A	0	0	1.0	True	1	Violoncello	1	206	2.0	401	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7380	6	615.0	615	0.5	1/2	206	3	6	8	206	410.0	E3	52	True	E	0	0	1.0	True	1	Violoncello	1	206	2.0	401	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7386	6	615.5	1231/2	0.5	1/2	206	3	6	8	206	410.333	C#3	49	True	C	1	1/8	1.333	False	0	Violoncello	1	206	2.0	401	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7392	6	616.0	616	0.5	1/2	206	3	6	8	206	410.667	A2	45	True	A	0	1/4	1.667	False	0	Violoncello	1	206	2.0	401	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	E4	64	False	E	0	3/8	2.0	True	2	Violoncello	1	206	2.0	401	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	C#4	61	False	C	1	3/8	2.0	True	2	Violoncello	1	206	2.0	401	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	A3	57	False	A	0	3/8	2.0	True	2	Violoncello	1	206	2.0	401	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7398	6	616.5	1233/2	0.5	1/2	206	3	6	8	206	411.0	E2	40	True	E	0	3/8	2.0	True	2	Violoncello	1	206	2.0	401	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
 7404	6	617.0	617	0.5	1/2	206	3	6	8	206	411.333	D6	86	True	D	0	1/2	2.333	False	0	Violoncello	1	206	1.0	402	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7404	6	617.0	617	0.5	1/2	206	3	6	8	206	411.333	D4	62	True	D	0	1/2	2.333	False	0	Violoncello	1	206	1.0	402	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7404	6	617.0	617	0.5	1/2	206	3	6	8	206	411.333	B3	59	True	B	0	1/2	2.333	False	0	Violoncello	1	206	1.0	402	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
@@ -2915,10 +2915,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 7536	6	628.0	628	0.5	1/2	210	3	6	8	210	418.667	B4	71	True	B	0	1/4	1.667	False	0	Violoncello	1	210	0.5	409	ii	True	('B', 'D', 'F#')	B	B	0	minor triad	(2, 6, 11)	A	A	2	None	ii	True	2
 7536	6	628.0	628	0.5	1/2	210	3	6	8	210	418.667	F#4	66	True	F	1	1/4	1.667	False	0	Violoncello	1	210	0.5	409	ii	True	('B', 'D', 'F#')	B	B	0	minor triad	(2, 6, 11)	A	A	2	None	ii	True	6
 7536	6	628.0	628	0.5	1/2	210	3	6	8	210	418.667	B3	59	True	B	0	1/4	1.667	False	0	Violoncello	1	210	0.5	409	ii	True	('B', 'D', 'F#')	B	B	0	minor triad	(2, 6, 11)	A	A	2	None	ii	True	2
-7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	C#5	73	True	C	1	3/8	2.0	True	2	Violoncello	1	210	0.5	410	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	A4	69	True	A	0	3/8	2.0	True	2	Violoncello	1	210	0.5	410	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	210	0.5	410	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	210	0.5	410	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
+7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	C#5	73	True	C	1	3/8	2.0	True	2	Violoncello	1	210	0.5	410	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	A4	69	True	A	0	3/8	2.0	True	2	Violoncello	1	210	0.5	410	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	210	0.5	410	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7542	6	628.5	1257/2	0.5	1/2	210	3	6	8	210	419.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	210	0.5	410	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
 7548	6	629.0	629	0.5	1/2	210	3	6	8	210	419.333	D5	74	True	D	0	1/2	2.333	False	0	Violoncello	1	210	1.0	411	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7548	6	629.0	629	0.5	1/2	210	3	6	8	210	419.333	B4	71	True	B	0	1/2	2.333	False	0	Violoncello	1	210	1.0	411	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 7548	6	629.0	629	0.5	1/2	210	3	6	8	210	419.333	E4	64	True	E	0	1/2	2.333	False	0	Violoncello	1	210	1.0	411	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5
@@ -2985,10 +2985,10 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 7680	6	640.0	640	0.5	1/2	214	3	6	8	214	426.667	D5	74	True	D	0	1/4	1.667	False	0	Violoncello	1	214	0.5	417	ii	True	('D', 'F#', 'B')	D	B	1	minor triad	(2, 6, 11)	A	A	2	None	ii	True	4
 7680	6	640.0	640	0.5	1/2	214	3	6	8	214	426.667	F#4	66	True	F	1	1/4	1.667	False	0	Violoncello	1	214	0.5	417	ii	True	('D', 'F#', 'B')	D	B	1	minor triad	(2, 6, 11)	A	A	2	None	ii	True	6
 7680	6	640.0	640	0.5	1/2	214	3	6	8	214	426.667	D4	62	True	D	0	1/4	1.667	False	0	Violoncello	1	214	0.5	417	ii	True	('D', 'F#', 'B')	D	B	1	minor triad	(2, 6, 11)	A	A	2	None	ii	True	4
-7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	A5	81	True	A	0	3/8	2.0	True	2	Violoncello	1	214	0.5	418	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	1
-7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	C#5	73	True	C	1	3/8	2.0	True	2	Violoncello	1	214	0.5	418	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	3
-7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	214	0.5	418	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
-7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	214	0.5	418	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	V	True	5
+7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	A5	81	True	A	0	3/8	2.0	True	2	Violoncello	1	214	0.5	418	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	1
+7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	C#5	73	True	C	1	3/8	2.0	True	2	Violoncello	1	214	0.5	418	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	3
+7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	214	0.5	418	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
+7686	6	640.5	1281/2	0.5	1/2	214	3	6	8	214	427.0	E4	64	True	E	0	3/8	2.0	True	2	Violoncello	1	214	0.5	418	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	A	A	5	None	Cad	True	5
 7692	6	641.0	641	0.5	1/2	214	3	6	8	214	427.333	B5	83	True	B	0	1/2	2.333	False	0	Violoncello	1	214	1.0	419	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	2
 7692	6	641.0	641	0.5	1/2	214	3	6	8	214	427.333	D5	74	True	D	0	1/2	2.333	False	0	Violoncello	1	214	1.0	419	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	4
 7692	6	641.0	641	0.5	1/2	214	3	6	8	214	427.333	E4	64	True	E	0	1/2	2.333	False	0	Violoncello	1	214	1.0	419	V7	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	A	A	5	None	V7	True	5

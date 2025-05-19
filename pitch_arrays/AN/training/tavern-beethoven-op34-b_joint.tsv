@@ -166,11 +166,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 10080	240	21.0	21	0.5	1/2	11	-1	2	4	12	21.0	C4	60	True	C	0	1/8	1.5	False	0	Piano	2	11	0.5	27	vi/V	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	F	C	6	5	vi	True	5
 10080	240	21.0	21	0.5	1/2	11	-1	2	4	12	21.0	A3	57	True	A	0	1/8	1.5	False	0	Piano	2	11	0.5	27	vi/V	True	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	F	C	6	5	vi	True	3
 10200	120	21.25	85/4	0.25	1/4	11	-1	2	4	12	21.25	F#4	66	True	F	1	3/16	1.75	False	0	Piano	2	11	0.5	27	vi/V	False	('A', 'C', 'E')	A	A	0	minor triad	(0, 4, 9)	F	C	6	5	vi	True	#1
-10320	180	21.5	43/2	0.375	3/8	11	-1	2	4	12	21.5	C5	72	False	C	0	1/4	2.0	True	2	Piano	2	11	0.5	28	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
-10320	240	21.5	43/2	0.5	1/2	11	-1	2	4	12	21.5	G4	67	True	G	0	1/4	2.0	True	2	Piano	2	11	0.5	28	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-10320	240	21.5	43/2	0.5	1/2	11	-1	2	4	12	21.5	E4	64	True	E	0	1/4	2.0	True	2	Piano	2	11	0.5	28	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	7
-10320	240	21.5	43/2	0.5	1/2	11	-1	2	4	12	21.5	G3	55	True	G	0	1/4	2.0	True	2	Piano	2	11	0.5	28	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-10500	60	21.875	175/8	0.125	1/8	11	-1	2	4	12	21.875	C5	72	True	C	0	11/32	2.375	False	0	Piano	2	11	0.5	28	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
+10320	180	21.5	43/2	0.375	3/8	11	-1	2	4	12	21.5	C5	72	False	C	0	1/4	2.0	True	2	Piano	2	11	0.5	28	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
+10320	240	21.5	43/2	0.5	1/2	11	-1	2	4	12	21.5	G4	67	True	G	0	1/4	2.0	True	2	Piano	2	11	0.5	28	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+10320	240	21.5	43/2	0.5	1/2	11	-1	2	4	12	21.5	E4	64	True	E	0	1/4	2.0	True	2	Piano	2	11	0.5	28	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	7
+10320	240	21.5	43/2	0.5	1/2	11	-1	2	4	12	21.5	G3	55	True	G	0	1/4	2.0	True	2	Piano	2	11	0.5	28	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+10500	60	21.875	175/8	0.125	1/8	11	-1	2	4	12	21.875	C5	72	True	C	0	11/32	2.375	False	0	Piano	2	11	0.5	28	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
 10560	180	22.0	22	0.375	3/8	11	-1	2	4	12	22.0	D5	74	True	D	0	3/8	2.5	False	0	Piano	2	11	0.5	29	V7/V	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	6
 10560	240	22.0	22	0.5	1/2	11	-1	2	4	12	22.0	F4	65	True	F	0	3/8	2.5	False	0	Piano	2	11	0.5	29	V7/V	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	1
 10560	180	22.0	22	0.375	3/8	11	-1	2	4	12	22.0	B3	59	True	B	0	3/8	2.5	False	0	Piano	2	11	0.5	29	V7/V	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	#4
@@ -738,22 +738,22 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 31378	30	65.3708	15689/240	0.0625	1/16	33	2	2	4	34	77.36699999999999	G#5	80	True	G	1	689/960	3.871	False	0	Piano	2	33	0.5	84	V7/V/V	False	('F#', 'A', 'B', 'D#')	F#	B	2	dominant seventh chord	(3, 6, 9, 11)	D	E	5	5	V7	True	#4
 31408	30	65.4333	1963/30	0.0625	1/16	33	2	2	4	34	77.429	A5	81	True	A	0	11/15	3.933	False	0	Piano	2	33	0.5	84	V7/V/V	False	('F#', 'A', 'B', 'D#')	F#	B	2	dominant seventh chord	(3, 6, 9, 11)	D	E	5	5	V7	True	5
 31438	30	65.4958	15719/240	0.0625	1/16	33	2	2	4	34	77.49199999999999	G#5	80	True	G	1	719/960	3.996	False	0	Piano	2	33	0.5	84	V7/V/V	False	('F#', 'A', 'B', 'D#')	F#	B	2	dominant seventh chord	(3, 6, 9, 11)	D	E	5	5	V7	True	#4
-31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	E3	52	True	E	0	3/4	4.0	True	4	Piano	1	33	0.5	85	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	2
-31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	A3	57	True	A	0	3/4	4.0	True	4	Piano	1	33	0.5	85	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	5
-31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	C#4	61	True	C	1	3/4	4.0	True	4	Piano	1	33	0.5	85	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	7
-31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	E4	64	True	E	0	3/4	4.0	True	4	Piano	1	33	0.5	85	V	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	2
-31468	30	65.5583	7867/120	0.0625	1/16	33	2	2	4	34	77.554	A5	81	True	A	0	367/480	4.058	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	5
-31498	30	65.6208	15749/240	0.0625	1/16	33	2	2	4	34	77.61699999999999	B5	83	True	B	0	749/960	4.121	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	6
-31528	30	65.6833	3941/60	0.0625	1/16	33	2	2	4	34	77.679	A5	81	True	A	0	191/240	4.183	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	5
-31558	30	65.7458	15779/240	0.0625	1/16	33	2	2	4	34	77.74199999999999	C#6	85	True	C	1	779/960	4.246	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	7
-31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	E3	52	True	E	0	13/16	4.25	False	0	Piano	1	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	2
-31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	A3	57	True	A	0	13/16	4.25	False	0	Piano	1	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	5
-31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	C#4	61	True	C	1	13/16	4.25	False	0	Piano	1	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	7
-31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	E4	64	True	E	0	13/16	4.25	False	0	Piano	1	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	2
-31588	30	65.8083	7897/120	0.0625	1/16	33	2	2	4	34	77.804	B5	83	True	B	0	397/480	4.308	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	6
-31618	30	65.8708	15809/240	0.0625	1/16	33	2	2	4	34	77.86699999999999	D6	86	True	D	0	809/960	4.371	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	1
-31648	30	65.9333	989/15	0.0625	1/16	33	2	2	4	34	77.929	C#6	85	True	C	1	103/120	4.433	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	7
-31678	30	65.9958	15839/240	0.0625	1/16	33	2	2	4	34	77.99199999999999	E6	88	True	E	0	839/960	4.496	False	0	Piano	2	33	0.5	85	V	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	V	True	2
+31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	E3	52	True	E	0	3/4	4.0	True	4	Piano	1	33	0.5	85	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	2
+31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	A3	57	True	A	0	3/4	4.0	True	4	Piano	1	33	0.5	85	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	5
+31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	C#4	61	True	C	1	3/4	4.0	True	4	Piano	1	33	0.5	85	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	7
+31440	120	65.5	131/2	0.25	1/4	33	2	2	4	34	77.496	E4	64	True	E	0	3/4	4.0	True	4	Piano	1	33	0.5	85	Cad	True	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	2
+31468	30	65.5583	7867/120	0.0625	1/16	33	2	2	4	34	77.554	A5	81	True	A	0	367/480	4.058	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	5
+31498	30	65.6208	15749/240	0.0625	1/16	33	2	2	4	34	77.61699999999999	B5	83	True	B	0	749/960	4.121	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	6
+31528	30	65.6833	3941/60	0.0625	1/16	33	2	2	4	34	77.679	A5	81	True	A	0	191/240	4.183	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	5
+31558	30	65.7458	15779/240	0.0625	1/16	33	2	2	4	34	77.74199999999999	C#6	85	True	C	1	779/960	4.246	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	7
+31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	E3	52	True	E	0	13/16	4.25	False	0	Piano	1	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	2
+31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	A3	57	True	A	0	13/16	4.25	False	0	Piano	1	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	5
+31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	C#4	61	True	C	1	13/16	4.25	False	0	Piano	1	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	7
+31560	120	65.75	263/4	0.25	1/4	33	2	2	4	34	77.746	E4	64	True	E	0	13/16	4.25	False	0	Piano	1	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	2
+31588	30	65.8083	7897/120	0.0625	1/16	33	2	2	4	34	77.804	B5	83	True	B	0	397/480	4.308	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	6
+31618	30	65.8708	15809/240	0.0625	1/16	33	2	2	4	34	77.86699999999999	D6	86	True	D	0	809/960	4.371	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	1
+31648	30	65.9333	989/15	0.0625	1/16	33	2	2	4	34	77.929	C#6	85	True	C	1	103/120	4.433	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	7
+31678	30	65.9958	15839/240	0.0625	1/16	33	2	2	4	34	77.99199999999999	E6	88	True	E	0	839/960	4.496	False	0	Piano	2	33	0.5	85	Cad	False	('E', 'A', 'C#')	E	E	0	major triad	(1, 4, 9)	D	A	5	5	Cad	True	2
 31680	120	66.0	66	0.25	1/4	33	2	2	4	34	77.996	E3	52	True	E	0	7/8	4.5	False	0	Piano	1	33	0.5	86	V7/V	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	D	A	5	5	V7	True	2
 31680	120	66.0	66	0.25	1/4	33	2	2	4	34	77.996	B3	59	True	B	0	7/8	4.5	False	0	Piano	1	33	0.5	86	V7/V	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	D	A	5	5	V7	True	6
 31680	120	66.0	66	0.25	1/4	33	2	2	4	34	77.996	D4	62	True	D	0	7/8	4.5	False	0	Piano	1	33	0.5	86	V7/V	True	('E', 'G#', 'B', 'D')	E	E	0	dominant seventh chord	(2, 4, 8, 11)	D	A	5	5	V7	True	1
@@ -1804,18 +1804,18 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 96960	240	202.0	202	0.5	1/2	78	1	4	4	79	307.994	A3	57	True	A	0	15/8	8.5	False	0	Piano	2	78	1.0	190	V7/V	False	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	G	D	5	5	V7	True	2
 97197	240	202.4938	32399/160	0.5	1/2	79	1	4	4	79	308.48800000000006	D5	74	True	D	0	1279/640	8.994	False	0	Piano	1	78	1.0	190	V7/V	False	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	G	D	5	5	V7	True	5
 97197	240	202.4938	32399/160	0.5	1/2	79	1	4	4	79	308.48800000000006	F#5	78	True	F	1	1279/640	8.994	False	0	Piano	1	78	1.0	190	V7/V	False	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	G	D	5	5	V7	True	7
-97200	240	202.5	405/2	0.5	1/2	79	1	4	4	80	312.494	D4	62	True	D	0	1	5.0	True	5	Piano	1	79	2.0	191	V	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	5
-97200	240	202.5	405/2	0.5	1/2	79	1	4	4	80	312.494	F#4	66	True	F	1	1	5.0	True	5	Piano	1	79	2.0	191	V	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	7
-97437	240	202.9938	32479/160	0.5	1/2	79	1	4	4	80	312.98800000000006	A5	81	True	A	0	719/640	5.494	False	0	Piano	2	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	2
-97440	240	203.0	203	0.5	1/2	79	1	4	4	80	312.994	A3	57	True	A	0	9/8	5.5	False	0	Piano	2	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	2
-97677	240	203.4938	32559/160	0.5	1/2	79	1	4	4	80	313.48800000000006	F#4	66	True	F	1	799/640	5.994	False	0	Piano	1	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	7
-97677	240	203.4938	32559/160	0.5	1/2	79	1	4	4	80	313.48800000000006	A4	69	True	A	0	799/640	5.994	False	0	Piano	1	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	2
-97680	240	203.5	407/2	0.5	1/2	79	1	4	4	80	313.494	F#3	54	True	F	1	5/4	6.0	True	6	Piano	1	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	7
-97680	240	203.5	407/2	0.5	1/2	79	1	4	4	80	313.494	A3	57	True	A	0	5/4	6.0	True	6	Piano	1	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	2
-97917	240	203.9938	32639/160	0.5	1/2	79	1	4	4	80	313.98800000000006	D5	74	True	D	0	879/640	6.494	False	0	Piano	2	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	5
-97920	240	204.0	204	0.5	1/2	79	1	4	4	80	313.994	A2	45	True	A	0	11/8	6.5	False	0	Piano	2	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	2
-98157	240	204.4938	32719/160	0.5	1/2	79	1	4	4	80	314.48800000000006	E4	64	True	E	0	959/640	6.994	False	0	Piano	1	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	6
-98157	240	204.4938	32719/160	0.5	1/2	79	1	4	4	80	314.48800000000006	B-4	70	True	B	-1	959/640	6.994	False	0	Piano	1	79	2.0	191	V	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	V	True	b3
+97200	240	202.5	405/2	0.5	1/2	79	1	4	4	80	312.494	D4	62	True	D	0	1	5.0	True	5	Piano	1	79	2.0	191	Cad	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	5
+97200	240	202.5	405/2	0.5	1/2	79	1	4	4	80	312.494	F#4	66	True	F	1	1	5.0	True	5	Piano	1	79	2.0	191	Cad	True	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	7
+97437	240	202.9938	32479/160	0.5	1/2	79	1	4	4	80	312.98800000000006	A5	81	True	A	0	719/640	5.494	False	0	Piano	2	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	2
+97440	240	203.0	203	0.5	1/2	79	1	4	4	80	312.994	A3	57	True	A	0	9/8	5.5	False	0	Piano	2	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	2
+97677	240	203.4938	32559/160	0.5	1/2	79	1	4	4	80	313.48800000000006	F#4	66	True	F	1	799/640	5.994	False	0	Piano	1	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	7
+97677	240	203.4938	32559/160	0.5	1/2	79	1	4	4	80	313.48800000000006	A4	69	True	A	0	799/640	5.994	False	0	Piano	1	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	2
+97680	240	203.5	407/2	0.5	1/2	79	1	4	4	80	313.494	F#3	54	True	F	1	5/4	6.0	True	6	Piano	1	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	7
+97680	240	203.5	407/2	0.5	1/2	79	1	4	4	80	313.494	A3	57	True	A	0	5/4	6.0	True	6	Piano	1	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	2
+97917	240	203.9938	32639/160	0.5	1/2	79	1	4	4	80	313.98800000000006	D5	74	True	D	0	879/640	6.494	False	0	Piano	2	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	5
+97920	240	204.0	204	0.5	1/2	79	1	4	4	80	313.994	A2	45	True	A	0	11/8	6.5	False	0	Piano	2	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	2
+98157	240	204.4938	32719/160	0.5	1/2	79	1	4	4	80	314.48800000000006	E4	64	True	E	0	959/640	6.994	False	0	Piano	1	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	6
+98157	240	204.4938	32719/160	0.5	1/2	79	1	4	4	80	314.48800000000006	B-4	70	True	B	-1	959/640	6.994	False	0	Piano	1	79	2.0	191	Cad	False	('A', 'D', 'F#')	A	A	0	major triad	(2, 6, 9)	G	D	5	5	Cad	True	b3
 98160	240	204.5	409/2	0.5	1/2	79	1	4	4	80	314.494	E3	52	True	E	0	3/2	7.0	True	7	Piano	1	79	2.0	192	V7/V	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	G	D	5	5	V7	True	6
 98160	240	204.5	409/2	0.5	1/2	79	1	4	4	80	314.494	G3	55	True	G	0	3/2	7.0	True	7	Piano	1	79	2.0	192	V7/V	True	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	G	D	5	5	V7	True	1
 98397	240	204.9938	32799/160	0.5	1/2	79	1	4	4	80	314.98800000000006	D5	74	True	D	0	1039/640	7.494	False	0	Piano	2	79	2.0	192	V7/V	False	('A', 'C#', 'E', 'G')	A	A	0	dominant seventh chord	(1, 4, 7, 9)	G	D	5	5	V7	True	5
@@ -2701,11 +2701,11 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 158340	60	329.875	2639/8	0.125	1/8	121	-3	2	4	122	561.869	E-3	51	True	E	-1	27/32	4.375	False	0	Piano	2	121	0.25	301	Ger/V	False	('E-', 'G', 'B-', 'C#')	E-	C#	1	German augmented sixth chord	(1, 3, 7, 10)	c	g	#4	5	Ger	True	3
 158397	120	329.9937	52799/160	0.25	1/4	121	-3	2	4	122	561.988	B-4	70	False	B	-1	559/640	4.494	False	0	Piano	1	121	0.25	301	Ger/V	False	('E-', 'G', 'B-', 'C#')	E-	C#	1	German augmented sixth chord	(1, 3, 7, 10)	c	g	#4	5	Ger	True	7
 158397	120	329.9937	52799/160	0.25	1/4	121	-3	2	4	122	561.988	D5	74	True	D	0	559/640	4.494	False	0	Piano	1	121	0.25	301	Ger/V	False	('E-', 'G', 'B-', 'C#')	E-	C#	1	German augmented sixth chord	(1, 3, 7, 10)	c	g	#4	5	Ger	True	2
-158400	60	330.0	330	0.125	1/8	121	-3	2	4	122	561.994	D2	38	True	D	0	7/8	4.5	False	0	Piano	2	121	0.25	302	V	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	V	True	2
-158460	60	330.125	2641/8	0.125	1/8	121	-3	2	4	122	562.119	D3	50	True	D	0	29/32	4.625	False	0	Piano	2	121	0.25	302	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	V	True	2
-158517	120	330.2437	52839/160	0.25	1/4	121	-3	2	4	122	562.238	F#5	78	True	F	1	599/640	4.744	False	0	Piano	2	121	0.25	302	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	V	True	#4
-158517	120	330.2437	52839/160	0.25	1/4	121	-3	2	4	122	562.238	A4	69	True	A	0	599/640	4.744	False	0	Piano	1	121	0.25	302	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	V	True	#6
-158517	120	330.2437	52839/160	0.25	1/4	121	-3	2	4	122	562.238	D5	74	True	D	0	599/640	4.744	False	0	Piano	1	121	0.25	302	V	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	V	True	2
+158400	60	330.0	330	0.125	1/8	121	-3	2	4	122	561.994	D2	38	True	D	0	7/8	4.5	False	0	Piano	2	121	0.25	302	Cad	True	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	Cad	True	2
+158460	60	330.125	2641/8	0.125	1/8	121	-3	2	4	122	562.119	D3	50	True	D	0	29/32	4.625	False	0	Piano	2	121	0.25	302	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	Cad	True	2
+158517	120	330.2437	52839/160	0.25	1/4	121	-3	2	4	122	562.238	F#5	78	True	F	1	599/640	4.744	False	0	Piano	2	121	0.25	302	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	Cad	True	#4
+158517	120	330.2437	52839/160	0.25	1/4	121	-3	2	4	122	562.238	A4	69	True	A	0	599/640	4.744	False	0	Piano	1	121	0.25	302	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	Cad	True	#6
+158517	120	330.2437	52839/160	0.25	1/4	121	-3	2	4	122	562.238	D5	74	True	D	0	599/640	4.744	False	0	Piano	1	121	0.25	302	Cad	False	('D', 'G', 'B')	D	D	0	major triad	(2, 7, 11)	c	G	5	5	Cad	True	2
 158520	60	330.25	1321/4	0.125	1/8	121	-3	2	4	122	562.244	D3	50	True	D	0	15/16	4.75	False	0	Piano	2	121	0.25	303	V/V	True	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	c	G	5	5	V	True	2
 158580	60	330.375	2643/8	0.125	1/8	121	-3	2	4	122	562.369	D4	62	True	D	0	31/32	4.875	False	0	Piano	2	121	0.25	303	V/V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	c	G	5	5	V	True	2
 158637	60	330.4937	52879/160	0.125	1/8	122	-3	2	4	123	560.494	B-4	70	True	B	-1	0	1.0	True	1	Piano	1	121	0.25	303	V/V	False	('D', 'F#', 'A')	D	D	0	major triad	(2, 6, 9)	c	G	5	5	V	True	7
@@ -3332,12 +3332,12 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 189957	120	395.7437	63319/160	0.25	1/4	149	-1	6	8	150	673.323	F#5	78	True	F	1	679/640	3.829	False	0	Piano	2	149	0.5	359	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	#1
 189960	120	395.75	1583/4	0.25	1/4	149	-1	6	8	150	673.327	C4	60	True	C	0	17/16	3.833	False	0	Piano	2	149	0.5	359	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	5
 190077	240	395.9937	63359/160	0.5	1/2	149	-1	6	8	150	673.49	G5	79	True	G	0	719/640	3.996	False	0	Piano	2	149	0.5	359	It/V	False	('A-', 'C', 'F#')	A-	F#	1	Italian augmented sixth chord	(0, 6, 8)	F	c	#4	5	It	True	2
-190080	120	396.0	396	0.25	1/4	149	-1	6	8	150	673.494	G3	55	True	G	0	9/8	4.0	True	4	Piano	2	149	1.0	360	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-190200	120	396.25	1585/4	0.25	1/4	149	-1	6	8	150	673.6610000000001	E4	64	True	E	0	19/16	4.167	False	0	Piano	2	149	1.0	360	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	7
-190320	120	396.5	793/2	0.25	1/4	149	-1	6	8	150	673.827	C4	60	True	C	0	5/4	4.333	False	0	Piano	2	149	1.0	360	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
-190437	120	396.7437	63479/160	0.25	1/4	149	-1	6	8	150	673.99	G4	67	True	G	0	839/640	4.496	False	0	Piano	2	149	1.0	360	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-190440	120	396.75	1587/4	0.25	1/4	149	-1	6	8	150	673.994	E4	64	True	E	0	21/16	4.5	False	0	Piano	2	149	1.0	360	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	7
-190557	120	396.9937	63519/160	0.25	1/4	149	-1	6	8	150	674.1560000000001	F5	77	True	F	0	879/640	4.662	False	0	Piano	2	149	1.0	360	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	1
+190080	120	396.0	396	0.25	1/4	149	-1	6	8	150	673.494	G3	55	True	G	0	9/8	4.0	True	4	Piano	2	149	1.0	360	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+190200	120	396.25	1585/4	0.25	1/4	149	-1	6	8	150	673.6610000000001	E4	64	True	E	0	19/16	4.167	False	0	Piano	2	149	1.0	360	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	7
+190320	120	396.5	793/2	0.25	1/4	149	-1	6	8	150	673.827	C4	60	True	C	0	5/4	4.333	False	0	Piano	2	149	1.0	360	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
+190437	120	396.7437	63479/160	0.25	1/4	149	-1	6	8	150	673.99	G4	67	True	G	0	839/640	4.496	False	0	Piano	2	149	1.0	360	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+190440	120	396.75	1587/4	0.25	1/4	149	-1	6	8	150	673.994	E4	64	True	E	0	21/16	4.5	False	0	Piano	2	149	1.0	360	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	7
+190557	120	396.9937	63519/160	0.25	1/4	149	-1	6	8	150	674.1560000000001	F5	77	True	F	0	879/640	4.662	False	0	Piano	2	149	1.0	360	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	1
 190560	120	397.0	397	0.25	1/4	149	-1	6	8	150	674.1610000000001	G3	55	True	G	0	11/8	4.667	False	0	Piano	2	149	0.5	361	V7/V	True	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	2
 190677	120	397.2437	63559/160	0.25	1/4	149	-1	6	8	150	674.323	B4	71	True	B	0	919/640	4.829	False	0	Piano	2	149	0.5	361	V7/V	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	#4
 190680	120	397.25	1589/4	0.25	1/4	149	-1	6	8	150	674.327	D4	62	True	D	0	23/16	4.833	False	0	Piano	2	149	0.5	361	V7/V	False	('G', 'B', 'D', 'F')	G	G	0	dominant seventh chord	(2, 5, 7, 11)	F	C	5	5	V7	True	6
@@ -3807,13 +3807,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 220077	120	458.4937	73359/160	0.25	1/4	170	-1	6	8	171	757.157	A-4	68	True	A	-1	639/640	3.663	False	0	Piano	2	170	1.5	400	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	b3
 220197	120	458.7437	73399/160	0.25	1/4	170	-1	6	8	171	757.323	F4	65	True	F	0	679/640	3.829	False	0	Piano	2	170	1.5	400	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	1
 220317	120	458.9937	73439/160	0.25	1/4	170	-1	6	8	171	757.49	C5	72	True	C	0	719/640	3.996	False	0	Piano	2	170	1.5	400	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
-220320	480	459.0	459	1.0	1	170	-1	6	8	171	757.494	C3	48	True	C	0	9/8	4.0	True	4	Piano	2	170	1.5	401	V	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
-220437	120	459.2437	73479/160	0.25	1/4	170	-1	6	8	171	757.6560000000001	G4	67	True	G	0	759/640	4.162	False	0	Piano	2	170	1.5	401	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	2
-220557	120	459.4937	73519/160	0.25	1/4	170	-1	6	8	171	757.823	E4	64	True	E	0	799/640	4.329	False	0	Piano	2	170	1.5	401	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	7
-220677	120	459.7437	73559/160	0.25	1/4	170	-1	6	8	171	757.99	A-4	68	True	A	-1	839/640	4.496	False	0	Piano	2	170	1.5	401	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	b3
-220797	120	459.9937	73599/160	0.25	1/4	170	-1	6	8	171	758.1560000000001	F4	65	True	F	0	879/640	4.662	False	0	Piano	2	170	1.5	401	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	1
-220917	120	460.2437	73639/160	0.25	1/4	170	-1	6	8	171	758.323	C4	60	True	C	0	919/640	4.829	False	0	Piano	2	170	1.5	401	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
-221037	120	460.4937	73679/160	0.25	1/4	171	-1	6	8	172	756.494	G4	67	True	G	0	0	1.0	True	1	Piano	2	170	1.5	401	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	2
+220320	480	459.0	459	1.0	1	170	-1	6	8	171	757.494	C3	48	True	C	0	9/8	4.0	True	4	Piano	2	170	1.5	401	Cad	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
+220437	120	459.2437	73479/160	0.25	1/4	170	-1	6	8	171	757.6560000000001	G4	67	True	G	0	759/640	4.162	False	0	Piano	2	170	1.5	401	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	2
+220557	120	459.4937	73519/160	0.25	1/4	170	-1	6	8	171	757.823	E4	64	True	E	0	799/640	4.329	False	0	Piano	2	170	1.5	401	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	7
+220677	120	459.7437	73559/160	0.25	1/4	170	-1	6	8	171	757.99	A-4	68	True	A	-1	839/640	4.496	False	0	Piano	2	170	1.5	401	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	b3
+220797	120	459.9937	73599/160	0.25	1/4	170	-1	6	8	171	758.1560000000001	F4	65	True	F	0	879/640	4.662	False	0	Piano	2	170	1.5	401	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	1
+220917	120	460.2437	73639/160	0.25	1/4	170	-1	6	8	171	758.323	C4	60	True	C	0	919/640	4.829	False	0	Piano	2	170	1.5	401	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
+221037	120	460.4937	73679/160	0.25	1/4	171	-1	6	8	172	756.494	G4	67	True	G	0	0	1.0	True	1	Piano	2	170	1.5	401	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	2
 221040	480	460.5	921/2	1.0	1	171	-1	6	8	172	760.494	C3	48	True	C	0	3/4	3.0	True	3	Piano	2	171	1.5	402	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
 221157	120	460.7437	73719/160	0.25	1/4	171	-1	6	8	172	760.657	E4	64	True	E	0	519/640	3.163	False	0	Piano	2	171	1.5	402	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	7
 221277	120	460.9937	73759/160	0.25	1/4	171	-1	6	8	172	760.823	C4	60	True	C	0	559/640	3.329	False	0	Piano	2	171	1.5	402	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
@@ -3821,13 +3821,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 221517	120	461.4937	73839/160	0.25	1/4	171	-1	6	8	172	761.157	C4	60	True	C	0	639/640	3.663	False	0	Piano	2	171	1.5	402	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
 221637	120	461.7437	73879/160	0.25	1/4	171	-1	6	8	172	761.323	A-3	56	True	A	-1	679/640	3.829	False	0	Piano	2	171	1.5	402	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	b3
 221757	120	461.9937	73919/160	0.25	1/4	171	-1	6	8	172	761.49	E4	64	True	E	0	719/640	3.996	False	0	Piano	2	171	1.5	402	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	7
-221760	480	462.0	462	1.0	1	171	-1	6	8	172	761.494	C2	36	True	C	0	9/8	4.0	True	4	Piano	2	171	1.5	403	V	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
-221877	120	462.2437	73959/160	0.25	1/4	171	-1	6	8	172	761.6560000000001	C4	60	True	C	0	759/640	4.162	False	0	Piano	2	171	1.5	403	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
-221997	120	462.4937	73999/160	0.25	1/4	171	-1	6	8	172	761.823	G3	55	True	G	0	799/640	4.329	False	0	Piano	2	171	1.5	403	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	2
-222117	120	462.7437	74039/160	0.25	1/4	171	-1	6	8	172	761.99	C4	60	True	C	0	839/640	4.496	False	0	Piano	2	171	1.5	403	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
-222237	120	462.9937	74079/160	0.25	1/4	171	-1	6	8	172	762.1560000000001	A-3	56	True	A	-1	879/640	4.662	False	0	Piano	2	171	1.5	403	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	b3
-222357	120	463.2437	74119/160	0.25	1/4	171	-1	6	8	172	762.323	F3	53	True	F	0	919/640	4.829	False	0	Piano	2	171	1.5	403	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	1
-222477	120	463.4937	74159/160	0.25	1/4	172	-1	6	8	173	760.494	C4	60	True	C	0	0	1.0	True	1	Piano	2	171	1.5	403	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
+221760	480	462.0	462	1.0	1	171	-1	6	8	172	761.494	C2	36	True	C	0	9/8	4.0	True	4	Piano	2	171	1.5	403	Cad	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
+221877	120	462.2437	73959/160	0.25	1/4	171	-1	6	8	172	761.6560000000001	C4	60	True	C	0	759/640	4.162	False	0	Piano	2	171	1.5	403	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
+221997	120	462.4937	73999/160	0.25	1/4	171	-1	6	8	172	761.823	G3	55	True	G	0	799/640	4.329	False	0	Piano	2	171	1.5	403	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	2
+222117	120	462.7437	74039/160	0.25	1/4	171	-1	6	8	172	761.99	C4	60	True	C	0	839/640	4.496	False	0	Piano	2	171	1.5	403	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
+222237	120	462.9937	74079/160	0.25	1/4	171	-1	6	8	172	762.1560000000001	A-3	56	True	A	-1	879/640	4.662	False	0	Piano	2	171	1.5	403	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	b3
+222357	120	463.2437	74119/160	0.25	1/4	171	-1	6	8	172	762.323	F3	53	True	F	0	919/640	4.829	False	0	Piano	2	171	1.5	403	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	1
+222477	120	463.4937	74159/160	0.25	1/4	172	-1	6	8	173	760.494	C4	60	True	C	0	0	1.0	True	1	Piano	2	171	1.5	403	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
 222480	480	463.5	927/2	1.0	1	172	-1	6	8	173	764.494	C2	36	True	C	0	3/4	3.0	True	3	Piano	2	172	1.5	404	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
 222597	120	463.7437	74199/160	0.25	1/4	172	-1	6	8	173	764.657	G3	55	True	G	0	519/640	3.163	False	0	Piano	2	172	1.5	404	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	2
 222717	120	463.9937	74239/160	0.25	1/4	172	-1	6	8	173	764.823	E3	52	True	E	0	559/640	3.329	False	0	Piano	2	172	1.5	404	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	7
@@ -3835,15 +3835,15 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 222957	120	464.4937	74319/160	0.25	1/4	172	-1	6	8	173	765.157	A-3	56	True	A	-1	639/640	3.663	False	0	Piano	2	172	1.5	404	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	b3
 223077	120	464.7437	74359/160	0.25	1/4	172	-1	6	8	173	765.323	F3	53	True	F	0	679/640	3.829	False	0	Piano	2	172	1.5	404	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	1
 223197	120	464.9937	74399/160	0.25	1/4	172	-1	6	8	173	765.49	C4	60	True	C	0	719/640	3.996	False	0	Piano	2	172	1.5	404	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
-223200	480	465.0	465	1.0	1	172	-1	6	8	173	765.494	C2	36	True	C	0	9/8	4.0	True	4	Piano	2	172	1.5	405	V	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
-223317	120	465.2437	74439/160	0.25	1/4	172	-1	6	8	173	765.6560000000001	G3	55	True	G	0	759/640	4.162	False	0	Piano	2	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	2
-223437	120	465.4937	74479/160	0.25	1/4	172	-1	6	8	173	765.823	E3	52	True	E	0	799/640	4.329	False	0	Piano	2	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	7
-223557	120	465.7437	74519/160	0.25	1/4	172	-1	6	8	173	765.99	C4	60	True	C	0	839/640	4.496	False	0	Piano	2	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
-223677	120	465.9937	74559/160	0.25	1/4	172	-1	6	8	173	766.1560000000001	A-3	56	True	A	-1	879/640	4.662	False	0	Piano	2	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	b3
-223797	120	466.2437	74599/160	0.25	1/4	172	-1	6	8	173	766.323	F3	53	True	F	0	919/640	4.829	False	0	Piano	2	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	1
-223917	120	466.4937	74639/160	0.25	1/4	173	-1	6	8	174	764.494	E3	52	True	E	0	0	1.0	True	1	Piano	1	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	7
-223917	120	466.4937	74639/160	0.25	1/4	173	-1	6	8	174	764.494	G3	55	True	G	0	0	1.0	True	1	Piano	1	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	2
-223917	120	466.4937	74639/160	0.25	1/4	173	-1	6	8	174	764.494	C4	60	True	C	0	0	1.0	True	1	Piano	1	172	1.5	405	V	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	V	True	5
+223200	480	465.0	465	1.0	1	172	-1	6	8	173	765.494	C2	36	True	C	0	9/8	4.0	True	4	Piano	2	172	1.5	405	Cad	True	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
+223317	120	465.2437	74439/160	0.25	1/4	172	-1	6	8	173	765.6560000000001	G3	55	True	G	0	759/640	4.162	False	0	Piano	2	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	2
+223437	120	465.4937	74479/160	0.25	1/4	172	-1	6	8	173	765.823	E3	52	True	E	0	799/640	4.329	False	0	Piano	2	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	7
+223557	120	465.7437	74519/160	0.25	1/4	172	-1	6	8	173	765.99	C4	60	True	C	0	839/640	4.496	False	0	Piano	2	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
+223677	120	465.9937	74559/160	0.25	1/4	172	-1	6	8	173	766.1560000000001	A-3	56	True	A	-1	879/640	4.662	False	0	Piano	2	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	b3
+223797	120	466.2437	74599/160	0.25	1/4	172	-1	6	8	173	766.323	F3	53	True	F	0	919/640	4.829	False	0	Piano	2	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	1
+223917	120	466.4937	74639/160	0.25	1/4	173	-1	6	8	174	764.494	E3	52	True	E	0	0	1.0	True	1	Piano	1	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	7
+223917	120	466.4937	74639/160	0.25	1/4	173	-1	6	8	174	764.494	G3	55	True	G	0	0	1.0	True	1	Piano	1	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	2
+223917	120	466.4937	74639/160	0.25	1/4	173	-1	6	8	174	764.494	C4	60	True	C	0	0	1.0	True	1	Piano	1	172	1.5	405	Cad	False	('C', 'F', 'A-')	C	C	0	major triad	(0, 5, 8)	F	F	5	None	Cad	True	5
 223920	240	466.5	933/2	0.5	1/2	173	-1	6	8	174	768.494	C2	36	True	C	0	3/4	3.0	True	3	Piano	2	173	3.0	406	V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
 224037	120	466.7437	74679/160	0.25	1/4	173	-1	6	8	174	768.657	C3	48	True	C	0	519/640	3.163	False	0	Piano	2	173	3.0	406	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	5
 224157	120	466.9937	74719/160	0.25	1/4	173	-1	6	8	174	768.823	B2	47	True	B	0	559/640	3.329	False	0	Piano	2	173	3.0	406	V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	F	5	None	V	True	#4
@@ -4293,13 +4293,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 242395	120	504.9896	48479/96	0.25	1/4	189	-1	2	4	190	833.98	E5	76	True	E	0	335/384	4.49	False	0	Piano	1	185	2.0	432	I	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	7
 242395	120	504.9896	48479/96	0.25	1/4	189	-1	2	4	190	833.98	G5	79	True	G	0	335/384	4.49	False	0	Piano	1	185	2.0	432	I	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	2
 242395	120	504.9896	48479/96	0.25	1/4	189	-1	2	4	190	833.98	E6	88	True	E	0	335/384	4.49	False	0	Piano	1	185	2.0	432	I	False	('F', 'A', 'C')	F	F	0	major triad	(0, 5, 9)	F	F	1	None	I	True	7
-242400	240	505.0	505	0.5	1/2	189	-1	2	4	190	833.99	G3	55	True	G	0	7/8	4.5	False	0	Piano	2	189	0.25	443	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-242515	120	505.2396	48503/96	0.25	1/4	189	-1	2	4	190	834.23	D5	74	True	D	0	359/384	4.74	False	0	Piano	1	189	0.25	443	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	6
-242515	120	505.2396	48503/96	0.25	1/4	189	-1	2	4	190	834.23	F5	77	True	F	0	359/384	4.74	False	0	Piano	1	189	0.25	443	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	1
-242515	120	505.2396	48503/96	0.25	1/4	189	-1	2	4	190	834.23	D6	86	True	D	0	359/384	4.74	False	0	Piano	1	189	0.25	443	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	6
-242635	120	505.4896	48527/96	0.25	1/4	190	-1	2	4	191	832.49	C5	72	True	C	0	0	1.0	True	1	Piano	1	189	0.25	443	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
-242635	120	505.4896	48527/96	0.25	1/4	190	-1	2	4	191	832.49	E5	76	True	E	0	0	1.0	True	1	Piano	1	189	0.25	443	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	7
-242635	120	505.4896	48527/96	0.25	1/4	190	-1	2	4	191	832.49	C6	84	True	C	0	0	1.0	True	1	Piano	1	189	0.25	443	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
+242400	240	505.0	505	0.5	1/2	189	-1	2	4	190	833.99	G3	55	True	G	0	7/8	4.5	False	0	Piano	2	189	0.25	443	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+242515	120	505.2396	48503/96	0.25	1/4	189	-1	2	4	190	834.23	D5	74	True	D	0	359/384	4.74	False	0	Piano	1	189	0.25	443	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	6
+242515	120	505.2396	48503/96	0.25	1/4	189	-1	2	4	190	834.23	F5	77	True	F	0	359/384	4.74	False	0	Piano	1	189	0.25	443	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	1
+242515	120	505.2396	48503/96	0.25	1/4	189	-1	2	4	190	834.23	D6	86	True	D	0	359/384	4.74	False	0	Piano	1	189	0.25	443	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	6
+242635	120	505.4896	48527/96	0.25	1/4	190	-1	2	4	191	832.49	C5	72	True	C	0	0	1.0	True	1	Piano	1	189	0.25	443	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
+242635	120	505.4896	48527/96	0.25	1/4	190	-1	2	4	191	832.49	E5	76	True	E	0	0	1.0	True	1	Piano	1	189	0.25	443	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	7
+242635	120	505.4896	48527/96	0.25	1/4	190	-1	2	4	191	832.49	C6	84	True	C	0	0	1.0	True	1	Piano	1	189	0.25	443	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
 242640	20	505.5	1011/2	0.0417	1/24	190	-1	2	4	191	836.49	G3	55	False	G	0	1/2	3.0	True	3	Piano	2	190	1.5	445	I/V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	2
 242660	20	505.5417	12133/24	0.0417	1/24	190	-1	2	4	191	836.532	C2	36	True	C	0	49/96	3.042	False	0	Piano	2	190	1.5	445	I/V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	5
 242680	20	505.5833	6067/12	0.0417	1/24	190	-1	2	4	191	836.573	E2	40	True	E	0	25/48	3.083	False	0	Piano	2	190	1.5	445	I/V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	7
@@ -4331,13 +4331,13 @@ onset_div	duration_div	j_offset	s_offset_frac	s_duration	s_duration_frac	s_measu
 243355	120	506.9896	48671/96	0.25	1/4	190	-1	2	4	191	837.98	E4	64	True	E	0	335/384	4.49	False	0	Piano	1	190	1.5	445	I/V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	7
 243355	120	506.9896	48671/96	0.25	1/4	190	-1	2	4	191	837.98	G4	67	True	G	0	335/384	4.49	False	0	Piano	1	190	1.5	445	I/V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	2
 243355	120	506.9896	48671/96	0.25	1/4	190	-1	2	4	191	837.98	E5	76	True	E	0	335/384	4.49	False	0	Piano	1	190	1.5	445	I/V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	7
-243360	240	507.0	507	0.5	1/2	190	-1	2	4	191	837.99	G3	55	True	G	0	7/8	4.5	False	0	Piano	2	190	0.25	446	V	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	2
-243475	120	507.2396	48695/96	0.25	1/4	190	-1	2	4	191	838.23	D4	62	True	D	0	359/384	4.74	False	0	Piano	1	190	0.25	446	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	6
-243475	120	507.2396	48695/96	0.25	1/4	190	-1	2	4	191	838.23	F4	65	True	F	0	359/384	4.74	False	0	Piano	1	190	0.25	446	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	1
-243475	120	507.2396	48695/96	0.25	1/4	190	-1	2	4	191	838.23	D5	74	True	D	0	359/384	4.74	False	0	Piano	1	190	0.25	446	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	6
-243595	120	507.4896	48719/96	0.25	1/4	191	-1	2	4	192	836.49	C4	60	True	C	0	0	1.0	True	1	Piano	1	190	0.25	446	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
-243595	120	507.4896	48719/96	0.25	1/4	191	-1	2	4	192	836.49	E4	64	True	E	0	0	1.0	True	1	Piano	1	190	0.25	446	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	7
-243595	120	507.4896	48719/96	0.25	1/4	191	-1	2	4	192	836.49	C5	72	True	C	0	0	1.0	True	1	Piano	1	190	0.25	446	V	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	V	True	5
+243360	240	507.0	507	0.5	1/2	190	-1	2	4	191	837.99	G3	55	True	G	0	7/8	4.5	False	0	Piano	2	190	0.25	446	Cad	True	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	2
+243475	120	507.2396	48695/96	0.25	1/4	190	-1	2	4	191	838.23	D4	62	True	D	0	359/384	4.74	False	0	Piano	1	190	0.25	446	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	6
+243475	120	507.2396	48695/96	0.25	1/4	190	-1	2	4	191	838.23	F4	65	True	F	0	359/384	4.74	False	0	Piano	1	190	0.25	446	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	1
+243475	120	507.2396	48695/96	0.25	1/4	190	-1	2	4	191	838.23	D5	74	True	D	0	359/384	4.74	False	0	Piano	1	190	0.25	446	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	6
+243595	120	507.4896	48719/96	0.25	1/4	191	-1	2	4	192	836.49	C4	60	True	C	0	0	1.0	True	1	Piano	1	190	0.25	446	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
+243595	120	507.4896	48719/96	0.25	1/4	191	-1	2	4	192	836.49	E4	64	True	E	0	0	1.0	True	1	Piano	1	190	0.25	446	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	7
+243595	120	507.4896	48719/96	0.25	1/4	191	-1	2	4	192	836.49	C5	72	True	C	0	0	1.0	True	1	Piano	1	190	0.25	446	Cad	False	('G', 'C', 'E')	G	G	0	major triad	(0, 4, 7)	F	C	5	5	Cad	True	5
 243600	20	507.5	1015/2	0.0417	1/24	191	-1	2	4	192	840.49	G3	55	False	G	0	1/2	3.0	True	3	Piano	2	191	1.0	448	I/V	True	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	2
 243620	20	507.5417	12181/24	0.0417	1/24	191	-1	2	4	192	840.532	C2	36	True	C	0	49/96	3.042	False	0	Piano	2	191	1.0	448	I/V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	5
 243640	20	507.5833	6091/12	0.0417	1/24	191	-1	2	4	192	840.573	E2	40	True	E	0	25/48	3.083	False	0	Piano	2	191	1.0	448	I/V	False	('C', 'E', 'G')	C	C	0	major triad	(0, 4, 7)	F	C	1	5	I	True	7
