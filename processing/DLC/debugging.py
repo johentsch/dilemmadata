@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.16.7
+#       jupytext_version: 1.17.1
 #   kernelspec:
 #     display_name: dimcat
 #     language: python
@@ -23,7 +23,7 @@ import ms3
 # %autoreload 2
 from processing import utils
 
-DLC_PATH = ms3.resolve_dir("..")
+DLC_PATH = ms3.resolve_dir(os.path.dir(".."))
 
 # %%
 

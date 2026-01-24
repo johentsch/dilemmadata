@@ -52,7 +52,11 @@ dlc_summary = pd.read_csv(
     sep="\t",
     index_col=["corpus", "piece"],
 )
-dlc_metadata = dlc_metadata.astype(dict(label_count="Int64"))
+dlc_metadata = dlc_metadata.astype(dict(
+    label_count="Int64",
+))
+boolean_cols = ["has_chords", "has_cadence", "has_phrase"]
+dlc_metadata.loc(axis=1)[boolean_cols] = dlc_metadata[boolean_cols] == "True"
 dlc_metadata = dlc_metadata[dlc_metadata.label_count > 0]  # only annotated pieces
 dlc_metadata = pd.concat([dlc_metadata, dlc_summary], axis=1)
 dlc_metadata = dlc_metadata.loc(axis=1)[~dlc_metadata.columns.duplicated()]
@@ -62,6 +66,8 @@ dlc_metadata = dlc_metadata.loc[
 N_overall = len(dlc_metadata)
 dlc_metadata
 
+
+# %%
 
 # %%
 def compute_split_dimensions(
@@ -149,7 +155,7 @@ split_dimensions
 dlc_fully = dlc_metadata[
     dlc_metadata.has_chords & dlc_metadata.has_cadence & dlc_metadata.has_phrase
 ].copy()
-piece_mode_column = dlc_fully.annotated_key.str.islower().replace(
+piece_mode_column = dlc_fully.annotated_key.str.islower().map(
     {False: "major", True: "minor"}
 )
 if "piece_mode" in dlc_fully.columns:
