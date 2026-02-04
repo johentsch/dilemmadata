@@ -21,7 +21,7 @@ This project serves as the data infrastructure for training graph neural network
 - **Pedal point detection** (sustained bass notes)
 - **Note degree inference** (scale degrees relative to local key)
 
-This resource has been demonstrated through the **AnalysisGNN** framework ([github.com/manoskary/analysisgnn](https://github.com/manoskary/analysisgnn)) and serves as a foundation for training neural networks on automated music analysis tasks using multi-task learning and graph-based representations.
+This resource has been demonstrated through the **AnalysisGNN** framework [[Code](https://github.com/manoskary/analysisgnn)][[Paper](https://doi.org/10.5281/zenodo.17496562)] and serves as a foundation for training neural networks on automated music analysis tasks using multi-task learning and graph-based representations.
 
 ---
 
@@ -225,8 +225,6 @@ Each pitch array comes with a **specification file** (CSV or JSON) that describe
 - `processing/DLC/dlc_pitch_array_specs.csv` — DLC column specifications
 - `processing/DLC/dlc_specs_specs.json` — Metadata about the specifications
 
-These files follow the [Frictionless Data](https://specs.frictionlessdata.io/) standard and can be used for validation and automated loading.
-
 ---
 
 ## Related Projects
@@ -258,5 +256,5 @@ A modular infrastructure for the empirical study of annotated music, maintained 
 
 This work builds upon:
 - The **AugmentedNet** dataset by Néstor Nápoles López
-- The **Distant Listening Corpus** by the DCML Lab
+- The **Distant Listening Corpus** by the DCML (Lausanne, CH) and [10.5075/EPFL-THESIS-10276](https://doi.org/10.5075/EPFL-THESIS-10276)
 
