@@ -1,6 +1,6 @@
-# dilemmadata
+# Dilemmadata
 
-**A Unified Dataset for Multi-Task Music Analysis with Graph Neural Networks**
+**A symbolic dataset for music research**
 
 This repository contains the processed and aligned data from two major annotated music corpora: the **AugmentedNet** dataset and the **Distant Listening Corpus (DLC)**. The data has been preprocessed and converted into **pitch arrays** — tabular representations suitable for graph-based machine learning models used in automated music analysis tasks.
 
