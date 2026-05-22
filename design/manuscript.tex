@@ -1,0 +1,528 @@
+%%
+%% This is file `sample-sigconf-biblatex.tex',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% samples.dtx  (with options: `all,proceedings,sigconf-biblatex')
+%% 
+%% IMPORTANT NOTICE:
+%% 
+%% For the copyright see the source file.
+%% 
+%% Any modified versions of this file must be renamed
+%% with new filenames distinct from sample-sigconf-biblatex.tex.
+%% 
+%% For distribution of the original source see the terms
+%% for copying and modification in the file samples.dtx.
+%% 
+%% This generated file may be distributed as long as the
+%% original source files, as listed above, are part of the
+%% same distribution. (The sources need not necessarily be
+%% in the same archive or directory.)
+%%
+%%
+%% Commands for TeXCount
+%TC:macro \cite [option:text,text]
+%TC:macro \citep [option:text,text]
+%TC:macro \citet [option:text,text]
+%TC:envir table 0 1
+%TC:envir table* 0 1
+%TC:envir tabular [ignore] word
+%TC:envir displaymath 0 word
+%TC:envir math 0 word
+%TC:envir comment 0 0
+%%
+%% The first command in your LaTeX source must be the \documentclass
+%% command.
+%%
+%% For submission and review of your manuscript please change the
+%% command to \documentclass[manuscript, screen, review]{acmart}.
+%%
+%% When submitting camera ready or to TAPS, please change the command
+%% to \documentclass[sigconf]{acmart} or whichever template is required
+%% for your publication.
+%%
+%%
+\documentclass[sigconf]{acmart} % ,authordraft,anonymous,natbib=false
+%%
+%% \BibTeX command to typeset BibTeX logo in the docs
+\AtBeginDocument{%
+  \providecommand\BibTeX{{%
+    Bib\TeX}}}
+
+%% Rights management information.  This information is sent to you
+%% when you complete the rights form.  These commands have SAMPLE
+%% values in them; it is your responsibility as an author to replace
+%% the commands and values with those provided to you when you
+%% complete the rights form.
+\setcopyright{acmlicensed}
+\copyrightyear{2025}
+\acmYear{2025}
+\acmDOI{DCMLDCMLX.DCMLDCMLX}
+%% These commands are for a PROCEEDINGS abstract or paper.
+\acmConference[DLfM '25]{12th International Conference on Digital Libraries for Musicology}{September 26, 2025}{Seoul, South Korea}
+%%
+%%  Uncomment \acmBooktitle if the title of the proceedings is different
+%%  from ``Proceedings of ...''!
+%%
+%%\acmBooktitle{Woodstock '18: ACM Symposium on Neural Gaze Detection,
+%%  June 03--05, 2018, Woodstock, NY}
+\acmISBN{978-1-4503-DCMLX-X/2018/06}
+
+
+%%
+%% Submission ID.
+%% Use this when submitting an article to a sponsored event. You'll
+%% receive a unique submission ID from the organizers
+%% of the event, and this ID should be used as the parameter to this command.
+%%\acmSubmissionID{123-A56-BU3}
+
+%%
+%% For managing citations, it is recommended to use bibliography
+%% files in BibTeX format.
+%%
+%% You can then either use BibTeX with the ACM-Reference-Format style,
+%% or BibLaTeX with the acmnumeric or acmauthoryear sytles, that include
+%% support for advanced citation of software artefact from the
+%% biblatex-software package, also separately available on CTAN.
+%%
+%% Look at the sample-*-biblatex.tex files for templates showcasing
+%% the biblatex styles.
+%%
+
+
+%%
+%% The majority of ACM publications use numbered citations and
+%% references, obtained by selecting the acmnumeric BibLaTeX style.
+%% The acmauthoryear BibLaTeX style switches to the "author year" style.
+%%
+%% If you are preparing content for an event
+%% sponsored by ACM SIGGRAPH, you must use the acmauthoryear style of
+%% citations and references.
+%%
+%% Bibliography style
+\RequirePackage[
+  datamodel=acmdatamodel,
+  style=acmnumeric,
+  ]{biblatex}
+
+%% Declare bibliography sources (one \addbibresource command per source)
+\addbibresource{dilemmadata.bib}
+% \graphicspath{ {./figures/} }
+
+\usepackage{minted}
+\usepackage{svg}
+\usepackage{hyphenat}
+\hyphenation{MuseScore, isdownbeat}
+
+%%
+%% end of the preamble, start of the body of the document source.
+%! language = Latex
+\begin{document}
+
+%%
+%% The "title" command has an optional parameter,
+%% allowing the author to define a "short title" to be used in page headers.
+\title[Dilemmadata]{Dilemmadata: On the Interoperability of\\ Heterogeneous Roman Numeral Datasets}
+
+%%
+%% The "author" command and its associated commands are used to define
+%% the authors and their affiliations.
+%% Of note is the shared affiliation of the first two authors, and the
+%% "authornote" and "authornotemark" commands
+%% used to denote shared contribution to the research.
+\author{Ben Trovato}
+\authornote{Both authors contributed equally to this research.}
+\email{trovato@corporation.com}
+\orcid{1234-5678-9012}
+\author{G.K.M. Tobin}
+\authornotemark[1]
+\email{webmaster@marysville-ohio.com}
+\affiliation{%
+  \institution{Institute for Clarity in Documentation}
+  \city{Dublin}
+  \state{Ohio}
+  \country{USA}
+}
+
+\author{Lars Th{\o}rv{\"a}ld}
+\affiliation{%
+  \institution{The Th{\o}rv{\"a}ld Group}
+  \city{Hekla}
+  \country{Iceland}}
+\email{larst@affiliation.org}
+
+\author{Valerie B\'eranger}
+\affiliation{%
+  \institution{Inria Paris-Rocquencourt}
+  \city{Rocquencourt}
+  \country{France}
+}
+
+\author{Aparna Patel}
+\affiliation{%
+ \institution{Rajiv Gandhi University}
+ \city{Doimukh}
+ \state{Arunachal Pradesh}
+ \country{India}}
+
+\author{Huifen Chan}
+\affiliation{%
+  \institution{Tsinghua University}
+  \city{Haidian Qu}
+  \state{Beijing Shi}
+  \country{China}}
+
+\author{Charles Palmer}
+\affiliation{%
+  \institution{Palmer Research Laboratories}
+  \city{San Antonio}
+  \state{Texas}
+  \country{USA}}
+\email{cpalmer@prl.com}
+
+\author{John Smith}
+\affiliation{%
+  \institution{The Th{\o}rv{\"a}ld Group}
+  \city{Hekla}
+  \country{Iceland}}
+\email{jsmith@affiliation.org}
+
+\author{Julius P. Kumquat}
+\affiliation{%
+  \institution{The Kumquat Consortium}
+  \city{New York}
+  \country{USA}}
+\email{jpkumquat@consortium.net}
+
+%%
+%% By default, the full list of authors will be used in the page
+%% headers. Often, this list is too long, and will overlap
+%% other information printed in the page headers. This command allows
+%% the author to define a more concise list
+%% of authors' names for this purpose.
+\renewcommand{\shortauthors}{Trovato et al.}
+
+%%
+%% The abstract is a short summary of the work to be presented in the
+%% article.
+\begin{abstract}
+    In recent years, there have been growing efforts to annotate and collect large-scale corpora of Roman numeral analyses to support data-driven studies in tonal harmony.
+    %
+    In this paper, we introduce \textit{dilemmadata}, the first resource to reconcile two major collections---the AugmentedNet Dataset and the Distant Listening Corpus (DLC)---making them interoperable through a shared TSV format.
+    %
+    Each source employs a different vocabulary size and syntax, distinct conventions for encoding chord extensions, and a different set of special chord functions.
+    %
+    To bridge these differences, we designed a mapping that converts annotations from both standards into a common representation by purposefully transforming, augmenting, and omitting information.
+    %
+    During mapping, we formalized representational mismatches, preserved musical semantics, and flagged transformations that may subtly affect annotation fidelity.
+    %
+    We also undertook basic consistency checks and performed qualitative inspections to get a preliminary sense of post-conversion validity, to which we open a critique of the theoretical assumptions embedded in each original standard.
+    %
+    After removing duplicates and merging the two collections, the resulting \textit{dilemmadata} is the largest corpus of Roman numeral annotations currently available, albeit far from perfect.
+    %
+    Our dataset supports interoperability, comparative harmonization modeling, and future refinements of universal Roman numeral conventions.
+\end{abstract}
+
+%%
+%% The code below is generated by the tool at http://dl.acm.org/ccs.cfm.
+%% Please copy and paste the code instead of the example below.
+% %%
+\begin{CCSXML}
+<ccs2012>
+ <concept>
+  <concept_id>00000000.0000000.0000000</concept_id>
+  <concept_desc>Do Not Use This Code, Generate the Correct Terms for Your Paper</concept_desc>
+  <concept_significance>500</concept_significance>
+ </concept>
+ <concept>
+  <concept_id>00000000.00000000.00000000</concept_id>
+  <concept_desc>Do Not Use This Code, Generate the Correct Terms for Your Paper</concept_desc>
+  <concept_significance>300</concept_significance>
+ </concept>
+ <concept>
+  <concept_id>00000000.00000000.00000000</concept_id>
+  <concept_desc>Do Not Use This Code, Generate the Correct Terms for Your Paper</concept_desc>
+  <concept_significance>100</concept_significance>
+ </concept>
+ <concept>
+  <concept_id>00000000.00000000.00000000</concept_id>
+  <concept_desc>Do Not Use This Code, Generate the Correct Terms for Your Paper</concept_desc>
+  <concept_significance>100</concept_significance>
+ </concept>
+</ccs2012>
+\end{CCSXML}
+
+% \ccsdesc[500]{Do Not Use This Code~Generate the Correct Terms for Your Paper}
+% \ccsdesc[300]{Do Not Use This Code~Generate the Correct Terms for Your Paper}
+% \ccsdesc{Do Not Use This Code~Generate the Correct Terms for Your Paper}
+% \ccsdesc[100]{Do Not Use This Code~Generate the Correct Terms for Your Paper}
+
+%%
+%% Keywords. The author(s) should pick words that accurately describe
+%% the work being presented. Separate the keywords with commas.
+\keywords{Roman numeral analysis, digital musicology, harmonic analysis, dataset, digital libraries}
+
+% \received{20 February 2007}
+% \received[revised]{12 March 2009}
+% \received[accepted]{5 June 2009}
+
+%%
+%% This command processes the author and affiliation and title
+%% information and builds the first part of the formatted document.
+\maketitle
+
+\section{Introduction}
+
+% Link to figure: https://drive.google.com/file/d/1uHdKUsxpYmMGxb2y0aV_EV026higmP29/view?usp=sharing
+\begin{figure*}[h]
+  \includegraphics[trim={0 .5cm 0 0},clip,width=.85\textwidth]{figures/dilemmadata.drawio.pdf}
+  \caption{Data processing Pipeline from left to right. The left half characterizes AugmentedNet and the Distant Listening Corpus as meta-corpora which comprise multiple sub-corpora in their own right, one of them identical: the Annotated Beethoven Corpus, ABC, accounting for 70 of the 99 overlapping pieces (remaining overlaps stem from distinct sources and provide alternative, not idental analyses). Each dataset's music representations (green rectangles) are processed with their respective parsing library (orange rectangles) while applying multiple transformations (red rectangle). At the end of this pipeline appears our aligned and homogenized dataset which is represented in the tab-separated variant of the CSV file format.}
+  \Description{Data processing}
+  \label{fig:processing}
+\end{figure*}
+
+The boom of deep learning and big data approaches in recent years has heavily impacted many fields, including digital musicology. Recent efforts have been made to collate large-scale annotated corpora of Roman numeral analyses to enable computational studies of tonal harmony. Notable among these are the AugmentedNet dataset~\cite{NapolesLopez2021_AugmentedNetRomanNumeral}, a compiled resource from several sources, including the When-In-Rome dataset~\cite{Gotham2023_WhenRomeMetacorpus}, for the purpose of training models for automated Roman numeral analysis; and the Distant Listening Corpus (DLC)~\cite{Hentschel2025_CorpusModularInfrastructure}, a collaboratively curated collection of over 1,200 symbolically encoded scores with rich harmonic annotations. Despite their scale, these corpora employ divergent annotation schemas: AugmentedNet uses a combination of multiple digital score encoding formats with stand-off annotation files created as or converted to the RomanText standard~\cite{Tymoczko2019_RomanTextFormatFlexible}, whereas DLC annotations are encoded directly within MuseScore files and adhere to the DCML standard with its own annotation syntax~\cite{Neuwirth2018_AnnotatedBeethovenCorpus,Hentschel2021_AnnotatedMozartSonatasa,Hentschel2024_AnnotatedCorpusTonal}.
+%
+Differences between these datasets therefore arise mainly from three aspects: 1) the different file format and encoding paradigms and the software frameworks that they are tied to (\texttt{music21}~\cite{Cuthbert2010_Music21ToolkitComputeraided} for AugmentedNet and \texttt{ms3}~\cite{Hentschel2023_Ms3ParserMuseScore} for the DLC); 2) the different music-theoretical views that are implicit or explicit in the two annotation standards and in the multifarious ways of employing them; and 3) the two annotation syntaxes which impact, for example, if and how chord extensions (e.g., sevenths, ninths) and special functions (e.g., Neapolitan, secondary dominants, Cadential $6/4$) are analyzed and encoded. All three aspects massively complicate direct comparison and joint analysis. 
+Furthermore, training AI models for automated Roman numeral analysis with inconsistent annotations could compromise performance accuracy.
+% Related work in music information retrieval further underscores that inconsistent annotation schemes can degrade downstream model performance\cite{}.
+% Similar interoperability challenges have been observed in expert corpora such as the Annotated Beethoven Corpus, which applies a modified DCML harmonization standard to string-quartet analyses. 
+% Efforts to standardize Roman numeral analyses via extended neural architectures attest to persistent schema compatibility challenges in MIR research.
+
+In response to these issues, we introduce \textit{dilemmadata}, a unified Roman numeral corpus that aligns AugmentedNet and DLC through a joint mapping of their annotation schemas. Our contributions are threefold: (1) the formalization of representational divergences and the design of an algorithmic conversion pipeline preserving musical semantics; (2) a preliminary evaluation of mapping validity; and (3) the release of the largest merged Roman numeral corpus to date, supporting interoperability, training of deep learning algorithms for automated Roman numeral analysis, and informing future standards development.
+
+% Update to the story line: we are opening up the code that was used to create the merged dataset for the very specific purpose of a graphNN paper which is where we derived the requirements for our target format from (the process was a triangulation between the movable target and the two sources).
+% However, in doing so, for ease of use, we are also merging the two codebases into a single environment, stripping it from AugmentedNet's burdensome yet unused TensorFlow dependency and merging its requirements. This created another dilemma (see below) because we needed to apply updates to the v1.0.0 data to make it parsable with the current music21 v9.5.0. Rather than simply updating AugmentedNet's repo and the underlying Whin-in-Rome submodule to the latest version (which is a step we are envisaging for the near future), we applied the minimum possible number of updates, just enough to so that everything parses correctly.
+
+% \small{\textit{Another dilemma: when merging the processing codes from the two datasets, there was a conflict between AugnetNet code using music21 v6.7.0 for v1.0.0 (nowadays: v6.7.1 lol) whereas the DLC processing uses the current v9.5.0 (indirect dependency bc/ dimcat). Parsing the AugmentedNet data with the current music21 then entails the problem that, by now, "beat 3" is not allowed in RomanText with 3/8 meter anymore unless it is specified as "slow 3/8". Needless to say the When-in-Rome corpus has been upgraded in the meantime but when trying to be faithful to the old version you're in that dilemma. The solution here is to update these time signatures which is unproblematic because it's a technical update, not a semantic one.}}
+
+\subsection{The AugmentedNet Dataset}
+
+AugmentedNet~\footnote{\url{https://github.com/napulen/AugmentedNet}} is an automatic Roman numeral analysis neural network developed by Néstor Nápoles López as part of his PhD research~\cite{NapolesLopez2022_AutomaticRomanNumeral}. The accompanying dataset comprises 353 distinct pieces of tonal music, each annotated at the note level in the RomanText (`.rntxt') format---a human- and machine-readable plain-text standard that encodes chord root, quality, inversion, added intervals, and analyst notes, with full support for bidirectional conversion in \texttt{music21}~\cite{Cuthbert2010_Music21ToolkitComputeraided}. Source scores originate from diverse formats (MusicXML, Humdrum, ABC), and export as TSV time-segmented tables, including fields for onset, duration, beat position, and Roman numeral labels. Dataset construction aggregates analyses from six publicly available corpora---ABC, BPS, HaydnSun, TAVERN, WiR and WTC~\cite{Neuwirth2018_AnnotatedBeethovenCorpus,Chen2018_FunctionalHarmonyRecognition,NapolesLopez2017_JosephHaydnString,Devaney2015_ThemeVariationEncodings,Gotham2023_WhenRomeMetacorpus}.
+% The `dataset.zip' release bundles both the real annotated `.tsv' files and synthetic block-chord templates used to augment training via texturization and key transposition strategies.
+The resulting collection of 353 pieces serves as the primary training resource for a convolutional recurrent neural network that processes separate bass and chromagram inputs and jointly learns multiple tonal subtasks---key, scale-degree, chord quality, inversion, and full Roman numeral prediction~\cite{NapolesLopez2021_AugmentedNetRomanNumeral}. Many works on automated Roman numeral analysis also train and compare to AugmentedNet, arguably transforming it to a "standard" baseline for Roman numeral prediction models~\cite{Karystinaios2023_RomanNumeralAnalysis, Sailor2024_RNBertFineTuningMasked}.
+
+% \begin{verbatim}
+%     AugmentedNet contributes 353 pieces, offering Roman numeral harmonic analyses in RomanText rntxt
+%     format linked to scores parsed from various formats, representing an aggregation of multiple
+%     analysis sources.
+% \end{verbatim}
+
+\subsection{The Distant Listening Corpus}
+
+The Distant Listening Corpus (DLC)~\footnote{\url{https://github.com/DCMLab/distant_listening_corpus}} provides 1,283 pieces from four centuries, symbolically encoded in MuseScore’s MSCX format and enriched with embedded DCML harmony annotations, including Roman numerals, figured bass symbols, and chord labels---directly integrated as text and symbol objects within the score files~\cite{Hentschel2025_CorpusModularInfrastructure}. These annotated scores have been collaboratively created and reviewed by a team of trained music theorists using a formal curation pipeline on GitHub~\cite{Hentschel2021_SemiautomatedWorkflowParadigm}, ensuring notational well-formedness through automated \texttt{ms3} validations and inter-annotator consensus. Each sub-corpus, spanning more than 40 thematic collections from J.S. Bach’s \textit{English Suites} to N. Medtner’s \textit{Tales}, is released as both a GitHub repository and a frictionless data package, with TSV exports of notes, chords, and harmonies available for downstream computational use. Of these, we removed 15 due to overlapping with AugmentedNet (see section~\ref{subsec:procedure}), which effectively left us with 1268 annotated DLC pieces.
+% Dummy phrase below, it can go away.
+% The DLC stands as one of the largest publicly available corpora of harmonically annotated scores, uniquely combining in-score analysis with machine-readable exports for empirical musicology and machine learning applications~\cite{}.
+
+% \begin{verbatim}
+%     The DLC provides 1283 symbolic music scores in MuseScore format, featuring internally
+%     consistent annotations (i.e. chords, phrases, and cadences) integrated directly within the scores.
+% \end{verbatim}
+
+
+
+\subsection{Comparison of the Roman Numeral Standards}
+
+
+Many encodings of tonal harmony have been proposed and used, some of which were conceived to accommodate traditional Roman numeral analysis in one way or another \cite{Huron2020_HarmRepresentationWestern,Temperley2013_StatisticalAnalysisHarmony,Cambouropoulos2016_HarmonicMusicalSurface,White2016_YaleClassicalArchivesCorpus,Chen2018_FunctionalHarmonyRecognition,Tymoczko2019_RomanTextFormatFlexible}.
+% ,
+% whereas others represent harmony in lead-sheet notation, i.e., a combination of the pitch name of the chordal root and an expression of the chord type \cite{Burgoyne2011_ExpertGroundTruthSet,Harte2010_AutomaticExtractionHarmony,Broze2013_DiachronicChangesJazz,Choi2016_TextbasedLSTMNetworks}. 
+These approaches vary in the number of encoded features and their representation. Both factors have a strong influence on an encoding's interoperability and its practicability in human-expert tasks. 
+% For example, standards based on lead-sheet notation such as \cite{Harte2010_AutomaticExtractionHarmony} are closer to the actual note-level but cannot be readily converted into a Roman numeral representation for the sake of comparison without adding contextual information such as the local key and the relation to the surrounding chords.
+% (for instance, \texttt{I64} and \texttt{V(64)} share the same bass note and the pitch content but differ with respect to the surrounding harmonies).
+For example, a standard that expresses roots as scale degrees and chord tones as enharmonic interval classes such as \cite{Cambouropoulos2016_HarmonicMusicalSurface} cancels out important information about the chord type (e.g., the difference between a dominant-seventh chord and a German sixth chord). What these approaches gain in generalizability and stylistic independence, they lose in descriptive precision and compatibility with more fine-grained standards, which are, in return, downward-compatible.
+
+The most precise and feature-rich standards for encoding ordinary Roman numeral analysis that are currently available are the RomanText format \cite{Tymoczko2019_RomanTextFormatFlexible} and the DCML annotation standard (first introduced in \cite{Neuwirth2018_AnnotatedBeethovenCorpus} and extended in \cite{Hentschel2021_AnnotatedMozartSonatasa}), the latter being used in the DLC. Both standards are highly similar in the encoded features and their representation, and it is in principle possible to convert between them. Also, both account for the need to come up with parsable chord labels that contain a multitude of features while remaining straightforward for musicologists to read and write. The differences between the two standards mainly concern the respective approaches toward score annotation, which we will explain in the following, showing how they relate to each other and how to increase interoperability between the respective annotations. 
+
+Both RomanText and DCML support Roman numeral annotations at arbitrary temporal positions, but differ in their entry and export workflows. RomanText annotations are created as plain-text \texttt{.rntxt} or \texttt{.txt} files---manually or via scripts---and can be aligned with symbolic scores through \texttt{music21}. This makes it possible to annotate music even without a preexisting encoded score and to manage multiple analysts’ versions independently, though it requires explicit specification of temporal positions and context-switching between editor and notation. DCML annotations, by contrast, are attached directly to events in MuseScore files, ensuring accurate timestamps and providing a familiar interface to musicologists/annotators.
+% Each format can be converted into the other, offering flexibility based on available tools and user preference.
+
+The two standards follow different approaches to non-chord tones. DCML explicitly encodes suspensions, neighboring motions, and added tones, distinguishing structural elaborations from superficial ornaments, whereas RomanText represents non-chord tones implicitly by omission from the chord’s pitch-class set. For instance, a cadential six-four appears as \texttt{V(64)} under DCML, emphasizing its \textit{dominant} function and the contrapuntal phenomenon of a double chord-tone suspension (that of the fifth and the third), but as \texttt{I64} (or \texttt{Cad64}) in RomanText, interpreting it as a second-inversion \texttt{I}-chord (albeit without conveying any functional interpretation as a \textit{tonic}, which would be questionable).
+
+% Minor syntax variations include treatment of scale degrees \(\hat6\) and \(\hat7\) in minor keys: RomanText infers raised or natural degrees from chord type and a global context setting, while DCML defaults to the natural minor unless accidentals specify otherwise. Local key attribution also differs---RomanText uses absolute pitch names (with optional uncertainty markers), whereas DCML requires a single Roman-numeral key annotation.
+
+% One major difference between the two standards lies in the default method for producing annotations. RomanText files are created manually by the annotator and can be combined with scores through the Python library \texttt{music21}. This makes it possible to produce harmonic annotations even if a symbolic score encoding is not available, and comes with the advantage that analyses by different annotators can easily be managed as separate files. At the same time, it might prove tedious for the annotator, and especially for the reviewer, to constantly switch back and forth between the musical score and the text editor. In addition, the need to manually notate or decode the temporal positions for each label is potentially error-prone.
+% A third flipside of this approach is that the object that is being annotated (the digital score) is not unequivocally identifiable (which may affect the assignment of time-stamps).
+% The DCML standard circumvents these sources of error by resorting to a score interface, asking annotators to attach the labels directly to the corresponding musical events in a MuseScore file from which they can retrospectively be extracted together with their correct temporal positions. Naturally, a score file readable by MuseScore needs to be available beforehand but the approach facilitates the annotation task while leaving it open for post-processing how the temporal positions should be represented. Furthermore, the annotated MuseScore files facilitate the task of reviewing annotations because they are straightforward to handle even for musicologists without any programming experience. Clearly neither of the two annotation systems are restricted to one of these two methods (from text to score or from score to text): In principle, most aspects of the RomanText standard could be entered into MuseScore (with small adaptations), while the tabular annotation files as which the DCML annotations are usually stored can also be created manually.
+
+% Another major difference between the two annotation systems concerns the philosophy regarding the analytic treatment of nonchord tones. As explained in subsection \ref{sec:nonchord_tones}, the DCML standard allows for encoding suspensions, retardations, neighbouring motions, and added tones. Annotations that make use of these features are more fine-grained not only on a horizontal level (see subsection \ref{sec:granularity}), but also in their actual chord description. Although the RomanText standard, too, allows in principle for adding and removing chord tones, it rather follows a different philosophy where all non-chord tones are instead encoded implicitly through the fact that they are not part of the pitch classes that a label expresses. Compared to that, DCML harmony annotations introduce the additional distinction between structural chord elaborations from superficial ornaments. As mentioned before, this allows experts to capture more of their analytical perspectives, often accounting for particular voice-leading techniques, by potentially encoding more contextual information. A prominent chord in European Classical music, the cadential six-four chord, is well suited to exemplify the two different philosophies. Whereas in RomanText this chord is written as \texttt{I64}, \texttt{i64}, or the special symbol \texttt{Cad64}, the DCML standard highlights it as a dominant chord with suspended third and fifth, \texttt{V(64)}, thus accounting more precisely for the expectation it raises (and linking it directly to similar chords such as \texttt{V(4)}). \texttt{I64} and \texttt{i64} on the other hand, although denoting the same pitch collection, are reserved for tonic chords, such as the so-called passing six-four in \autoref{fig:cad64}.
+
+% Minor differences between the chord syntaxes mainly concern the Roman numerals \texttt{vi} and \texttt{vii} in minor and the encoding of local keys, and should be mentioned to avoid misunderstanding. There are different ways of encoding the variable positions of scale degrees $\hat{6}$ and $\hat{7}$ in minor scales. In the RomanText standard the position is unambiguous only in conjunction with a global parameter and, by default, depends on the chord type (that is, the roots of \texttt{viio} and \texttt{\#viio} are a major seventh above the tonic, the roots of \texttt{VII} and \texttt{bVII} a minor seventh). The DCML chord labels fix the scale degrees to those of the natural minor scale in all minor contexts, meaning that \texttt{VII} and \texttt{viio} always have the same root, as do \texttt{\#VII} and \texttt{\#viio}. When it comes to the attribution of local keys, RomanText uses absolute note names and leaves some room for encoding uncertainty, whereas in the DCML standard, Roman numerals are used and annotators must decide for one interpretation. In order to avoid unnecessary confusion caused by such minor details, researchers are invited to convert the Mozart harmony labels into an intervallic representation of the designated chord notes, be it just for confirmation, for save conversion to another chord encoding, or for using an interval-based chord representation for great good. More information about how to use the related script can be found in the README of the repository.
+
+% \begin{figure}[htb]
+%  \centering
+%  \includegraphics[width=\columnwidth]{figures/cad64.pdf}
+%  \caption{K. 570, \textit{Allegro}, mm. 200-203. The example shows that, depending on the context, the same sonority (D is implicit in m. 200, b. 2) can be labelled as tonic \texttt{I64} or dominant \texttt{V(64)}.}
+% \label{fig:cad64}
+% \end{figure}
+
+
+\section{Dataset Alignment}
+
+\subsection{Procedure}\label{subsec:procedure}
+
+To align the AugmentedNet and DLC corpora, we began by compiling per-piece metadata for both collections, documenting available annotation features, provenance, and encoding formats.  We then identified overlapping pieces by matching file and folder names, metadata fields, and, where necessary, manual inspection of score content. This process yielded 99 pieces common to both datasets, of which 15 were removed because they appeared in the AugmentedNet test set; the remaining 84 overlaps were retained as shared reference material.
+
+Next, we conducted a detailed comparison of each dataset’s annotation schema. For shared label types (in particular, Roman numeral harmony), we catalogued which features were directly compatible, which ones required algorithmic transformation, and which were missing from both corpora. Where transformations risked loss or distortion of musical semantics, such as inversion notation at phrase boundaries or rare chord extensions, we employed validity masks to exclude labels that could not be reliably converted. Based on this analysis, we defined a target schema capturing root, quality, inversion, extensions, and special functions, and implemented a conversion pipeline to map each dataset into this common representation.
+
+Finally, with both corpora mapped to the unified schema, we merged them into a single TSV note-wise table and removed remaining duplicates. To support evaluation and downstream tasks, we then constructed a DLC-based test split comprising roughly 20\% of the corpus.  Test-set pieces were selected on a per-sub-corpus basis, excluding collections too small for reliable sampling, and only those with complete annotation feature sets were included. The result is a harmonized, interoperable dataset ready for comparative harmonization modeling and further analysis. 
+
+% \begin{itemize}
+%     \item identify overlap regarding the pieces in the two datasets
+%     \item understand the two datasets, their formats, annotations \& features, how they were processed, etc.
+%     \item for shared label types (e.g. harmony): decide which features are compatible from the get-go, which ones require transformation (transforming one or both datasets), which ones are needed but missing from both; use validity masks for labels that cannot be transformed and need to be excluded for whatever reason (common example: notes at the beginning of the piece which appear before the first annotation label)
+%     \item define the target schema and process the datasets;
+% \end{itemize}
+
+% \subsection{Metadata and overlapping pieces}
+
+% \begin{enumerate}
+%     \item compile the per-piece metadata for both datasets, including which annotation features are available
+%     \item identify which sub-corpora overlap and match files based on filenames, metadata, and manual association
+%     \item merge the dataset metadata based on the matched-up indices
+%     \item remove 15 duplicates from the DLC that are part of the AugNet test set, leave the remaining 84 duplicates in
+%     \item create a test split for the DLC based on the following criteria:
+
+%     \begin{itemize}
+%         \item test set roughly a fifth of the pieces
+%         \item include only pieces in the test set that have all annotation features
+%         \item do this on a per-corpus basis, leaving out corpora that are too small
+%         \item for each corpus
+%     \end{itemize}
+
+% \end{enumerate}
+
+% unfortunately, the # in V(#064) is incorrectly displayed as V(0#64) in MuseScore
+% this needs to be manually fixed every time the figure is changed
+\begin{figure}[h]
+  \includesvg[width=\columnwidth]{figures/beethoven03-1.svg}
+  \caption{Measures 10-13 from the first movement of L. v. Beethoven's, \textit{Piano Sonata No. 3} in C major, Op.2, No. 3. It constitutes one of the 29 overlapping pieces between the two datasets with distinct analyses, as exemplified beneath the excerpt. Between the two analyses, the one from the Distant Listening Corpus has a perceptibly higher granularity which can be partially explained with the employed standard's elaborate syntax for suspensions (expressed within parentheses). Whereas on the upper line, the cadential 6/4 chord is annotated as \texttt{I64} (but not beat 1 of mm. 10-11), here, it is expressed as a suspension chord of \texttt{V}, with the $F\sharp$ suspension of the root G expressed as \texttt{\#0}. The lower line shows our harmonized `simple' numerals for both analyses (without inversions), with congruent symbols printed in black font.}
+  \Description{Score excerpt showing measure 10-13 from L. v. Beethoven's, \textit{Piano Sonata No. 3} in C major, Op.2, No. 3.}
+  \label{fig:beethoven}
+\end{figure}
+
+\subsection{Processing AugmentedNet features}
+
+The original AugmentedNet processing pipeline traverses paired tuples of score and `.rntxt' analysis files, parsing each into a fixed‐size slicing window (a sixteenth‐note grid) via \texttt{music21}’s `chordify' function before merging score events with their corresponding Roman numeral labels. This approach effectively produces “Salami slices” of homogenous harmonic segments, but it combines simultaneous notes into chords, obscuring voice‐level details. To enable fine‐grained, note‐wise analysis, we first confirmed that the v1.0 AugmentedNet code, under version control, reproduced the original outputs exactly.  We then adapted the parser to bypass `chordify', emitting one row per note rather than per slice---thereby expanding the dataset from roughly ~100K slices to over 750K individual note events.  During this refactoring, we enriched the resulting DataFrame by adding new fields while tracking column schema, data types, and human‐readable descriptions for each new column.  These include precise quarter‐note offsets and durations represented as exact fractions and division counts (instead of floats), staff and voice identifiers, and the Git hash of the last commit touching each source file, allowing us to detect upstream changes in future releases.
+
+Next, we augmented the note‐wise table with detailed musical context: time signatures and key signatures for each event; several beat‐level features such as `mn\_onset' (measure‐relative quarter‐beat index), `beat\_float' (integer on‐beats versus fractional off‐beats), a cumulative `beat\_continuous' count, a boolean `is\_downbeat' flag, and a categorical `downbeat' label (1–4); and the `note\_degree' in the current key.  With this enriched representation in place, we defined our target label set, `a\_simpleNumeral', a very reduced label representing chordal root and sonority only, in conjunction with separate fields conveying the chord features of chord inversion, extensions, and applied degrees.  Mapping original AugmentedNet labels to this schema involved context‐sensitive lookups for outliers that failed our regular expression (Listing \ref{lst:rn_regex}), e.g. $"\emptyset” \mapsto “\%”$.  The finalized mapping yielded 132 distinct label types across 88,559 tokens (522 marked as `none'), and we applied a targeted post‐processing rule: all second inversion tonics immediately preceding a dominant scale degree were recast as \texttt{Cad} chord to even out one of the major discrepancies (cf. \ref{fig:beethoven}).
+
+
+
+% The original code iterates over tuples of score and rntxt paths, parses either into dataframes based on a
+% fixed-size slicing window (of a 16th) via music21's chordify function, and merges the two.
+% This effectively creates annotated Salami slices.
+
+% \begin{enumerate}
+%     \item starting from adding the v1.0 dataset to the version control and confirming that the v1.0 AN processing code perfectly reproduces it
+%     \item adapting the code so that it produces the same output without applying chordify: instead of one row per slice we get one row per note, resulting in many more rows
+%     \item adds additional columns while keeping track of the column schema with dtypes and descriptions
+
+%     \begin{itemize}
+%         \item quarternote offset and durations as fractions (originally floats) and divs
+%         \item staff and voice identifiers
+%         \item the hash of the last commit at which each file was changed in order to see if later versions of the dataset are using the same
+%         \item time signatures and key signatures
+%         \item several types of beat information: mn\_onset (measure-wise quarterbeat), beat\_float (on-beat positions integers, others floats),
+%               continuous beat (cumulative version), boolean is\_downbeat yes/no, column 'downbeat' for downbeat classification (1,2,3... and 0 means not a downbeat)
+%         \item note\_degree that each note corresponds to in the current key
+%     \end{itemize}
+
+%     \item designed a\_simpleNumeral (our target labels!) representation as one that has reduced information on the chord type and no secondary (applied) degree; this involved looking up odd-ball labels that didn't match our regEx (see below) in their score context in order to translate them to the share vocabulary, e.g. \verb|"ø" => "\%"|
+%     \item result: n\_types=132, n\_tokens=758555 (522 of which 'none')
+%     \item replaced all 2nd-inversion tonics directly preceding a sonority on scale degree 5 with dominant triads.
+% \end{enumerate}
+
+
+\begin{listing}
+    \begin{minted}{text}
+^(
+  (?P<acc>#+|b+)?
+  (?P<root>Cad|Ger|It|Fr|N|
+           VII|VI|V|IV|III|II|I|
+           vii|vi|v|iv|iii|ii|i)
+)
+(?P<quality>[+o%])?
+(?:maj|#|b|M)?
+(?P<seven>7)?
+(?:[#bM])?
+(?P<nine>9)?$
+    \end{minted}
+    \caption{Regular expression of the simple Roman Numeral}
+    \label{lst:rn_regex}
+\end{listing}
+
+\subsection{Processing DLC features}
+
+We processed version 3.1 of the Distant Listening Corpus using the \texttt{ms3} Python library to iterate through every piece and sub-corpus, extracting unfolded note events (that is, with expanded repeats) and their embedded annotations directly from the uncompressed MuseScore files (`.mscx'). Each score was parsed into a DataFrame compatible with the information produced with \texttt{music21}, to which we added rich metadata columns---division counts (`divs'), a boolean `is\_harmony\_onset' flag, and the Git commit hash for provenance tracking. We translated primary and secondary Roman numeral roots into scale-degree representations, normalized chord-type vocabularies and inversion labels (0–3) to match \texttt{music21} conventions, and converted scale-relative pitches into absolute pitch values for both local and tonicization contexts. Phrase boundaries were recoded as a boolean column, and we supplemented every note event with comprehensive beat-level features: measure-relative quarter-beat index (`mn\_onset'), integer versus fractional beat positions (`beat\_float'), a continuous beat count, a boolean `is\_downbeat' marker, and a categorical `downbeat' label. Finally, each note carries its scale-degree within the current key (`note\_degree').
+
+Building on this enriched table, we applied our `a\_simpleNumeral' mapping to distill Roman numeral annotations to a stripped-down form without inversions, extensions, or secondary degree. Outlier labels that did not conform to our validation regex were contextually translated, e.g., $"b” \mapsto “-”$, producing 185 distinct label types across 318,781 tokens (101 labeled as `none'). To ensure functional consistency with AugmentedNet, we then filtered all \texttt{V(64)} chords and mapped them to the label \texttt{Cad}. This pipeline translates the DLC to our unified schema and readies the corpus for interoperable analysis alongside AugmentedNet.
+
+% Generally speaking: A lot of translation to music21 conventions
+
+% \begin{enumerate}
+%     \item DLC version used: v3.1
+%     \item used ms3 to iterate over pieces over sub-corpora, retrieving unfolded notes and unfolded annotations and merging them together
+%     \item during the process: likewise adding additional columns while keeping track of the column schema with dtypes and descriptions
+
+%     \begin{itemize}
+%         \item divs
+%         \item is harmony onset?
+%         \item the hash of the last commit at which each file was changed in order to see if later versions of the dataset are using the same
+%         \item translated chord root information (primary and secondary) from Roman numeral to scale degree representation
+%         \item translated the vocabulary of chord types to music21's
+%         \item translated inversion vocabulary to 0-3
+%         \item created simple numeral representation as explained above
+%         \item transforming scale-relative pitch information to absolute pitch columns, especially for local and tonicization key information, chordal root, bass
+%         \item several types of beat information: mn\_onset (measure-wise quarterbeat), beat\_float (on-beat positions integers, others floats),
+%               continuous beat (cumulative version), boolean is\_downbeat yes/no, column 'downbeat' for downbeat classification (1,2,3... and 0 means not a downbeat)
+%         \item note\_degree that each note corresponds to in the current key
+%         \item transformed phrase annotation to boolean column
+%     \end{itemize}
+
+%     \item designed a\_simpleNumeral (our target labels!) representation as one that has reduced information on the chord type and no secondary (applied) degree; this involved looking up odd-ball labels that didn't match our regEx (see below) in their score context in order to translate them to the share vocabulary, e.g. \verb|"ø" => "\%"|
+%     \item result: n\_types=132, n\_tokens=758555 (522 of which 'none')
+%     \item replaced all 2nd-inversion tonics directly preceding a sonority on scale degree 5 with dominant triads.
+% \end{enumerate}
+
+\subsection{The \textit{dilemmadata} Joined Corpus}
+
+The final \textit{dilemmadata} joined corpus comprises 1,621 pieces (353 from AugmentedNet plus 1,268 from DLC) and over 2.8 million note-wise Roman numeral annotations, each enriched with precise onset, duration, beat-level features, chord root, quality, inversion, extensions, and contextual metadata. Annotations carry provenance hashes and validity flags to facilitate selective filtering.  All TSV files, metadata descriptors, and precomputed test splits are available for download\footnote{\url{https://anonymous.com}}.
+
+\section{Discussion and Future Work}
+
+In unifying AugmentedNet and DLC under a common annotation schema, we applied cautious, evidence‐based transformations but nonetheless made concessions where vocabularies diverged. Certain inversion markings and infrequent extensions had to be merged or re‐encoded to fit the shared representation, slightly altering the original analyses. These modifications, while minimal, highlight the trade‐offs inherent in dataset alignment when preserving both expressiveness and consistency.
+
+Quantifying the impact of these transformations remains challenging. Harmony analysis lacks an objective “ground truth,” and no standard metrics exist for assessing how well a Roman numeral label corresponds to its musical context under different theoretical assumptions. Moreover, AugmentedNet itself aggregates multiple public corpora, combining manual and automated annotations, so annotation variation and smoothing was already present in the dataset. By retaining provenance metadata and flagging labels with potentially reduced fidelity, we enable researchers to identify and, if desired, exclude annotations where semantic drift may have occurred.
+
+Looking ahead, the need to establish context‐sensitive validity metrics is a priority. Such metrics should be grounded in theory and able to quantify how appropriate an annotation is depending on the surrounding context. From the perspective of automated Roman numeral analysis systems that create annotations, multi‐label prediction could propose alternative analyses and systematic comparisons of competing/correcting Roman numeral annotations.
+
+To support future research needs, we also plan to release a lightweight conversion library that generates tailored joint representations from heterogeneous Roman numeral corpora. Users will be able to choose annotation granularity (time-based or note-based), and a number of annotation output options, such as root-only schemas, full intervallic encodings, and resolve local-key or applied-key features as needed. By lowering the barrier to dataset integration, we aim to create a tool that embraces interoperability and drives the development of shared standards in computational musicology and automated Roman numeral analysis.
+
+% \textbf{Discussion of the Shared Representation}
+
+% \begin{itemize}
+%     \item even though we wanted to modify the data with greatest caution, the need to bring them into a shared representation made a few distortions unavoidable;
+%     \item exactly how distorted the result is, is impossible to decide: there is no single ground ``truth'' in harmony analysis and reliable metrics of how well a label fits a given musical context, conditional on a set of theoretical assumptions, still awaits being established;
+%     \item the original AugmentedNet was already quite heterogeneous because it reunites datasets from diverse origins, partially via conversion (e.g. ABC v1.0)
+% \end{itemize}
+
+% \textbf{Future Work}
+
+% \begin{itemize}
+%     \item establish a reliable metric of how well a label fits a given musical context, conditional on a set of theoretical assumptions;
+%     \item based on this: multi-label prediction; model comparison of different theories
+%     \item offer a tool that makes it easier to load heterogeneous datasets and transform them into joint representations depending on a given use case (e.g., absolute vs. relative expression; feature subsets such as `chord roots only'; local and secondary keys resolved to the global key, etc.)
+% \end{itemize}
+
+
+% \section*{Acknowledgments}
+% This work is supported by the European Research Council (ERC) under the EU's Horizon 2020 research \& innovation programme, grant agreement No.\ 101019375 (\textit{Whither Music?}).
+
+\printbibliography
+\end{document}
+\endinput
+%%
+%% End of file `sample-sigconf-biblatex.tex'.
