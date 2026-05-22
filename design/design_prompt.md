@@ -4,6 +4,17 @@ This is a self-contained briefing for Claude Design. The goal is a conference po
 
 ---
 
+## 0. Abstract
+
+In recent years, there have been growing efforts to annotate and collect large-scale corpora of Roman numeral analyses to support data-driven studies in tonal harmony.
+In this paper, we introduce _dilemmadata_, the first resource to reconcile two major collections — the AugmentedNet Dataset and the Distant Listening Corpus (DLC) — making them interoperable through a shared TSV format.
+Each source employs a different vocabulary size and syntax, distinct conventions for encoding chord extensions, and a different set of special chord functions.
+To bridge these differences, we designed a mapping that converts annotations from both standards into a common representation by purposefully transforming, augmenting, and omitting information.
+During mapping, we formalized representational mismatches, preserved musical semantics, and flagged transformations that may subtly affect annotation fidelity.
+We also undertook basic consistency checks and performed qualitative inspections to get a preliminary sense of post-conversion validity, to which we open a critique of the theoretical assumptions embedded in each original standard.
+After removing duplicates and merging the two collections, the resulting _dilemmadata_ is the largest corpus of Roman numeral annotations currently available, albeit far from perfect.
+Our dataset supports interoperability, comparative harmonization modeling, and future refinements of universal Roman numeral conventions.
+
 ## 1. One-line pitch
 
 > **dilemmadata** is the largest homogeneous Roman-numeral corpus to date (1,621 pieces, ~2.8 M note-wise annotations) — built by reconciling two incompatible annotation traditions, and deliberately retaining a shared subset of pieces annotated under *both* paradigms as a catalyst for moving beyond ground-truth assumptions in computational harmony.
