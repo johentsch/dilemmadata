@@ -20,22 +20,22 @@ The name itself is a wink: the project is *data*, but its production was a seque
 
 ## 3. Headline numbers (use as banner / hero stats)
 
-| Metric | Value |
-| --- | --- |
-| Pieces, total | **1,621** |
-|  — from AugmentedNet (AND v1.0.0) | 353 |
-|  — from Distant Listening Corpus (DLC v3.1) | 1,268 |
-| Note-wise Roman numeral annotations | **~2.8 M** |
-| AN-side note rows (after `chordify` bypass) | ~750,000 (up from ~100K Salami slices) |
-| AN-side simpleNumeral tokens / types | 88,559 tokens / 132 types (522 `none`) |
-| DLC-side simpleNumeral tokens / types | 318,781 tokens / 185 types (101 `none`) |
-| Overlapping pieces between AND ∩ DLC | **99** (70 of those from ABC) |
-| Overlaps removed (because in AND test split) | 15 |
-| **Overlaps retained — annotated under both paradigms** | **84** ← *the "dilemma" payload* |
-| DLC sub-corpora | 40+ (Bach → Medtner) |
+| Metric | Value                                    |
+| --- |------------------------------------------|
+| Pieces, total | **1,621**                                |
+|  — from AugmentedNet (AN **v1.9.1**) | 353                                      |
+|  — from Distant Listening Corpus (DLC **v3.1**) | 1,268                                    |
+| Note-wise Roman numeral annotations | **~2.8 M**                               |
+| AN-side note rows (after `chordify` bypass) | ~750,000 (up from ~100K Salami slices)   |
+| AN-side simpleNumeral tokens / types | 88,559 tokens / 132 types (522 `none`)   |
+| DLC-side simpleNumeral tokens / types | 318,781 tokens / 185 types (101 `none`)  |
+| Overlapping pieces between AND ∩ DLC | **99** (70 of those from ABC)            |
+| Overlaps removed (because in AND test split) | 15                                       |
+| **Overlaps retained — annotated under both paradigms** | **84** ← *the "dilemma" payload*         |
+| DLC sub-corpora | 40+ (Bach → Medtner)                     |
 | AND constituent corpora | 6 (ABC, BPS, HaydnSun, TAVERN, WiR, WTC) |
-| DLC test split (designed here) | ~20% of DLC pieces |
-| dilemmadata version | **v1.1** |
+| DLC test split (designed here) | ~20% of DLC pieces                       |
+| dilemmadata version | **v1.1**                                 |
 
 ## 4. The narrative arc the poster should tell
 
@@ -159,7 +159,7 @@ Same notes. Same musical function. *Categorically different chord roots.* dilemm
 
 Left-to-right flow with **five vertical bands of color**:
 
-1. **Source meta-corpora** (gray boxes): a stack of small labels (ABC v1.0/v2.5, BPS, TAVERN, WiR, WTC, HaydnSun, …) feeding into the **AugmentedNet v1.0.0** box and the **Distant Listening Corpus v3.1** box. A connector showing the 99-piece overlap (highlighted: 70 from ABC).
+1. **Source meta-corpora** (gray boxes): a stack of small labels (ABC v1.0/v2.5, BPS, TAVERN, WiR, WTC, HaydnSun, …) feeding into the **AugmentedNet v1.9.1** box and the **Distant Listening Corpus v3.1** box. A connector showing the 99-piece overlap (highlighted: 70 from ABC).
 2. **Music representations** (green): score files + annotation files for AN; annotated MuseScore files for DLC.
 3. **Parsing libraries** (orange): `music21` for AN, `ms3` + `dimcat` for DLC. Python logo on both.
 4. **Transformation / homogenization** (red): bullet list — adding features, transforming/reducing features, converting representations.
@@ -195,7 +195,7 @@ Quote box candidate (from the MEC paper conclusion):
 ### 5.9 Future work (right-edge panel, compact)
 
 - **`flexohr`** — planned library that generalizes this two-corpus prototype into a flexible loader for *any* heterogeneous Roman-numeral corpus, producing user-selected target representations (tabular, root-only, full intervallic, key-resolved, etc.).
-- **Catch up to current AugmentedNet / When-in-Rome.** Currently pinned to AND v1.0.0 (note the `v100` markers throughout the codebase). Most AND content actually comes from MarkGotham's *When-in-Rome* corpus, which has continued to grow.
+- **Catch up to current When-in-Rome.** Most AND content originates in MarkGotham's *When-in-Rome* corpus, which has continued to grow; pulling in newer WiR pieces is a future-work item.
 - **Context-sensitive validity metrics** — grounded in music theory, quantifying how appropriate an annotation is given its surrounding context. Enables multi-label prediction and systematic comparison of competing analyses.
 
 ### 5.10 Acknowledgments / citation block
@@ -205,6 +205,18 @@ The poster needs a footer with:
 - Zenodo DOI (a `.zenodo.json` exists in the repo — there's a Zenodo deposition).
 - AnalysisGNN as the downstream consumer that motivated the schema design — cite Karystinaios et al. (CMMR 2025) and the GitHub link (https://github.com/manoskary/analysisgnn).
 - Source corpus citations: Nápoles López et al. (ISMIR 2021) for AugmentedNet; Hentschel, Rammos, Neuwirth, Rohrmeier (Scientific Data 2025) for DLC.
+
+### 5.11 Reproducibility & the shared test set (optional panel)
+
+`Dilemmadata_merged_summary.pdf` (in the upload bundle) is a corpus-wide map: **every piece** in the merged dataset shown as one row, with **all DLC pieces on the left**, **all AN pieces on the right**, and **concurrent (overlapping) pieces aligned on the same row**. A middle column shows which training labels each piece carries (chord / cadence / phrase / pedal …), and a dedicated column highlights **test-set pieces in red** — these are pieces that may *never* be used for training, exposed publicly so that any future model trained on dilemmadata can be compared apples-to-apples against others.
+
+Why this matters on the poster:
+
+- It's the only single image that shows the *whole* corpus at a glance — useful as a "data at scale" visual.
+- It makes the **84 overlapping pieces** visible as a vertical band of side-by-side rows.
+- It surfaces the **frozen public test set** — an explicit invitation to the community to use dilemmadata as a benchmark, not just a training resource. Comparability across future papers depends on this set being respected.
+
+**If space allows**, include this either as a half-column thumbnail with a "scan the QR for the full table" treatment, or — if the poster is large enough — as a full-bleed band along the bottom of the poster, where the alignment story reads at a glance.
 
 ---
 
@@ -216,7 +228,7 @@ Backstory + motivation that doesn't help future coding agents but *does* help a 
 - **The "interoperability isn't just syntactic" argument.** From the MEC paper: discrepancies between Roman-numeral datasets produced under disparate paradigms "extend far beyond mere syntax; they create severe impediments to integration and interoperability. The substantial effort required to carefully transform annotations for equivalence without distorting the original semantic intent underscores […] the urgent need for a generalised data model capable of interfacing with the diverse harmony encoding standards currently in use."
 - **There is no objective ground truth.** Harmony analysis is interpretive; no metric exists for how well a label fits its musical context across competing theoretical assumptions. The papers explicitly frame this as a *call to the community*. The dilemmadata overlap subset is the proposed experimental substrate.
 - **AugmentedNet itself was already heterogeneous.** It aggregates manual and automated annotations from six different upstream corpora. So even before dilemmadata, "AugmentedNet ground truth" was already a smoothed-over consensus, not a single authoritative voice. This blunts the apparent asymmetry of "DLC trained vs. AND annotated."
-- **The music21 version dilemma.** AND v1.0.0 was written against music21 v6.7.0. The current dimcat dependency pulls v9.5.0, which is *stricter* — e.g., it no longer accepts "beat 3" in a 3/8 meter without the explicit "slow 3/8" syntax. Rather than upgrade the fork to current When-in-Rome (the principled long-term plan), the repo applies the *minimum-necessary* syntax patches to v1.0.0 data so it still parses. A self-aware band-aid.
+- **The music21 version dilemma.** The AN v1.0.0 *dataset* was authored against music21 v6.7.0. The current `dimcat` dependency pulls music21 v9.5.0, which is *stricter* — e.g., it no longer accepts "beat 3" in a 3/8 meter without the explicit "slow 3/8" syntax. Rather than pull in newer When-in-Rome materials wholesale (the principled long-term plan), the AN fork (now at v1.9.1) applies the *minimum-necessary* syntax patches to v1.0.0 data so it still parses under modern music21. A self-aware band-aid.
 - **Stripping the TensorFlow dependency.** The dilemmadata branch of AugmentedNet drops AugmentedNet's TensorFlow dependency, which is heavy and unused for the dataset-production path.
 - **The repo doubles as a methodology paper artifact.** Two manuscripts (DLfM '25 long-form, MEC 2026 short-form) document the design decisions and serve as the authoritative spec for *why* particular columns and transformations exist.
 - **"Dilemmadata" as wordplay.** The name encodes that producing the data was itself a sequence of dilemmas — and that the overlap subset *contains* dilemmas as first-class objects rather than hiding them behind majority votes.
@@ -278,6 +290,7 @@ All files referenced below live in `design/` next to this brief. Paths are relat
 | `dilemmadata.drawio.pdf` | PDF rendering of the same | Drop-in figure if no redraw needed |
 | `dilemmadata.svg` | Cleaner SVG rendering of the pipeline | Print quality |
 | `dlc_pitch_array_specs.csv` | Authoritative schema column dictionary with dtypes + descriptions + `used_for` task tags | **Source for the schema-snapshot panel (§5.3)** |
+| `Dilemmadata_merged_summary.pdf` | Whole-corpus alignment table: all DLC pieces (left) / all AN pieces (right), concurrent pieces on shared rows, label-availability middle column, test-set pieces highlighted in red | **Source for the reproducibility / test-set panel (§5.11)** — also a strong "data at scale" hero visual |
 | `03-1_rntext_analysis.txt` | The `.rntxt` analysis file for the Beethoven excerpt | "What an .rntxt file looks like" callout box |
 | `doi_qrcode.png` | QR code linking to the Zenodo deposition | Citation strip |
 
@@ -298,25 +311,26 @@ Generated by running the pipeline, only relevant if the designer wants a real da
 1. **`design_prompt.md`** — this file. The brief.
 2. **`MEC2026_Dilemmadata.pdf`** — the short paper. Self-contained narrative + numbers + figures embedded.
 3. **`beethoven_annotation_comparison_excerpt.png`** (or `.svg`) — the worked-example centerpiece.
-4. **`dilemmadata.drawio`** — pipeline diagram source (can be opened in diagrams.net / drawio for re-styling). If the designer can't open `.drawio`, export it to PDF/PNG first.
-5. **`README.md`** — for top-level project framing.
-6. **`processing/DLC/dlc_pitch_array_specs.csv`** — schema column dictionary, so the designer can render a clean table of the schema.
+4. **`Dilemmadata_merged_summary.pdf`** — whole-corpus alignment table (see §5.11). Hero "data at scale" visual; also shows the public test set.
+5. **`dilemmadata.drawio`** — pipeline diagram source (can be opened in diagrams.net / drawio for re-styling). If the designer can't open `.drawio`, export it to PDF/PNG first.
+6. **`README.md`** — for top-level project framing.
+7. **`processing/DLC/dlc_pitch_array_specs.csv`** — schema column dictionary, so the designer can render a clean table of the schema.
 
 **Strongly recommended additions (richer, after `git submodule update --init --recursive`):**
 
-7. **`dlfm_paper/manuscript.tex`** — long-form paper. More detail than MEC; includes Listing 1 regex inline.
-8. **`dlfm_paper/figures/dilemmadata.drawio.pdf`** — clean PDF render of pipeline.
-9. **`doi_qrcode.png`** — large QR code linking to the Zenodo deposition, for the citation strip.
-10. **`dlfm_paper/figures/cad64.pdf`** — secondary illustration of the I64 / V(64) ambiguity.
-11. **`dlfm_paper/figures/03-1_rntext_analysis.txt`** — a real RomanText file, good for a "what an .rntxt file looks like" callout.
-12. **`dlfm_paper/dilemmadata.bib`** — bibliography source for the citation strip.
+8. **`dlfm_paper/manuscript.tex`** — long-form paper. More detail than MEC; includes Listing 1 regex inline.
+9. **`dlfm_paper/figures/dilemmadata.drawio.pdf`** — clean PDF render of pipeline.
+10. **`doi_qrcode.png`** — large QR code linking to the Zenodo deposition, for the citation strip.
+11. **`dlfm_paper/figures/cad64.pdf`** — secondary illustration of the I64 / V(64) ambiguity.
+12. **`dlfm_paper/figures/03-1_rntext_analysis.txt`** — a real RomanText file, good for a "what an .rntxt file looks like" callout.
+13. **`dlfm_paper/dilemmadata.bib`** — bibliography source for the citation strip.
 
 **Optional context (only if the designer asks for more depth):**
 
-13. **`CLAUDE.md`** — technical orientation; explains what the codebase looks like.
-14. **`processing/utils.py`** — source of the chord-type mappings, the cadential V rewrite, the regex constants.
-15. **`pitch_arrays/DLC/beethoven_piano_sonatas/01-1.tsv`** — concrete sample of the output schema in real data, for layout reference.
-16. **`.zenodo.json`** — for the exact authors / DOI / keywords in the citation strip.
+14. **`CLAUDE.md`** — technical orientation; explains what the codebase looks like.
+15. **`processing/utils.py`** — source of the chord-type mappings, the cadential V rewrite, the regex constants.
+16. **`pitch_arrays/DLC/beethoven_piano_sonatas/01-1.tsv`** — concrete sample of the output schema in real data, for layout reference.
+17. **`.zenodo.json`** — for the exact authors / DOI / keywords in the citation strip.
 
 **Do NOT upload:**
 
