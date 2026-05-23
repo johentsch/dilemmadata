@@ -40,6 +40,7 @@ Merging heterogeneous Roman-numeral datasets means facing many dilemmata — hen
   - **No objective ground truth.** Roman numeral analysis is interpretive; no metric exists for "correctness" across competing theoretical assumptions. dilemmadata frames this as a feature (study the disagreement) rather than a bug (vote and move on).
   - **"AugmentedNet ground truth" is already a consensus.** AN itself aggregates six upstream corpora (ABC, BPS, HaydnSun, TAVERN, WiR, WTC) of mixed manual and automated provenance, so the apparent asymmetry of "AN vs. DLC" is itself smoothed-over heterogeneity.
   - **The frozen public test set.** Choosing which DLC pieces to set aside (~20 % per subcorpus) had to honour an explicit `excluded_pieces` list and avoid any AN-test overlap. The split is fixed so future models trained on dilemmadata can be compared apples-to-apples.
+  - **v1.0.0 vs. v1.9.1 benchmarking.** Comparing a new model against AugmentedNet's published performance forces a choice: train and evaluate on **v1.0.0** (matching the numbers reported in Nápoles López et al. 2021), or on **v1.9.1** (broader coverage, additional When-in-Rome pieces) and re-run AugmentedNet locally to produce a comparable baseline. dilemmadata is built from v1.9.1; downstream users inherit the trade-off.
 
 ## 1. One-line pitch
 
