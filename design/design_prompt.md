@@ -15,11 +15,37 @@ After removing duplicates and merging the two collections, the resulting _dilemm
 Crucially, we retain 84 pieces common to both corpora under each of their original analyses, yielding a shared reference set in which two equally legitimate analytical traditions can be compared note-for-note over identical musical material.
 Released at <https://doi.org/10.5281/zenodo.19661223>, _dilemmadata_ supports interoperability, comparative harmonization modeling, and future refinement of Roman-numeral encoding standards.
 
+### 0.1 The dilemmata (why the name)
+
+Merging heterogeneous Roman-numeral datasets means facing many dilemmata — hence the name. Four families, enumerated below. Entries marked ⭐ are the ones most likely to anchor a poster panel.
+
+- **Annotation-standard dilemmata** — places where RomanText (AN) and DCML (DLC) encode the *same musical fact* differently, forcing a unification choice:
+  - ⭐ **Cadential 6/4.** RomanText writes `I64` (or `Cad64`); DCML writes `V(64)` (dominant with a 6–5 / 4–3 double suspension). Same notes, same function, *categorically different chord root.* Both are rewritten to a shared symbol `Cad`. It is the seventh-most-frequent harmony in the joined output — not a corner case.
+  - **Minor-mode VI / VII.** DCML defaults to natural minor (so `VII` and `viio` share a root); RomanText infers mode from chord quality. Handled in `add_simpleNumeral_columns`.
+  - **Chord-extension vocabulary.** DCML's `Mm7`, `%7`, `Ger`, `It`, `Fr`, `N` mapped onto music21's verbal labels (`dominant seventh chord`, `half-diminished seventh chord`, `German augmented sixth chord`, …) via `DLC_CHORD_TYPE_MAPPING`.
+  - **Inversion notation.** Figured-bass strings (`6`, `65`, `64`, `43`, `42`, `2`) collapsed to integers 0–3 via `FIGBASS2INVERSION`.
+  - **Encoding paradigm.** Stand-off `.rntxt` text paired with heterogeneous scores (AN) vs. annotations embedded inside `.mscx` files attached to specific notes (DLC). Two parser ecosystems (`music21` vs. `ms3`+`dimcat`) follow from this split.
+
+- **Representational dilemmata** — what counts as a row, and how much information survives the conversion:
+  - ⭐ **Salami slice vs. note event.** Upstream AugmentedNet emits one row per fixed 16th-note "Salami slice" (~100 K rows); the dilemmadata fork bypasses `music21.chordify` and emits one row per *note event* (~750 K rows). A methodological shift, not a cosmetic one — it enables true note-wise (rather than slice-wise) learning.
+  - **Transform / augment / omit.** The conversion mapping makes choices in all three directions; the abstract names them deliberately because each direction silently affects what downstream models can learn. Validity masks flag the cases where conversion is lossy.
+  - **Structural vs. ornamental notes.** The two standards carry different implicit views about which notes "belong" to the harmony and which are decoration. The schema preserves the source verdict where it can and flags where it cannot.
+
+- **Toolchain dilemmata** — the two corpora demand incompatible Python stacks, and the stacks themselves drift:
+  - **Pipeline divergence.** AN parses with `music21` via `AugmentedNet.joint_parser`; DLC parses with `ms3` + `dimcat`. Schema alignment had to be triangulated between the two pipelines *and* AnalysisGNN's task vocabularies, with no single authority to defer to.
+  - **The `music21` version dilemma.** AN v1.0.0 was authored against `music21` v6.7.0; current `dimcat` pulls v9.5.0, which is stricter (e.g., refuses `b3` in 3/8 without the explicit "slow 3/8" syntax). The fork patches v1.0.0 minimally rather than tracking the latest When-in-Rome — a deliberate, self-aware band-aid.
+
+- **Curation dilemmata** — which pieces to include, exclude, and double-count:
+  - ⭐ **The 84 overlapping pieces.** 99 pieces appear in both source corpora; 15 are removed because they live in AN's test split, but the remaining 84 are *deliberately retained under both annotations*. The corpus therefore contains the same music annotated by two equally legitimate analytical traditions, so disagreements between paradigms become *addressable* rather than averaged away.
+  - **No objective ground truth.** Roman numeral analysis is interpretive; no metric exists for "correctness" across competing theoretical assumptions. dilemmadata frames this as a feature (study the disagreement) rather than a bug (vote and move on).
+  - **"AugmentedNet ground truth" is already a consensus.** AN itself aggregates six upstream corpora (ABC, BPS, HaydnSun, TAVERN, WiR, WTC) of mixed manual and automated provenance, so the apparent asymmetry of "AN vs. DLC" is itself smoothed-over heterogeneity.
+  - **The frozen public test set.** Choosing which DLC pieces to set aside (~20 % per subcorpus) had to honour an explicit `excluded_pieces` list and avoid any AN-test overlap. The split is fixed so future models trained on dilemmadata can be compared apples-to-apples.
+
 ## 1. One-line pitch
 
 > **dilemmadata** is the largest homogeneous Roman-numeral corpus to date (1,621 pieces, ~2.8 M note-wise annotations) — built by reconciling two incompatible annotation traditions, and deliberately retaining a shared subset of pieces annotated under *both* paradigms as a catalyst for moving beyond ground-truth assumptions in computational harmony.
 
-The name itself is a wink: the project is *data*, but its production was a sequence of *dilemmas*, and the 84 overlapping pieces are the "dilemmas" payload — proof that two equally legitimate analytical traditions can disagree about the same notes.
+The name itself is a wink: the project is *data*, but its production was a sequence of *dilemmas* (enumerated in §0.1).
 
 ## 2. Audience and venue framing
 
